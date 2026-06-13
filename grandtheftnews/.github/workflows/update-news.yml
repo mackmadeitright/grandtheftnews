@@ -1,0 +1,41 @@
+ name: Update GTA 6 News
+
+on:
+  schedule:
+    - cron: "0 */3 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-news
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Fetch latest GTA 6 news
+        run: node grandtheftnews/scripts/fetch-news.js
+
+      - name: Commit if changed
+        run: |
+          git config user.name  "grandtheftnews-bot"
+          git config user.email "actions@github.com"
+          if [ -n "$(git status --porcelain grandtheftnews/assets/news.json)" ]; then
+            git add grandtheftnews/assets/news.json
+            git commit -m "Auto-update GTA 6 news ($(date -u +'%Y-%m-%d %H:%M UTC'))"
+            git push
+            echo "news.json updated and pushed."
+          else
+            echo "No changes to news.json."
+          fi
