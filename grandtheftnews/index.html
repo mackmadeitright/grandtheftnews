@@ -232,4 +232,111 @@ const elTicker=document.getElementById('tickerText');
 // GTA VI release date. If Rockstar moves it, change ONLY this line (year, month-1, day).
 // Note: month is 0-indexed, so November = 10.
 const GTA6_LAUNCH = new Date(2026, 10, 19, 0, 0, 0);
-(function
+(function tickCountdown(){
+  const cd=document.getElementById('countdown');
+  const pad=n=>String(n).padStart(2,'0');
+  function update(){
+    const diff=GTA6_LAUNCH-new Date();
+    if(diff<=0){cd.classList.add('launched');return;}
+    const d=Math.floor(diff/8.64e7);
+    const h=Math.floor(diff%8.64e7/3.6e6);
+    const m=Math.floor(diff%3.6e6/6e4);
+    const s=Math.floor(diff%6e4/1e3);
+    document.getElementById('cdDays').textContent=d;
+    document.getElementById('cdHours').textContent=pad(h);
+    document.getElementById('cdMins').textContent=pad(m);
+    document.getElementById('cdSecs').textContent=pad(s);
+  }
+  update();
+  setInterval(update,1000);
+})();
+
+// ---- Share buttons ----
+(function setupShare(){
+  const url='https://grandtheftnews.com/';
+  function daysLeft(){return Math.max(0,Math.floor((GTA6_LAUNCH-new Date())/8.64e7));}
+  const text=`${daysLeft()} days until GTA 6 drops 🌴 Live countdown + all the latest news at`;
+  const x=document.getElementById('shareX');
+  const r=document.getElementById('shareReddit');
+  const c=document.getElementById('shareCopy');
+  if(x)x.href=`https://twitter.com/intent/tweet?text=${encodeURIComponent(text)}&url=${encodeURIComponent(url)}`;
+  if(r)r.href=`https://www.reddit.com/submit?url=${encodeURIComponent(url)}&title=${encodeURIComponent('GrandTheftNews — live GTA 6 countdown + latest news')}`;
+  if(c)c.addEventListener('click',async()=>{
+    try{await navigator.clipboard.writeText(url);c.textContent='Copied!';c.classList.add('copied');
+      setTimeout(()=>{c.textContent='Copy Link';c.classList.remove('copied');},1800);}
+    catch(e){c.textContent='Copy: '+url;}
+  });
+})();
+
+function esc(s){return (s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');}
+function ago(iso){
+  if(!iso)return'';
+  const d=new Date(iso),now=new Date(),h=Math.floor((now-d)/3.6e6);
+  if(isNaN(h))return'';
+  if(h<1)return'· just now';if(h<24)return'· '+h+'h ago';
+  const days=Math.floor(h/24);return days<8?'· '+days+'d ago':'· '+d.toLocaleDateString('en-US',{month:'short',day:'numeric'});
+}
+
+function storyHTML(s){
+  return `<div class="story">
+    <span class="src">${esc(s.src)}</span>
+    <h3><a href="${esc(s.url)}" target="_blank" rel="noopener">${esc(s.title)}</a><span class="when">${ago(s.date)}</span></h3>
+    <p>${esc(s.summary)}</p>
+    <a class="read" href="${esc(s.url)}" target="_blank" rel="noopener">Read the full story →</a>
+  </div>`;
+}
+
+function render(items){
+  if(!items||!items.length){elDeck.innerHTML='<div class="col"><p>No stories on the wire right now. Check back soon.</p></div>';return;}
+  const lead=items.find(i=>i.lead)||items[0];
+  const rest=items.filter(i=>i!==lead);
+  const mid=rest.slice(0,Math.ceil(rest.length/2));
+  const right=rest.slice(Math.ceil(rest.length/2));
+  elDeck.innerHTML=`
+    <div class="col lead">
+      <div class="kicker">★ Top Story ${ago(lead.date)}</div>
+      <h2><a href="${esc(lead.url)}" target="_blank" rel="noopener">${esc(lead.title)}</a></h2>
+      <div class="byline">From the wire · ${esc(lead.src)}</div>
+      <p class="body">${esc(lead.summary)}</p>
+      <a class="read" href="${esc(lead.url)}" target="_blank" rel="noopener">Read the full story at ${esc(lead.src)} →</a>
+    </div>
+    <div class="col"><div class="colhead">Latest Dispatches</div>${mid.map(storyHTML).join('')}</div>
+    <div class="col"><div class="colhead alt">More From Los Santos</div>${right.map(storyHTML).join('')}</div>`;
+  const t=items.map(i=>`<b>●</b> ${esc(i.title)}`).join('&nbsp;&nbsp;');
+  elTicker.innerHTML=t+'&nbsp;&nbsp;&nbsp;'+t;
+}
+
+function skeleton(){
+  elDeck.innerHTML=`<div class="col lead">
+      <div class="kicker">★ Top Story</div>
+      <div class="skeleton" style="height:44px;margin-bottom:12px;"></div>
+      <div class="skeleton" style="height:14px;width:60%;margin-bottom:14px;"></div>
+      <div class="skeleton" style="height:120px;"></div>
+    </div>
+    <div class="col">${'<div class="skeleton" style="height:78px;margin-bottom:16px;"></div>'.repeat(3)}</div>
+    <div class="col">${'<div class="skeleton" style="height:78px;margin-bottom:16px;"></div>'.repeat(3)}</div>`;
+}
+
+async function load(bustCache){
+  skeleton();
+  elStatus.innerHTML='<span class="live-dot"></span>Loading the wire…';
+  try{
+    const url='assets/news.json'+(bustCache?('?t='+Date.now()):'');
+    const res=await fetch(url,{cache:bustCache?'no-store':'default'});
+    if(!res.ok)throw new Error('HTTP '+res.status);
+    const data=await res.json();
+    render(data.items);
+    const when=data.updated?new Date(data.updated):null;
+    const stamp=when?when.toLocaleString('en-US',{month:'short',day:'numeric',hour:'numeric',minute:'2-digit'}):'';
+    elStatus.innerHTML='<span class="live-dot"></span>'+data.items.length+' stories · wire updated '+stamp;
+  }catch(e){
+    elDeck.innerHTML='<div class="col"><p>Couldn\u2019t reach the wire. If you just published the site, give the first news fetch a few minutes, then reload.</p></div>';
+    elStatus.innerHTML='<span class="live-dot"></span>Wire unavailable';
+  }
+}
+
+elBtn.addEventListener('click',()=>load(true));
+load(false);
+</script>
+</body>
+</html>
