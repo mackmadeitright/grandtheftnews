@@ -1,70 +1,78 @@
 {
-  "updated": "2026-06-03T00:00:00.000Z",
-  "count": 8,
+  "updated": "2026-06-13T21:40:20.480Z",
+  "count": 9,
   "items": [
     {
       "lead": true,
-      "src": "GTA BOOM",
-      "title": "Take-Two CEO Confirms GTA 6 Physical Disc Edition for Nov 19, 2026",
-      "summary": "Take-Two CEO Strauss Zelnick confirmed Grand Theft Auto VI will ship with a physical disc edition on November 19, 2026. A dataminer recently pulled GTA 6's live Xbox Product ID and Title ID from Microsoft's backend, confirming the title is now provisioned on console storefronts.",
-      "url": "https://www.gtaboom.com/gta-6-news-7d1f",
-      "date": "2026-06-02T00:00:00.000Z"
+      "src": "Polygon",
+      "title": "Grand Theft Auto 6 has some good competition in Godzilla: Destroy All Monsters Melee Remastered",
+      "summary": "We went hands-on with Godzilla: Destroy All Monsters Melee, one of the few games willing to go toe-to-toe with Grand Theft Auto 6 this November.",
+      "url": "https://www.polygon.com/godzilla-destroy-all-monsters-melee-preview/",
+      "date": "2026-06-13T17:01:21.000Z"
     },
     {
       "lead": false,
-      "src": "Evolve / AOL",
-      "title": "Take-Two Reaffirms Nov 19 Date in Q3 Earnings Report",
-      "summary": "Take-Two's fiscal Q3 2026 earnings report listed GTA VI for PS5 and Xbox Series X|S on November 19, 2026, with no new delay. The company projects record Net Bookings in Fiscal 2027.",
-      "url": "https://www.aol.com/lifestyle/gta-6-release-date-gets-071700013.html",
-      "date": "2026-02-03T00:00:00.000Z"
+      "src": "Eurogamer",
+      "title": "\"GTA is like the ogre\" - It's an \"odd\" year to release a video game, says A Plague Tale studio Asobo",
+      "summary": "A Plague Tale developer Asobo has called Grand Theft Auto 6 an \"ogre\" as far as its dominance over 2026's release schedule goes. It's the same year its Resonance: A Plague Tale Legacy game comes out, and it joins the crush in late August, a couple of months before GTA 6 crashes in. Read more",
+      "url": "https://www.eurogamer.net/a-plague-tale-developer-asobo-gta-6-release-date",
+      "date": "2026-06-12T16:08:11.000Z"
     },
     {
       "lead": false,
-      "src": "HotCars / IGN",
-      "title": "Rockstar's Launch Marketing Set to Begin This Summer",
-      "summary": "Take-Two told staff that execution through Fiscal 2026 has been strong, with Rockstar's launch marketing push beginning this summer, hinting more trailers and pre-orders are imminent.",
-      "url": "https://www.aol.com/lifestyle/gta-6-release-date-confirmed-173948833.html",
-      "date": "2026-04-15T00:00:00.000Z"
+      "src": "GamesRadar",
+      "title": "GTA 6 doesn't scare Phantom Blade Zero devs, who just moved their release date closer to Rockstar's: \"We don't think about any of this\"",
+      "summary": "S-Game is pure poker face to Rockstar's latest offering",
+      "url": "https://www.gamesradar.com/games/action-rpg/gta-6-doesnt-scare-phantom-blade-zero-devs-who-just-moved-their-release-date-closer-to-rockstars-we-dont-think-about-any-of-this/",
+      "date": "2026-06-12T14:42:58.000Z"
     },
     {
       "lead": false,
-      "src": "Screen Rant",
-      "title": "Take-Two Sets May 21 Earnings Call, a Crucial Date for Fans",
-      "summary": "Take-Two scheduled its next earnings call for May 21, 2026, the moment fans expect to learn whether GTA 6 holds its November 19 date or slips again.",
-      "url": "https://screenrant.com/gta-6-official-release-date-update-confirmed-may-2026/",
-      "date": "2026-05-01T00:00:00.000Z"
+      "src": "Eurogamer",
+      "title": "While other games try to avoid GTA 6, Phantom Blade Zero has changed its release date to move closer to it",
+      "summary": "Wuxia-inspired action game Phantom Blade Zero is arguably one of the most anticipated games of 2026, but no game is as anticipated as Grand Theft Auto 6 , as the many calendar shuffles to avoid November have shown. So it was particularly surprising to see Phantom Blade Zero given a release date during June's State o…",
+      "url": "https://www.eurogamer.net/phantom-blade-zero-delay-release-date-closer-to-gta-6",
+      "date": "2026-06-12T13:58:54.000Z"
     },
     {
       "lead": false,
       "src": "GameSpot",
-      "title": "Online Mode May Not Arrive Alongside the Main Game",
-      "summary": "GameSpot notes history suggests GTA 6's still-unannounced online mode likely won't be available at launch, mirroring the rollout of GTA Online years ago.",
-      "url": "https://www.gamespot.com/games/grand-theft-auto-vi/news/",
-      "date": "2026-05-10T00:00:00.000Z"
+      "title": "GTA 5 Joins A Subscription Ahead Of GTA 6 Launch",
+      "summary": "Ahead of GTA 6's release this November, GTA 5 is now available on a subscription service, and it's Rockstar's own GTA+. The game's single-player campaign is now included with the GTA+ games library, while GTA+ members on PC can now get GTA Online through the games library. Available on PS5, Xbox Series X|S, and PC,…",
+      "url": "https://www.gamespot.com/articles/gta-5-joins-a-subscription-ahead-of-gta-6-launch/",
+      "date": "2026-06-11T19:17:41.000Z"
     },
     {
       "lead": false,
-      "src": "GTA VI Hype",
-      "title": "Xbox Players Can Now Download a 328 MB GTA 6 Placeholder",
-      "summary": "A 328 MB GTA 6 placeholder has appeared in Xbox libraries, the game's first official presence in console storefronts ahead of the November 2026 launch.",
-      "url": "https://www.gta6hype.com/",
-      "date": "2026-05-20T00:00:00.000Z"
+      "src": "PC Gamer",
+      "title": "Phantom Blade: Zero devs couldn't care less about releasing near GTA 6: 'We don't even think of the competition, what matters is how polished the game is'",
+      "summary": "They did care about making the game run as well as possible on lower-end hardware, however.",
+      "url": "https://www.pcgamer.com/gaming-industry/phantom-blade-zero-devs-couldnt-care-less-about-releasing-near-gta-6-we-dont-even-think-of-the-competition-what-matters-is-how-polished-the-game-is/",
+      "date": "2026-06-11T18:26:43.000Z"
     },
     {
       "lead": false,
-      "src": "Game Rant",
-      "title": "May 26: The Original Release Date That Never Was",
-      "summary": "The record-breaking second trailer once pegged May 26, 2026 as launch day before Rockstar delayed again. With marketing quiet, all eyes turn to the next trailer and the May 21 earnings call.",
-      "url": "https://gamerant.com/gta-6-may-26-original-release-date/",
-      "date": "2026-05-25T00:00:00.000Z"
+      "src": "Eurogamer",
+      "title": "As games pile into September to avoid GTA 6, Ghostrunner studio's promising Soulslike Valor Mortis is shifting its release to escape the rush",
+      "summary": "It didn't take much of this year's Summer Game Fest to realise that, in racing to escape the orbit of GTA 6 , the games industry has created a new problem : a September 2026 so packed with releases that it's going to take some dedication - not to mention time and money - for players to get through even a fraction of…",
+      "url": "https://www.eurogamer.net/valor-mortis-new-release-date",
+      "date": "2026-06-11T16:53:31.000Z"
     },
     {
       "lead": false,
-      "src": "GTA BOOM",
-      "title": "Sony Targets PS4 Holdouts With GTA 6 Wishlists",
-      "summary": "Sony is pushing GTA 6 wishlists to PlayStation 4 owners with heavy GTA V playtime, nudging them to upgrade to a PS5 before launch.",
-      "url": "https://www.gtaboom.com/gta-6-news-7d1f",
-      "date": "2026-05-28T00:00:00.000Z"
+      "src": "GameSpot",
+      "title": "September Is So Busy For Games That One Of Them Just Got Delayed To Avoid The Others (And GTA 6)",
+      "summary": "With GTA 6 launching in November, developers are trying to line up their releases in the months before and after it, and that's made September 2026 very busy . One September release is now shifting to October due to the pileup of September games. Developer One More Level has announced that Valor Mortis is being dela…",
+      "url": "https://www.gamespot.com/articles/september-is-so-busy-for-games-that-one-of-them-just-got-delayed-to-avoid-the-others-and-gta-6/",
+      "date": "2026-06-11T15:52:18.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GameSpot",
+      "title": "Fable Reboot Delay Was Disappointing To The Devs, But Avoiding GTA 6 Makes Sense",
+      "summary": "The Fable reboot from Playground Games was planned for release this year, but Microsoft delayed it to February 2027, and the reason for the delay was to give the game the attention it deserves. That's according to Playground GM Ralph Fulton, who told GamesRadar that there was \"a little bit of disappointment\" when th…",
+      "url": "https://www.gamespot.com/articles/fable-reboot-delay-was-disappointing-to-the-devs-but-avoiding-gta-6-makes-sense/",
+      "date": "2026-06-11T15:27:02.000Z"
     }
   ]
 }
