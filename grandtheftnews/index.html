@@ -69,6 +69,25 @@
     margin-top:20px;color:#cdbf9c;border-top:1px solid rgba(154,134,200,.3);
     border-bottom:3px double rgba(154,134,200,.4);padding:10px 0;}
 
+  /* COUNTDOWN */
+  .countdown{margin:22px 0 0;background:#000;border:2px solid var(--pink);
+    box-shadow:0 0 0 2px var(--cyan);padding:18px 16px;text-align:center;}
+  .countdown .cd-label{font-family:'Special Elite',monospace;font-size:.74rem;letter-spacing:4px;
+    text-transform:uppercase;color:var(--cyan);margin-bottom:12px;}
+  .countdown .cd-label b{color:var(--pink);}
+  .cd-grid{display:flex;justify-content:center;gap:14px;flex-wrap:wrap;}
+  .cd-cell{min-width:78px;}
+  .cd-num{font-family:'Anton',sans-serif;font-size:clamp(2.2rem,6vw,3.4rem);line-height:1;
+    color:#fff;text-shadow:2px 2px 0 var(--pink),4px 4px 0 var(--cyan);}
+  .cd-unit{font-family:'Oswald';font-weight:600;text-transform:uppercase;letter-spacing:.12em;
+    font-size:.72rem;color:var(--purple);margin-top:6px;}
+  .cd-sep{font-family:'Anton';font-size:clamp(1.6rem,5vw,2.6rem);color:var(--orange);align-self:flex-start;line-height:1.2;}
+  .countdown.launched .cd-grid{display:none;}
+  .cd-live{display:none;font-family:'Anton';text-transform:uppercase;font-size:clamp(1.6rem,5vw,2.6rem);
+    color:var(--orange);text-shadow:2px 2px 0 var(--pink);}
+  .countdown.launched .cd-live{display:block;}
+  @media(max-width:540px){.cd-sep{display:none;}.cd-cell{min-width:64px;}}
+
   /* CONTROLS */
   .controls{display:flex;justify-content:space-between;align-items:center;gap:12px;flex-wrap:wrap;margin:22px 0;}
   .refresh{font-family:'Oswald';font-weight:700;text-transform:uppercase;letter-spacing:.06em;font-size:.85rem;
@@ -156,6 +175,20 @@
     <div class="sub">All the Grand Theft Auto&nbsp;VI news fit to steal — pulled fresh from the wire</div>
   </header>
 
+  <div class="countdown" id="countdown">
+    <div class="cd-label">Countdown to <b>GTA&nbsp;VI</b> · November&nbsp;19,&nbsp;2026</div>
+    <div class="cd-grid" id="cdGrid">
+      <div class="cd-cell"><div class="cd-num" id="cdDays">--</div><div class="cd-unit">Days</div></div>
+      <div class="cd-sep">:</div>
+      <div class="cd-cell"><div class="cd-num" id="cdHours">--</div><div class="cd-unit">Hours</div></div>
+      <div class="cd-sep">:</div>
+      <div class="cd-cell"><div class="cd-num" id="cdMins">--</div><div class="cd-unit">Minutes</div></div>
+      <div class="cd-sep">:</div>
+      <div class="cd-cell"><div class="cd-num" id="cdSecs">--</div><div class="cd-unit">Seconds</div></div>
+    </div>
+    <div class="cd-live">🎮 GTA VI IS OUT — GO STEAL A CAR 🌴</div>
+  </div>
+
   <div class="controls">
     <button class="refresh" id="refreshBtn">⟳ Reload Latest Headlines</button>
     <div class="status" id="status"><span class="live-dot"></span>Loading the wire…</div>
@@ -182,6 +215,29 @@ const elTicker=document.getElementById('tickerText');
 (function setDateline(){
   const opt={weekday:'long',year:'numeric',month:'long',day:'numeric'};
   document.getElementById('dateline').textContent=new Date().toLocaleDateString('en-US',opt).toUpperCase();
+})();
+
+// ---- Launch countdown ----
+// GTA VI release date. If Rockstar moves it, change ONLY this line (year, month-1, day).
+// Note: month is 0-indexed, so November = 10.
+const GTA6_LAUNCH = new Date(2026, 10, 19, 0, 0, 0);
+(function tickCountdown(){
+  const cd=document.getElementById('countdown');
+  const pad=n=>String(n).padStart(2,'0');
+  function update(){
+    const diff=GTA6_LAUNCH-new Date();
+    if(diff<=0){cd.classList.add('launched');return;}
+    const d=Math.floor(diff/8.64e7);
+    const h=Math.floor(diff%8.64e7/3.6e6);
+    const m=Math.floor(diff%3.6e6/6e4);
+    const s=Math.floor(diff%6e4/1e3);
+    document.getElementById('cdDays').textContent=d;
+    document.getElementById('cdHours').textContent=pad(h);
+    document.getElementById('cdMins').textContent=pad(m);
+    document.getElementById('cdSecs').textContent=pad(s);
+  }
+  update();
+  setInterval(update,1000);
 })();
 
 function esc(s){return (s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');}
