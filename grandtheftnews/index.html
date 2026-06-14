@@ -151,10 +151,25 @@
     border-bottom:3px solid var(--pink);padding-bottom:6px;margin-bottom:4px;color:#fff;}
   .colhead.alt{border-bottom-color:var(--cyan);}
 
-  .ticker{background:#000;overflow:hidden;white-space:nowrap;border-top:3px solid var(--pink);border-bottom:3px solid var(--cyan);margin-top:22px;}
-  .ticker span{display:inline-block;padding:9px 0;font-family:'Special Elite',monospace;font-size:.82rem;letter-spacing:.04em;color:var(--paper);animation:scroll 42s linear infinite;}
+  .ticker{background:#000;overflow:hidden;white-space:nowrap;border-top:3px solid var(--pink);border-bottom:3px solid var(--cyan);margin-top:22px;display:flex;}
+  .ticker span{display:inline-block;white-space:nowrap;padding:9px 0;font-family:'Special Elite',monospace;font-size:.82rem;letter-spacing:.04em;color:var(--paper);animation:scroll 60s linear infinite;flex-shrink:0;}
   .ticker b{color:var(--orange);}
-  @keyframes scroll{from{transform:translateX(0);}to{transform:translateX(-50%);}}
+  @keyframes scroll{from{transform:translateX(0);}to{transform:translateX(-100%);}}
+
+  /* NEWSLETTER */
+  .signup{margin-top:30px;background:linear-gradient(135deg,#1a0f30,#160c2c);border:2px solid var(--cyan);
+    box-shadow:0 0 0 2px var(--pink);padding:30px 24px;text-align:center;}
+  .signup h3{font-family:'Anton',sans-serif;text-transform:uppercase;font-size:clamp(1.5rem,4vw,2.2rem);color:#fff;letter-spacing:.01em;}
+  .signup h3 span{color:var(--cyan);}
+  .signup p{font-family:'Playfair Display',serif;font-style:italic;color:#cdbf9c;font-size:1rem;margin:10px auto 18px;max-width:480px;}
+  .signup form{display:flex;justify-content:center;gap:10px;flex-wrap:wrap;max-width:520px;margin:0 auto;}
+  .signup input[type=email]{flex:1;min-width:220px;padding:12px 14px;border:2px solid var(--purple);
+    background:#0e0820;color:var(--paper);font-family:'Oswald';font-size:.95rem;}
+  .signup input[type=email]:focus{outline:none;border-color:var(--cyan);}
+  .signup button{font-family:'Oswald';font-weight:700;text-transform:uppercase;letter-spacing:.06em;font-size:.85rem;
+    background:var(--pink);color:#fff;border:none;padding:12px 24px;cursor:pointer;box-shadow:3px 3px 0 var(--cyan);transition:transform .12s;}
+  .signup button:hover{transform:translate(-2px,-2px);box-shadow:5px 5px 0 var(--cyan);}
+  .signup .fineprint{font-family:'Special Elite',monospace;font-size:.66rem;color:#7a6f9c;margin-top:14px;letter-spacing:.04em;}
 
   footer{margin-top:34px;border-top:3px double rgba(154,134,200,.4);padding-top:18px;text-align:center;
     font-family:'Special Elite',monospace;font-size:.74rem;color:var(--purple);line-height:1.7;}
@@ -227,7 +242,19 @@
 
   <div class="deck" id="deck"></div>
 
-  <div class="ticker"><span id="tickerText"></span></div>
+  <div class="ticker" id="ticker"><span id="tickerText"></span></div>
+
+  <section class="signup">
+    <h3>Don't Miss <span>Launch Day</span></h3>
+    <p>Get the GrandTheftNews monthly dispatch — the biggest GTA 6 stories, countdown milestones, and trailer drops, straight to your inbox.</p>
+    <form name="newsletter" method="POST" data-netlify="true" netlify-honeypot="bot-field">
+      <input type="hidden" name="form-name" value="newsletter">
+      <p style="display:none;"><label>Don't fill this out: <input name="bot-field"></label></p>
+      <input type="email" name="email" placeholder="your@email.com" required aria-label="Email address">
+      <button type="submit">Sign Me Up</button>
+    </form>
+    <div class="fineprint">One email a month, give or take. No spam. Unsubscribe anytime.</div>
+  </section>
 
   <footer>
     <div>GRANDTHEFTNEWS · THE VICE CITY DISPATCH · A FAN-MADE NEWS AGGREGATOR</div>
@@ -241,7 +268,7 @@
 const elDeck=document.getElementById('deck');
 const elStatus=document.getElementById('status');
 const elBtn=document.getElementById('refreshBtn');
-const elTicker=document.getElementById('tickerText');
+const elTicker=document.getElementById('ticker');
 
 (function setDateline(){
   const opt={weekday:'long',year:'numeric',month:'long',day:'numeric'};
@@ -322,8 +349,9 @@ function render(items){
     </div>
     <div class="col"><div class="colhead">Latest Dispatches</div>${mid.map(storyHTML).join('')}</div>
     <div class="col"><div class="colhead alt">More From Los Santos</div>${right.map(storyHTML).join('')}</div>`;
-  const t=items.map(i=>`<b>●</b> ${esc(i.title)}`).join('&nbsp;&nbsp;');
-  elTicker.innerHTML=t+'&nbsp;&nbsp;&nbsp;'+t;
+  const t=items.map(i=>`<b>●</b> ${esc(i.title)}`).join('&nbsp;&nbsp;&nbsp;&nbsp;');
+  const block='<span>'+t+'&nbsp;&nbsp;&nbsp;&nbsp;</span>';
+  elTicker.innerHTML=block+block;
 }
 
 function skeleton(){
