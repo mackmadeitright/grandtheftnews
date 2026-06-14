@@ -1,9 +1,17 @@
 {
-  "updated": "2026-06-14T14:21:22.395Z",
+  "updated": "2026-06-14T16:42:57.913Z",
   "count": 9,
   "items": [
     {
       "lead": true,
+      "src": "Polygon",
+      "title": "After GTA 6, the 2027 video game lineup looks stacked already",
+      "summary": "Summer Game Fest revealed a ton of AAA games with 2027 release dates. Is the big game drought finally over?",
+      "url": "https://www.polygon.com/patch-notes-2027-games/",
+      "date": "2026-06-14T15:00:22.000Z"
+    },
+    {
+      "lead": false,
       "src": "GamesRadar",
       "title": "GTA 6 had \"all the studios in the world\" planning around the Rockstar Games behemoth, A Plague Tale dev says",
       "summary": "Avoiding GTA's blast zone",
@@ -41,14 +49,6 @@
       "summary": "Ahead of GTA 6's release this November, GTA 5 is now available on a subscription service, and it's Rockstar's own GTA+. The game's single-player campaign is now included with the GTA+ games library, while GTA+ members on PC can now get GTA Online through the games library. Available on PS5, Xbox Series X|S, and PC,…",
       "url": "https://www.gamespot.com/articles/gta-5-joins-a-subscription-ahead-of-gta-6-launch/",
       "date": "2026-06-11T19:17:41.000Z"
-    },
-    {
-      "lead": false,
-      "src": "PC Gamer",
-      "title": "Phantom Blade: Zero devs couldn't care less about releasing near GTA 6: 'We don't even think of the competition, what matters is how polished the game is'",
-      "summary": "They did care about making the game run as well as possible on lower-end hardware, however.",
-      "url": "https://www.pcgamer.com/gaming-industry/phantom-blade-zero-devs-couldnt-care-less-about-releasing-near-gta-6-we-dont-even-think-of-the-competition-what-matters-is-how-polished-the-game-is/",
-      "date": "2026-06-11T18:26:43.000Z"
     },
     {
       "lead": false,
