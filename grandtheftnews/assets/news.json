@@ -1,14 +1,38 @@
 {
-  "updated": "2026-06-16T11:28:28.957Z",
-  "count": 6,
+  "updated": "2026-06-16T17:14:08.941Z",
+  "count": 7,
   "items": [
     {
       "lead": true,
       "src": "GamesRadar",
-      "title": "GTA 6 really is releasing in November, Take-Two boss insists while giving out free business advice: \"Everything worth doing is hard and takes a long time\"",
-      "summary": "Strauss Zelnick once more teases that \"Rockstar really does seek to do something that's never been done before\"",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-really-is-releasing-in-november-take-two-boss-insists-while-giving-out-free-business-advice-everything-worth-doing-is-hard-and-takes-a-long-time/",
-      "date": "2026-06-16T10:03:56.000Z"
+      "title": "Solo dev plans to \"beat the real GTA 6 to launch\" with their own, AI-fueled version of Rockstar's upcoming game",
+      "summary": "Really, he just has to finish it in under 13 years",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/solo-dev-plans-to-beat-the-real-gta-6-to-launch-with-their-own-ai-fueled-version-of-rockstars-upcoming-game/",
+      "date": "2026-06-16T16:47:09.000Z"
+    },
+    {
+      "lead": false,
+      "src": "PC Gamer",
+      "title": "One lone legend waiting for GTA 6 to launch has decided to make the game from scratch themselves: 'The goal: beat the real GTA 6 to launch'",
+      "summary": "Vibe code GTA 6? Sure, hold my beer.",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/one-lone-legend-waiting-for-gta-6-to-launch-has-decided-to-make-the-game-from-scratch-themselves-the-goal-beat-the-real-gta-6-to-launch/",
+      "date": "2026-06-16T15:40:15.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GameSpot",
+      "title": "GTA 6 Release Date Confirmed Again By CEO Who Also Explains Why It’s Taking So Long",
+      "summary": "The hugely popular TikTok account The School of Hard Knocks caught up with Take-Two CEO Strauss Zelnick recently, and you better believe they asked about GTA 6's release date. In the on-the-street interview, Zelnick confirmed, once again, that GTA 6 remains on track for release on November 19. Why is it taking so lo…",
+      "url": "https://www.gamespot.com/articles/gta-6-release-date-confirmed-again-by-ceo-who-also-explains-why-its-taking-so-long/",
+      "date": "2026-06-16T13:31:46.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Kotaku",
+      "title": "GTA 6 Release Date Confirmed By Take-Two Boss In The Strangest Way",
+      "summary": "An ambush interview by a TikTok account reassures fans of a November release",
+      "url": "https://kotaku.com/gta-6-grand-theft-auto-release-date-confirmed-take-two-rockstar-2000707059",
+      "date": "2026-06-16T12:05:20.000Z"
     },
     {
       "lead": false,
@@ -28,27 +52,11 @@
     },
     {
       "lead": false,
-      "src": "GameSpot",
-      "title": "GTA 5 Joins A Subscription Ahead Of GTA 6 Launch",
-      "summary": "Ahead of GTA 6's release this November, GTA 5 is now available on a subscription service, and it's Rockstar's own GTA+. The game's single-player campaign is now included with the GTA+ games library, while GTA+ members on PC can now get GTA Online through the games library. Available on PS5, Xbox Series X|S, and PC,…",
-      "url": "https://www.gamespot.com/articles/gta-5-joins-a-subscription-ahead-of-gta-6-launch/",
-      "date": "2026-06-11T19:17:41.000Z"
-    },
-    {
-      "lead": false,
       "src": "Eurogamer",
       "title": "As games pile into September to avoid GTA 6, Ghostrunner studio's promising Soulslike Valor Mortis is shifting its release to escape the rush",
       "summary": "It didn't take much of this year's Summer Game Fest to realise that, in racing to escape the orbit of GTA 6 , the games industry has created a new problem : a September 2026 so packed with releases that it's going to take some dedication - not to mention time and money - for players to get through even a fraction of…",
       "url": "https://www.eurogamer.net/valor-mortis-new-release-date",
       "date": "2026-06-11T16:53:31.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GameSpot",
-      "title": "September Is So Busy For Games That One Of Them Just Got Delayed To Avoid The Others (And GTA 6)",
-      "summary": "With GTA 6 launching in November, developers are trying to line up their releases in the months before and after it, and that's made September 2026 very busy . One September release is now shifting to October due to the pileup of September games. Developer One More Level has announced that Valor Mortis is being dela…",
-      "url": "https://www.gamespot.com/articles/september-is-so-busy-for-games-that-one-of-them-just-got-delayed-to-avoid-the-others-and-gta-6/",
-      "date": "2026-06-11T15:52:18.000Z"
     }
   ]
 }
