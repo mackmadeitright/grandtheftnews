@@ -1,9 +1,17 @@
 {
-  "updated": "2026-06-16T05:22:10.214Z",
-  "count": 5,
+  "updated": "2026-06-16T11:28:28.957Z",
+  "count": 6,
   "items": [
     {
       "lead": true,
+      "src": "GamesRadar",
+      "title": "GTA 6 really is releasing in November, Take-Two boss insists while giving out free business advice: \"Everything worth doing is hard and takes a long time\"",
+      "summary": "Strauss Zelnick once more teases that \"Rockstar really does seek to do something that's never been done before\"",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-really-is-releasing-in-november-take-two-boss-insists-while-giving-out-free-business-advice-everything-worth-doing-is-hard-and-takes-a-long-time/",
+      "date": "2026-06-16T10:03:56.000Z"
+    },
+    {
+      "lead": false,
       "src": "Eurogamer",
       "title": "\"GTA is like the ogre\" - It's an \"odd\" year to release a video game, says A Plague Tale studio Asobo",
       "summary": "A Plague Tale developer Asobo has called Grand Theft Auto 6 an \"ogre\" as far as its dominance over 2026's release schedule goes. It's the same year its Resonance: A Plague Tale Legacy game comes out, and it joins the crush in late August, a couple of months before GTA 6 crashes in. Read more",
