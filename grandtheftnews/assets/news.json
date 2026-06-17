@@ -1,9 +1,25 @@
 {
-  "updated": "2026-06-17T15:55:46.642Z",
+  "updated": "2026-06-17T20:25:37.298Z",
   "count": 13,
   "items": [
     {
       "lead": true,
+      "src": "Polygon",
+      "title": "The Ocarina of Time remake's release date window is more important than you might think",
+      "summary": "Nintendo is placing the Ocarina of Time remake's release date window in a slot where it competes with GTA 6",
+      "url": "https://www.polygon.com/zelda-ocarina-of-time-remake-release-date/",
+      "date": "2026-06-17T17:01:21.000Z"
+    },
+    {
+      "lead": false,
+      "src": "IGN",
+      "title": "GTA Online Is Adding a Massive New Heist in July, to Keep You Busy Until GTA 6 Arrives",
+      "summary": "GTA Online is getting its next big update in just a few weeks.",
+      "url": "https://www.ign.com/articles/gta-online-is-adding-a-massive-new-heist-in-july-to-keep-you-busy-until-gta-6-arrives",
+      "date": "2026-06-17T16:08:01.000Z"
+    },
+    {
+      "lead": false,
       "src": "Kotaku",
       "title": "GTA 5′s Older Versions Can Be Upgraded For Free Starting June 18",
       "summary": "Rockstar has announced GTA Online players can jump forward a console generation for no cost",
@@ -17,14 +33,6 @@
       "summary": "Ahead of GTA 6's release in November, Rockstar Games has announced that anyone who owns a digital copy of GTA 5 for PS4 or Xbox One will get a free upgrade to the PS5 or Xbox Series X|S version. The native versions for PS5 and Xbox Series X|S normally cost $40. They include better graphics and faster loading times,…",
       "url": "https://www.gamespot.com/articles/gta-5-for-ps5-and-xbox-series-xs-will-be-free-for-last-gen-owners-this-week/",
       "date": "2026-06-17T15:26:26.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Polygon",
-      "title": "Rockstar makes GTA 5 upgrade on PS5, Xbox Series X and PC free",
-      "summary": "Grand Theft Auto 5 players on PS4 and Xbox One can upgrade to the PS5 and Xbox Series X/S versions completely free of charge, Rockstar announced.",
-      "url": "https://www.polygon.com/gta-5-free-upgrade-ps4-ps5-xbox-enhanced-pc-features/",
-      "date": "2026-06-17T15:22:27.000Z"
     },
     {
       "lead": false,
@@ -57,14 +65,6 @@
       "summary": "Grand Theft Auto 6 might overtake other AAA giants",
       "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-will-sell-46-million-copies-at-launch-investment-bank-theorizes-using-the-power-of-rockstars-past-launches-and-a-very-feral-reddit-community/",
       "date": "2026-06-17T13:54:13.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "Solo dev plans to \"beat the real GTA 6 to launch\" with their own, AI-fueled version of Rockstar's upcoming game",
-      "summary": "Really, he just has to finish it in under 13 years",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/solo-dev-plans-to-beat-the-real-gta-6-to-launch-with-their-own-ai-fueled-version-of-rockstars-upcoming-game/",
-      "date": "2026-06-16T16:47:09.000Z"
     },
     {
       "lead": false,
