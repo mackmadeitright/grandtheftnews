@@ -1,9 +1,65 @@
 {
-  "updated": "2026-06-17T11:11:41.898Z",
-  "count": 7,
+  "updated": "2026-06-17T15:55:46.642Z",
+  "count": 13,
   "items": [
     {
       "lead": true,
+      "src": "Kotaku",
+      "title": "GTA 5′s Older Versions Can Be Upgraded For Free Starting June 18",
+      "summary": "Rockstar has announced GTA Online players can jump forward a console generation for no cost",
+      "url": "https://kotaku.com/you-can-upgrade-your-old-version-of-gta-5-for-free-starting-june-18-2000707580",
+      "date": "2026-06-17T15:33:48.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GameSpot",
+      "title": "GTA 5 For PS5 And Xbox Series X|S Will Be Free For Last-Gen Owners This Week",
+      "summary": "Ahead of GTA 6's release in November, Rockstar Games has announced that anyone who owns a digital copy of GTA 5 for PS4 or Xbox One will get a free upgrade to the PS5 or Xbox Series X|S version. The native versions for PS5 and Xbox Series X|S normally cost $40. They include better graphics and faster loading times,…",
+      "url": "https://www.gamespot.com/articles/gta-5-for-ps5-and-xbox-series-xs-will-be-free-for-last-gen-owners-this-week/",
+      "date": "2026-06-17T15:26:26.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Polygon",
+      "title": "Rockstar makes GTA 5 upgrade on PS5, Xbox Series X and PC free",
+      "summary": "Grand Theft Auto 5 players on PS4 and Xbox One can upgrade to the PS5 and Xbox Series X/S versions completely free of charge, Rockstar announced.",
+      "url": "https://www.polygon.com/gta-5-free-upgrade-ps4-ps5-xbox-enhanced-pc-features/",
+      "date": "2026-06-17T15:22:27.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Eurogamer",
+      "title": "\"Rockstar thought they could control the narrative. They're wrong\" - tribunal rules against GTA 6 developer's request to remove union's blacklisting claims from ongoing legal dispute",
+      "summary": "An employment tribunal has ruled against Rockstar Games ' request to remove blacklisting claims from the ongoing legal dispute over alleged union busting at the Grand Theft Auto 6 studio. Read more",
+      "url": "https://www.eurogamer.net/gta-6-rockstar-legal-dispute-blacklisting-claims",
+      "date": "2026-06-17T15:08:39.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "Rockstar gives free GTA 5 upgrades to PS4 and Xbox One players ahead of GTA Online's next heist in July and GTA 6 in November",
+      "summary": "Sadly, no free PS5 or Xbox Series X|S, as far as I can see",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/rockstar-gives-free-gta-5-upgrades-to-ps4-and-xbox-one-players-ahead-of-gta-onlines-next-heist-in-july-and-gta-6-in-november/",
+      "date": "2026-06-17T15:06:39.000Z"
+    },
+    {
+      "lead": false,
+      "src": "IGN",
+      "title": "Rockstar Dishes Out Free GTA 5 Current-Gen Upgrades to PS4 and Xbox One Owners",
+      "summary": "If you own a digital copy of Grand Theft Auto V on Xbox One or PS4, you'll be entitled to a free upgrade to the current-gen versions of the game.",
+      "url": "https://www.ign.com/articles/rockstar-dishes-out-free-gta-5-current-gen-upgrades-to-ps4-and-xbox-one-owners",
+      "date": "2026-06-17T14:23:03.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "GTA 6 will sell 46 million copies at launch, investment bank theorizes using the power of Rockstar's past launches and a very feral Reddit community",
+      "summary": "Grand Theft Auto 6 might overtake other AAA giants",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-will-sell-46-million-copies-at-launch-investment-bank-theorizes-using-the-power-of-rockstars-past-launches-and-a-very-feral-reddit-community/",
+      "date": "2026-06-17T13:54:13.000Z"
+    },
+    {
+      "lead": false,
       "src": "GamesRadar",
       "title": "Solo dev plans to \"beat the real GTA 6 to launch\" with their own, AI-fueled version of Rockstar's upcoming game",
       "summary": "Really, he just has to finish it in under 13 years",
@@ -25,14 +81,6 @@
       "summary": "The hugely popular TikTok account The School of Hard Knocks caught up with Take-Two CEO Strauss Zelnick recently, and you better believe they asked about GTA 6's release date. In the on-the-street interview, Zelnick confirmed, once again, that GTA 6 remains on track for release on November 19. Why is it taking so lo…",
       "url": "https://www.gamespot.com/articles/gta-6-release-date-confirmed-again-by-ceo-who-also-explains-why-its-taking-so-long/",
       "date": "2026-06-16T13:31:46.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Kotaku",
-      "title": "GTA 6 Release Date Confirmed By Take-Two Boss In The Strangest Way",
-      "summary": "An ambush interview by a TikTok account reassures fans of a November release",
-      "url": "https://kotaku.com/gta-6-grand-theft-auto-release-date-confirmed-take-two-rockstar-2000707059",
-      "date": "2026-06-16T12:05:20.000Z"
     },
     {
       "lead": false,
