@@ -1,22 +1,166 @@
 {
-  "updated": "2026-06-18T10:42:38.030Z",
-  "count": 11,
+  "updated": "2026-06-18T15:46:47.988Z",
+  "count": 24,
   "items": [
     {
       "lead": true,
       "src": "IGN",
-      "title": "GTA Online Is Adding a Massive New Heist in July, to Keep You Busy Until GTA 6 Arrives",
-      "summary": "GTA Online is getting its next big update in just a few weeks.",
-      "url": "https://www.ign.com/articles/gta-online-is-adding-a-massive-new-heist-in-july-to-keep-you-busy-until-gta-6-arrives",
-      "date": "2026-06-17T16:08:01.000Z"
+      "title": "Rockstar Fans Rejoice, as It Now Looks Certain GTA 6 Won't Get Delayed Again",
+      "summary": "Grand Theft Auto fans are reacting in shock and relief after today's surprise announcement that GTA 6 pre-orders will begin next week — all but confirming that the game won't get delayed once more.",
+      "url": "https://www.ign.com/articles/rockstar-fans-rejoice-as-it-now-looks-certain-gta-6-wont-get-delayed-again",
+      "date": "2026-06-18T15:41:31.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "GTA 6 pre-orders are incoming, so here's where and how to secure your copy on June 25",
+      "summary": "Rockstar has announced that GTA 6 pre-orders are on their way, and I've got all the links you need to prepare you for next week's carnage.",
+      "url": "https://www.gamesradar.com/games/where-to-pre-order-gta-6/",
+      "date": "2026-06-18T15:15:27.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "The Steam Machine and GTA 6 pre-orders may happen at the same time, but it won't be on Valve's box",
+      "summary": "Both the Steam Machine and GTA 6 pre-orders could land on the same day, but you should note that you won't be playing the long-awaited sequel on Valve's box.",
+      "url": "https://www.gamesradar.com/hardware/the-steam-machine-and-gta-6-pre-orders-may-happen-at-the-same-time-but-it-wont-be-on-valves-box/",
+      "date": "2026-06-18T15:14:05.000Z"
+    },
+    {
+      "lead": false,
+      "src": "IGN",
+      "title": "GTA 6: Every Detail in the Cover Art Explained",
+      "summary": "We've picked apart GTA 6's new cover art to discover all the details hidden in those nine panels, including new cars, characters, and some nods back to GTA: Vice City.",
+      "url": "https://www.ign.com/articles/gta-6-cover-art-every-detail-explained",
+      "date": "2026-06-18T15:11:45.000Z"
     },
     {
       "lead": false,
       "src": "Kotaku",
-      "title": "GTA 5′s Older Versions Can Be Upgraded For Free Starting June 18",
-      "summary": "Rockstar has announced GTA Online players can jump forward a console generation for no cost",
-      "url": "https://kotaku.com/you-can-upgrade-your-old-version-of-gta-5-for-free-starting-june-18-2000707580",
-      "date": "2026-06-17T15:33:48.000Z"
+      "title": "GTA 6′s Cover Continues The Weird Rule Rockstar Has Followed For 25 Years",
+      "summary": "Yup, there's a helicopter on the top left corner of the newly revealed Grand Theft Auto 6 cover artwork",
+      "url": "https://kotaku.com/gta-6s-cover-continues-the-weird-rule-rockstar-has-followed-for-25-years-2000708095",
+      "date": "2026-06-18T15:08:15.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "Feeling generous after making GTA 6 hopefuls wait a full year, Rockstar shows off Vice City in greater detail than ever after confirming pre-orders and showcasing the game's cover art",
+      "summary": "Those boats and helicopters are mighty enticing",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/feeling-generous-after-making-gta-6-hopefuls-wait-a-full-year-rockstar-shows-off-vice-city-in-greater-detail-than-ever-after-confirming-pre-orders-and-showcasing-the-games-cover-art/",
+      "date": "2026-06-18T15:03:24.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Eurogamer",
+      "title": "Rockstar quietly gives us probably our best look at GTA 6's Vice City yet",
+      "summary": "Along with today's cover art reveal, Rockstar has also quietly revealed its best visual overview so far of Grand Theft Auto 6 's crime-laiden metropolis, Vice City. Read more",
+      "url": "https://www.eurogamer.net/gta-6-vice-city-overview-map",
+      "date": "2026-06-18T14:58:23.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Kotaku",
+      "title": "Here’s How I Know We Are Entering Rockstar’s End Game For Launching GTA 6",
+      "summary": "If you were worried about another delay, you can probably stop worrying",
+      "url": "https://kotaku.com/heres-how-i-know-we-are-entering-rockstars-end-game-for-launching-gta-6-2000708079",
+      "date": "2026-06-18T14:10:44.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Polygon",
+      "title": "Rockstar's GTA 6 box art tells us nothing and is distinctly lacking in personality",
+      "summary": "Rockstar revealed GTA 6's box art, but it's just rehashing the same tone, people, and style we've seen for two years",
+      "url": "https://www.polygon.com/gta-6-box-art-reveal-explained/",
+      "date": "2026-06-18T14:09:27.000Z"
+    },
+    {
+      "lead": false,
+      "src": "PC Gamer",
+      "title": "GTA 6 pre-orders open next week, and to celebrate Rockstar has revealed its official cover art",
+      "summary": "I honestly didn't think we'd get this far.",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-pre-orders-open-next-week-and-to-celebrate-rockstar-has-revealed-its-official-cover-art/",
+      "date": "2026-06-18T14:04:39.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GameSpot",
+      "title": "New GTA 6 Screenshot Shows Off A Beautiful, Bustling Nighttime Scene By The Water",
+      "summary": "Rockstar Games has finally confirmed that GTA 6 preorders begin June 25 , and as part of the announcement, the game's website was updated with a new look at Vice City. A new image shows a nighttime scene in Vice City, with boats cruising through the water. Based on the ferris wheel in the background, this looks like…",
+      "url": "https://www.gamespot.com/articles/new-gta-6-screenshot-shows-off-a-beautiful-bustling-nighttime-scene-by-the-water/",
+      "date": "2026-06-18T14:03:13.000Z"
+    },
+    {
+      "lead": false,
+      "src": "IGN",
+      "title": "GTA 6 Cover Art and Pre-Order Reveal Comes With a Fresh Look at Vice City",
+      "summary": "Rockstar didn’t just reveal the GTA 6 cover art and the date pre-orders go live, it also added a new image to its official website offering a fresh look at Vice City.",
+      "url": "https://www.ign.com/articles/gta-6-cover-art-and-pre-order-reveal-comes-with-a-fresh-look-at-vice-city",
+      "date": "2026-06-18T13:33:25.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Eurogamer",
+      "title": "Rockstar reveals the Grand Theft Auto 6 box art, which is quite nice I suppose, and pre-order dates for the game",
+      "summary": "Rockstar Games has revealed the box art for Grand Theft Auto 6 , which looks a lot like you'd expect it to look, and it's revealed pre-order dates for the new game. Read more",
+      "url": "https://www.eurogamer.net/rockstar-grand-theft-auto-6-gta-box-art",
+      "date": "2026-06-18T13:30:58.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Polygon",
+      "title": "Rockstar announces Grand Theft Auto 6 preorders, reveals cover art",
+      "summary": "Rockstar Games officially revealed GTA 6 preorder details and the game's final cover art. Grand Theft Auto 6 preorders go live on June 25.",
+      "url": "https://www.polygon.com/gta-6-preorder-date-cover-art-price/",
+      "date": "2026-06-18T13:21:33.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "GTA 6 pre-orders open next week, Rockstar reveals cover art but still won't give us a price",
+      "summary": "Pre-order Grand Theft Auto 6 starting this month",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-cover-art-reveal/",
+      "date": "2026-06-18T13:18:54.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Kotaku",
+      "title": "GTA 6 Pre-Orders Start Next Week As Rockstar Reveals The Game’s Official Cover Art",
+      "summary": "On June 25 you'll finally be able to pre-order the upcoming open world game",
+      "url": "https://kotaku.com/gta-6-pre-orders-start-next-week-as-rockstar-reveals-the-games-official-cover-art-2000708063",
+      "date": "2026-06-18T13:12:28.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Eurogamer",
+      "title": "As GTA Online readies for another large update, and GTA 6 approaches, Rockstar offers free upgrades to GTA 5 on PS5 and Xbox Series S/X",
+      "summary": "In a surprise move, Grand Theft Auto developer Rockstar Games is giving players of GTA 5 on PS4 or Xbox One a free upgrade to GTA 5 on PS5 or Xbox Series X/S. Read more",
+      "url": "https://www.eurogamer.net/gta-5-free-ps5-xbox-series-x-s-upgrade",
+      "date": "2026-06-18T13:08:06.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GameSpot",
+      "title": "GTA 6 Preorders Begin June 25, Cover Art Revealed; Take-Two Stock Jumps On The News",
+      "summary": "At long last, preorders for GTA 6 will begin on June 25, Rockstar Games has announced. Additionally, the game's official cover art has been revealed. Crucially, Rockstar did not announce any pricing details for GTA 6, nor did the company list off the various editions of the game that will no doubt be available. Beho…",
+      "url": "https://www.gamespot.com/articles/gta-6-preorders-begin-june-25-cover-art-revealed/",
+      "date": "2026-06-18T13:07:49.000Z"
+    },
+    {
+      "lead": false,
+      "src": "IGN",
+      "title": "GTA 6 Cover Artwork Revealed, Pre-Orders Begin June 25",
+      "summary": "Rockstar has just revealed the cover artwork for GTA 6, and announced that pre-orders will begin on June 25.",
+      "url": "https://www.ign.com/articles/gta-6-cover-artwork-revealed-pre-orders-begin-june-25",
+      "date": "2026-06-18T13:07:41.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "So it begins – GTA 6 already has companies taking the day off for Rockstar's big release as \"several\" employees \"will be unavailable, unreachable, and/or 'in Vice City'\"",
+      "summary": "Burger Motorsports is likely only the first of many",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/so-it-begins-gta-6-already-has-companies-taking-the-day-off-for-rockstars-big-release-as-several-employees-will-be-unavailable-unreachable-and-or-in-vice-city/",
+      "date": "2026-06-18T12:03:07.000Z"
     },
     {
       "lead": false,
@@ -36,38 +180,6 @@
     },
     {
       "lead": false,
-      "src": "GamesRadar",
-      "title": "Rockstar gives free GTA 5 upgrades to PS4 and Xbox One players ahead of GTA Online's next heist in July and GTA 6 in November",
-      "summary": "Sadly, no free PS5 or Xbox Series X|S, as far as I can see",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/rockstar-gives-free-gta-5-upgrades-to-ps4-and-xbox-one-players-ahead-of-gta-onlines-next-heist-in-july-and-gta-6-in-november/",
-      "date": "2026-06-17T15:06:39.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "GTA 6 will sell 46 million copies at launch, investment bank theorizes using the power of Rockstar's past launches and a very feral Reddit community",
-      "summary": "Grand Theft Auto 6 might overtake other AAA giants",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-will-sell-46-million-copies-at-launch-investment-bank-theorizes-using-the-power-of-rockstars-past-launches-and-a-very-feral-reddit-community/",
-      "date": "2026-06-17T13:54:13.000Z"
-    },
-    {
-      "lead": false,
-      "src": "PC Gamer",
-      "title": "One lone legend waiting for GTA 6 to launch has decided to make the game from scratch themselves: 'The goal: beat the real GTA 6 to launch'",
-      "summary": "Vibe code GTA 6? Sure, hold my beer.",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/one-lone-legend-waiting-for-gta-6-to-launch-has-decided-to-make-the-game-from-scratch-themselves-the-goal-beat-the-real-gta-6-to-launch/",
-      "date": "2026-06-16T15:40:15.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GameSpot",
-      "title": "GTA 6 Release Date Confirmed Again By CEO Who Also Explains Why It’s Taking So Long",
-      "summary": "The hugely popular TikTok account The School of Hard Knocks caught up with Take-Two CEO Strauss Zelnick recently, and you better believe they asked about GTA 6's release date. In the on-the-street interview, Zelnick confirmed, once again, that GTA 6 remains on track for release on November 19. Why is it taking so lo…",
-      "url": "https://www.gamespot.com/articles/gta-6-release-date-confirmed-again-by-ceo-who-also-explains-why-its-taking-so-long/",
-      "date": "2026-06-16T13:31:46.000Z"
-    },
-    {
-      "lead": false,
       "src": "Eurogamer",
       "title": "\"GTA is like the ogre\" - It's an \"odd\" year to release a video game, says A Plague Tale studio Asobo",
       "summary": "A Plague Tale developer Asobo has called Grand Theft Auto 6 an \"ogre\" as far as its dominance over 2026's release schedule goes. It's the same year its Resonance: A Plague Tale Legacy game comes out, and it joins the crush in late August, a couple of months before GTA 6 crashes in. Read more",
@@ -81,14 +193,6 @@
       "summary": "Wuxia-inspired action game Phantom Blade Zero is arguably one of the most anticipated games of 2026, but no game is as anticipated as Grand Theft Auto 6 , as the many calendar shuffles to avoid November have shown. So it was particularly surprising to see Phantom Blade Zero given a release date during June's State o…",
       "url": "https://www.eurogamer.net/phantom-blade-zero-delay-release-date-closer-to-gta-6",
       "date": "2026-06-12T13:58:54.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Eurogamer",
-      "title": "As games pile into September to avoid GTA 6, Ghostrunner studio's promising Soulslike Valor Mortis is shifting its release to escape the rush",
-      "summary": "It didn't take much of this year's Summer Game Fest to realise that, in racing to escape the orbit of GTA 6 , the games industry has created a new problem : a September 2026 so packed with releases that it's going to take some dedication - not to mention time and money - for players to get through even a fraction of…",
-      "url": "https://www.eurogamer.net/valor-mortis-new-release-date",
-      "date": "2026-06-11T16:53:31.000Z"
     }
   ]
 }
