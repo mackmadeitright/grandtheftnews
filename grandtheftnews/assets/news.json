@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-18T20:35:43.622Z",
+  "updated": "2026-06-18T22:59:37.323Z",
   "count": 24,
   "items": [
     {
@@ -9,14 +9,6 @@
       "summary": "Hey, idiot, the helicopter goes in the left top corner",
       "url": "https://kotaku.com/white-house-uses-gta-6-meme-to-distract-from-reflecting-pool-turning-the-color-of-mountain-dew-2000708154",
       "date": "2026-06-18T18:25:53.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Polygon",
-      "title": "After GTA 6's cover reveal, we ranked every GTA box art",
-      "summary": "Following the reveal of Grand Theft Auto 6's cover art, we're ranking the covers for the entire series. How does GTA 6 stack up?",
-      "url": "https://www.polygon.com/grand-theft-auto-box-art-ranking-including-gta-6/",
-      "date": "2026-06-18T17:01:20.000Z"
     },
     {
       "lead": false,
@@ -54,7 +46,7 @@
       "lead": false,
       "src": "GamesRadar",
       "title": "Yes, it's okay to get very excited about a small new look at GTA 6's stunning Vice City",
-      "summary": "A new arial shot of Vice City teases a world of possibilities",
+      "summary": "A new aerial shot of Vice City teases a world of possibilities",
       "url": "https://www.gamesradar.com/games/grand-theft-auto/yes-its-okay-to-get-very-excited-about-a-small-new-look-at-gta-6s-stunning-vice-city/",
       "date": "2026-06-18T16:20:28.000Z"
     },
@@ -193,6 +185,14 @@
       "summary": "At long last, preorders for GTA 6 will begin on June 25, Rockstar Games has announced. Additionally, the game's official cover art has been revealed. Crucially, Rockstar did not announce any pricing details for GTA 6, nor did the company list off the various editions of the game that will no doubt be available. Beho…",
       "url": "https://www.gamespot.com/articles/gta-6-preorders-begin-june-25-cover-art-revealed/",
       "date": "2026-06-18T13:07:49.000Z"
+    },
+    {
+      "lead": false,
+      "src": "IGN",
+      "title": "GTA 6 Cover Artwork Revealed, Pre-Orders Begin June 25",
+      "summary": "Rockstar has just revealed the cover artwork for GTA 6, and announced that pre-orders will begin on June 25.",
+      "url": "https://www.ign.com/articles/gta-6-cover-artwork-revealed-pre-orders-begin-june-25",
+      "date": "2026-06-18T13:07:41.000Z"
     }
   ]
 }
