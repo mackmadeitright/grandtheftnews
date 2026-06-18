@@ -1,9 +1,73 @@
 {
-  "updated": "2026-06-18T15:46:47.988Z",
+  "updated": "2026-06-18T20:35:43.622Z",
   "count": 24,
   "items": [
     {
       "lead": true,
+      "src": "Kotaku",
+      "title": "White House Uses GTA 6 Meme To Distract From Reflecting Pool Turning The Color Of Mountain Dew",
+      "summary": "Hey, idiot, the helicopter goes in the left top corner",
+      "url": "https://kotaku.com/white-house-uses-gta-6-meme-to-distract-from-reflecting-pool-turning-the-color-of-mountain-dew-2000708154",
+      "date": "2026-06-18T18:25:53.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Polygon",
+      "title": "After GTA 6's cover reveal, we ranked every GTA box art",
+      "summary": "Following the reveal of Grand Theft Auto 6's cover art, we're ranking the covers for the entire series. How does GTA 6 stack up?",
+      "url": "https://www.polygon.com/grand-theft-auto-box-art-ranking-including-gta-6/",
+      "date": "2026-06-18T17:01:20.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Kotaku",
+      "title": "Holy Crap, Vice City Looks Amazing In This New GTA 6 Clip",
+      "summary": "A short bit of in-game footage shows the incredible vastness of the upcoming game",
+      "url": "https://kotaku.com/holy-crap-vice-city-looks-amazing-in-this-new-gta-6-clip-2000708110",
+      "date": "2026-06-18T16:51:10.000Z"
+    },
+    {
+      "lead": false,
+      "src": "IGN",
+      "title": "The Evolution of Grand Theft Auto's Iconic Cover Art, Now Including GTA 6",
+      "summary": "With Rockstar finally pulling back the curtain on the GTA 6 cover art, we thought we'd take a trip down memory lane and run through the history of the Grand Theft Auto franchise's iconic cover art.",
+      "url": "https://www.ign.com/articles/the-evolution-of-grand-theft-autos-iconic-cover-art-now-including-gta-6",
+      "date": "2026-06-18T16:35:17.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GameSpot",
+      "title": "Nearly 30 Years Later, Only One GTA Cover Actually Shows The Titular Crime",
+      "summary": "The Grand Theft Auto series began in 1997, and every game in the series lets you commit the titular crime--sometimes stealing a parked vehicle, but often carjacking a driver in the middle of the street. But with the recent reveal of the Grand Theft Auto VI cover art , we realized something pretty remarkable: Only on…",
+      "url": "https://www.gamespot.com/articles/nearly-30-years-later-only-one-gta-cover-actually-shows-the-titular-crime/",
+      "date": "2026-06-18T16:34:02.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "GTA 6 cover art continues a 25-year-old Rockstar tradition",
+      "summary": "Look in the top-left corner of the cover art of GTA 6, and any mainline Grand Theft Auto game before it",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-cover-art-continues-a-25-year-old-rockstar-tradition/",
+      "date": "2026-06-18T16:30:35.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "Yes, it's okay to get very excited about a small new look at GTA 6's stunning Vice City",
+      "summary": "A new arial shot of Vice City teases a world of possibilities",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/yes-its-okay-to-get-very-excited-about-a-small-new-look-at-gta-6s-stunning-vice-city/",
+      "date": "2026-06-18T16:20:28.000Z"
+    },
+    {
+      "lead": false,
+      "src": "IGN",
+      "title": "7 Burning Questions for the GTA 6 Pre-Order Launch",
+      "summary": "GTA 6 is alive! Rockstar has confirmed that pre-orders launch on June 25, which means we’re just a week away from finally getting some meaningful answers on what to expect when the most anticipated video game of all time comes out this November.",
+      "url": "https://www.ign.com/articles/7-burning-questions-for-the-gta-6-pre-order-launch",
+      "date": "2026-06-18T16:00:01.000Z"
+    },
+    {
+      "lead": false,
       "src": "IGN",
       "title": "Rockstar Fans Rejoice, as It Now Looks Certain GTA 6 Won't Get Delayed Again",
       "summary": "Grand Theft Auto fans are reacting in shock and relief after today's surprise announcement that GTA 6 pre-orders will begin next week — all but confirming that the game won't get delayed once more.",
@@ -68,14 +132,6 @@
     },
     {
       "lead": false,
-      "src": "Polygon",
-      "title": "Rockstar's GTA 6 box art tells us nothing and is distinctly lacking in personality",
-      "summary": "Rockstar revealed GTA 6's box art, but it's just rehashing the same tone, people, and style we've seen for two years",
-      "url": "https://www.polygon.com/gta-6-box-art-reveal-explained/",
-      "date": "2026-06-18T14:09:27.000Z"
-    },
-    {
-      "lead": false,
       "src": "PC Gamer",
       "title": "GTA 6 pre-orders open next week, and to celebrate Rockstar has revealed its official cover art",
       "summary": "I honestly didn't think we'd get this far.",
@@ -108,14 +164,6 @@
     },
     {
       "lead": false,
-      "src": "Polygon",
-      "title": "Rockstar announces Grand Theft Auto 6 preorders, reveals cover art",
-      "summary": "Rockstar Games officially revealed GTA 6 preorder details and the game's final cover art. Grand Theft Auto 6 preorders go live on June 25.",
-      "url": "https://www.polygon.com/gta-6-preorder-date-cover-art-price/",
-      "date": "2026-06-18T13:21:33.000Z"
-    },
-    {
-      "lead": false,
       "src": "GamesRadar",
       "title": "GTA 6 pre-orders open next week, Rockstar reveals cover art but still won't give us a price",
       "summary": "Pre-order Grand Theft Auto 6 starting this month",
@@ -145,54 +193,6 @@
       "summary": "At long last, preorders for GTA 6 will begin on June 25, Rockstar Games has announced. Additionally, the game's official cover art has been revealed. Crucially, Rockstar did not announce any pricing details for GTA 6, nor did the company list off the various editions of the game that will no doubt be available. Beho…",
       "url": "https://www.gamespot.com/articles/gta-6-preorders-begin-june-25-cover-art-revealed/",
       "date": "2026-06-18T13:07:49.000Z"
-    },
-    {
-      "lead": false,
-      "src": "IGN",
-      "title": "GTA 6 Cover Artwork Revealed, Pre-Orders Begin June 25",
-      "summary": "Rockstar has just revealed the cover artwork for GTA 6, and announced that pre-orders will begin on June 25.",
-      "url": "https://www.ign.com/articles/gta-6-cover-artwork-revealed-pre-orders-begin-june-25",
-      "date": "2026-06-18T13:07:41.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "So it begins – GTA 6 already has companies taking the day off for Rockstar's big release as \"several\" employees \"will be unavailable, unreachable, and/or 'in Vice City'\"",
-      "summary": "Burger Motorsports is likely only the first of many",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/so-it-begins-gta-6-already-has-companies-taking-the-day-off-for-rockstars-big-release-as-several-employees-will-be-unavailable-unreachable-and-or-in-vice-city/",
-      "date": "2026-06-18T12:03:07.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GameSpot",
-      "title": "GTA 5 For PS5 And Xbox Series X|S Will Be Free For Last-Gen Owners This Week",
-      "summary": "Ahead of GTA 6's release in November, Rockstar Games has announced that anyone who owns a digital copy of GTA 5 for PS4 or Xbox One will get a free upgrade to the PS5 or Xbox Series X|S version. The native versions for PS5 and Xbox Series X|S normally cost $40. They include better graphics and faster loading times,…",
-      "url": "https://www.gamespot.com/articles/gta-5-for-ps5-and-xbox-series-xs-will-be-free-for-last-gen-owners-this-week/",
-      "date": "2026-06-17T15:26:26.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Eurogamer",
-      "title": "\"Rockstar thought they could control the narrative. They're wrong\" - tribunal rules against GTA 6 developer's request to remove union's blacklisting claims from ongoing legal dispute",
-      "summary": "An employment tribunal has ruled against Rockstar Games ' request to remove blacklisting claims from the ongoing legal dispute over alleged union busting at the Grand Theft Auto 6 studio. Read more",
-      "url": "https://www.eurogamer.net/gta-6-rockstar-legal-dispute-blacklisting-claims",
-      "date": "2026-06-17T15:08:39.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Eurogamer",
-      "title": "\"GTA is like the ogre\" - It's an \"odd\" year to release a video game, says A Plague Tale studio Asobo",
-      "summary": "A Plague Tale developer Asobo has called Grand Theft Auto 6 an \"ogre\" as far as its dominance over 2026's release schedule goes. It's the same year its Resonance: A Plague Tale Legacy game comes out, and it joins the crush in late August, a couple of months before GTA 6 crashes in. Read more",
-      "url": "https://www.eurogamer.net/a-plague-tale-developer-asobo-gta-6-release-date",
-      "date": "2026-06-12T16:08:11.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Eurogamer",
-      "title": "While other games try to avoid GTA 6, Phantom Blade Zero has changed its release date to move closer to it",
-      "summary": "Wuxia-inspired action game Phantom Blade Zero is arguably one of the most anticipated games of 2026, but no game is as anticipated as Grand Theft Auto 6 , as the many calendar shuffles to avoid November have shown. So it was particularly surprising to see Phantom Blade Zero given a release date during June's State o…",
-      "url": "https://www.eurogamer.net/phantom-blade-zero-delay-release-date-closer-to-gta-6",
-      "date": "2026-06-12T13:58:54.000Z"
     }
   ]
 }
