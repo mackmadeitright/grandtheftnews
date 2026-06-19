@@ -1,9 +1,17 @@
 {
-  "updated": "2026-06-19T10:52:41.951Z",
+  "updated": "2026-06-19T15:37:12.176Z",
   "count": 24,
   "items": [
     {
       "lead": true,
+      "src": "PC Gamer",
+      "title": "Players have uncovered a mistake with GTA 6's cover art and we've got a re-run of the same old jokes: 'pre-order cancelled'",
+      "summary": "Could the teeth be telling us something?",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/players-have-uncovered-a-mistake-with-gta-6s-cover-art-and-weve-got-a-re-run-of-the-same-old-jokes-pre-order-cancelled/",
+      "date": "2026-06-19T11:39:21.000Z"
+    },
+    {
+      "lead": false,
       "src": "Kotaku",
       "title": "White House Uses GTA 6 Meme To Distract From Reflecting Pool Turning The Color Of Mountain Dew",
       "summary": "Hey, idiot, the helicopter goes in the left top corner",
@@ -68,22 +76,6 @@
     },
     {
       "lead": false,
-      "src": "GamesRadar",
-      "title": "GTA 6 pre-orders are incoming, so here's where and how to secure your copy on June 25",
-      "summary": "Rockstar has announced that GTA 6 pre-orders are on their way, and I've got all the links you need to prepare you for next week's carnage.",
-      "url": "https://www.gamesradar.com/games/where-to-pre-order-gta-6/",
-      "date": "2026-06-18T15:15:27.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "The Steam Machine and GTA 6 pre-orders may happen at the same time, but it won't be on Valve's box",
-      "summary": "Both the Steam Machine and GTA 6 pre-orders could land on the same day, but you should note that you won't be playing the long-awaited sequel on Valve's box.",
-      "url": "https://www.gamesradar.com/hardware/the-steam-machine-and-gta-6-pre-orders-may-happen-at-the-same-time-but-it-wont-be-on-valves-box/",
-      "date": "2026-06-18T15:14:05.000Z"
-    },
-    {
-      "lead": false,
       "src": "IGN",
       "title": "GTA 6: Every Detail in the Cover Art Explained",
       "summary": "We've picked apart GTA 6's new cover art to discover all the details hidden in those nine panels, including new cars, characters, and some nods back to GTA: Vice City.",
@@ -97,14 +89,6 @@
       "summary": "Yup, there's a helicopter on the top left corner of the newly revealed Grand Theft Auto 6 cover artwork",
       "url": "https://kotaku.com/gta-6s-cover-continues-the-weird-rule-rockstar-has-followed-for-25-years-2000708095",
       "date": "2026-06-18T15:08:15.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "Feeling generous after making GTA 6 hopefuls wait a full year, Rockstar shows off Vice City in greater detail than ever after confirming pre-orders and showcasing the game's cover art",
-      "summary": "Those boats and helicopters are mighty enticing",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/feeling-generous-after-making-gta-6-hopefuls-wait-a-full-year-rockstar-shows-off-vice-city-in-greater-detail-than-ever-after-confirming-pre-orders-and-showcasing-the-games-cover-art/",
-      "date": "2026-06-18T15:03:24.000Z"
     },
     {
       "lead": false,
@@ -156,22 +140,6 @@
     },
     {
       "lead": false,
-      "src": "GamesRadar",
-      "title": "GTA 6 pre-orders open next week, Rockstar reveals cover art but still won't give us a price",
-      "summary": "Pre-order Grand Theft Auto 6 starting this month",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-cover-art-reveal/",
-      "date": "2026-06-18T13:18:54.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Kotaku",
-      "title": "GTA 6 Pre-Orders Start Next Week As Rockstar Reveals The Game’s Official Cover Art",
-      "summary": "On June 25 you'll finally be able to pre-order the upcoming open world game",
-      "url": "https://kotaku.com/gta-6-pre-orders-start-next-week-as-rockstar-reveals-the-games-official-cover-art-2000708063",
-      "date": "2026-06-18T13:12:28.000Z"
-    },
-    {
-      "lead": false,
       "src": "Eurogamer",
       "title": "As GTA Online readies for another large update, and GTA 6 approaches, Rockstar offers free upgrades to GTA 5 on PS5 and Xbox Series S/X",
       "summary": "In a surprise move, Grand Theft Auto developer Rockstar Games is giving players of GTA 5 on PS4 or Xbox One a free upgrade to GTA 5 on PS5 or Xbox Series X/S. Read more",
@@ -193,6 +161,38 @@
       "summary": "Rockstar has just revealed the cover artwork for GTA 6, and announced that pre-orders will begin on June 25.",
       "url": "https://www.ign.com/articles/gta-6-cover-artwork-revealed-pre-orders-begin-june-25",
       "date": "2026-06-18T13:07:41.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GameSpot",
+      "title": "GTA 5 For PS5 And Xbox Series X|S Will Be Free For Last-Gen Owners This Week",
+      "summary": "Ahead of GTA 6's release in November, Rockstar Games has announced that anyone who owns a digital copy of GTA 5 for PS4 or Xbox One will get a free upgrade to the PS5 or Xbox Series X|S version. The native versions for PS5 and Xbox Series X|S normally cost $40. They include better graphics and faster loading times,…",
+      "url": "https://www.gamespot.com/articles/gta-5-for-ps5-and-xbox-series-xs-will-be-free-for-last-gen-owners-this-week/",
+      "date": "2026-06-17T15:26:26.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Eurogamer",
+      "title": "\"Rockstar thought they could control the narrative. They're wrong\" - tribunal rules against GTA 6 developer's request to remove union's blacklisting claims from ongoing legal dispute",
+      "summary": "An employment tribunal has ruled against Rockstar Games ' request to remove blacklisting claims from the ongoing legal dispute over alleged union busting at the Grand Theft Auto 6 studio. Read more",
+      "url": "https://www.eurogamer.net/gta-6-rockstar-legal-dispute-blacklisting-claims",
+      "date": "2026-06-17T15:08:39.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Eurogamer",
+      "title": "\"GTA is like the ogre\" - It's an \"odd\" year to release a video game, says A Plague Tale studio Asobo",
+      "summary": "A Plague Tale developer Asobo has called Grand Theft Auto 6 an \"ogre\" as far as its dominance over 2026's release schedule goes. It's the same year its Resonance: A Plague Tale Legacy game comes out, and it joins the crush in late August, a couple of months before GTA 6 crashes in. Read more",
+      "url": "https://www.eurogamer.net/a-plague-tale-developer-asobo-gta-6-release-date",
+      "date": "2026-06-12T16:08:11.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Eurogamer",
+      "title": "While other games try to avoid GTA 6, Phantom Blade Zero has changed its release date to move closer to it",
+      "summary": "Wuxia-inspired action game Phantom Blade Zero is arguably one of the most anticipated games of 2026, but no game is as anticipated as Grand Theft Auto 6 , as the many calendar shuffles to avoid November have shown. So it was particularly surprising to see Phantom Blade Zero given a release date during June's State o…",
+      "url": "https://www.eurogamer.net/phantom-blade-zero-delay-release-date-closer-to-gta-6",
+      "date": "2026-06-12T13:58:54.000Z"
     }
   ]
 }
