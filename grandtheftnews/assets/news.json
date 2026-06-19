@@ -1,9 +1,17 @@
 {
-  "updated": "2026-06-19T15:37:12.176Z",
-  "count": 24,
+  "updated": "2026-06-19T19:59:00.735Z",
+  "count": 22,
   "items": [
     {
       "lead": true,
+      "src": "GamesRadar",
+      "title": "We've been waiting so long for GTA 6 that someone just found another GTA 4 swingset glitch after 18 years",
+      "summary": "Add it to the list",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/weve-been-waiting-so-long-for-gta-6-that-someone-just-found-another-gta-4-swingset-glitch-after-18-years/",
+      "date": "2026-06-19T17:54:38.000Z"
+    },
+    {
+      "lead": false,
       "src": "PC Gamer",
       "title": "Players have uncovered a mistake with GTA 6's cover art and we've got a re-run of the same old jokes: 'pre-order cancelled'",
       "summary": "Could the teeth be telling us something?",
@@ -41,22 +49,6 @@
       "summary": "The Grand Theft Auto series began in 1997, and every game in the series lets you commit the titular crime--sometimes stealing a parked vehicle, but often carjacking a driver in the middle of the street. But with the recent reveal of the Grand Theft Auto VI cover art , we realized something pretty remarkable: Only on…",
       "url": "https://www.gamespot.com/articles/nearly-30-years-later-only-one-gta-cover-actually-shows-the-titular-crime/",
       "date": "2026-06-18T16:34:02.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "GTA 6 cover art continues a 25-year-old Rockstar tradition",
-      "summary": "Look in the top-left corner of the cover art of GTA 6, and any mainline Grand Theft Auto game before it",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-cover-art-continues-a-25-year-old-rockstar-tradition/",
-      "date": "2026-06-18T16:30:35.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "Yes, it's okay to get very excited about a small new look at GTA 6's stunning Vice City",
-      "summary": "A new aerial shot of Vice City teases a world of possibilities",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/yes-its-okay-to-get-very-excited-about-a-small-new-look-at-gta-6s-stunning-vice-city/",
-      "date": "2026-06-18T16:20:28.000Z"
     },
     {
       "lead": false,
@@ -124,14 +116,6 @@
     },
     {
       "lead": false,
-      "src": "IGN",
-      "title": "GTA 6 Cover Art and Pre-Order Reveal Comes With a Fresh Look at Vice City",
-      "summary": "Rockstar didn’t just reveal the GTA 6 cover art and the date pre-orders go live, it also added a new image to its official website offering a fresh look at Vice City.",
-      "url": "https://www.ign.com/articles/gta-6-cover-art-and-pre-order-reveal-comes-with-a-fresh-look-at-vice-city",
-      "date": "2026-06-18T13:33:25.000Z"
-    },
-    {
-      "lead": false,
       "src": "Eurogamer",
       "title": "Rockstar reveals the Grand Theft Auto 6 box art, which is quite nice I suppose, and pre-order dates for the game",
       "summary": "Rockstar Games has revealed the box art for Grand Theft Auto 6 , which looks a lot like you'd expect it to look, and it's revealed pre-order dates for the new game. Read more",
@@ -153,14 +137,6 @@
       "summary": "At long last, preorders for GTA 6 will begin on June 25, Rockstar Games has announced. Additionally, the game's official cover art has been revealed. Crucially, Rockstar did not announce any pricing details for GTA 6, nor did the company list off the various editions of the game that will no doubt be available. Beho…",
       "url": "https://www.gamespot.com/articles/gta-6-preorders-begin-june-25-cover-art-revealed/",
       "date": "2026-06-18T13:07:49.000Z"
-    },
-    {
-      "lead": false,
-      "src": "IGN",
-      "title": "GTA 6 Cover Artwork Revealed, Pre-Orders Begin June 25",
-      "summary": "Rockstar has just revealed the cover artwork for GTA 6, and announced that pre-orders will begin on June 25.",
-      "url": "https://www.ign.com/articles/gta-6-cover-artwork-revealed-pre-orders-begin-june-25",
-      "date": "2026-06-18T13:07:41.000Z"
     },
     {
       "lead": false,
@@ -193,6 +169,14 @@
       "summary": "Wuxia-inspired action game Phantom Blade Zero is arguably one of the most anticipated games of 2026, but no game is as anticipated as Grand Theft Auto 6 , as the many calendar shuffles to avoid November have shown. So it was particularly surprising to see Phantom Blade Zero given a release date during June's State o…",
       "url": "https://www.eurogamer.net/phantom-blade-zero-delay-release-date-closer-to-gta-6",
       "date": "2026-06-12T13:58:54.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Eurogamer",
+      "title": "As games pile into September to avoid GTA 6, Ghostrunner studio's promising Soulslike Valor Mortis is shifting its release to escape the rush",
+      "summary": "It didn't take much of this year's Summer Game Fest to realise that, in racing to escape the orbit of GTA 6 , the games industry has created a new problem : a September 2026 so packed with releases that it's going to take some dedication - not to mention time and money - for players to get through even a fraction of…",
+      "url": "https://www.eurogamer.net/valor-mortis-new-release-date",
+      "date": "2026-06-11T16:53:31.000Z"
     }
   ]
 }
