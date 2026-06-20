@@ -1,9 +1,17 @@
 {
-  "updated": "2026-06-20T16:26:15.763Z",
+  "updated": "2026-06-20T19:48:22.078Z",
   "count": 19,
   "items": [
     {
       "lead": true,
+      "src": "PC Gamer",
+      "title": "The videogame market is as big as ever, with PC leading growth—global games revenue surpassed the $200 billion mark in 2025",
+      "summary": "Market analyst Michiel Buijsman reckons GTA 6 will be 2026's \"defining commercial catalyst.\"",
+      "url": "https://www.pcgamer.com/gaming-industry/the-videogame-market-is-as-big-as-ever-with-pc-leading-growth-global-games-revenue-surpassed-the-usd200-billion-mark-in-2025/",
+      "date": "2026-06-20T18:50:17.000Z"
+    },
+    {
+      "lead": false,
       "src": "GamesRadar",
       "title": "We've been waiting so long for GTA 6 that someone just found another GTA 4 swingset glitch after 18 years",
       "summary": "Add it to the list",
@@ -57,14 +65,6 @@
       "summary": "GTA 6 is alive! Rockstar has confirmed that pre-orders launch on June 25, which means we’re just a week away from finally getting some meaningful answers on what to expect when the most anticipated video game of all time comes out this November.",
       "url": "https://www.ign.com/articles/7-burning-questions-for-the-gta-6-pre-order-launch",
       "date": "2026-06-18T16:00:01.000Z"
-    },
-    {
-      "lead": false,
-      "src": "IGN",
-      "title": "Rockstar Fans Rejoice, as It Now Looks Certain GTA 6 Won't Get Delayed Again",
-      "summary": "Grand Theft Auto fans are reacting in shock and relief after today's surprise announcement that GTA 6 pre-orders will begin next week — all but confirming that the game won't get delayed once more.",
-      "url": "https://www.ign.com/articles/rockstar-fans-rejoice-as-it-now-looks-certain-gta-6-wont-get-delayed-again",
-      "date": "2026-06-18T15:41:31.000Z"
     },
     {
       "lead": false,
