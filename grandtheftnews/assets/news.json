@@ -1,9 +1,17 @@
 {
-  "updated": "2026-06-21T10:01:15.669Z",
-  "count": 16,
+  "updated": "2026-06-21T14:27:22.822Z",
+  "count": 17,
   "items": [
     {
       "lead": true,
+      "src": "GamesRadar",
+      "title": "GTA 6 prices potentially leak off a European retailer, and it looks like Rockstar Games is charging between €90 and €200",
+      "summary": "With five separate editions",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-prices-potentially-leak-off-a-european-retailer-and-it-looks-like-rockstar-games-is-charging-between-eur90-and-eur200/",
+      "date": "2026-06-21T10:25:43.000Z"
+    },
+    {
+      "lead": false,
       "src": "PC Gamer",
       "title": "The videogame market is as big as ever, with PC leading growth—global games revenue surpassed the $200 billion mark in 2025",
       "summary": "Market analyst Michiel Buijsman reckons GTA 6 will be 2026's \"defining commercial catalyst.\"",
