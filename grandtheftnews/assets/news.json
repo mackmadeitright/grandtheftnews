@@ -1,9 +1,65 @@
 {
-  "updated": "2026-06-23T15:18:35.068Z",
-  "count": 14,
+  "updated": "2026-06-23T20:16:44.106Z",
+  "count": 16,
   "items": [
     {
       "lead": true,
+      "src": "Polygon",
+      "title": "Lords of the Fallen 2 dodges crowded fall 2026, delayed to 2027",
+      "summary": "Originally due out later this year, the Soulslike sequel dodges Grand Theft Auto 6",
+      "url": "https://www.polygon.com/lords-of-the-fallen-2-flinches-delayed-to-2027/",
+      "date": "2026-06-23T20:06:41.000Z"
+    },
+    {
+      "lead": false,
+      "src": "PC Gamer",
+      "title": "Grand Theft Auto 6 puts another body in the trunk: Lords of the Fallen 2 is delayed to early 2027",
+      "summary": "The delay will provide developers with more time for \"iteration and polishing,\" and will also let CI Games avoid \"a highly competitive holiday period.\"",
+      "url": "https://www.pcgamer.com/games/action/grand-theft-auto-6-puts-another-body-in-the-trunk-lords-of-the-fallen-2-is-delayed-to-early-2027/",
+      "date": "2026-06-23T19:54:29.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Kotaku",
+      "title": "Lords Of The Fallen 2 Bails On A ‘Highly Competitive Holiday Period’ With New Delay",
+      "summary": "GTA 6 is still scaring everyone away",
+      "url": "https://kotaku.com/lords-of-the-fallen-2-bails-on-a-highly-competitive-holiday-period-with-new-delay-2000709606",
+      "date": "2026-06-23T19:45:09.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "GTA 6's leaked prices are \"possible and plausible,\" analysts say, but a high barrier to entry \"would be penny-wise and pound-foolish\"",
+      "summary": "The leaked prices were likely just placeholders, but some analysts say they could be accurate",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6s-leaked-prices-are-possible-and-plausible-analysts-say-but-a-high-barrier-to-entry-would-be-penny-wise-and-pound-foolish/",
+      "date": "2026-06-23T19:00:29.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GameSpot",
+      "title": "Lords Of The Fallen 2 Delayed To Avoid GTA 6 And Get More “Enhancements”",
+      "summary": "Lords of the Fallen 2 is not going to make it out on time. Developer CI Games has announced that the game is shifting from 2026 to Q1 2027 (January-March 2027). CI Games CEO Marek Tyminski said feedback and tests showed that there are \"meaningful opportunities\" available to \"further refine and strengthen the overall…",
+      "url": "https://www.gamespot.com/articles/lords-of-the-fallen-2-delayed-to-avoid-gta-6-and-get-more-enhancements/",
+      "date": "2026-06-23T18:56:04.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "If there's any reason to upgrade your gaming setup it's GTA 6, and Prime Day deals have you completely covered",
+      "summary": "There's lots of kit you need to pick up ahead of GTA 6's release, and Prime Day makes them all much cheaper.",
+      "url": "https://www.gamesradar.com/hardware/handhelds/if-theres-any-reason-to-upgrade-your-gaming-setup-its-gta-6-and-prime-day-deals-have-you-completely-covered/",
+      "date": "2026-06-23T18:41:20.000Z"
+    },
+    {
+      "lead": false,
+      "src": "PC Gamer",
+      "title": "Grand Theft Auto 6 'VIP early access' scam sites are already popping up, Malwarebytes warns",
+      "summary": "Don't fall for it.",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/grand-theft-auto-6-vip-early-access-scam-sites-are-already-popping-up-malwarebytes-warns/",
+      "date": "2026-06-23T16:48:46.000Z"
+    },
+    {
+      "lead": false,
       "src": "Eurogamer",
       "title": "£80, £90, £100? How much will Grand Theft Auto 6 cost? We ask the experts ahead of pre-orders opening this week",
       "summary": "Grand Theft Auto 6 is set to release in November with pre-orders going live this week, on 25th June - an occasion Rockstar announced with a short video revealing GTA 6's cover art . That teaser alone has already clocked up 10m views on YouTube. To say anticipation is high for the next mainline GTA instalment would b…",
@@ -20,14 +76,6 @@
     },
     {
       "lead": false,
-      "src": "IGN",
-      "title": "Marvel's Wolverine Actor Confirms Role in GTA 6",
-      "summary": "A handful of actors have started confirming they have roles in Grand Theft Auto VI, including one of the stars of Marvel's Wolverine.",
-      "url": "https://www.ign.com/articles/marvels-wolverine-actor-confirms-role-in-gta-6",
-      "date": "2026-06-23T01:39:05.000Z"
-    },
-    {
-      "lead": false,
       "src": "GameSpot",
       "title": "This $1,000 Steam Game Offers Very Little, But At Least It’s Honest About It",
       "summary": "With people wondering if GTA 6 preorders will kickstart a new $80 era for standard edition PS5 and Xbox Series X|S games, one new release on Steam already has Rockstar Games beat: Congratulations On Your Purchase. The new red carpet-simulator launched not too long ago, and it can be yours for the mere price of $1,00…",
@@ -37,26 +85,10 @@
     {
       "lead": false,
       "src": "GameSpot",
-      "title": "GTA 6’s “Leaked” Prices Are Probably Bogus, Reliable Insider Says",
-      "summary": "GTA 6 preorders go live on June 25 , and ahead of that, one retailer posted listings for the game showing higher-than-expected price points. A prominent and reliable reporter, however, has said those were just placeholders. The retailer fnac listed GTA 6's standard edition at €89.99, which is about $103 USD. The lis…",
+      "title": "GTA 6’s “Leaked” Sky-High Prices May Be Placeholders, But Could Be “Possible And Plausible”",
+      "summary": "GTA 6 preorders go live on June 25 , and ahead of that, one retailer posted listings for the game showing higher-than-expected price points. A prominent and reliable reporter, however, has said those were just placeholders. At the same time, industry analysts have weighed in on the price points, saying they may not…",
       "url": "https://www.gamespot.com/articles/gta-6s-leaked-prices-are-probably-bogus-reliable-insider-says/",
       "date": "2026-06-22T13:11:52.000Z"
-    },
-    {
-      "lead": false,
-      "src": "PC Gamer",
-      "title": "The videogame market is as big as ever, with PC leading growth—global games revenue surpassed the $200 billion mark in 2025",
-      "summary": "Market analyst Michiel Buijsman reckons GTA 6 will be 2026's \"defining commercial catalyst.\"",
-      "url": "https://www.pcgamer.com/gaming-industry/the-videogame-market-is-as-big-as-ever-with-pc-leading-growth-global-games-revenue-surpassed-the-usd200-billion-mark-in-2025/",
-      "date": "2026-06-20T18:50:17.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GameSpot",
-      "title": "Nearly 30 Years Later, Only One GTA Cover Actually Shows The Titular Crime",
-      "summary": "The Grand Theft Auto series began in 1997, and every game in the series lets you commit the titular crime--sometimes stealing a parked vehicle, but often carjacking a driver in the middle of the street. But with the recent reveal of the Grand Theft Auto VI cover art , we realized something pretty remarkable: Only on…",
-      "url": "https://www.gamespot.com/articles/nearly-30-years-later-only-one-gta-cover-actually-shows-the-titular-crime/",
-      "date": "2026-06-18T16:34:02.000Z"
     },
     {
       "lead": false,
@@ -65,14 +97,6 @@
       "summary": "Along with today's cover art reveal, Rockstar has also quietly revealed its best visual overview so far of Grand Theft Auto 6 's crime-laiden metropolis, Vice City. Read more",
       "url": "https://www.eurogamer.net/gta-6-vice-city-overview-map",
       "date": "2026-06-18T14:58:23.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GameSpot",
-      "title": "New GTA 6 Screenshot Shows Off A Beautiful, Bustling Nighttime Scene By The Water",
-      "summary": "Rockstar Games has finally confirmed that GTA 6 preorders begin June 25 , and as part of the announcement, the game's website was updated with a new look at Vice City. A new image shows a nighttime scene in Vice City, with boats cruising through the water. Based on the ferris wheel in the background, this looks like…",
-      "url": "https://www.gamespot.com/articles/new-gta-6-screenshot-shows-off-a-beautiful-bustling-nighttime-scene-by-the-water/",
-      "date": "2026-06-18T14:03:13.000Z"
     },
     {
       "lead": false,
@@ -105,14 +129,6 @@
       "summary": "A Plague Tale developer Asobo has called Grand Theft Auto 6 an \"ogre\" as far as its dominance over 2026's release schedule goes. It's the same year its Resonance: A Plague Tale Legacy game comes out, and it joins the crush in late August, a couple of months before GTA 6 crashes in. Read more",
       "url": "https://www.eurogamer.net/a-plague-tale-developer-asobo-gta-6-release-date",
       "date": "2026-06-12T16:08:11.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Eurogamer",
-      "title": "While other games try to avoid GTA 6, Phantom Blade Zero has changed its release date to move closer to it",
-      "summary": "Wuxia-inspired action game Phantom Blade Zero is arguably one of the most anticipated games of 2026, but no game is as anticipated as Grand Theft Auto 6 , as the many calendar shuffles to avoid November have shown. So it was particularly surprising to see Phantom Blade Zero given a release date during June's State o…",
-      "url": "https://www.eurogamer.net/phantom-blade-zero-delay-release-date-closer-to-gta-6",
-      "date": "2026-06-12T13:58:54.000Z"
     }
   ]
 }
