@@ -1,9 +1,25 @@
 {
-  "updated": "2026-06-22T22:50:58.542Z",
+  "updated": "2026-06-23T04:13:14.059Z",
   "count": 17,
   "items": [
     {
       "lead": true,
+      "src": "IGN",
+      "title": "GTA 6 Fans Spot Tommy Vercetti Easter Egg Over a Year After Trailer 2's Release",
+      "summary": "Grand Theft Auto 6 fans have spotted a cheeky nod to Vice City protagonist Tommy Vercetti in the game's second trailer.",
+      "url": "https://www.ign.com/articles/gta-6-fans-spot-tommy-vercetti-easter-egg-over-a-year-after-trailer-2s-release",
+      "date": "2026-06-23T02:24:16.000Z"
+    },
+    {
+      "lead": false,
+      "src": "IGN",
+      "title": "Marvel's Wolverine Actor Confirms Role in GTA 6",
+      "summary": "A handful of actors have started confirming they have roles in Grand Theft Auto VI, including one of the stars of Marvel's Wolverine.",
+      "url": "https://www.ign.com/articles/marvels-wolverine-actor-confirms-role-in-gta-6",
+      "date": "2026-06-23T01:39:05.000Z"
+    },
+    {
+      "lead": false,
       "src": "Kotaku",
       "title": "GTA 6 Fans Are Obsessed With Why This Ferris Wheel Has No Reflection",
       "summary": "Look, they got time to kill until November, okay?",
@@ -41,22 +57,6 @@
       "summary": "Fans speculate that \"they definitely wouldn't have commented that for no reason,\" but I sure can think of one",
       "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-trailer-3-hopes-soar-as-youtube-jumps-back-into-rockstars-last-trailer-to-tease-its-going-to-be-busy-on-pre-order-day-but-i-think-we-already-have-our-explanation/",
       "date": "2026-06-22T11:18:59.000Z"
-    },
-    {
-      "lead": false,
-      "src": "IGN",
-      "title": "Scammers Are 'Dangling the One Thing' PC Gamers Won't Get Anytime Soon: GTA 6",
-      "summary": "GTA 6 malware and scams are on the rise, and they’re targeting PC and Android users because Rockstar is skipping those platforms for the game’s launch.",
-      "url": "https://www.ign.com/articles/scammers-are-dangling-the-one-thing-pc-gamers-wont-get-anytime-soon-gta-6",
-      "date": "2026-06-22T10:49:27.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "Rumored GTA 6 pre-order prices are \"just placeholders,\" reliable leaker claims: \"Those prices are random\"",
-      "summary": "This could be good news or bad news for our wallets",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/rumored-gta-6-pre-order-prices-are-just-placeholders-reliable-leaker-claims-those-prices-are-random/",
-      "date": "2026-06-22T09:46:59.000Z"
     },
     {
       "lead": false,
