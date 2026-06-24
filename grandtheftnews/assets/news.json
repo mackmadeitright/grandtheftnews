@@ -1,126 +1,198 @@
 {
-  "updated": "2026-06-24T09:46:13.350Z",
-  "count": 15,
+  "updated": "2026-06-24T14:48:51.947Z",
+  "count": 24,
   "items": [
     {
       "lead": true,
       "src": "Polygon",
-      "title": "Lords of the Fallen 2 dodges crowded fall 2026, delayed to 2027",
-      "summary": "Originally due out later this year, the Soulslike sequel dodges Grand Theft Auto 6",
-      "url": "https://www.polygon.com/lords-of-the-fallen-2-flinches-delayed-to-2027/",
-      "date": "2026-06-23T20:06:41.000Z"
+      "title": "Will GTA 6 have GTA Online? Here's everything we know so far",
+      "summary": "Thanks to a recent leak, we have a clearer picture about what Rockstar Games may have planned for the online future of GTA Online",
+      "url": "https://www.polygon.com/gta-online-gta-6-release-new/",
+      "date": "2026-06-24T14:30:59.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "Sorry, Xbox fans: GTA 6 \"will play best on PS5,\" Sony declares, but with no PC version in sight, I can't say I'm surprised",
+      "summary": "I for one am shocked the only console with a Pro model is the best. Shocked, I tell you!",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/sorry-xbox-fans-gta-6-will-play-best-on-ps5-sony-declares-but-with-no-pc-version-in-sight-i-cant-say-im-surprised/",
+      "date": "2026-06-24T14:24:36.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GameSpot",
+      "title": "GTA 6 “Features A Single-Player Experience,” At Least At Launch",
+      "summary": "It remains to be seen what form GTA Online will take in the years to come, but at least initially, it will not be included with Grand Theft Auto 6. Rockstar has confirmed the upcoming game \"features a single-player experience\" for its November 19 launch date. That nugget of info was shared as part of the pricing and…",
+      "url": "https://www.gamespot.com/articles/gta-6-features-a-single-player-experience-at-least-at-launch/",
+      "date": "2026-06-24T14:18:46.000Z"
     },
     {
       "lead": false,
       "src": "PC Gamer",
-      "title": "Grand Theft Auto 6 puts another body in the trunk: Lords of the Fallen 2 is delayed to early 2027",
-      "summary": "The delay will provide developers with more time for \"iteration and polishing,\" and will also let CI Games avoid \"a highly competitive holiday period.\"",
-      "url": "https://www.pcgamer.com/games/action/grand-theft-auto-6-puts-another-body-in-the-trunk-lords-of-the-fallen-2-is-delayed-to-early-2027/",
-      "date": "2026-06-23T19:54:29.000Z"
+      "title": "Nothing has killed my GTA 6 hype faster than locking a core part of its identity behind a $20 upgrade",
+      "summary": "GTA 6's Ultimate Edition is a crime against fashion enthusiasts",
+      "url": "https://www.pcgamer.com/games/action/nothing-has-killed-my-gta-6-hype-faster-than-locking-a-core-part-of-its-identity-behind-a-usd20-upgrade/",
+      "date": "2026-06-24T14:10:10.000Z"
     },
     {
       "lead": false,
       "src": "Kotaku",
-      "title": "Lords Of The Fallen 2 Bails On A ‘Highly Competitive Holiday Period’ With New Delay",
-      "summary": "GTA 6 is still scaring everyone away",
-      "url": "https://kotaku.com/lords-of-the-fallen-2-bails-on-a-highly-competitive-holiday-period-with-new-delay-2000709606",
-      "date": "2026-06-23T19:45:09.000Z"
+      "title": "Forget The Heists, I Can’t Wait To Spend Hours Dressing Up GTA 6′s Protagonists",
+      "summary": "This is just Infinity Nikki with extra steps",
+      "url": "https://kotaku.com/gta-6-dress-up-simulator-2000710085",
+      "date": "2026-06-24T14:08:40.000Z"
     },
     {
       "lead": false,
-      "src": "GamesRadar",
-      "title": "GTA 6's leaked prices are \"possible and plausible,\" analysts say, but a high barrier to entry \"would be penny-wise and pound-foolish\"",
-      "summary": "The leaked prices were likely just placeholders, but some analysts say they could be accurate",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6s-leaked-prices-are-possible-and-plausible-analysts-say-but-a-high-barrier-to-entry-would-be-penny-wise-and-pound-foolish/",
-      "date": "2026-06-23T19:00:29.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GameSpot",
-      "title": "Lords Of The Fallen 2 Delayed To Avoid GTA 6 And Get More “Enhancements”",
-      "summary": "Lords of the Fallen 2 is not going to make it out on time. Developer CI Games has announced that the game is shifting from 2026 to Q1 2027 (January-March 2027). CI Games CEO Marek Tyminski said feedback and tests showed that there are \"meaningful opportunities\" available to \"further refine and strengthen the overall…",
-      "url": "https://www.gamespot.com/articles/lords-of-the-fallen-2-delayed-to-avoid-gta-6-and-get-more-enhancements/",
-      "date": "2026-06-23T18:56:04.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "If there's any reason to upgrade your gaming setup it's GTA 6, and Prime Day deals have you completely covered",
-      "summary": "There's lots of kit you need to pick up ahead of GTA 6's release, and Prime Day makes them all much cheaper.",
-      "url": "https://www.gamesradar.com/hardware/handhelds/if-theres-any-reason-to-upgrade-your-gaming-setup-its-gta-6-and-prime-day-deals-have-you-completely-covered/",
-      "date": "2026-06-23T18:41:20.000Z"
+      "src": "Polygon",
+      "title": "GTA 6 is a \"single-player experience\" only, Rockstar clarifies",
+      "summary": "Grand Theft Auto 6 is single-player only, Rockstar confirms, leaving questions about the future of GTA Online when GTA 6 releases in November 2026.",
+      "url": "https://www.polygon.com/gta-6-single-player-experience-online-rockstar-games/",
+      "date": "2026-06-24T14:08:23.000Z"
     },
     {
       "lead": false,
       "src": "PC Gamer",
-      "title": "Grand Theft Auto 6 'VIP early access' scam sites are already popping up, Malwarebytes warns",
-      "summary": "Don't fall for it.",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/grand-theft-auto-6-vip-early-access-scam-sites-are-already-popping-up-malwarebytes-warns/",
-      "date": "2026-06-23T16:48:46.000Z"
+      "title": "GTA 6 is a 'singleplayer experience', leaving me to question what's going on with GTA Online",
+      "summary": "Rockstar's theatrics never change.",
+      "url": "https://www.pcgamer.com/games/action/gta-6-is-a-singleplayer-experience-leaving-me-to-question-whats-going-on-with-gta-online/",
+      "date": "2026-06-24T14:03:50.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Kotaku",
+      "title": "Vice Up Your GTA 6 With These Vice City–Inspired Pre-Order Bonuses",
+      "summary": "Pastels and feathered hair everywhere",
+      "url": "https://kotaku.com/gta6-preorder-bonuses-vice-city-tommy-vercetti-2000709954",
+      "date": "2026-06-24T13:49:48.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Kotaku",
+      "title": "Feast Your Eyes On Over 60 New Grand Theft Auto 6 Screenshots",
+      "summary": "Rockstar is opening the floodgates ahead of pre-orders going live tomorrow",
+      "url": "https://kotaku.com/grand-theft-auto-6-gta6-screenshots-ultimate-edition-vice-2000709996",
+      "date": "2026-06-24T13:40:37.000Z"
+    },
+    {
+      "lead": false,
+      "src": "IGN",
+      "title": "GTA 6: Everything Rockstar Announced and Confirmed on Preorder Day",
+      "summary": "It’s been a big day of GTA 6 news, with Rockstar confirming fresh details for what is perhaps the most anticipated video game of all time ahead of preorders going live. IGN has plenty of coverage for you to dig into, but here we’ve rounded up everything announced and confirmed, including new screenshots, first detai…",
+      "url": "https://www.ign.com/articles/gta-6-everything-rockstar-announced-and-confirmed-on-preorder-day",
+      "date": "2026-06-24T13:32:51.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Kotaku",
+      "title": "Grand Theft Auto 6′s PS5 Version Claims It’ll Offer ‘Near-Instant Load Times’",
+      "summary": "There's also rumor of a PS5 Pro Enhanced version of the game",
+      "url": "https://kotaku.com/grand-theft-auto-6s-ps5-version-claims-itll-offer-near-instant-load-times-2000709958",
+      "date": "2026-06-24T13:19:34.000Z"
     },
     {
       "lead": false,
       "src": "Eurogamer",
-      "title": "£80, £90, £100? How much will Grand Theft Auto 6 cost? We ask the experts ahead of pre-orders opening this week",
-      "summary": "Grand Theft Auto 6 is set to release in November with pre-orders going live this week, on 25th June - an occasion Rockstar announced with a short video revealing GTA 6's cover art . That teaser alone has already clocked up 10m views on YouTube. To say anticipation is high for the next mainline GTA instalment would b…",
-      "url": "https://www.eurogamer.net/gta-6-pre-order-prices-ps5-xbox-series-xs-analysts",
-      "date": "2026-06-23T11:00:00.000Z"
+      "title": "Sony wants you to know GTA 6 \"will play best on PS5\", and here's why",
+      "summary": "Sony has released a blog post detailing the PlayStation 5 features that will work with Grand Theft Auto 6 , and it's claimed the game will \"play best\" on PS5. Read more",
+      "url": "https://www.eurogamer.net/grand-theft-auto-6-ps5-features",
+      "date": "2026-06-24T13:06:18.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Polygon",
+      "title": "63 new GTA 6 screenshots show incredible detail and customization",
+      "summary": "Rockstar's latest look at its open world game reveals customization options like clothes, accessories, and haircuts alongside new cars and weapons.",
+      "url": "https://www.polygon.com/gta-6-screenshots-jason-lucia-customization-cars-weapons-gameplay/",
+      "date": "2026-06-24T13:04:26.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Kotaku",
+      "title": "The Internet Reacts To Grand Theft Auto 6’s Price And Missing Physical Disc",
+      "summary": "Rockstar has announced that the game will cost $80, but some argue the $100 package is the ‘real’ experience",
+      "url": "https://kotaku.com/grand-theft-auto-6-gta6-price-physical-disc-ultimate-2000709959",
+      "date": "2026-06-24T12:58:02.000Z"
+    },
+    {
+      "lead": false,
+      "src": "IGN",
+      "title": "GTA 6 Is a 'Single-Player Experience,' Rockstar Confirms — What Now for GTA Online?",
+      "summary": "GTA 6 is a “single-player experience,” Rockstar has confirmed in a note sent to IGN, as well as on storefronts where you can now preorder the game. This suggests the $80 base game does not include any new version of GTA Online, should such an experience be in the works.",
+      "url": "https://www.ign.com/articles/gta-6-is-a-single-player-experience-rockstar-confirms-what-now-for-gta-online",
+      "date": "2026-06-24T12:52:50.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "New GTA 6 activities, customization, and gameplay details revealed alongside 63 gorgeous screenshots",
+      "summary": "Here's every new GTA 6 gameplay detail we learned after the Ultimate Edition announcement",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-new-gameplay-details-activities-customization-confirmed-63-screenshots/",
+      "date": "2026-06-24T12:51:11.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Kotaku",
+      "title": "Exclusive Vehicles, Guns, And More: Here’s Everything Included In The Grand Theft Auto 6 Ultimate Edition",
+      "summary": "The $100 version includes exclusive vehicles and other rewards",
+      "url": "https://kotaku.com/exclusive-vehicles-guns-and-more-heres-everything-included-in-the-grand-theft-auto-6-ultimate-edition-2000709941",
+      "date": "2026-06-24T12:12:58.000Z"
+    },
+    {
+      "lead": false,
+      "src": "IGN",
+      "title": "Some Fear GTA 6 Physical Version Marks the End of the Video Game Disc",
+      "summary": "Rockstar has come under fire for releasing the physical version of GTA 6 with a download code only, with some saying the decision is the final nail in the coffin for video game discs.",
+      "url": "https://www.ign.com/articles/some-fear-gta-6-physical-version-marks-the-end-of-the-video-game-disc",
+      "date": "2026-06-24T12:06:31.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "GTA 6 is following Red Dead Redemption 2's footsteps in how it breaks up the story, Rockstar teases",
+      "summary": "Chapters are back!",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-is-following-red-dead-redemption-2s-footsteps-in-how-it-breaks-up-the-story-rockstar-teases/",
+      "date": "2026-06-24T12:01:44.000Z"
     },
     {
       "lead": false,
       "src": "GameSpot",
-      "title": "This $1,000 Steam Game Offers Very Little, But At Least It’s Honest About It",
-      "summary": "With people wondering if GTA 6 preorders will kickstart a new $80 era for standard edition PS5 and Xbox Series X|S games, one new release on Steam already has Rockstar Games beat: Congratulations On Your Purchase. The new red carpet-simulator launched not too long ago, and it can be yours for the mere price of $1,00…",
-      "url": "https://www.gamespot.com/articles/this-1000-steam-game-offers-very-little-but-at-least-its-honest-about-it/",
-      "date": "2026-06-22T13:55:52.000Z"
+      "title": "Here’s How Much You’ll Pay For GTA 6, And What’s Included In The Ultimate Edition",
+      "summary": "Ahead of the preorders launching tomorrow , June 25, Rockstar has detailed the bonuses for the GTA 6 Ultimate Edition that will be available. Crucially, there will be no traditional physical copies of GTA 6 , even in the shipped versions of the game. Instead, players will receive a download code. Preorders will laun…",
+      "url": "https://www.gamespot.com/articles/heres-how-much-youll-pay-for-gta-6-and-whats-included-in-the-ultimate-edition/",
+      "date": "2026-06-24T11:59:24.000Z"
     },
     {
       "lead": false,
-      "src": "GameSpot",
-      "title": "GTA 6’s “Leaked” Sky-High Prices May Be Placeholders, But Could Be “Possible And Plausible”",
-      "summary": "GTA 6 preorders go live on June 25 , and ahead of that, one retailer posted listings for the game showing higher-than-expected price points. A prominent and reliable reporter, however, has said those were just placeholders. At the same time, industry analysts have weighed in on the price points, saying they may not…",
-      "url": "https://www.gamespot.com/articles/gta-6s-leaked-prices-are-probably-bogus-reliable-insider-says/",
-      "date": "2026-06-22T13:11:52.000Z"
+      "src": "Kotaku",
+      "title": "Rockstar Saying Grand Theft Auto 6 ‘Features A Single-Player Experience’ Has Fans Wondering About The New GTA Online",
+      "summary": "The unannounced multiplayer sequel seems very unlikely to appear for the November 19 launch",
+      "url": "https://kotaku.com/rockstar-grand-theft-auto-6-single-player-gta-online-2-2000709933",
+      "date": "2026-06-24T11:53:01.000Z"
     },
     {
       "lead": false,
-      "src": "Eurogamer",
-      "title": "Rockstar quietly gives us probably our best look at GTA 6's Vice City yet",
-      "summary": "Along with today's cover art reveal, Rockstar has also quietly revealed its best visual overview so far of Grand Theft Auto 6 's crime-laiden metropolis, Vice City. Read more",
-      "url": "https://www.eurogamer.net/gta-6-vice-city-overview-map",
-      "date": "2026-06-18T14:58:23.000Z"
+      "src": "IGN",
+      "title": "GTA 6's Ultimate Edition Locks Off Exclusive Mission and Shops, But How Will It Work?",
+      "summary": "GTA 6's Ultimate Edition locks off an exclusive mission and multiple Vice City shops, but how will that work?",
+      "url": "https://www.ign.com/articles/gta-6s-ultimate-edition-locks-off-exclusive-mission-and-shops-but-how-will-it-work",
+      "date": "2026-06-24T11:46:34.000Z"
     },
     {
       "lead": false,
-      "src": "Eurogamer",
-      "title": "Rockstar reveals the Grand Theft Auto 6 box art, which is quite nice I suppose, and pre-order dates for the game",
-      "summary": "Rockstar Games has revealed the box art for Grand Theft Auto 6 , which looks a lot like you'd expect it to look, and it's revealed pre-order dates for the new game. Read more",
-      "url": "https://www.eurogamer.net/rockstar-grand-theft-auto-6-gta-box-art",
-      "date": "2026-06-18T13:30:58.000Z"
+      "src": "IGN",
+      "title": "Grand Theft Auto 6 'Plays Best on PS5,' Sony Boasts — Here's Why",
+      "summary": "Grand Theft Auto 6 will \"play best on PS5\" as it makes use of various immersive console features, Sony has said, boasting of its \"close partnership\" with Rockstar Games.",
+      "url": "https://www.ign.com/articles/grand-theft-auto-6-plays-best-on-ps5-sony-boasts-heres-why",
+      "date": "2026-06-24T11:44:14.000Z"
     },
     {
       "lead": false,
-      "src": "Eurogamer",
-      "title": "As GTA Online readies for another large update, and GTA 6 approaches, Rockstar offers free upgrades to GTA 5 on PS5 and Xbox Series S/X",
-      "summary": "In a surprise move, Grand Theft Auto developer Rockstar Games is giving players of GTA 5 on PS4 or Xbox One a free upgrade to GTA 5 on PS5 or Xbox Series X/S. Read more",
-      "url": "https://www.eurogamer.net/gta-5-free-ps5-xbox-series-x-s-upgrade",
-      "date": "2026-06-18T13:08:06.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Eurogamer",
-      "title": "\"Rockstar thought they could control the narrative. They're wrong\" - tribunal rules against GTA 6 developer's request to remove union's blacklisting claims from ongoing legal dispute",
-      "summary": "An employment tribunal has ruled against Rockstar Games ' request to remove blacklisting claims from the ongoing legal dispute over alleged union busting at the Grand Theft Auto 6 studio. Read more",
-      "url": "https://www.eurogamer.net/gta-6-rockstar-legal-dispute-blacklisting-claims",
-      "date": "2026-06-17T15:08:39.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Eurogamer",
-      "title": "\"GTA is like the ogre\" - It's an \"odd\" year to release a video game, says A Plague Tale studio Asobo",
-      "summary": "A Plague Tale developer Asobo has called Grand Theft Auto 6 an \"ogre\" as far as its dominance over 2026's release schedule goes. It's the same year its Resonance: A Plague Tale Legacy game comes out, and it joins the crush in late August, a couple of months before GTA 6 crashes in. Read more",
-      "url": "https://www.eurogamer.net/a-plague-tale-developer-asobo-gta-6-release-date",
-      "date": "2026-06-12T16:08:11.000Z"
+      "src": "Kotaku",
+      "title": "‘Physical’ Copies Of GTA 6 Will Just Be A Code In A Box With No Disc At Launch",
+      "summary": "Redeemable codes would prevent the game from leaking early",
+      "url": "https://kotaku.com/physical-copies-of-gta-6-will-just-be-a-code-in-a-box-with-no-disc-at-launch-2000709919",
+      "date": "2026-06-24T11:38:20.000Z"
     }
   ]
 }
