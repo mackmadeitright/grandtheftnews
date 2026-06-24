@@ -1,9 +1,33 @@
 {
-  "updated": "2026-06-24T19:58:32.777Z",
+  "updated": "2026-06-24T22:23:42.449Z",
   "count": 24,
   "items": [
     {
       "lead": true,
+      "src": "PC Gamer",
+      "title": "Now we know how much GTA 6 costs, but can you remember what these other games cost at launch? Take our price tag quiz!",
+      "summary": "There's always a price.",
+      "url": "https://www.pcgamer.com/games/now-we-know-how-much-gta-6-costs-but-can-you-remember-what-these-other-games-cost-at-launch-take-our-price-tag-quiz/",
+      "date": "2026-06-24T21:41:58.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "Multiple retailers drop GTA 6 after physical version is confirmed to be a code in a box",
+      "summary": "\"This decision is not a reflection of the game itself\"",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/multiple-retailers-drop-gta-6-after-physical-version-is-confirmed-to-be-a-code-in-a-box/",
+      "date": "2026-06-24T21:04:01.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Polygon",
+      "title": "Grand Theft Auto 6's graphics are blowing fans' minds",
+      "summary": "GTA 6's mud teases some new gameplay features and gives depth to a faction shown in earlier trailers, but there's a good reason to be skeptical",
+      "url": "https://www.polygon.com/gta-6-ps5-pro-enhancements-ray-tracing-thrillbilly-club/",
+      "date": "2026-06-24T20:23:44.000Z"
+    },
+    {
+      "lead": false,
       "src": "IGN",
       "title": "Some Retailers Are Refusing to Sell GTA 6 Due to the Lack of a Disc",
       "summary": "Two retailers have announced that they will not be selling Grand Theft Auto 6 due to the game not releasing on a disc.",
@@ -109,7 +133,7 @@
     {
       "lead": false,
       "src": "GamesRadar",
-      "title": "GTA 6 pre-orders live: it's the quiet before the storm as we get prepared for tonight's carnage",
+      "title": "GTA 6 pre-orders live - tracking the best retailers, top tips, and pricing updates ahead of midnight",
       "summary": "GTA 6 pre-orders are dropping at midnight tonight - here's everything you need to secure the Standard or Ultimate Edition.",
       "url": "https://www.gamesradar.com/news/live/gta-6-pre-orders-live-june-25/",
       "date": "2026-06-24T15:40:46.000Z"
@@ -169,30 +193,6 @@
       "summary": "It remains to be seen what form GTA Online will take in the years to come, but at least initially, it will not be included with Grand Theft Auto 6. Rockstar has confirmed the upcoming game \"features a single-player experience\" for its November 19 launch date. That nugget of info was shared as part of the pricing and…",
       "url": "https://www.gamespot.com/articles/gta-6-features-a-single-player-experience-at-least-at-launch/",
       "date": "2026-06-24T14:18:46.000Z"
-    },
-    {
-      "lead": false,
-      "src": "PC Gamer",
-      "title": "Nothing has killed my GTA 6 hype faster than locking a core part of its identity behind a $20 upgrade",
-      "summary": "GTA 6's Ultimate Edition is a crime against fashion enthusiasts",
-      "url": "https://www.pcgamer.com/games/action/nothing-has-killed-my-gta-6-hype-faster-than-locking-a-core-part-of-its-identity-behind-a-usd20-upgrade/",
-      "date": "2026-06-24T14:10:10.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Kotaku",
-      "title": "Forget The Heists, I Can’t Wait To Spend Hours Dressing Up GTA 6′s Protagonists",
-      "summary": "This is just Infinity Nikki with extra steps",
-      "url": "https://kotaku.com/gta-6-dress-up-simulator-2000710085",
-      "date": "2026-06-24T14:08:40.000Z"
-    },
-    {
-      "lead": false,
-      "src": "PC Gamer",
-      "title": "GTA 6 is a 'singleplayer experience', leaving me to question what's going on with GTA Online",
-      "summary": "Rockstar's theatrics never change.",
-      "url": "https://www.pcgamer.com/games/action/gta-6-is-a-singleplayer-experience-leaving-me-to-question-whats-going-on-with-gta-online/",
-      "date": "2026-06-24T14:03:50.000Z"
     }
   ]
 }
