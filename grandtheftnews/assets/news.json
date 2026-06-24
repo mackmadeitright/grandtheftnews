@@ -1,22 +1,78 @@
 {
-  "updated": "2026-06-24T17:11:29.331Z",
+  "updated": "2026-06-24T19:58:32.777Z",
   "count": 24,
   "items": [
     {
       "lead": true,
-      "src": "Polygon",
-      "title": "GTA 6 is stealing one of Red Dead Redemption 2's best features",
-      "summary": "Expect a more structured story in Vice City as Rockstar Games says Grand Theft Auto 6 will have story chapters, similar to Red Dead Redemption 2.",
-      "url": "https://www.polygon.com/gta-6-red-dead-redemption-2-story-chapters-rockstar-games/",
-      "date": "2026-06-24T17:01:54.000Z"
+      "src": "IGN",
+      "title": "Some Retailers Are Refusing to Sell GTA 6 Due to the Lack of a Disc",
+      "summary": "Two retailers have announced that they will not be selling Grand Theft Auto 6 due to the game not releasing on a disc.",
+      "url": "https://www.ign.com/articles/some-retailers-are-refusing-to-sell-gta-6-due-to-the-lack-of-a-disc",
+      "date": "2026-06-24T19:09:23.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Kotaku",
+      "title": "Time Is A Flat Circle As People Online Debate If GTA 6 Has Suffered A Graphical Downgrade",
+      "summary": "A lot of people are spending far too much time looking at digital bushes, beards, and buildings",
+      "url": "https://kotaku.com/time-is-a-flat-circle-as-people-online-debate-if-gta-6-has-suffered-a-graphical-downgrade-2000710166",
+      "date": "2026-06-24T19:08:05.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GameSpot",
+      "title": "Some Retailers Are Refusing To Carry GTA 6’s Physical Release",
+      "summary": "The news that Grand Theft Auto 6 won't get a traditional physical release and will include a code in a box rather than a disc isn't sitting well with many on the internet . At least two retailers are joining the dissent, announcing their intent not to sell GTA 6. Video Games Plus (VGP), a Toronto-based retailer, sta…",
+      "url": "https://www.gamespot.com/articles/some-retailers-are-refusing-to-carry-gta-6s-physical-release/",
+      "date": "2026-06-24T19:03:42.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "I should hate GTA 6's pre-order bonuses and Ultimate Edition add-ons, but I'm glad Rockstar seems to be avoiding the big problem with game-breaking DLC",
+      "summary": "Opinion | At least the Ultimate Edition won't ruin the game itself",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/i-should-hate-gta-6s-pre-order-bonuses-and-ultimate-edition-add-ons-but-im-glad-rockstar-seems-to-be-avoiding-the-big-problem-with-game-breaking-dlc/",
+      "date": "2026-06-24T18:54:22.000Z"
+    },
+    {
+      "lead": false,
+      "src": "IGN",
+      "title": "GTA 6 Fans Think They Spotted a Lore Mistake, but It's Likely on Purpose",
+      "summary": "Grand Theft Auto VI fans think Rockstar may have messed up when it comes to its own lore, but there may be more than meets the eye.",
+      "url": "https://www.ign.com/articles/gta-6-fans-think-they-spotted-a-lore-mistake-but-its-likely-on-purpose",
+      "date": "2026-06-24T18:33:15.000Z"
+    },
+    {
+      "lead": false,
+      "src": "IGN",
+      "title": "Has $80 GTA 6 Opened the Door to More Expensive Games? Analysts Respond",
+      "summary": "Rockstar has ended months of speculation by confirming that GTA 6 will cost at $80 — but how prevalent will $80 games now become, and can other video game publishers succeed at this price point?",
+      "url": "https://www.ign.com/articles/has-80-gta-6-opened-the-door-to-more-expensive-games-analysts-respond",
+      "date": "2026-06-24T18:13:05.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "This PlayStation Gift Card deal is your best tool to fight back against the GTA 6 prices, but not for US fans",
+      "summary": "ShopTo has dropped a £70 PlayStation Gift Card saving that will help keep your GTA 6 pre-order cost as low as possible.",
+      "url": "https://www.gamesradar.com/hardware/this-playstation-gift-card-deal-is-your-best-tool-to-fight-back-against-the-gta-6-prices-but-not-for-us-fans/",
+      "date": "2026-06-24T18:08:28.000Z"
+    },
+    {
+      "lead": false,
+      "src": "IGN",
+      "title": "How to Prepare for Grand Theft Auto 6 Preorders",
+      "summary": "Read the full story at the source.",
+      "url": "https://www.ign.com/articles/gta-6-preorder-tips-and-tricks",
+      "date": "2026-06-24T18:00:00.000Z"
     },
     {
       "lead": false,
       "src": "Polygon",
-      "title": "GTA 6 price, pre-order bonuses, and more — here's everything we just learned about the upcoming game",
-      "summary": "Grand Theft Auto 6 is shaping up to be one of the biggest pieces of entertainment in history. Rockstar just revealed a ton of new info about it.",
-      "url": "https://www.polygon.com/gta6-grand-theft-auto-6-news-price-release-date-pre-orders/",
-      "date": "2026-06-24T16:56:42.000Z"
+      "title": "GTA 6 PS5-exclusive features detailed, PS5 Pro enhanced confirmed",
+      "summary": "Sony and Rockstar Games announce that Grand Theft Auto 6 \"plays best\" on PlayStation 5, but haven't revealed PS5 Pro enhancements yet",
+      "url": "https://www.polygon.com/gta-6-plays-best-on-ps5-pro-rockstar-game/",
+      "date": "2026-06-24T17:32:32.000Z"
     },
     {
       "lead": false,
@@ -33,14 +89,6 @@
       "summary": "And Icewind Dale, about which I don't have strong feelings, so.",
       "url": "https://www.pcgamer.com/games/rpg/forget-this-gta-6-stuff-baldurs-gate-1-and-2-just-got-a-hot-new-update/",
       "date": "2026-06-24T16:09:28.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Polygon",
-      "title": "GTA 6 Ultimate Edition prompts outcry from fans worried about the franchise's future",
-      "summary": "Rockstar's open-world game is cheaper than most people expected, but details surrounding the Ultimate Edition have fans worried about the franchise",
-      "url": "https://www.polygon.com/gta-6-preorder-ultimate-edition-price-bonuses-shops-exclusive-disc/",
-      "date": "2026-06-24T16:06:17.000Z"
     },
     {
       "lead": false,
@@ -145,54 +193,6 @@
       "summary": "Rockstar's theatrics never change.",
       "url": "https://www.pcgamer.com/games/action/gta-6-is-a-singleplayer-experience-leaving-me-to-question-whats-going-on-with-gta-online/",
       "date": "2026-06-24T14:03:50.000Z"
-    },
-    {
-      "lead": false,
-      "src": "IGN",
-      "title": "GTA 6 Story Features Distinct 'Chapters' — Could Red Dead Redemption 2 Hold the Clue to How It Works?",
-      "summary": "GTA fans are discussing how the story in Grand Theft Auto 6 will be structured, following the apparent confirmation that it will be separated into chapters, similar to Red Dead Redemption 2.",
-      "url": "https://www.ign.com/articles/gta-6-story-features-distinct-chapters-could-red-dead-redemption-2-hold-the-clue-to-how-it-works",
-      "date": "2026-06-24T13:58:08.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Kotaku",
-      "title": "Vice Up Your GTA 6 With These Vice City–Inspired Pre-Order Bonuses",
-      "summary": "Pastels and feathered hair everywhere",
-      "url": "https://kotaku.com/gta6-preorder-bonuses-vice-city-tommy-vercetti-2000709954",
-      "date": "2026-06-24T13:49:48.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Kotaku",
-      "title": "Feast Your Eyes On Over 60 New Grand Theft Auto 6 Screenshots",
-      "summary": "Rockstar is opening the floodgates ahead of pre-orders going live tomorrow",
-      "url": "https://kotaku.com/grand-theft-auto-6-gta6-screenshots-ultimate-edition-vice-2000709996",
-      "date": "2026-06-24T13:40:37.000Z"
-    },
-    {
-      "lead": false,
-      "src": "IGN",
-      "title": "GTA 6: Everything Rockstar Announced and Confirmed on Preorder Day",
-      "summary": "It’s been a big day of GTA 6 news, with Rockstar confirming fresh details for what is perhaps the most anticipated video game of all time ahead of preorders going live. IGN has plenty of coverage for you to dig into, but here we’ve rounded up everything announced and confirmed, including new screenshots, first detai…",
-      "url": "https://www.ign.com/articles/gta-6-everything-rockstar-announced-and-confirmed-on-preorder-day",
-      "date": "2026-06-24T13:32:51.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Kotaku",
-      "title": "Grand Theft Auto 6′s PS5 Version Claims It’ll Offer ‘Near-Instant Load Times’",
-      "summary": "There's also rumor of a PS5 Pro Enhanced version of the game",
-      "url": "https://kotaku.com/grand-theft-auto-6s-ps5-version-claims-itll-offer-near-instant-load-times-2000709958",
-      "date": "2026-06-24T13:19:34.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Eurogamer",
-      "title": "Sony wants you to know GTA 6 \"will play best on PS5\", and here's why",
-      "summary": "Sony has released a blog post detailing the PlayStation 5 features that will work with Grand Theft Auto 6 , and it's claimed the game will \"play best\" on PS5. Read more",
-      "url": "https://www.eurogamer.net/grand-theft-auto-6-ps5-features",
-      "date": "2026-06-24T13:06:18.000Z"
     }
   ]
 }
