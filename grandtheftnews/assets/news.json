@@ -1,9 +1,97 @@
 {
-  "updated": "2026-06-25T14:48:40.761Z",
+  "updated": "2026-06-25T17:20:05.474Z",
   "count": 24,
   "items": [
     {
       "lead": true,
+      "src": "Eurogamer",
+      "title": "Marvel's Wolverine will come with a disc in the box, Insomniac assures players as GTA 6's download code approach sends ripples around the industry",
+      "summary": "Insomniac Games has assured fans not to worry: unlike the impending GTA 6 , the physical edition of Marvel's Wolverine will come with a disc when it releases exclusively on PlayStation 5 on 15th September. Read more",
+      "url": "https://www.eurogamer.net/marvels-wolverine-disc-in-box-gta-6",
+      "date": "2026-06-25T16:59:03.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "Analysts expect GTA 6 could sell up to 30 million copies at launch, but are unsure if it can \"surpass the incredible longevity and massive sales of 5\" in the long run",
+      "summary": "Some expect GTA 6's \"long-term sales to underperform compared to its predecessor\"",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/analysts-expect-gta-6-could-sell-up-to-30-million-copies-at-launch-but-are-unsure-if-it-can-surpass-the-incredible-longevity-and-massive-sales-of-5-in-the-long-run/",
+      "date": "2026-06-25T16:25:39.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GameSpot",
+      "title": "Unlike GTA 6, Marvel’s Wolverine Will Ship With A Disc",
+      "summary": "While everyone is debating the disc-lessness of Grand Theft Auto 6 , developer Insomniac Games has confirmed that it won't follow suit with its upcoming superhero sim, Marvel's Wolverine . Responding to a fan on X who asked if the action-adventure game will \"be physical or a code in a box,\" Insomniac Games gave a ve…",
+      "url": "https://www.gamespot.com/articles/unlike-gta-6-marvels-wolverine-will-ship-with-a-disc/",
+      "date": "2026-06-25T16:17:54.000Z"
+    },
+    {
+      "lead": false,
+      "src": "PC Gamer",
+      "title": "We should all be happy that GTA 6 isn't launching with multiplayer",
+      "summary": "A GTAO sequel is almost certainly coming, but the singleplayer campaign should be the priority.",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/we-should-all-be-happy-that-gta-6-isnt-launching-with-multiplayer/",
+      "date": "2026-06-25T16:09:08.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "All of the GTA 6 weapons we've seen so far",
+      "summary": "From his and hers revolvers to Tommy Vercetti-styled tints, here's what we know so far about the weapons in GTA 6",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-weapons/",
+      "date": "2026-06-25T15:52:03.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GameSpot",
+      "title": "GTA 6 Is Not Releasing With A Disc, And That Just Makes Sense In 2026",
+      "summary": "Grand Theft Auto 6 is releasing on November 19, 2026 for $80 , and people won't be able to get it on a disc. There is a physical version, but it comes with a code in the box. Why is GTA 6 releasing without a disc-based version? According to industry analysts, there are a number of reasons why, and releasing as a dig…",
+      "url": "https://www.gamespot.com/articles/gta-6-is-not-releasing-with-a-disc-and-that-just-makes-sense-in-2026/",
+      "date": "2026-06-25T15:51:17.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "I'm a PC gamer with GTA 6 FOMO, so I've found 9 peripherals you can buy for the same price or less – while they're on sale",
+      "summary": "GTA 6 isn't launching on PC, so I asked my colleagues for peripheral recommendations to buy instead",
+      "url": "https://www.gamesradar.com/platforms/pc-gaming/im-a-pc-gamer-with-gta-6-fomo-so-ive-found-9-peripherals-you-can-buy-for-the-same-price-or-less-while-theyre-on-sale/",
+      "date": "2026-06-25T15:49:15.000Z"
+    },
+    {
+      "lead": false,
+      "src": "PC Gamer",
+      "title": "GTA 6 pre-order editions explained: What do you get with each version?",
+      "summary": "Decide whether to opt for standard, ultimate, or wait a while.",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-pre-order-editions-standard-ultimate/",
+      "date": "2026-06-25T15:40:41.000Z"
+    },
+    {
+      "lead": false,
+      "src": "PC Gamer",
+      "title": "When the heck is GTA 6 going to release on PC?",
+      "summary": "We're expecting to wait about a year, and for Rockstar to keep playing coy about the PC version.",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-pc-release-date/",
+      "date": "2026-06-25T15:32:09.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Eurogamer",
+      "title": "A proper physical edition of Grand Theft Auto 6 will arrive before the year's end, insider claims",
+      "summary": "The same insider who claimed in February that Grand Theft Auto 6 wouldn't launch with a physical version - which turned out to be almost correct - has now claimed a proper physical edition with a disc will launch in December. Read more",
+      "url": "https://www.eurogamer.net/gta-6-physical-disc-in-december-insider-claims",
+      "date": "2026-06-25T15:01:30.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GameSpot",
+      "title": "GTA 6 Has “Near-Instant” Load Times On PS5, And That’s A Bummer For Some People",
+      "summary": "A PlayStation Blog post co-authored by PlayStation and Rockstar Games said GTA 6 leverages the PS5's SSD to allow people to experience's the game's fictional version of Miami and wider Florida with \"near-instant load times.\" That sounds good and exciting, but it's also bumming people out. The original version of GTA…",
+      "url": "https://www.gamespot.com/articles/gta-6-has-near-instant-load-times-on-ps5-and-thats-a-bummer-for-some-people/",
+      "date": "2026-06-25T14:59:28.000Z"
+    },
+    {
+      "lead": false,
       "src": "Eurogamer",
       "title": "Online retailers are stating that PS5 GTA 6 codes can only be played in the country they're bought",
       "summary": "Grand Theft Auto 6 pre-orders have officially gone live in many parts of the world, and while many players will be placing their pre-orders through the PlayStation and Xbox Stores, many others will order from Amazon and online retailers. Read more",
@@ -25,6 +113,14 @@
       "summary": "Or will you double dip... as Rockstar wants?",
       "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-pre-orders-are-now-live-but-will-you-buy-on-console-or-hold-out-for-the-obviously-superior-pc-version/",
       "date": "2026-06-25T14:40:02.000Z"
+    },
+    {
+      "lead": false,
+      "src": "IGN",
+      "title": "GTA 6 Live Updates: Screenshots, Gameplay Details, Reaction and More",
+      "summary": "Rockstar has finally pulled back the curtain on GTA 6, confirming fresh details, releasing new screenshots, and launching preorders. There's a huge amount of news to take in, including plenty of reaction from fans. In the live blog, below, we'll continue to update you on everything that's happening in the world of G…",
+      "url": "https://www.ign.com/articles/gta-6-live-updates-screenshots-gameplay-details-reaction-and-more",
+      "date": "2026-06-25T14:15:38.000Z"
     },
     {
       "lead": false,
@@ -84,14 +180,6 @@
     },
     {
       "lead": false,
-      "src": "Polygon",
-      "title": "GTA 6 disc version is coming in December, leak suggests",
-      "summary": "A leaker with a proven track record has claimed a physical edition of GTA 6 will be coming in December, shortly after the release date.",
-      "url": "https://www.polygon.com/gta-6-leaks-disc-physical-release-december/",
-      "date": "2026-06-25T12:12:32.000Z"
-    },
-    {
-      "lead": false,
       "src": "IGN",
       "title": "No GTA 6 Disc Decision Will Make Some Gamers Angry, but Analysts Say 'Commercially It Just Makes Sense'",
       "summary": "With Grand Theft Auto 6, arguably the biggest and most mass market game of the generation, skipping a disc-based launch — is physical media now dead?",
@@ -105,94 +193,6 @@
       "summary": "Rockstar appears to confirm this in a purported email to a customer",
       "url": "https://kotaku.com/gta-6-disc-version-ps5-xbox-rockstar-grand-theft-auto-vi-2000710466",
       "date": "2026-06-25T12:09:02.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Polygon",
-      "title": "9 best movies and shows to watch while you wait for the GTA 6 release day",
-      "summary": "Watch some of the best movies and shows that inspired Rockstar Games' Grand Theft Auto 6 ahead of its release later this year.",
-      "url": "https://www.polygon.com/the-9-best-movies-and-shows-to-watch-before-the-release-of-gta-6/",
-      "date": "2026-06-25T12:01:21.000Z"
-    },
-    {
-      "lead": false,
-      "src": "IGN",
-      "title": "GTA 6: Should You Preorder a Physical or Digital Copy?",
-      "summary": "Deciding between a physical or digital copy of GTA 6? From the missing disc to a retailer loophole that saves your wallet, here is how to choose.",
-      "url": "https://www.ign.com/articles/gta-6-should-you-preorder-a-physical-or-digital-copy",
-      "date": "2026-06-25T12:00:00.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "I'm building the perfect GTA 6 setup using only budget Prime Day deals",
-      "summary": "If you're buying an Xbox Series X or PS5 and want to save money in other areas, here are the best budget devices on sale for Prime Day",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/im-building-the-perfect-gta-6-setup-using-only-budget-prime-day-deals/",
-      "date": "2026-06-25T11:33:24.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "GTA 6's free pre-order bonus comes with a catch – it's automatically set to charge you a month after redeeming it",
-      "summary": "Thankfully you can choose when to activate it in the first place, though",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6s-free-pre-order-bonus-comes-with-a-catch-its-automatically-set-to-charge-you-a-month-after-redeeming-it/",
-      "date": "2026-06-25T11:22:24.000Z"
-    },
-    {
-      "lead": false,
-      "src": "IGN",
-      "title": "Will You Buy the $80 GTA 6 Standard Edition or $100 Ultimate Edition?",
-      "summary": "It’s one of the biggest questions following Rockstar’s GTA 6 preorder day reveal: will you pay $80 for the Standard Edition or $100 for the Ultimate Edition?",
-      "url": "https://www.ign.com/articles/will-you-buy-the-80-gta-6-standard-edition-or-100-ultimate-edition",
-      "date": "2026-06-25T11:12:55.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "GTA 6 gets a custom PS5 welcome screen for pre-orders and more after Sony brags Rockstar's new game runs \"best\" on its console",
-      "summary": "Sony would very much like you to get GTA 6 on the PS5",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-gets-a-custom-ps5-welcome-screen-for-pre-orders-and-more-after-sony-brags-rockstars-new-game-runs-best-on-its-console/",
-      "date": "2026-06-25T11:06:56.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "GTA 6 could get a physical disc release only a month after its code-in-a-box launch, it's claimed, which could be good news for collectors and bad news for FOMO",
-      "summary": "It's hard not to see this as Rockstar fishing for double dips",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-could-get-a-physical-disc-release-only-a-month-after-its-code-in-a-box-launch-its-claimed-which-could-be-good-news-for-collectors-and-bad-news-for-fomo/",
-      "date": "2026-06-25T10:23:02.000Z"
-    },
-    {
-      "lead": false,
-      "src": "IGN",
-      "title": "PlayStation 5 Now Features Custom GTA 6 UI, as Sony Goes All In on Rockstar Partnership",
-      "summary": "Load up your PlayStation 5 today, and you'll be greeted by a new custom user interface advertising Grand Theft Auto 6 — part of Sony's major new partnership with Rockstar Games.",
-      "url": "https://www.ign.com/articles/playstation-5-now-features-custom-gta-6-ui-as-sony-goes-all-in-on-rockstar-partnership",
-      "date": "2026-06-25T09:37:30.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "Prime Day is retro heaven, loaded with gaming remakes and remasters that'll keep me busy while I wait for GTA 6",
-      "summary": "Prime Day is filled with retro deals, and there are loads of gaming remakes and remasters with big discounts",
-      "url": "https://www.gamesradar.com/hardware/retro/prime-day-is-retro-heaven-loaded-with-gaming-remakes-and-remasters-thatll-keep-me-busy-while-i-wait-for-gta-6/",
-      "date": "2026-06-25T09:34:10.000Z"
-    },
-    {
-      "lead": false,
-      "src": "IGN",
-      "title": "GTA 6 Looks Amazing, but the 63 New Screenshots Probably Don't Represent Gameplay, Tech Experts Believe",
-      "summary": "Yesterday, Rockstar released 63 brand new screenshots for GTA 6, each one wowing fans with their impressive level of detail. The images provide our best look at the game as it stands today, in lieu of Trailer 3 of course. But how representative are they of the actual game fans will be playing this November?",
-      "url": "https://www.ign.com/articles/gta-6-looks-amazing-but-the-63-new-screenshots-probably-dont-represent-gameplay-tech-experts-believe",
-      "date": "2026-06-25T09:31:46.000Z"
-    },
-    {
-      "lead": false,
-      "src": "IGN",
-      "title": "Free Best Buy $50 Gift Card When Buying GTA 6 with an Eligible Console",
-      "summary": "Best Buy is giving away $50 reward certificates today for anyone bundling a Grand Theft Auto 6 preorder with an eligible PlayStation 5 or Xbox console.",
-      "url": "https://www.ign.com/articles/gta-6-preorder-best-buy-console-deal",
-      "date": "2026-06-25T08:29:52.000Z"
     }
   ]
 }
