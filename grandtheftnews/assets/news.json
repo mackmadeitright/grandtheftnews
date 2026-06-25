@@ -1,9 +1,33 @@
 {
-  "updated": "2026-06-25T04:16:17.279Z",
+  "updated": "2026-06-25T09:37:37.187Z",
   "count": 24,
   "items": [
     {
       "lead": true,
+      "src": "GamesRadar",
+      "title": "Prime Day is retro heaven, loaded with gaming remakes and remasters that'll keep me busy while I wait for GTA 6",
+      "summary": "Prime Day is filled with retro deals, and there are loads of gaming remakes and remasters with big discounts",
+      "url": "https://www.gamesradar.com/hardware/retro/prime-day-is-retro-heaven-loaded-with-gaming-remakes-and-remasters-thatll-keep-me-busy-while-i-wait-for-gta-6/",
+      "date": "2026-06-25T09:34:10.000Z"
+    },
+    {
+      "lead": false,
+      "src": "IGN",
+      "title": "Free Best Buy $50 Gift Card When Buying GTA 6 with an Eligible Console",
+      "summary": "Best Buy is giving away $50 reward certificates today for anyone bundling a Grand Theft Auto 6 preorder with an eligible PlayStation 5 or Xbox console.",
+      "url": "https://www.ign.com/articles/gta-6-preorder-best-buy-console-deal",
+      "date": "2026-06-25T08:29:52.000Z"
+    },
+    {
+      "lead": false,
+      "src": "IGN",
+      "title": "Grand Theft Auto 6 Preorders Are Live",
+      "summary": "Everything you need to know to preorder Grand Theft Auto 6 for PS5 or Xbox Series X|S.",
+      "url": "https://www.ign.com/articles/grand-theft-auto-6-where-to-buy",
+      "date": "2026-06-25T04:55:00.000Z"
+    },
+    {
+      "lead": false,
       "src": "GameSpot",
       "title": "Breaking Down Our New Look At GTA 6",
       "summary": "Rockstar has officially announced the pricing and preorder information for Grand Theft Auto 6, and alongside this news, the studio has also shared plenty of new screenshots and artwork from the game. GameSpot's Jake Dekker broke it all down, and though Rockstar likely didn't intend to offer too much concrete informa…",
@@ -116,14 +140,6 @@
     },
     {
       "lead": false,
-      "src": "Polygon",
-      "title": "GTA 6 PS5-exclusive features detailed, PS5 Pro enhanced confirmed",
-      "summary": "Sony and Rockstar Games announce that Grand Theft Auto 6 \"plays best\" on PlayStation 5, but haven't revealed PS5 Pro enhancements yet",
-      "url": "https://www.polygon.com/gta-6-plays-best-on-ps5-pro-rockstar-game/",
-      "date": "2026-06-24T17:32:32.000Z"
-    },
-    {
-      "lead": false,
       "src": "GamesRadar",
       "title": "GTA 6 not having a physical disk won't have any impact on Rockstar's sales, analyst predicts, and it might be even better for retailers",
       "summary": "It does mean you won't be able to trade it in, though",
@@ -157,7 +173,7 @@
     {
       "lead": false,
       "src": "GamesRadar",
-      "title": "GTA 6 pre-orders live - tracking the best retailers, top tips, and pricing updates as stock drops",
+      "title": "GTA 6 pre-orders live updates – Amazon restocks as more retailers put pre-orders for Grand Theft Auto 6 online",
       "summary": "GTA 6 pre-orders are imminent - here's everything you need to secure the Standard or Ultimate Edition.",
       "url": "https://www.gamesradar.com/news/live/gta-6-pre-orders-live-june-25/",
       "date": "2026-06-24T15:40:46.000Z"
@@ -177,22 +193,6 @@
       "summary": "The latest GTA 6 Ultimate Edition news reveals plenty of fresh gameplay details, including fishing, fencing, fixing up classic cars and much more.",
       "url": "https://www.ign.com/articles/gta-6-special-edition-pre-order-gameplay-details",
       "date": "2026-06-24T15:36:17.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Kotaku",
-      "title": "Uh, Rockstar, Please Fix This Massive GTA 6 Lore Mistake",
-      "summary": "Here's 400 words or so about two revolvers featured in a single marketing image",
-      "url": "https://kotaku.com/uh-rockstar-please-fix-this-massive-gta-6-lore-mistake-2000710102",
-      "date": "2026-06-24T15:15:15.000Z"
-    },
-    {
-      "lead": false,
-      "src": "IGN",
-      "title": "GTA 6’s Physical Edition Not Including a Disc Is About Control and Secrecy",
-      "summary": "GTA 6’s physical edition not including a disc is about control and secrecy.",
-      "url": "https://www.ign.com/articles/gta-6s-physical-edition-not-including-a-disc-is-about-control-and-secrecy",
-      "date": "2026-06-24T15:04:18.000Z"
     }
   ]
 }
