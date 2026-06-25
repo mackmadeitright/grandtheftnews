@@ -1,9 +1,33 @@
 {
-  "updated": "2026-06-24T22:23:42.449Z",
+  "updated": "2026-06-25T04:16:17.279Z",
   "count": 24,
   "items": [
     {
       "lead": true,
+      "src": "GameSpot",
+      "title": "Breaking Down Our New Look At GTA 6",
+      "summary": "Rockstar has officially announced the pricing and preorder information for Grand Theft Auto 6, and alongside this news, the studio has also shared plenty of new screenshots and artwork from the game. GameSpot's Jake Dekker broke it all down, and though Rockstar likely didn't intend to offer too much concrete informa…",
+      "url": "https://www.gamespot.com/articles/breaking-down-our-new-look-at-gta-6/",
+      "date": "2026-06-25T00:01:37.000Z"
+    },
+    {
+      "lead": false,
+      "src": "PC Gamer",
+      "title": "GTA 6's preorders mark the start of a long wait for it to come to PC, despite the fact we'll likely make up '50% of the sales'",
+      "summary": "What are we, chopped liver?",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6s-preorders-mark-the-start-of-a-long-wait-for-it-to-come-to-pc-despite-the-fact-well-likely-make-up-50-percent-of-the-sales/",
+      "date": "2026-06-24T23:00:00.000Z"
+    },
+    {
+      "lead": false,
+      "src": "IGN",
+      "title": "GTA 6 May Be Borrowing a Major Mechanic from Red Dead Redemption 2",
+      "summary": "Grand Theft Auto 6 may be taking a major mechanic from Red Dead Redemption 2, which may bother some GTA fans.",
+      "url": "https://www.ign.com/articles/gta-6-may-be-borrowing-a-major-mechanic-from-red-dead-redemption-2",
+      "date": "2026-06-24T22:05:28.000Z"
+    },
+    {
+      "lead": false,
       "src": "PC Gamer",
       "title": "Now we know how much GTA 6 costs, but can you remember what these other games cost at launch? Take our price tag quiz!",
       "summary": "There's always a price.",
@@ -133,8 +157,8 @@
     {
       "lead": false,
       "src": "GamesRadar",
-      "title": "GTA 6 pre-orders live - tracking the best retailers, top tips, and pricing updates ahead of midnight",
-      "summary": "GTA 6 pre-orders are dropping at midnight tonight - here's everything you need to secure the Standard or Ultimate Edition.",
+      "title": "GTA 6 pre-orders live - tracking the best retailers, top tips, and pricing updates as stock drops",
+      "summary": "GTA 6 pre-orders are imminent - here's everything you need to secure the Standard or Ultimate Edition.",
       "url": "https://www.gamesradar.com/news/live/gta-6-pre-orders-live-june-25/",
       "date": "2026-06-24T15:40:46.000Z"
     },
@@ -169,30 +193,6 @@
       "summary": "GTA 6’s physical edition not including a disc is about control and secrecy.",
       "url": "https://www.ign.com/articles/gta-6s-physical-edition-not-including-a-disc-is-about-control-and-secrecy",
       "date": "2026-06-24T15:04:18.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "GTA 6 isn't $100, but its real price proves games are only going to get more expensive",
-      "summary": "Opinion | Count your pennies before they're snatched",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-isnt-usd100-but-its-real-price-proves-games-are-only-going-to-get-more-expensive/",
-      "date": "2026-06-24T14:49:41.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "Sorry, Xbox fans: GTA 6 \"will play best on PS5,\" Sony declares, but with no PC version in sight, I can't say I'm surprised",
-      "summary": "I for one am shocked the only console with a Pro model is the best. Shocked, I tell you!",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/sorry-xbox-fans-gta-6-will-play-best-on-ps5-sony-declares-but-with-no-pc-version-in-sight-i-cant-say-im-surprised/",
-      "date": "2026-06-24T14:24:36.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GameSpot",
-      "title": "GTA 6 “Features A Single-Player Experience,” At Least At Launch",
-      "summary": "It remains to be seen what form GTA Online will take in the years to come, but at least initially, it will not be included with Grand Theft Auto 6. Rockstar has confirmed the upcoming game \"features a single-player experience\" for its November 19 launch date. That nugget of info was shared as part of the pricing and…",
-      "url": "https://www.gamespot.com/articles/gta-6-features-a-single-player-experience-at-least-at-launch/",
-      "date": "2026-06-24T14:18:46.000Z"
     }
   ]
 }
