@@ -1,9 +1,17 @@
 {
-  "updated": "2026-06-26T04:22:46.653Z",
+  "updated": "2026-06-26T09:44:18.302Z",
   "count": 24,
   "items": [
     {
       "lead": true,
+      "src": "Eurogamer",
+      "title": "Grand Theft Auto 6 demand may be so high it will \"likely outstrip supply\" this holiday season, a video game retailer warns",
+      "summary": "Major retailers may not have the stock of consoles necessary to bear the incoming wave of demand this holiday season, thanks to Grand Theft Auto 6 's release, it's claimed. Read more",
+      "url": "https://www.eurogamer.net/grand-theft-auto-6-console-shortage-holiday",
+      "date": "2026-06-26T09:22:08.000Z"
+    },
+    {
+      "lead": false,
       "src": "GamesRadar",
       "title": "Capcom refuses to back down from the not-GTA 6 games rush, re-commits to Onimusha: Way of the Sword's September release date despite rumors",
       "summary": "\"Once more, Onimusha: Way of the Sword releases on September 25, 2026\"",
@@ -185,14 +193,6 @@
       "summary": "Want GTA 6 to sound its best on PS5? I've gathered the PS5 headsets that will do it justice to the audio and music of Leonida.",
       "url": "https://www.gamesradar.com/hardware/headsets-headphones/gta-6-is-powered-by-sonys-tempest-3d-audio-tech-and-these-are-the-ps5-headsets-thatll-give-you-the-best-sound-this-november/",
       "date": "2026-06-25T14:07:32.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Kotaku",
-      "title": "Grand Theft Auto 6’s Code In A Box Is Somehow Already Selling Out On PS5, And Scalpers Have Their Eye On It",
-      "summary": "A lot of people ready and willing to pre-order an empty plastic case",
-      "url": "https://kotaku.com/grand-theft-auto-6-gta6-pre-orders-physical-disc-scalper-2000710491",
-      "date": "2026-06-25T13:26:48.000Z"
     }
   ]
 }
