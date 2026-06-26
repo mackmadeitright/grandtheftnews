@@ -1,9 +1,25 @@
 {
-  "updated": "2026-06-26T20:01:18.485Z",
+  "updated": "2026-06-26T22:19:52.898Z",
   "count": 24,
   "items": [
     {
       "lead": true,
+      "src": "GamesRadar",
+      "title": "After GTA 6's controversial code-in-a-box decision, Marvel's Wolverine devs confirm the PS5 game comes with a disc",
+      "summary": "Wolverine also won't be following GTA 6's lead on pricing",
+      "url": "https://www.gamesradar.com/games/action/after-gta-6s-controversial-code-in-a-box-decision-marvels-wolverine-devs-confirm-the-ps5-game-comes-with-a-disc/",
+      "date": "2026-06-26T22:00:12.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "New GTA 6 screenshots bring a Red Dead Redemption 2 crossover theory back into the spotlight",
+      "summary": "I'm not convinced",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/new-gta-6-screenshots-bring-a-red-dead-redemption-2-crossover-theory-back-into-the-spotlight/",
+      "date": "2026-06-26T21:14:06.000Z"
+    },
+    {
+      "lead": false,
       "src": "Kotaku",
       "title": "Sony Is Going All Out And Giving GTA 6 Special Treatment Even First-Party PlayStation Exclusives Don’t Get",
       "summary": "Rockstar's latest open-world game could be the PS5's biggest release ever",
@@ -177,22 +193,6 @@
       "summary": "While everyone is debating the disc-lessness of Grand Theft Auto 6 , developer Insomniac Games has confirmed that it won't follow suit with its upcoming superhero sim, Marvel's Wolverine . Responding to a fan on X who asked if the action-adventure game will \"be physical or a code in a box,\" Insomniac Games gave a ve…",
       "url": "https://www.gamespot.com/articles/unlike-gta-6-marvels-wolverine-will-ship-with-a-disc/",
       "date": "2026-06-25T16:17:54.000Z"
-    },
-    {
-      "lead": false,
-      "src": "PC Gamer",
-      "title": "We should all be happy that GTA 6 isn't launching with multiplayer",
-      "summary": "A GTAO sequel is almost certainly coming, but the singleplayer campaign should be the priority.",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/we-should-all-be-happy-that-gta-6-isnt-launching-with-multiplayer/",
-      "date": "2026-06-25T16:09:08.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GameSpot",
-      "title": "GTA 6 Is Not Releasing With A Disc, And That Just Makes Sense In 2026",
-      "summary": "Grand Theft Auto 6 is releasing on November 19, 2026 for $80 , and people won't be able to get it on a disc. There is a physical version, but it comes with a code in the box. Why is GTA 6 releasing without a disc-based version? According to industry analysts, there are a number of reasons why, and releasing as a dig…",
-      "url": "https://www.gamespot.com/articles/gta-6-is-not-releasing-with-a-disc-and-that-just-makes-sense-in-2026/",
-      "date": "2026-06-25T15:51:17.000Z"
     }
   ]
 }
