@@ -1,9 +1,33 @@
 {
-  "updated": "2026-06-26T17:04:52.704Z",
+  "updated": "2026-06-26T20:01:18.485Z",
   "count": 24,
   "items": [
     {
       "lead": true,
+      "src": "Kotaku",
+      "title": "Sony Is Going All Out And Giving GTA 6 Special Treatment Even First-Party PlayStation Exclusives Don’t Get",
+      "summary": "Rockstar's latest open-world game could be the PS5's biggest release ever",
+      "url": "https://kotaku.com/sony-is-going-all-out-and-giving-gta-6-special-treatment-even-first-party-playstation-exclusives-dont-get-2000710949",
+      "date": "2026-06-26T20:00:13.000Z"
+    },
+    {
+      "lead": false,
+      "src": "PC Gamer",
+      "title": "Rockstar's decision to make GTA 6 fully digital is a terrible, anti-consumer move that makes me worry about the future of videogames",
+      "summary": "An increasing digital landscape shouldn't erase physical media entirely.",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/rockstars-decision-to-make-gta-6-fully-digital-is-a-terrible-anti-consumer-move-that-makes-me-worry-about-the-future-of-videogames/",
+      "date": "2026-06-26T17:49:36.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Kotaku",
+      "title": "Some Stores Are Warning There Might Not Be Enough Consoles For Everyone Who Wants To Play GTA 6 This Year",
+      "summary": "What a great time for the manufactures to start raising prices, huh?",
+      "url": "https://kotaku.com/xbox-series-x-ps5-increased-demand-low-supply-gta6-2000711005",
+      "date": "2026-06-26T17:30:21.000Z"
+    },
+    {
+      "lead": false,
       "src": "GamesRadar",
       "title": "As GTA 6 abandons discs, analyst reveals physical games sales in the US actually grew for the first time in 17 years",
       "summary": "It might not be a sign of future growth, though",
@@ -41,14 +65,6 @@
       "summary": "With Grand Theft Auto 6 a few months away from blowing up the entire industry on November 19, some retailers appear to be getting antsy, as a new leak floating around online is providing new details about the crime sim. Posted to the notorious GamingLeaksAndRumors subreddit on June 25 , gameplay details on GTA 6 app…",
       "url": "https://www.gamespot.com/articles/some-retailers-reportedly-spill-the-tea-on-gta-6-gameplay-details/",
       "date": "2026-06-26T15:56:18.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Polygon",
-      "title": "GTA 6 is the first PS5 game to get the royal treatment from Sony",
-      "summary": "Sony and Rockstar Games are pushing Grand Theft Auto 6 hard on PS5, taking over users welcome screens and the PlayStation Store alongside preorders.",
-      "url": "https://www.polygon.com/gta-6-ps5-playstation-store-ad-marketing-sony-rockstar-games/",
-      "date": "2026-06-26T15:17:14.000Z"
     },
     {
       "lead": false,
@@ -116,35 +132,11 @@
     },
     {
       "lead": false,
-      "src": "GamesRadar",
-      "title": "More GTA 6 features may have been leaked by Amazon: switchable protagonists, in-game social media, and more",
-      "summary": "Features unmentioned by Rockstar Games",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/more-gta-6-features-may-have-been-leaked-by-amazon-switchable-protagonists-in-game-social-media-and-more/",
-      "date": "2026-06-26T09:52:10.000Z"
-    },
-    {
-      "lead": false,
       "src": "Eurogamer",
       "title": "Grand Theft Auto 6 demand may be so high it will \"likely outstrip supply\" this holiday season, a video game retailer warns",
       "summary": "Major retailers may not have the stock of consoles necessary to bear the incoming wave of demand this holiday season, thanks to Grand Theft Auto 6 's release, it's claimed. Read more",
       "url": "https://www.eurogamer.net/grand-theft-auto-6-console-shortage-holiday",
       "date": "2026-06-26T09:22:08.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Kotaku",
-      "title": "10 New Details We Learned From GTA 6′s Big Info Dump",
-      "summary": "Fishing? Chapters? An alligator TV show? All that and more seems to be in GTA 6 , according to Rockstar's updated site",
-      "url": "https://kotaku.com/10-new-details-we-learned-from-gta-6s-big-info-dump-2000710519",
-      "date": "2026-06-25T20:00:48.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Kotaku",
-      "title": "Fans Debate If GTA 6 Is Actually A $100 Game As Anger Grows Around The Ultimate Edition Locking Content Away",
-      "summary": "Is GTA 6 secretly the first $100 game? Some online think so, though others aren't convinced",
-      "url": "https://kotaku.com/fans-debate-if-gta-6-is-actually-a-100-game-as-anger-grows-around-the-ultimate-edition-locking-content-away-2000710588",
-      "date": "2026-06-25T19:14:45.000Z"
     },
     {
       "lead": false,
@@ -193,6 +185,14 @@
       "summary": "A GTAO sequel is almost certainly coming, but the singleplayer campaign should be the priority.",
       "url": "https://www.pcgamer.com/games/grand-theft-auto/we-should-all-be-happy-that-gta-6-isnt-launching-with-multiplayer/",
       "date": "2026-06-25T16:09:08.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GameSpot",
+      "title": "GTA 6 Is Not Releasing With A Disc, And That Just Makes Sense In 2026",
+      "summary": "Grand Theft Auto 6 is releasing on November 19, 2026 for $80 , and people won't be able to get it on a disc. There is a physical version, but it comes with a code in the box. Why is GTA 6 releasing without a disc-based version? According to industry analysts, there are a number of reasons why, and releasing as a dig…",
+      "url": "https://www.gamespot.com/articles/gta-6-is-not-releasing-with-a-disc-and-that-just-makes-sense-in-2026/",
+      "date": "2026-06-25T15:51:17.000Z"
     }
   ]
 }
