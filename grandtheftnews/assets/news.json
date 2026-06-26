@@ -1,9 +1,17 @@
 {
-  "updated": "2026-06-25T22:26:24.675Z",
+  "updated": "2026-06-26T04:22:46.653Z",
   "count": 24,
   "items": [
     {
       "lead": true,
+      "src": "GamesRadar",
+      "title": "Capcom refuses to back down from the not-GTA 6 games rush, re-commits to Onimusha: Way of the Sword's September release date despite rumors",
+      "summary": "\"Once more, Onimusha: Way of the Sword releases on September 25, 2026\"",
+      "url": "https://www.gamesradar.com/games/action/capcom-refuses-to-back-down-from-the-not-gta-6-games-rush-re-commits-to-onimusha-way-of-the-swords-september-release-date-despite-rumors/",
+      "date": "2026-06-26T00:18:40.000Z"
+    },
+    {
+      "lead": false,
       "src": "Kotaku",
       "title": "10 New Details We Learned From GTA 6′s Big Info Dump",
       "summary": "Fishing? Chapters? An alligator TV show? All that and more seems to be in GTA 6 , according to Rockstar's updated site",
@@ -185,14 +193,6 @@
       "summary": "A lot of people ready and willing to pre-order an empty plastic case",
       "url": "https://kotaku.com/grand-theft-auto-6-gta6-pre-orders-physical-disc-scalper-2000710491",
       "date": "2026-06-25T13:26:48.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Eurogamer",
-      "title": "Leaks, price control, no second-hand sales: why Grand Theft Auto 6 physical editions won't come with a disc, according to experts",
-      "summary": "The overwhelming talking point this week surrounding the Grand Theft Auto 6 pre-order announcements - and details of the game's price and varying versions - has undeniably been the game box and what's inside it. Or rather, what's not inside it. Because the GTA 6 physical edition doesn't actually come with a disc, on…",
-      "url": "https://www.eurogamer.net/grand-theft-auto-6-physical-no-disc-experts",
-      "date": "2026-06-25T13:08:55.000Z"
     }
   ]
 }
