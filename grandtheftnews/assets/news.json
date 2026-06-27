@@ -1,9 +1,17 @@
 {
-  "updated": "2026-06-27T08:47:07.754Z",
+  "updated": "2026-06-27T11:01:34.880Z",
   "count": 24,
   "items": [
     {
       "lead": true,
+      "src": "GamesRadar",
+      "title": "GTA 6 shows signs of life, Bungie in crisis, and why one Xbox developer is excited to still be bringing its game to PS5",
+      "summary": "For members of the GamesRadar+ Community, here's six stories we recommend you read this weekend",
+      "url": "https://www.gamesradar.com/games/gta-6-shows-signs-of-life-bungie-in-crisis-and-why-one-xbox-developer-is-excited-to-still-be-bringing-its-game-to-ps5/",
+      "date": "2026-06-27T10:01:02.000Z"
+    },
+    {
+      "lead": false,
       "src": "GamesRadar",
       "title": "After GTA 6's controversial code-in-a-box decision, Marvel's Wolverine devs confirm the PS5 game comes with a disc",
       "summary": "Wolverine also won't be following GTA 6's lead on pricing",
@@ -185,14 +193,6 @@
       "summary": "While everyone is debating the disc-lessness of Grand Theft Auto 6 , developer Insomniac Games has confirmed that it won't follow suit with its upcoming superhero sim, Marvel's Wolverine . Responding to a fan on X who asked if the action-adventure game will \"be physical or a code in a box,\" Insomniac Games gave a ve…",
       "url": "https://www.gamespot.com/articles/unlike-gta-6-marvels-wolverine-will-ship-with-a-disc/",
       "date": "2026-06-25T16:17:54.000Z"
-    },
-    {
-      "lead": false,
-      "src": "PC Gamer",
-      "title": "We should all be happy that GTA 6 isn't launching with multiplayer",
-      "summary": "A GTAO sequel is almost certainly coming, but the singleplayer campaign should be the priority.",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/we-should-all-be-happy-that-gta-6-isnt-launching-with-multiplayer/",
-      "date": "2026-06-25T16:09:08.000Z"
     }
   ]
 }
