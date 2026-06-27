@@ -1,9 +1,25 @@
 {
-  "updated": "2026-06-27T14:00:07.413Z",
+  "updated": "2026-06-27T16:13:43.217Z",
   "count": 24,
   "items": [
     {
       "lead": true,
+      "src": "Kotaku",
+      "title": "Grand Theft Auto 6 Reportedly Won’t Get A Disc-Version Even Months After Launch, Despite Promising New Email From Rockstar",
+      "summary": "A new article from The Hollywood Reporter says that while the support email was real, its language was clunky and misunderstood",
+      "url": "https://kotaku.com/there-remains-no-disc-based-version-of-grand-theft-auto-vi-despite-promising-email-from-rockstar-2000711186",
+      "date": "2026-06-27T15:21:59.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Eurogamer",
+      "title": "GTA 6 has no plans for a post-launch physical release, \"not at launch, and not months later\", insists new report",
+      "summary": "A new report has cast doubt on hopes that a physical version of Grand Theft Auto 6 will follow the digital release later this year. Read more",
+      "url": "https://www.eurogamer.net/gta-6-no-physical-release",
+      "date": "2026-06-27T14:45:17.000Z"
+    },
+    {
+      "lead": false,
       "src": "GamesRadar",
       "title": "As hardware like the Steam Machine gets more expensive, GTA 6 will have fans \"eagerly\" spending, analyst says",
       "summary": "\"Why spend $1,000 on a new console when you can spend only a fraction on one of the best franchises around?\"",
@@ -177,22 +193,6 @@
       "summary": "Major retailers may not have the stock of consoles necessary to bear the incoming wave of demand this holiday season, thanks to Grand Theft Auto 6 's release, it's claimed. Read more",
       "url": "https://www.eurogamer.net/grand-theft-auto-6-console-shortage-holiday",
       "date": "2026-06-26T09:22:08.000Z"
-    },
-    {
-      "lead": false,
-      "src": "PC Gamer",
-      "title": "It's wild of Rockstar to ask us for $80, minimum, without showing a GTA 6 gameplay trailer",
-      "summary": "I really didn't think they'd open pre-orders without a new trailer, but here we are.",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/its-wild-of-rockstar-to-ask-us-for-usd80-minimum-without-showing-a-gta-6-gameplay-trailer/",
-      "date": "2026-06-25T19:10:45.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GameSpot",
-      "title": "After Confirming $80 Price For GTA 6 And Preorders, Take-Two Stock Is Predicted To Rip",
-      "summary": "Following the start of preorders for GTA 6 and the confirmation of its $80 price point , stock analysts have weighed in with their price targets for shares of Rockstar's owner, Take-Two, and many see a bright future ahead. Although Take-Two's stock price has actually gone down since GTA 6 preorders began, a number o…",
-      "url": "https://www.gamespot.com/articles/after-confirming-80-price-for-gta-6-and-preorders-take-two-stock-is-predicted-to-rip/",
-      "date": "2026-06-25T18:17:16.000Z"
     }
   ]
 }
