@@ -1,9 +1,33 @@
 {
-  "updated": "2026-06-27T11:01:34.880Z",
+  "updated": "2026-06-27T14:00:07.413Z",
   "count": 24,
   "items": [
     {
       "lead": true,
+      "src": "GamesRadar",
+      "title": "As hardware like the Steam Machine gets more expensive, GTA 6 will have fans \"eagerly\" spending, analyst says",
+      "summary": "\"Why spend $1,000 on a new console when you can spend only a fraction on one of the best franchises around?\"",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/as-hardware-like-the-steam-machine-gets-more-expensive-gta-6-will-have-fans-eagerly-spending-analyst-says/",
+      "date": "2026-06-27T13:07:18.000Z"
+    },
+    {
+      "lead": false,
+      "src": "IGN",
+      "title": "No, There Is No GTA 6 Physical Disc Coming Out at Launch or the Months After — Those Reports and Social Media Posts Are Incorrect",
+      "summary": "Viral social media posts and articles claiming a physical disc copy of GTA 6 is in the works are incorrect.",
+      "url": "https://www.ign.com/articles/no-there-is-no-gta-6-physical-disc-coming-out-at-launch-or-the-months-after-those-reports-and-social-media-posts-are-incorrect",
+      "date": "2026-06-27T12:12:22.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "Rockstar Games reportedly has no plans to print GTA 6 discs at launch or in the months after",
+      "summary": "The most-anticipated game of all time may very well stay digital-only forever",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/rockstar-games-reportedly-has-no-plans-to-print-gta-6-discs-at-launch-or-in-the-months-after/",
+      "date": "2026-06-27T11:58:45.000Z"
+    },
+    {
+      "lead": false,
       "src": "GamesRadar",
       "title": "GTA 6 shows signs of life, Bungie in crisis, and why one Xbox developer is excited to still be bringing its game to PS5",
       "summary": "For members of the GamesRadar+ Community, here's six stories we recommend you read this weekend",
@@ -169,30 +193,6 @@
       "summary": "Following the start of preorders for GTA 6 and the confirmation of its $80 price point , stock analysts have weighed in with their price targets for shares of Rockstar's owner, Take-Two, and many see a bright future ahead. Although Take-Two's stock price has actually gone down since GTA 6 preorders began, a number o…",
       "url": "https://www.gamespot.com/articles/after-confirming-80-price-for-gta-6-and-preorders-take-two-stock-is-predicted-to-rip/",
       "date": "2026-06-25T18:17:16.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GameSpot",
-      "title": "Buying GTA 6 And A New Console This Fall? You Better Be Rich",
-      "summary": "When Grand Theft Auto 6 arrives on November 19, 2026, it will undoubtedly be one of the biggest--if not the biggest--entertainment launches in history. The game will, at least initially, only launch on PlayStation 5 and Xbox Series X|S consoles, which have been available for nearly six years. Typically, consoles tha…",
-      "url": "https://www.gamespot.com/articles/buying-gta-6-and-a-new-console-this-fall-you-better-be-rich/",
-      "date": "2026-06-25T17:38:38.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Eurogamer",
-      "title": "Marvel's Wolverine will come with a disc in the box, Insomniac assures players as GTA 6's download code approach sends ripples around the industry",
-      "summary": "Insomniac Games has assured fans not to worry: unlike the impending GTA 6 , the physical edition of Marvel's Wolverine will come with a disc when it releases exclusively on PlayStation 5 on 15th September. Read more",
-      "url": "https://www.eurogamer.net/marvels-wolverine-disc-in-box-gta-6",
-      "date": "2026-06-25T16:59:03.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GameSpot",
-      "title": "Unlike GTA 6, Marvel’s Wolverine Will Ship With A Disc",
-      "summary": "While everyone is debating the disc-lessness of Grand Theft Auto 6 , developer Insomniac Games has confirmed that it won't follow suit with its upcoming superhero sim, Marvel's Wolverine . Responding to a fan on X who asked if the action-adventure game will \"be physical or a code in a box,\" Insomniac Games gave a ve…",
-      "url": "https://www.gamespot.com/articles/unlike-gta-6-marvels-wolverine-will-ship-with-a-disc/",
-      "date": "2026-06-25T16:17:54.000Z"
     }
   ]
 }
