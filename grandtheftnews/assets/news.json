@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-26T22:19:52.898Z",
+  "updated": "2026-06-27T04:09:00.688Z",
   "count": 24,
   "items": [
     {
@@ -140,14 +140,6 @@
     },
     {
       "lead": false,
-      "src": "GamesRadar",
-      "title": "Is GTA 6 going to be on PC? And if so then when?",
-      "summary": "When we expect the GTA 6 PC release date to be, based on previous Rockstar launches",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-pc-release-date/",
-      "date": "2026-06-26T11:59:09.000Z"
-    },
-    {
-      "lead": false,
       "src": "Eurogamer",
       "title": "Grand Theft Auto 6 demand may be so high it will \"likely outstrip supply\" this holiday season, a video game retailer warns",
       "summary": "Major retailers may not have the stock of consoles necessary to bear the incoming wave of demand this holiday season, thanks to Grand Theft Auto 6 's release, it's claimed. Read more",
@@ -193,6 +185,14 @@
       "summary": "While everyone is debating the disc-lessness of Grand Theft Auto 6 , developer Insomniac Games has confirmed that it won't follow suit with its upcoming superhero sim, Marvel's Wolverine . Responding to a fan on X who asked if the action-adventure game will \"be physical or a code in a box,\" Insomniac Games gave a ve…",
       "url": "https://www.gamespot.com/articles/unlike-gta-6-marvels-wolverine-will-ship-with-a-disc/",
       "date": "2026-06-25T16:17:54.000Z"
+    },
+    {
+      "lead": false,
+      "src": "PC Gamer",
+      "title": "We should all be happy that GTA 6 isn't launching with multiplayer",
+      "summary": "A GTAO sequel is almost certainly coming, but the singleplayer campaign should be the priority.",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/we-should-all-be-happy-that-gta-6-isnt-launching-with-multiplayer/",
+      "date": "2026-06-25T16:09:08.000Z"
     }
   ]
 }
