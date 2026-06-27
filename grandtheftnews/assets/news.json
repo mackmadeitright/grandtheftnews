@@ -1,9 +1,17 @@
 {
-  "updated": "2026-06-27T16:13:43.217Z",
+  "updated": "2026-06-27T19:40:02.985Z",
   "count": 24,
   "items": [
     {
       "lead": true,
+      "src": "Polygon",
+      "title": "Xbox responds to claim that there's more interest in Grand Theft Auto 6 PlayStation pre-orders",
+      "summary": "Xbox says it has seen \"record orders\" for GTA 6 in the wake of a claim that PlayStation pre-order interest is vastly outweighting Xbox interest",
+      "url": "https://www.polygon.com/xbox-comment-on-gta-6-record-pre-orders/",
+      "date": "2026-06-27T18:17:37.000Z"
+    },
+    {
+      "lead": false,
       "src": "Kotaku",
       "title": "Grand Theft Auto 6 Reportedly Won’t Get A Disc-Version Even Months After Launch, Despite Promising New Email From Rockstar",
       "summary": "A new article from The Hollywood Reporter says that while the support email was real, its language was clunky and misunderstood",
@@ -185,14 +193,6 @@
       "summary": "Grand Theft Auto 6 apparently features a new in-game social network where we'll be able to watch videos and follow influences to discover \"secret\" side missions, which makes it sound like Rockstar is aiming its satirical cannon at TikTok and Instagram this time around. Read more",
       "url": "https://www.eurogamer.net/grand-theft-auto-6-gta-social-network",
       "date": "2026-06-26T12:39:21.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Eurogamer",
-      "title": "Grand Theft Auto 6 demand may be so high it will \"likely outstrip supply\" this holiday season, a video game retailer warns",
-      "summary": "Major retailers may not have the stock of consoles necessary to bear the incoming wave of demand this holiday season, thanks to Grand Theft Auto 6 's release, it's claimed. Read more",
-      "url": "https://www.eurogamer.net/grand-theft-auto-6-console-shortage-holiday",
-      "date": "2026-06-26T09:22:08.000Z"
     }
   ]
 }
