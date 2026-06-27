@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-27T19:40:02.985Z",
+  "updated": "2026-06-27T22:10:34.705Z",
   "count": 24,
   "items": [
     {
@@ -180,19 +180,19 @@
     },
     {
       "lead": false,
-      "src": "IGN",
-      "title": "IGN Poll Reveals 70% Plan to Buy the GTA 6 Ultimate Edition Over the Standard Edition",
-      "summary": "Earlier this week, IGN ran a poll asking you which edition of GTA 6 you planned to buy: the $80 Standard Edition, or the $100 Ultimate Edition. Well, after thousands of respondents, the results are in — and they might come as a surprise to some.",
-      "url": "https://www.ign.com/articles/ign-poll-reveals-70-plan-to-buy-the-gta-6-ultimate-edition-over-the-standard-edition-which-begs-the-question-is-gta-6-effectively-the-first-100-video-game",
-      "date": "2026-06-26T13:03:51.000Z"
-    },
-    {
-      "lead": false,
       "src": "Eurogamer",
       "title": "GTA 6 takes aim at TikTok with a new social network where we'll apparently be able to follow influencers, get side missions, and maybe get famous?",
       "summary": "Grand Theft Auto 6 apparently features a new in-game social network where we'll be able to watch videos and follow influences to discover \"secret\" side missions, which makes it sound like Rockstar is aiming its satirical cannon at TikTok and Instagram this time around. Read more",
       "url": "https://www.eurogamer.net/grand-theft-auto-6-gta-social-network",
       "date": "2026-06-26T12:39:21.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Eurogamer",
+      "title": "Grand Theft Auto 6 demand may be so high it will \"likely outstrip supply\" this holiday season, a video game retailer warns",
+      "summary": "Major retailers may not have the stock of consoles necessary to bear the incoming wave of demand this holiday season, thanks to Grand Theft Auto 6 's release, it's claimed. Read more",
+      "url": "https://www.eurogamer.net/grand-theft-auto-6-console-shortage-holiday",
+      "date": "2026-06-26T09:22:08.000Z"
     }
   ]
 }
