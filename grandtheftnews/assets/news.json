@@ -1,9 +1,17 @@
 {
-  "updated": "2026-06-28T14:06:29.728Z",
+  "updated": "2026-06-28T16:19:54.063Z",
   "count": 24,
   "items": [
     {
       "lead": true,
+      "src": "Kotaku",
+      "title": "Xbox Tells People To ‘Wait For Real Data’ Over Speculation About GTA 6 Selling Way More Pre-Orders On PS5",
+      "summary": "Microsoft says Xbox pre-order sales have broken records",
+      "url": "https://kotaku.com/xbox-tells-people-to-wait-for-real-data-over-speculation-about-gta-6-selling-way-more-pre-orders-on-ps5-2000711241",
+      "date": "2026-06-28T16:04:57.000Z"
+    },
+    {
+      "lead": false,
       "src": "GamesRadar",
       "title": "Fired GTA 6 developer accusing Rockstar Games of union busting says playing the blockbuster will \"probably just bring back too much\"",
       "summary": "\"I definitely don't think I will buy it. I don't think I'll be able to bring myself to, personally\"",
@@ -177,14 +185,6 @@
       "summary": "With GTA 6 launching in a few months, Eric \"ConcernedApe\" Barone's Haunted Chocolatie r is teeing up to be the next big \"when the heck is it coming out\" game. Announced five years ago, Barone has given a few updates and interviews on the status of the game, and in a new blog post, he wrote about the progress on his…",
       "url": "https://www.gamespot.com/articles/haunted-chocolatier-long-development-comes-down-to-chasing-perfection/",
       "date": "2026-06-26T14:48:28.000Z"
-    },
-    {
-      "lead": false,
-      "src": "IGN",
-      "title": "What Can We Expect from GTA 6 Online, and When Will We Play It?",
-      "summary": "There are a lot of questions about what the next iteration of GTA Online will look like, how much extra it will cost (if anything), and when we’ll be able to play it. Let's look into it.",
-      "url": "https://www.ign.com/articles/what-can-we-expect-from-gta-6-online-and-when-will-we-play-it",
-      "date": "2026-06-26T14:30:00.000Z"
     },
     {
       "lead": false,
