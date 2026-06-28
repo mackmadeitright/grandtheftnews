@@ -1,22 +1,38 @@
 {
-  "updated": "2026-06-28T09:24:42.352Z",
+  "updated": "2026-06-28T14:06:29.728Z",
   "count": 24,
   "items": [
     {
       "lead": true,
+      "src": "GamesRadar",
+      "title": "Fired GTA 6 developer accusing Rockstar Games of union busting says playing the blockbuster will \"probably just bring back too much\"",
+      "summary": "\"I definitely don't think I will buy it. I don't think I'll be able to bring myself to, personally\"",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/fired-gta-6-developer-accusing-rockstar-games-of-union-busting-says-playing-the-blockbuster-will-probably-just-bring-back-too-much/",
+      "date": "2026-06-28T13:22:18.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Polygon",
+      "title": "GTA 6, Steam Machine, Xbox price hikes, and Destiny layoffs herald the end times",
+      "summary": "It seems like a terrible time to be into video games, as the medium faces a sustainability crisis and Rockstar threatens to kill physical games",
+      "url": "https://www.polygon.com/patch-notes-gta-6-steam-machine/",
+      "date": "2026-06-28T12:01:19.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "Games will keep getting more expensive after GTA 6 \"raises the bar,\" but only the most \"in-demand games\" will get away with it, analysts say",
+      "summary": "\"The issue is there are only a handful of premium games that command this price point.\"",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/games-will-keep-getting-more-expensive-after-gta-6-raises-the-bar-but-only-the-most-in-demand-games-will-get-away-with-it-analysts-say/",
+      "date": "2026-06-28T11:39:16.000Z"
+    },
+    {
+      "lead": false,
       "src": "IGN",
       "title": "GTA 6 Scalpers Are Finding Buyers on eBay Despite Rockstar's Commitment to a Digital Release",
       "summary": "Rockstar Games fans seem to be paying eBay scalpers extra for pre-order copies of GTA 6 – even if there isn't much of a reason to.",
       "url": "https://www.ign.com/articles/gta-6-scalpers-are-finding-buyers-on-ebay-despite-rockstars-commitment-to-a-digital-release",
       "date": "2026-06-27T22:28:33.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Polygon",
-      "title": "Xbox responds to claim that there's more interest in Grand Theft Auto 6 PlayStation pre-orders",
-      "summary": "Xbox says it has seen \"record orders\" for GTA 6 in the wake of a claim that PlayStation pre-order interest is vastly outweighting Xbox interest",
-      "url": "https://www.polygon.com/xbox-comment-on-gta-6-record-pre-orders/",
-      "date": "2026-06-27T18:17:37.000Z"
     },
     {
       "lead": false,
@@ -177,22 +193,6 @@
       "summary": "There are tons of pistols, an obligatory rocket launcher, and a couple of Red Dead Redemption 2 references.",
       "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-weapons-list/",
       "date": "2026-06-26T13:33:19.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "GTA 6 deserves more than Vice City, and I hope Rockstar takes cues from Red Dead Redemption 2",
-      "summary": "Opinion | 13 years later, Grand Theft Auto's world needs to be more than a criminal playground",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-deserves-more-than-vice-city-and-i-hope-rockstar-takes-cues-from-red-dead-redemption-2/",
-      "date": "2026-06-26T13:30:00.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Eurogamer",
-      "title": "GTA 6 takes aim at TikTok with a new social network where we'll apparently be able to follow influencers, get side missions, and maybe get famous?",
-      "summary": "Grand Theft Auto 6 apparently features a new in-game social network where we'll be able to watch videos and follow influences to discover \"secret\" side missions, which makes it sound like Rockstar is aiming its satirical cannon at TikTok and Instagram this time around. Read more",
-      "url": "https://www.eurogamer.net/grand-theft-auto-6-gta-social-network",
-      "date": "2026-06-26T12:39:21.000Z"
     }
   ]
 }
