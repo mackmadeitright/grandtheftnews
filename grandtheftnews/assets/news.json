@@ -1,9 +1,25 @@
 {
-  "updated": "2026-06-28T16:19:54.063Z",
+  "updated": "2026-06-28T19:41:16.394Z",
   "count": 24,
   "items": [
     {
       "lead": true,
+      "src": "Eurogamer",
+      "title": "Claims GTA 6 is selling 8 times as many copies on PS5 as Xbox \"doesn't represent pre-order data\", insists Microsoft",
+      "summary": "Microsoft has refuted claims that its rival system, the PlayStation 5, is outselling the Xbox edition of Grand Theft Auto 6 , claiming that the figure \"doesn't represent pre-order data\" and insisting \"we've had record orders\". Read more",
+      "url": "https://www.eurogamer.net/gta-6-ps5-xbox-sales",
+      "date": "2026-06-28T19:04:00.000Z"
+    },
+    {
+      "lead": false,
+      "src": "PC Gamer",
+      "title": "Here's what you want to see from Grand Theft Auto 6's radio stations: Phil Collins, conspiracy theory parodies, and… Gregorian chanting?",
+      "summary": "Vice City's about to get real weird.",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/heres-what-you-want-to-see-from-grand-theft-auto-6s-radio-stations-phil-collins-conspiracy-theory-parodies-and-gregorian-chanting/",
+      "date": "2026-06-28T17:00:00.000Z"
+    },
+    {
+      "lead": false,
       "src": "Kotaku",
       "title": "Xbox Tells People To ‘Wait For Real Data’ Over Speculation About GTA 6 Selling Way More Pre-Orders On PS5",
       "summary": "Microsoft says Xbox pre-order sales have broken records",
@@ -17,14 +33,6 @@
       "summary": "\"I definitely don't think I will buy it. I don't think I'll be able to bring myself to, personally\"",
       "url": "https://www.gamesradar.com/games/grand-theft-auto/fired-gta-6-developer-accusing-rockstar-games-of-union-busting-says-playing-the-blockbuster-will-probably-just-bring-back-too-much/",
       "date": "2026-06-28T13:22:18.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Polygon",
-      "title": "GTA 6, Steam Machine, Xbox price hikes, and Destiny layoffs herald the end times",
-      "summary": "It seems like a terrible time to be into video games, as the medium faces a sustainability crisis and Rockstar threatens to kill physical games",
-      "url": "https://www.polygon.com/patch-notes-gta-6-steam-machine/",
-      "date": "2026-06-28T12:01:19.000Z"
     },
     {
       "lead": false,
@@ -185,14 +193,6 @@
       "summary": "With GTA 6 launching in a few months, Eric \"ConcernedApe\" Barone's Haunted Chocolatie r is teeing up to be the next big \"when the heck is it coming out\" game. Announced five years ago, Barone has given a few updates and interviews on the status of the game, and in a new blog post, he wrote about the progress on his…",
       "url": "https://www.gamespot.com/articles/haunted-chocolatier-long-development-comes-down-to-chasing-perfection/",
       "date": "2026-06-26T14:48:28.000Z"
-    },
-    {
-      "lead": false,
-      "src": "PC Gamer",
-      "title": "I've hunted down every confirmed GTA 6 gun in its trailers and screenshots so far",
-      "summary": "There are tons of pistols, an obligatory rocket launcher, and a couple of Red Dead Redemption 2 references.",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-weapons-list/",
-      "date": "2026-06-26T13:33:19.000Z"
     }
   ]
 }
