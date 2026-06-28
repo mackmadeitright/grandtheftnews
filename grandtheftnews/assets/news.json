@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-28T19:41:16.394Z",
+  "updated": "2026-06-28T22:08:43.918Z",
   "count": 24,
   "items": [
     {
@@ -132,14 +132,6 @@
     },
     {
       "lead": false,
-      "src": "Kotaku",
-      "title": "Some Stores Are Warning There Might Not Be Enough Consoles For Everyone Who Wants To Play GTA 6 This Year",
-      "summary": "What a great time for the manufactures to start raising prices, huh?",
-      "url": "https://kotaku.com/xbox-series-x-ps5-increased-demand-low-supply-gta6-2000711005",
-      "date": "2026-06-26T17:30:21.000Z"
-    },
-    {
-      "lead": false,
       "src": "GamesRadar",
       "title": "As GTA 6 abandons discs, analyst reveals physical games sales in the US actually grew for the first time in 17 years",
       "summary": "It might not be a sign of future growth, though",
@@ -193,6 +185,14 @@
       "summary": "With GTA 6 launching in a few months, Eric \"ConcernedApe\" Barone's Haunted Chocolatie r is teeing up to be the next big \"when the heck is it coming out\" game. Announced five years ago, Barone has given a few updates and interviews on the status of the game, and in a new blog post, he wrote about the progress on his…",
       "url": "https://www.gamespot.com/articles/haunted-chocolatier-long-development-comes-down-to-chasing-perfection/",
       "date": "2026-06-26T14:48:28.000Z"
+    },
+    {
+      "lead": false,
+      "src": "PC Gamer",
+      "title": "I've hunted down every confirmed GTA 6 gun in its trailers and screenshots so far",
+      "summary": "There are tons of pistols, an obligatory rocket launcher, and a couple of Red Dead Redemption 2 references.",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-weapons-list/",
+      "date": "2026-06-26T13:33:19.000Z"
     }
   ]
 }
