@@ -1,9 +1,17 @@
 {
-  "updated": "2026-06-29T04:51:15.780Z",
+  "updated": "2026-06-29T11:18:37.182Z",
   "count": 24,
   "items": [
     {
       "lead": true,
+      "src": "GamesRadar",
+      "title": "Despite Sony saying GTA 6 \"plays best on PS5,\" Xbox says it's \"had record orders\" of Rockstar's new game: \"People should wait for real data\"",
+      "summary": "Don't count Microsoft's console out yet",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/despite-sony-saying-gta-6-plays-best-on-ps5-xbox-says-its-had-record-orders-of-rockstars-new-game-people-should-wait-for-real-data/",
+      "date": "2026-06-29T09:51:08.000Z"
+    },
+    {
+      "lead": false,
       "src": "Eurogamer",
       "title": "Claims GTA 6 is selling 8 times as many copies on PS5 as Xbox \"doesn't represent pre-order data\", insists Microsoft",
       "summary": "Microsoft has refuted claims that its rival system, the PlayStation 5, is outselling the Xbox edition of Grand Theft Auto 6 , claiming that the figure \"doesn't represent pre-order data\" and insisting \"we've had record orders\". Read more",
@@ -185,14 +193,6 @@
       "summary": "There are tons of pistols, an obligatory rocket launcher, and a couple of Red Dead Redemption 2 references.",
       "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-weapons-list/",
       "date": "2026-06-26T13:33:19.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Eurogamer",
-      "title": "GTA 6 takes aim at TikTok with a new social network where we'll apparently be able to follow influencers, get side missions, and maybe get famous?",
-      "summary": "Grand Theft Auto 6 apparently features a new in-game social network where we'll be able to watch videos and follow influences to discover \"secret\" side missions, which makes it sound like Rockstar is aiming its satirical cannon at TikTok and Instagram this time around. Read more",
-      "url": "https://www.eurogamer.net/grand-theft-auto-6-gta-social-network",
-      "date": "2026-06-26T12:39:21.000Z"
     }
   ]
 }
