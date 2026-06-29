@@ -1,9 +1,49 @@
 {
-  "updated": "2026-06-29T11:18:37.182Z",
+  "updated": "2026-06-29T16:02:35.770Z",
   "count": 24,
   "items": [
     {
       "lead": true,
+      "src": "PC Gamer",
+      "title": "Despite having no clue when GTA 6 is coming to PC, 39% of you are more than happy to wait for it",
+      "summary": "Patience is a virtue.",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/despite-having-no-clue-when-gta-6-is-coming-to-pc-39-percent-of-you-are-more-than-happy-to-wait-for-it/",
+      "date": "2026-06-29T15:58:37.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "Where to pre-order GTA 6: bundles, discounts, and how to find pre-load friendly delivery times",
+      "summary": "GTA 6 pre-orders are in full swing, here are the retailers I'd prioritize when buying your copy.",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/where-to-pre-order-gta-6/",
+      "date": "2026-06-29T14:46:25.000Z"
+    },
+    {
+      "lead": false,
+      "src": "PC Gamer",
+      "title": "Eager players are pre-ordering GTA 6 for free using 98,000 Microsoft points and one super fan says it was all only possible thanks to Rockstar's delays",
+      "summary": "\"Thank you Rockstar for all the delays.\"",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/eager-players-are-pre-ordering-gta-6-for-free-using-98-000-microsoft-points-and-one-super-fan-says-it-was-all-only-possible-thanks-to-rockstars-delays/",
+      "date": "2026-06-29T13:19:03.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GameSpot",
+      "title": "GTA 6 Seeing “Record” Orders On Xbox, Microsoft Claims",
+      "summary": "Microsoft has responded to a report regarding GTA 6 preorders and the apparent gulf between Xbox and PlayStation numbers, saying this early, unofficial third-party information \"doesn't represent preorder data.\" \"We’ve had record orders. People should wait for real data and not clicks on affiliate links,\" Microsoft s…",
+      "url": "https://www.gamespot.com/articles/gta-6-seeing-record-orders-on-xbox-microsoft-claims/",
+      "date": "2026-06-29T13:13:25.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GameSpot",
+      "title": "GTA 6 Won’t Be On A Disc, Not At Launch Or Months After, Report Says",
+      "summary": "Even though Rockstar and Take-Two have already said GTA 6 is a digital-only game , some have held out hope for a disc-based version. A new report says GTA 6 will not have a disc-based version at launch or months after , as some have speculated. According to The Hollywood Reporter , \"There are no plans for Grand Thef…",
+      "url": "https://www.gamespot.com/articles/gta-6-wont-be-on-a-disc-not-at-launch-or-months-after-report-says/",
+      "date": "2026-06-29T13:12:32.000Z"
+    },
+    {
+      "lead": false,
       "src": "GamesRadar",
       "title": "Despite Sony saying GTA 6 \"plays best on PS5,\" Xbox says it's \"had record orders\" of Rockstar's new game: \"People should wait for real data\"",
       "summary": "Don't count Microsoft's console out yet",
@@ -60,14 +100,6 @@
     },
     {
       "lead": false,
-      "src": "Kotaku",
-      "title": "Grand Theft Auto 6 Reportedly Won’t Get A Disc-Version Even Months After Launch, Despite Promising New Email From Rockstar",
-      "summary": "A new article from The Hollywood Reporter says that while the support email was real, its language was clunky and misunderstood",
-      "url": "https://kotaku.com/there-remains-no-disc-based-version-of-grand-theft-auto-vi-despite-promising-email-from-rockstar-2000711186",
-      "date": "2026-06-27T15:21:59.000Z"
-    },
-    {
-      "lead": false,
       "src": "Eurogamer",
       "title": "GTA 6 has no plans for a post-launch physical release, \"not at launch, and not months later\", insists new report",
       "summary": "A new report has cast doubt on hopes that a physical version of Grand Theft Auto 6 will follow the digital release later this year. Read more",
@@ -116,62 +148,6 @@
     },
     {
       "lead": false,
-      "src": "GamesRadar",
-      "title": "New GTA 6 screenshots bring a Red Dead Redemption 2 crossover theory back into the spotlight",
-      "summary": "I'm not convinced",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/new-gta-6-screenshots-bring-a-red-dead-redemption-2-crossover-theory-back-into-the-spotlight/",
-      "date": "2026-06-26T21:14:06.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Kotaku",
-      "title": "Sony Is Going All Out And Giving GTA 6 Special Treatment Even First-Party PlayStation Exclusives Don’t Get",
-      "summary": "Rockstar's latest open-world game could be the PS5's biggest release ever",
-      "url": "https://kotaku.com/sony-is-going-all-out-and-giving-gta-6-special-treatment-even-first-party-playstation-exclusives-dont-get-2000710949",
-      "date": "2026-06-26T20:00:13.000Z"
-    },
-    {
-      "lead": false,
-      "src": "PC Gamer",
-      "title": "Rockstar's decision to make GTA 6 fully digital is a terrible, anti-consumer move that makes me worry about the future of videogames",
-      "summary": "An increasing digital landscape shouldn't erase physical media entirely.",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/rockstars-decision-to-make-gta-6-fully-digital-is-a-terrible-anti-consumer-move-that-makes-me-worry-about-the-future-of-videogames/",
-      "date": "2026-06-26T17:49:36.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "As GTA 6 abandons discs, analyst reveals physical games sales in the US actually grew for the first time in 17 years",
-      "summary": "It might not be a sign of future growth, though",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/as-gta-6-abandons-discs-analyst-reveals-physical-games-sales-in-the-us-actually-grew-for-the-first-time-in-17-years/",
-      "date": "2026-06-26T17:00:00.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "What is the GTA 6 GB size going to be?",
-      "summary": "Here's how much space we think you're going to need to install Grand Theft Auto 6",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-gb-size/",
-      "date": "2026-06-26T16:54:05.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "GTA 6 launch means \"demand will likely outstrip supply\" for consoles in November, warns major retailer",
-      "summary": "Xbox will have a \"severe limitation\" on stock",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-launch-means-demand-will-likely-outstrip-supply-for-consoles-in-november-warns-major-retailer/",
-      "date": "2026-06-26T16:53:33.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "Rockstar veteran says there's a good reason why GTA 6 is more expensive than most titles – it's \"not an average AAA game\"",
-      "summary": "The new Grand Theft Auto is unique",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/rockstar-veteran-says-theres-a-good-reason-why-gta-6-is-more-expensive-than-most-titles-its-not-an-average-aaa-game/",
-      "date": "2026-06-26T16:08:53.000Z"
-    },
-    {
-      "lead": false,
       "src": "GameSpot",
       "title": "Some Retailers Reportedly Spill The Tea On GTA 6 Gameplay Details",
       "summary": "With Grand Theft Auto 6 a few months away from blowing up the entire industry on November 19, some retailers appear to be getting antsy, as a new leak floating around online is providing new details about the crime sim. Posted to the notorious GamingLeaksAndRumors subreddit on June 25 , gameplay details on GTA 6 app…",
@@ -188,11 +164,35 @@
     },
     {
       "lead": false,
-      "src": "PC Gamer",
-      "title": "I've hunted down every confirmed GTA 6 gun in its trailers and screenshots so far",
-      "summary": "There are tons of pistols, an obligatory rocket launcher, and a couple of Red Dead Redemption 2 references.",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-weapons-list/",
-      "date": "2026-06-26T13:33:19.000Z"
+      "src": "Eurogamer",
+      "title": "GTA 6 takes aim at TikTok with a new social network where we'll apparently be able to follow influencers, get side missions, and maybe get famous?",
+      "summary": "Grand Theft Auto 6 apparently features a new in-game social network where we'll be able to watch videos and follow influences to discover \"secret\" side missions, which makes it sound like Rockstar is aiming its satirical cannon at TikTok and Instagram this time around. Read more",
+      "url": "https://www.eurogamer.net/grand-theft-auto-6-gta-social-network",
+      "date": "2026-06-26T12:39:21.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Eurogamer",
+      "title": "Grand Theft Auto 6 demand may be so high it will \"likely outstrip supply\" this holiday season, a video game retailer warns",
+      "summary": "Major retailers may not have the stock of consoles necessary to bear the incoming wave of demand this holiday season, thanks to Grand Theft Auto 6 's release, it's claimed. Read more",
+      "url": "https://www.eurogamer.net/grand-theft-auto-6-console-shortage-holiday",
+      "date": "2026-06-26T09:22:08.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GameSpot",
+      "title": "After Confirming $80 Price For GTA 6 And Preorders, Take-Two Stock Is Predicted To Rip",
+      "summary": "Following the start of preorders for GTA 6 and the confirmation of its $80 price point , stock analysts have weighed in with their price targets for shares of Rockstar's owner, Take-Two, and many see a bright future ahead. Although Take-Two's stock price has actually gone down since GTA 6 preorders began, a number o…",
+      "url": "https://www.gamespot.com/articles/after-confirming-80-price-for-gta-6-and-preorders-take-two-stock-is-predicted-to-rip/",
+      "date": "2026-06-25T18:17:16.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GameSpot",
+      "title": "Buying GTA 6 And A New Console This Fall? You Better Be Rich",
+      "summary": "When Grand Theft Auto 6 arrives on November 19, 2026, it will undoubtedly be one of the biggest--if not the biggest--entertainment launches in history. The game will, at least initially, only launch on PlayStation 5 and Xbox Series X|S consoles, which have been available for nearly six years. Typically, consoles tha…",
+      "url": "https://www.gamespot.com/articles/buying-gta-6-and-a-new-console-this-fall-you-better-be-rich/",
+      "date": "2026-06-25T17:38:38.000Z"
     }
   ]
 }
