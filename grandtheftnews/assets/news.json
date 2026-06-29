@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-28T22:08:43.918Z",
+  "updated": "2026-06-29T04:51:15.780Z",
   "count": 24,
   "items": [
     {
@@ -172,14 +172,6 @@
     },
     {
       "lead": false,
-      "src": "IGN",
-      "title": "Retailers Are Issuing Console Shortage Warnings Ahead of GTA 6, and Now I'm Worried Scalpers Are Going to Have a Field Day This Christmas",
-      "summary": "A major retailer has warned there will be console shortages ahead of the launch of GTA 6 in November, sparking concern that scalpers will cash in on demand for PS5 and Xbox Series X and S this Christmas.",
-      "url": "https://www.ign.com/articles/retailers-are-issuing-console-shortage-warnings-ahead-of-gta-6-and-now-im-worried-scalpers-are-going-to-have-a-field-day-this-christmas",
-      "date": "2026-06-26T15:01:50.000Z"
-    },
-    {
-      "lead": false,
       "src": "GameSpot",
       "title": "Haunted Chocolatier’s Long Development Comes Down To Chasing Perfection",
       "summary": "With GTA 6 launching in a few months, Eric \"ConcernedApe\" Barone's Haunted Chocolatie r is teeing up to be the next big \"when the heck is it coming out\" game. Announced five years ago, Barone has given a few updates and interviews on the status of the game, and in a new blog post, he wrote about the progress on his…",
@@ -193,6 +185,14 @@
       "summary": "There are tons of pistols, an obligatory rocket launcher, and a couple of Red Dead Redemption 2 references.",
       "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-weapons-list/",
       "date": "2026-06-26T13:33:19.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Eurogamer",
+      "title": "GTA 6 takes aim at TikTok with a new social network where we'll apparently be able to follow influencers, get side missions, and maybe get famous?",
+      "summary": "Grand Theft Auto 6 apparently features a new in-game social network where we'll be able to watch videos and follow influences to discover \"secret\" side missions, which makes it sound like Rockstar is aiming its satirical cannon at TikTok and Instagram this time around. Read more",
+      "url": "https://www.eurogamer.net/grand-theft-auto-6-gta-social-network",
+      "date": "2026-06-26T12:39:21.000Z"
     }
   ]
 }
