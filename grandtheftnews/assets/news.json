@@ -1,9 +1,41 @@
 {
-  "updated": "2026-06-29T16:02:35.770Z",
+  "updated": "2026-06-29T20:09:25.404Z",
   "count": 24,
   "items": [
     {
       "lead": true,
+      "src": "Polygon",
+      "title": "GTA 6 is shaping up to be a disaster for stores like GameStop",
+      "summary": "With a reported $1 billion in digital pre-orders, Grand Theft Auto 6 could shape the future of GameStop and other retail chains.",
+      "url": "https://www.polygon.com/gta-6-digital-preorder-gamestop-sales-console-supply-rockstar-games/",
+      "date": "2026-06-29T17:32:08.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "Fans respond to GTA 6 price reveal by pre-ordering the $100 Ultimate Edition for free using Microsoft's weird rewards program: \"Thank you Rockstar for all the delays\"",
+      "summary": "All you have to do is buy other stuff or suffer the wrath of Bing",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/fans-respond-to-gta-6-price-reveal-by-pre-ordering-the-usd100-ultimate-edition-for-free-using-microsofts-weird-rewards-program-thank-you-rockstar-for-all-the-delays/",
+      "date": "2026-06-29T17:21:10.000Z"
+    },
+    {
+      "lead": false,
+      "src": "IGN",
+      "title": "'60fps Feels Like a Bridge Too far' — Tech Experts Cast Doubt on Those GTA 6 Quality and Performance Mode 'Leaks'",
+      "summary": "You might have seen reports doing the rounds that GTA 6 will come with a mode that lets you play it at 60 frames per second, based on retailer listings that have emerged online. Well, like so many things around Rockstar’s upcoming gaming behemoth, do not believe everything you read.",
+      "url": "https://www.ign.com/articles/60fps-feels-like-a-bridge-too-far-tech-experts-cast-doubt-on-those-gta-6-quality-and-performance-mode-leaks",
+      "date": "2026-06-29T17:06:30.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "Retailer warns of PS5 and Xbox shortages for GTA 6 release, but please don't buy a brand new console now",
+      "summary": "Consoles could be thin on the shelves when GTA 6 releases in November, but I can't recommend buying a brand new device with all these price increases.",
+      "url": "https://www.gamesradar.com/hardware/retailer-warns-of-ps5-and-xbox-shortages-for-gta-6-release-but-please-dont-buy-a-brand-new-console-now/",
+      "date": "2026-06-29T16:20:39.000Z"
+    },
+    {
+      "lead": false,
       "src": "PC Gamer",
       "title": "Despite having no clue when GTA 6 is coming to PC, 39% of you are more than happy to wait for it",
       "summary": "Patience is a virtue.",
@@ -68,14 +100,6 @@
     },
     {
       "lead": false,
-      "src": "Kotaku",
-      "title": "Xbox Tells People To ‘Wait For Real Data’ Over Speculation About GTA 6 Selling Way More Pre-Orders On PS5",
-      "summary": "Microsoft says Xbox pre-order sales have broken records",
-      "url": "https://kotaku.com/xbox-tells-people-to-wait-for-real-data-over-speculation-about-gta-6-selling-way-more-pre-orders-on-ps5-2000711241",
-      "date": "2026-06-28T16:04:57.000Z"
-    },
-    {
-      "lead": false,
       "src": "GamesRadar",
       "title": "Fired GTA 6 developer accusing Rockstar Games of union busting says playing the blockbuster will \"probably just bring back too much\"",
       "summary": "\"I definitely don't think I will buy it. I don't think I'll be able to bring myself to, personally\"",
@@ -92,14 +116,6 @@
     },
     {
       "lead": false,
-      "src": "IGN",
-      "title": "GTA 6 Scalpers Are Finding Buyers on eBay Despite Rockstar's Commitment to a Digital Release",
-      "summary": "Rockstar Games fans seem to be paying eBay scalpers extra for pre-order copies of GTA 6 – even if there isn't much of a reason to.",
-      "url": "https://www.ign.com/articles/gta-6-scalpers-are-finding-buyers-on-ebay-despite-rockstars-commitment-to-a-digital-release",
-      "date": "2026-06-27T22:28:33.000Z"
-    },
-    {
-      "lead": false,
       "src": "Eurogamer",
       "title": "GTA 6 has no plans for a post-launch physical release, \"not at launch, and not months later\", insists new report",
       "summary": "A new report has cast doubt on hopes that a physical version of Grand Theft Auto 6 will follow the digital release later this year. Read more",
@@ -113,38 +129,6 @@
       "summary": "\"Why spend $1,000 on a new console when you can spend only a fraction on one of the best franchises around?\"",
       "url": "https://www.gamesradar.com/games/grand-theft-auto/as-hardware-like-the-steam-machine-gets-more-expensive-gta-6-will-have-fans-eagerly-spending-analyst-says/",
       "date": "2026-06-27T13:07:18.000Z"
-    },
-    {
-      "lead": false,
-      "src": "IGN",
-      "title": "No, There Is No GTA 6 Physical Disc Coming Out at Launch or the Months After — Those Reports and Social Media Posts Are Incorrect",
-      "summary": "Viral social media posts and articles claiming a physical disc copy of GTA 6 is in the works are incorrect.",
-      "url": "https://www.ign.com/articles/no-there-is-no-gta-6-physical-disc-coming-out-at-launch-or-the-months-after-those-reports-and-social-media-posts-are-incorrect",
-      "date": "2026-06-27T12:12:22.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "Rockstar Games reportedly has no plans to print GTA 6 discs at launch or in the months after",
-      "summary": "The most-anticipated game of all time may very well stay digital-only forever",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/rockstar-games-reportedly-has-no-plans-to-print-gta-6-discs-at-launch-or-in-the-months-after/",
-      "date": "2026-06-27T11:58:45.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "GTA 6 shows signs of life, Bungie in crisis, and why one Xbox developer is excited to still be bringing its game to PS5",
-      "summary": "For members of the GamesRadar+ Community, here's six stories we recommend you read this weekend",
-      "url": "https://www.gamesradar.com/games/gta-6-shows-signs-of-life-bungie-in-crisis-and-why-one-xbox-developer-is-excited-to-still-be-bringing-its-game-to-ps5/",
-      "date": "2026-06-27T10:01:02.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "After GTA 6's controversial code-in-a-box decision, Marvel's Wolverine devs confirm the PS5 game comes with a disc",
-      "summary": "Wolverine also won't be following GTA 6's lead on pricing",
-      "url": "https://www.gamesradar.com/games/action/after-gta-6s-controversial-code-in-a-box-decision-marvels-wolverine-devs-confirm-the-ps5-game-comes-with-a-disc/",
-      "date": "2026-06-26T22:00:12.000Z"
     },
     {
       "lead": false,
@@ -193,6 +177,22 @@
       "summary": "When Grand Theft Auto 6 arrives on November 19, 2026, it will undoubtedly be one of the biggest--if not the biggest--entertainment launches in history. The game will, at least initially, only launch on PlayStation 5 and Xbox Series X|S consoles, which have been available for nearly six years. Typically, consoles tha…",
       "url": "https://www.gamespot.com/articles/buying-gta-6-and-a-new-console-this-fall-you-better-be-rich/",
       "date": "2026-06-25T17:38:38.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Eurogamer",
+      "title": "Marvel's Wolverine will come with a disc in the box, Insomniac assures players as GTA 6's download code approach sends ripples around the industry",
+      "summary": "Insomniac Games has assured fans not to worry: unlike the impending GTA 6 , the physical edition of Marvel's Wolverine will come with a disc when it releases exclusively on PlayStation 5 on 15th September. Read more",
+      "url": "https://www.eurogamer.net/marvels-wolverine-disc-in-box-gta-6",
+      "date": "2026-06-25T16:59:03.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GameSpot",
+      "title": "Unlike GTA 6, Marvel’s Wolverine Will Ship With A Disc",
+      "summary": "While everyone is debating the disc-lessness of Grand Theft Auto 6 , developer Insomniac Games has confirmed that it won't follow suit with its upcoming superhero sim, Marvel's Wolverine . Responding to a fan on X who asked if the action-adventure game will \"be physical or a code in a box,\" Insomniac Games gave a ve…",
+      "url": "https://www.gamespot.com/articles/unlike-gta-6-marvels-wolverine-will-ship-with-a-disc/",
+      "date": "2026-06-25T16:17:54.000Z"
     }
   ]
 }
