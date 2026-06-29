@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-29T20:09:25.404Z",
+  "updated": "2026-06-29T22:15:50.342Z",
   "count": 24,
   "items": [
     {
@@ -124,14 +124,6 @@
     },
     {
       "lead": false,
-      "src": "GamesRadar",
-      "title": "As hardware like the Steam Machine gets more expensive, GTA 6 will have fans \"eagerly\" spending, analyst says",
-      "summary": "\"Why spend $1,000 on a new console when you can spend only a fraction on one of the best franchises around?\"",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/as-hardware-like-the-steam-machine-gets-more-expensive-gta-6-will-have-fans-eagerly-spending-analyst-says/",
-      "date": "2026-06-27T13:07:18.000Z"
-    },
-    {
-      "lead": false,
       "src": "GameSpot",
       "title": "Some Retailers Reportedly Spill The Tea On GTA 6 Gameplay Details",
       "summary": "With Grand Theft Auto 6 a few months away from blowing up the entire industry on November 19, some retailers appear to be getting antsy, as a new leak floating around online is providing new details about the crime sim. Posted to the notorious GamingLeaksAndRumors subreddit on June 25 , gameplay details on GTA 6 app…",
@@ -193,6 +185,14 @@
       "summary": "While everyone is debating the disc-lessness of Grand Theft Auto 6 , developer Insomniac Games has confirmed that it won't follow suit with its upcoming superhero sim, Marvel's Wolverine . Responding to a fan on X who asked if the action-adventure game will \"be physical or a code in a box,\" Insomniac Games gave a ve…",
       "url": "https://www.gamespot.com/articles/unlike-gta-6-marvels-wolverine-will-ship-with-a-disc/",
       "date": "2026-06-25T16:17:54.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Eurogamer",
+      "title": "A proper physical edition of Grand Theft Auto 6 will arrive before the year's end, insider claims",
+      "summary": "The same insider who claimed in February that Grand Theft Auto 6 wouldn't launch with a physical version - which turned out to be almost correct - has now claimed a proper physical edition with a disc will launch in December. Read more",
+      "url": "https://www.eurogamer.net/gta-6-physical-disc-in-december-insider-claims",
+      "date": "2026-06-25T15:01:30.000Z"
     }
   ]
 }
