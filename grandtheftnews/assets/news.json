@@ -1,14 +1,62 @@
 {
-  "updated": "2026-06-30T09:55:35.374Z",
+  "updated": "2026-06-30T14:36:03.667Z",
   "count": 24,
   "items": [
     {
       "lead": true,
-      "src": "Polygon",
-      "title": "GTA 6 is shaping up to be a disaster for stores like GameStop",
-      "summary": "With a reported $1 billion in digital pre-orders, Grand Theft Auto 6 could shape the future of GameStop and other retail chains.",
-      "url": "https://www.polygon.com/gta-6-digital-preorder-gamestop-sales-console-supply-rockstar-games/",
-      "date": "2026-06-29T17:32:08.000Z"
+      "src": "Eurogamer",
+      "title": "Modern Warfare 4 Facebook ads want to make sure everyone understands this year's Call of Duty won't be on Xbox Game Pass",
+      "summary": "I know we're all thinking about GTA 6 right now, but chances are Call of Duty: Modern Warfare 4 - releasing on 23rd October - will be massive, too. Regardless, Xbox and Activision are planning ahead in an attempt to avoid Black Ops 7's stumbles , and it seems the publisher and platform holder are putting effort into…",
+      "url": "https://www.eurogamer.net/call-of-duty-modern-warfare-4-facebook-ads",
+      "date": "2026-06-30T14:28:57.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Eurogamer",
+      "title": "GTA 6 developers at Rockstar Games pushing to pursue official union recognition following 2025 sackings: \"The union is now stronger than ever\"",
+      "summary": "Grand Theft Auto 6 has finally locked its 19th November release date and pre-orders are now open. It should be cause for celebration, but with the lack of a proper physical release and after the firing of employees last year (a move considered to be \" union-busting \" by former and current staff), Rockstar Games is g…",
+      "url": "https://www.eurogamer.net/rockstar-games-union-push-before-gta-6-launch",
+      "date": "2026-06-30T13:15:00.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Kotaku",
+      "title": "GTA 6 Devs Ask Rockstar To Recognize Their Union Before The Game Launches",
+      "summary": "The labor fight erupted last fall amid the sudden firing of several staff",
+      "url": "https://kotaku.com/gta-6-devs-ask-rockstar-to-recognize-their-union-before-the-game-launches-2000711599",
+      "date": "2026-06-30T12:49:10.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "Which GTA 6 versions are available, and what's the difference between them?",
+      "summary": "Whether you're looking at the Standard, Ultimate, or Physical Edition, here's what you get with each version of GTA 6",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-versions/",
+      "date": "2026-06-30T12:01:00.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GameSpot",
+      "title": "GTA 6 Might Normalize $80 Games, But Analysts Say Only A Few Can Pull It Off",
+      "summary": "With GTA 6 setting its price point at $80 , the general consensus is that it may be a trendsetter that will encourage more publishers to sell their games at this new baseline MSRP. According to analysts, while this new sticker price baseline is possible, only a handful of games might be able to get away with it. Spe…",
+      "url": "https://www.gamespot.com/articles/gta-6-might-normalize-80-games-but-analysts-say-only-a-few-can-pull-it-off/",
+      "date": "2026-06-30T11:59:52.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "It's not just Sony, even Rockstar says GTA 6 \"plays best on PS5,\" with Xbox omitted entirely from one new ad",
+      "summary": "Some are shocked that Rockstar \"didn't even acknowledge the existence of Xbox Series\" in a new post",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/its-not-just-sony-even-rockstar-says-gta-6-plays-best-on-ps5-with-xbox-omitted-entirely-from-one-new-ad/",
+      "date": "2026-06-30T11:47:34.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Eurogamer",
+      "title": "\"We can't back out now!\" Onimusha: Way of the Sword developer laughs off concerns around 2026's packed September release window",
+      "summary": "Onimusha: Way of the Sword is one of many, many games due to launch in the September/October 2026 period in 2026. As developers and publishers flee as far away from GTA 6 black hole as they possibly can , the resultant squeeze in the earlier ( or later ) months is resulting in a veritable feast of triple-A and indie…",
+      "url": "https://www.eurogamer.net/onimusha-way-of-the-sword-developer-concerns-september-release-window",
+      "date": "2026-06-30T10:14:57.000Z"
     },
     {
       "lead": false,
@@ -76,14 +124,6 @@
     },
     {
       "lead": false,
-      "src": "GamesRadar",
-      "title": "Despite Sony saying GTA 6 \"plays best on PS5,\" Xbox says it's \"had record orders\" of Rockstar's new game: \"People should wait for real data\"",
-      "summary": "Don't count Microsoft's console out yet",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/despite-sony-saying-gta-6-plays-best-on-ps5-xbox-says-its-had-record-orders-of-rockstars-new-game-people-should-wait-for-real-data/",
-      "date": "2026-06-29T09:51:08.000Z"
-    },
-    {
-      "lead": false,
       "src": "Eurogamer",
       "title": "Claims GTA 6 is selling 8 times as many copies on PS5 as Xbox \"doesn't represent pre-order data\", insists Microsoft",
       "summary": "Microsoft has refuted claims that its rival system, the PlayStation 5, is outselling the Xbox edition of Grand Theft Auto 6 , claiming that the figure \"doesn't represent pre-order data\" and insisting \"we've had record orders\". Read more",
@@ -97,14 +137,6 @@
       "summary": "Vice City's about to get real weird.",
       "url": "https://www.pcgamer.com/games/grand-theft-auto/heres-what-you-want-to-see-from-grand-theft-auto-6s-radio-stations-phil-collins-conspiracy-theory-parodies-and-gregorian-chanting/",
       "date": "2026-06-28T17:00:00.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "Fired GTA 6 developer accusing Rockstar Games of union busting says playing the blockbuster will \"probably just bring back too much\"",
-      "summary": "\"I definitely don't think I will buy it. I don't think I'll be able to bring myself to, personally\"",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/fired-gta-6-developer-accusing-rockstar-games-of-union-busting-says-playing-the-blockbuster-will-probably-just-bring-back-too-much/",
-      "date": "2026-06-28T13:22:18.000Z"
     },
     {
       "lead": false,
@@ -156,43 +188,11 @@
     },
     {
       "lead": false,
-      "src": "GameSpot",
-      "title": "Buying GTA 6 And A New Console This Fall? You Better Be Rich",
-      "summary": "When Grand Theft Auto 6 arrives on November 19, 2026, it will undoubtedly be one of the biggest--if not the biggest--entertainment launches in history. The game will, at least initially, only launch on PlayStation 5 and Xbox Series X|S consoles, which have been available for nearly six years. Typically, consoles tha…",
-      "url": "https://www.gamespot.com/articles/buying-gta-6-and-a-new-console-this-fall-you-better-be-rich/",
-      "date": "2026-06-25T17:38:38.000Z"
-    },
-    {
-      "lead": false,
       "src": "Eurogamer",
       "title": "Marvel's Wolverine will come with a disc in the box, Insomniac assures players as GTA 6's download code approach sends ripples around the industry",
       "summary": "Insomniac Games has assured fans not to worry: unlike the impending GTA 6 , the physical edition of Marvel's Wolverine will come with a disc when it releases exclusively on PlayStation 5 on 15th September. Read more",
       "url": "https://www.eurogamer.net/marvels-wolverine-disc-in-box-gta-6",
       "date": "2026-06-25T16:59:03.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GameSpot",
-      "title": "Unlike GTA 6, Marvel’s Wolverine Will Ship With A Disc",
-      "summary": "While everyone is debating the disc-lessness of Grand Theft Auto 6 , developer Insomniac Games has confirmed that it won't follow suit with its upcoming superhero sim, Marvel's Wolverine . Responding to a fan on X who asked if the action-adventure game will \"be physical or a code in a box,\" Insomniac Games gave a ve…",
-      "url": "https://www.gamespot.com/articles/unlike-gta-6-marvels-wolverine-will-ship-with-a-disc/",
-      "date": "2026-06-25T16:17:54.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Eurogamer",
-      "title": "A proper physical edition of Grand Theft Auto 6 will arrive before the year's end, insider claims",
-      "summary": "The same insider who claimed in February that Grand Theft Auto 6 wouldn't launch with a physical version - which turned out to be almost correct - has now claimed a proper physical edition with a disc will launch in December. Read more",
-      "url": "https://www.eurogamer.net/gta-6-physical-disc-in-december-insider-claims",
-      "date": "2026-06-25T15:01:30.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Eurogamer",
-      "title": "Online retailers are stating that PS5 GTA 6 codes can only be played in the country they're bought",
-      "summary": "Grand Theft Auto 6 pre-orders have officially gone live in many parts of the world, and while many players will be placing their pre-orders through the PlayStation and Xbox Stores, many others will order from Amazon and online retailers. Read more",
-      "url": "https://www.eurogamer.net/gta-6-online-retail-country-code-in-box-limitation",
-      "date": "2026-06-25T14:42:17.000Z"
     }
   ]
 }
