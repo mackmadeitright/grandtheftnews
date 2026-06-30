@@ -1,9 +1,17 @@
 {
-  "updated": "2026-06-30T17:09:59.475Z",
+  "updated": "2026-06-30T20:09:08.259Z",
   "count": 24,
   "items": [
     {
       "lead": true,
+      "src": "IGN",
+      "title": "GTA 6 Developers Ask Rockstar for Union Recognition — and They're Prepared to Go to the UK Government if Necessary",
+      "summary": "Rockstar developers have applied for voluntary recognition of the IWGB Game Workers Union in a bid to make the Grand Theft Auto 6 developer the second UK games studio with a recognized union.",
+      "url": "https://www.ign.com/articles/gta-6-developers-ask-rockstar-for-union-recognition-and-theyre-prepared-to-go-to-the-uk-government-if-necessary",
+      "date": "2026-06-30T17:58:14.000Z"
+    },
+    {
+      "lead": false,
       "src": "GamesRadar",
       "title": "Rockstar, please drop GTA 6 trailer 3 soon, people are starting to analyze Jason's muscles for clues about the game",
       "summary": "We're getting into the nitty-gritty now",
@@ -124,22 +132,6 @@
     },
     {
       "lead": false,
-      "src": "GameSpot",
-      "title": "GTA 6 Seeing “Record” Orders On Xbox, Microsoft Claims",
-      "summary": "Microsoft has responded to a report regarding GTA 6 preorders and the apparent gulf between Xbox and PlayStation numbers, saying this early, unofficial third-party information \"doesn't represent preorder data.\" \"We’ve had record orders. People should wait for real data and not clicks on affiliate links,\" Microsoft s…",
-      "url": "https://www.gamespot.com/articles/gta-6-seeing-record-orders-on-xbox-microsoft-claims/",
-      "date": "2026-06-29T13:13:25.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GameSpot",
-      "title": "GTA 6 Won’t Be On A Disc, Not At Launch Or Months After, Report Says",
-      "summary": "Even though Rockstar and Take-Two have already said GTA 6 is a digital-only game , some have held out hope for a disc-based version. A new report says GTA 6 will not have a disc-based version at launch or months after , as some have speculated. According to The Hollywood Reporter , \"There are no plans for Grand Thef…",
-      "url": "https://www.gamespot.com/articles/gta-6-wont-be-on-a-disc-not-at-launch-or-months-after-report-says/",
-      "date": "2026-06-29T13:12:32.000Z"
-    },
-    {
-      "lead": false,
       "src": "Eurogamer",
       "title": "Claims GTA 6 is selling 8 times as many copies on PS5 as Xbox \"doesn't represent pre-order data\", insists Microsoft",
       "summary": "Microsoft has refuted claims that its rival system, the PlayStation 5, is outselling the Xbox edition of Grand Theft Auto 6 , claiming that the figure \"doesn't represent pre-order data\" and insisting \"we've had record orders\". Read more",
@@ -153,14 +145,6 @@
       "summary": "A new report has cast doubt on hopes that a physical version of Grand Theft Auto 6 will follow the digital release later this year. Read more",
       "url": "https://www.eurogamer.net/gta-6-no-physical-release",
       "date": "2026-06-27T14:45:17.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GameSpot",
-      "title": "Some Retailers Reportedly Spill The Tea On GTA 6 Gameplay Details",
-      "summary": "With Grand Theft Auto 6 a few months away from blowing up the entire industry on November 19, some retailers appear to be getting antsy, as a new leak floating around online is providing new details about the crime sim. Posted to the notorious GamingLeaksAndRumors subreddit on June 25 , gameplay details on GTA 6 app…",
-      "url": "https://www.gamespot.com/articles/some-retailers-reportedly-spill-the-tea-on-gta-6-gameplay-details/",
-      "date": "2026-06-26T15:56:18.000Z"
     },
     {
       "lead": false,
@@ -193,6 +177,22 @@
       "summary": "The same insider who claimed in February that Grand Theft Auto 6 wouldn't launch with a physical version - which turned out to be almost correct - has now claimed a proper physical edition with a disc will launch in December. Read more",
       "url": "https://www.eurogamer.net/gta-6-physical-disc-in-december-insider-claims",
       "date": "2026-06-25T15:01:30.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Eurogamer",
+      "title": "Online retailers are stating that PS5 GTA 6 codes can only be played in the country they're bought",
+      "summary": "Grand Theft Auto 6 pre-orders have officially gone live in many parts of the world, and while many players will be placing their pre-orders through the PlayStation and Xbox Stores, many others will order from Amazon and online retailers. Read more",
+      "url": "https://www.eurogamer.net/gta-6-online-retail-country-code-in-box-limitation",
+      "date": "2026-06-25T14:42:17.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Eurogamer",
+      "title": "Leaks, price control, no second-hand sales: why Grand Theft Auto 6 physical editions won't come with a disc, according to experts",
+      "summary": "The overwhelming talking point this week surrounding the Grand Theft Auto 6 pre-order announcements - and details of the game's price and varying versions - has undeniably been the game box and what's inside it. Or rather, what's not inside it. Because the GTA 6 physical edition doesn't actually come with a disc, on…",
+      "url": "https://www.eurogamer.net/grand-theft-auto-6-physical-no-disc-experts",
+      "date": "2026-06-25T13:08:55.000Z"
     }
   ]
 }
