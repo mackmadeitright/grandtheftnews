@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-30T04:17:16.736Z",
+  "updated": "2026-06-30T09:55:35.374Z",
   "count": 24,
   "items": [
     {
@@ -108,14 +108,6 @@
     },
     {
       "lead": false,
-      "src": "GamesRadar",
-      "title": "Games will keep getting more expensive after GTA 6 \"raises the bar,\" but only the most \"in-demand games\" will get away with it, analysts say",
-      "summary": "\"The issue is there are only a handful of premium games that command this price point.\"",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/games-will-keep-getting-more-expensive-after-gta-6-raises-the-bar-but-only-the-most-in-demand-games-will-get-away-with-it-analysts-say/",
-      "date": "2026-06-28T11:39:16.000Z"
-    },
-    {
-      "lead": false,
       "src": "Eurogamer",
       "title": "GTA 6 has no plans for a post-launch physical release, \"not at launch, and not months later\", insists new report",
       "summary": "A new report has cast doubt on hopes that a physical version of Grand Theft Auto 6 will follow the digital release later this year. Read more",
@@ -193,6 +185,14 @@
       "summary": "The same insider who claimed in February that Grand Theft Auto 6 wouldn't launch with a physical version - which turned out to be almost correct - has now claimed a proper physical edition with a disc will launch in December. Read more",
       "url": "https://www.eurogamer.net/gta-6-physical-disc-in-december-insider-claims",
       "date": "2026-06-25T15:01:30.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Eurogamer",
+      "title": "Online retailers are stating that PS5 GTA 6 codes can only be played in the country they're bought",
+      "summary": "Grand Theft Auto 6 pre-orders have officially gone live in many parts of the world, and while many players will be placing their pre-orders through the PlayStation and Xbox Stores, many others will order from Amazon and online retailers. Read more",
+      "url": "https://www.eurogamer.net/gta-6-online-retail-country-code-in-box-limitation",
+      "date": "2026-06-25T14:42:17.000Z"
     }
   ]
 }
