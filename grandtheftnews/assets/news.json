@@ -1,9 +1,17 @@
 {
-  "updated": "2026-07-01T04:45:43.473Z",
+  "updated": "2026-07-01T10:05:00.734Z",
   "count": 24,
   "items": [
     {
       "lead": true,
+      "src": "Eurogamer",
+      "title": "GTA 6 developer Rockstar accused of enforcing crunch, weaponising bonus payments, and ignoring a widening gender pay gap",
+      "summary": "As Rockstar employees move to pursue official union recognition following a series of high-profile sackings in 2025, new allegations are emerging related to Rockstar's treatment of its staff. In a new report published by Game Developer , multiple Rockstar developers have accused the company of failing to address gen…",
+      "url": "https://www.eurogamer.net/gta-6-rockstar-enforcing-crunch-weaponising-bonus-payments-ignoring-widening-gender-pay-gap",
+      "date": "2026-07-01T09:57:13.000Z"
+    },
+    {
+      "lead": false,
       "src": "GameSpot",
       "title": "GTA 6 Fans Are Convinced The Game Has A Bodybuilding System, And Here’s Why",
       "summary": "As the wait for GTA 6's next trailer continues, fans are poring over all the little details from the new batch of screenshots that recently went live . One piece of information that fans are now obsessing about is what they believe will be a system in the game that lets you get swoll. As relayed by GamesRadar , fans…",
@@ -185,14 +193,6 @@
       "summary": "Grand Theft Auto 6 pre-orders have officially gone live in many parts of the world, and while many players will be placing their pre-orders through the PlayStation and Xbox Stores, many others will order from Amazon and online retailers. Read more",
       "url": "https://www.eurogamer.net/gta-6-online-retail-country-code-in-box-limitation",
       "date": "2026-06-25T14:42:17.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Eurogamer",
-      "title": "Leaks, price control, no second-hand sales: why Grand Theft Auto 6 physical editions won't come with a disc, according to experts",
-      "summary": "The overwhelming talking point this week surrounding the Grand Theft Auto 6 pre-order announcements - and details of the game's price and varying versions - has undeniably been the game box and what's inside it. Or rather, what's not inside it. Because the GTA 6 physical edition doesn't actually come with a disc, on…",
-      "url": "https://www.eurogamer.net/grand-theft-auto-6-physical-no-disc-experts",
-      "date": "2026-06-25T13:08:55.000Z"
     }
   ]
 }
