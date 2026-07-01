@@ -1,9 +1,17 @@
 {
-  "updated": "2026-07-01T17:21:33.455Z",
+  "updated": "2026-07-01T20:05:32.122Z",
   "count": 24,
   "items": [
     {
       "lead": true,
+      "src": "GameSpot",
+      "title": "Call Of Duty: Modern Warfare 4 Just Showed Up In A Very Unexpected Place",
+      "summary": "Activision's Call of Duty: Modern Warfare 4 is expected to be one of 2026's biggest game releases alongside GTA 6, and the company is expected to go all-out with its marketing and promotion campaign for it. That may have already begun, but not in the way anyone might have expected. World Cup fans have spotted a curi…",
+      "url": "https://www.gamespot.com/articles/call-of-duty-modern-warfare-4-just-showed-up-in-a-very-unexpected-place/",
+      "date": "2026-07-01T19:45:10.000Z"
+    },
+    {
+      "lead": false,
       "src": "IGN",
       "title": "Stranger Things' Millie Bobby Brown Reveals the Unusual Way She Plays Grand Theft Auto Games — and That She Can't Wait for GTA 6",
       "summary": "Stranger Things star Millie Bobby Brown has revealed her love for Grand Theft Auto and says she can't wait for GTA 6 — even though she has an unusual way of playing.",
@@ -52,27 +60,11 @@
     },
     {
       "lead": false,
-      "src": "GamesRadar",
-      "title": "Rockstar union rep claims GTA 6 bosses can \"easily afford\" demands after reportedly generating $3 billion in pre-orders as devs call for \"fairer crunch\" and \"pay transparency\"",
-      "summary": "Rockstar devs hope to join ZA/UM in trailblazing video game unions in the UK",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/rockstar-union-rep-claims-gta-6-bosses-can-easily-afford-demands-after-reportedly-generating-usd3-billion-in-pre-orders-as-devs-call-for-fairer-crunch-and-pay-transparency/",
-      "date": "2026-06-30T16:28:12.000Z"
-    },
-    {
-      "lead": false,
       "src": "PC Gamer",
       "title": "Russian politician says GTA 6 carries 'the stench of Americanism,' but it's not so bad because the games are all about Americans killing each other",
       "summary": "\"Any violence in GTA is violence against a potential enemy.\"",
       "url": "https://www.pcgamer.com/games/grand-theft-auto/russian-politician-says-gta-6-carries-the-stench-of-americanism-but-its-not-so-bad-because-the-games-are-all-about-americans-killing-each-other/",
       "date": "2026-06-30T15:26:27.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GameSpot",
-      "title": "GTA 6 Preorders Include Auto-Renewing Membership To Something You Might Not Actually Want",
-      "summary": "GTA 6 preorders are now available , and anyone placing an order might have noticed that they also get a free month of GTA+ with their purchase. The fine print states that this membership auto-renews, so if it's not something you want to keep, you should be sure to cancel it prior to the end of the first month. Other…",
-      "url": "https://www.gamespot.com/articles/gta-6-preorders-include-auto-renewing-membership-to-something-you-might-not-actually-want/",
-      "date": "2026-06-30T14:45:16.000Z"
     },
     {
       "lead": false,
@@ -193,6 +185,14 @@
       "summary": "UPDATE 25th JUN, 9.00AM BST: Now that pre-orders for Grand Theft Auto 6 have gone live across digital stores, the price of the game in the UK and Europe has been revealed. Read more",
       "url": "https://www.eurogamer.net/gta-6-prices-confirmed",
       "date": "2026-06-24T11:01:21.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Eurogamer",
+      "title": "GTA 6 will seemingly only launch with the single-player campaign in November",
+      "summary": "As many of us expected, the launch version of Grand Theft Auto 6 , coming 19th November, will seemingly only include the single-player campaign. Rockstar implied this today in a press release announcing GTA 6 pre-orders will go live at midnight, with no disc included , which also did not include any mention of an on…",
+      "url": "https://www.eurogamer.net/gta-6-single-player-at-launch-gta-online",
+      "date": "2026-06-24T10:41:02.000Z"
     }
   ]
 }
