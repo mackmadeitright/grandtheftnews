@@ -1,9 +1,17 @@
 {
-  "updated": "2026-07-01T14:52:36.722Z",
+  "updated": "2026-07-01T17:21:33.455Z",
   "count": 24,
   "items": [
     {
       "lead": true,
+      "src": "IGN",
+      "title": "Stranger Things' Millie Bobby Brown Reveals the Unusual Way She Plays Grand Theft Auto Games — and That She Can't Wait for GTA 6",
+      "summary": "Stranger Things star Millie Bobby Brown has revealed her love for Grand Theft Auto and says she can't wait for GTA 6 — even though she has an unusual way of playing.",
+      "url": "https://www.ign.com/articles/stranger-things-millie-bobby-brown-reveals-the-unusual-way-she-plays-grand-theft-auto-games-and-that-she-cant-wait-for-gta-6",
+      "date": "2026-07-01T15:05:50.000Z"
+    },
+    {
+      "lead": false,
       "src": "GameSpot",
       "title": "Stranger Things Star Millie Bobby Brown Loves GTA, But Plays Differently Than Most",
       "summary": "Stranger Things and Enola Holmes actor Millie Bobby Brown has called out Grand Theft Auto as being her favorite video game series. She said in an interview that she's very excited for GTA 6, and she also shared some insight into how she plays GTA games--it's probably not how you play them. \"I follow the rules in GTA…",
@@ -36,14 +44,6 @@
     },
     {
       "lead": false,
-      "src": "IGN",
-      "title": "GTA 6 Developers Ask Rockstar for Union Recognition — and They're Prepared to Go to the UK Government if Necessary",
-      "summary": "Rockstar developers have applied for voluntary recognition of the IWGB Game Workers Union in a bid to make the Grand Theft Auto 6 developer the second UK games studio with a recognized union.",
-      "url": "https://www.ign.com/articles/gta-6-developers-ask-rockstar-for-union-recognition-and-theyre-prepared-to-go-to-the-uk-government-if-necessary",
-      "date": "2026-06-30T17:58:14.000Z"
-    },
-    {
-      "lead": false,
       "src": "GamesRadar",
       "title": "Rockstar, please drop GTA 6 trailer 3 soon, people are starting to analyze Jason's muscles for clues about the game",
       "summary": "We're getting into the nitty-gritty now",
@@ -57,14 +57,6 @@
       "summary": "Rockstar devs hope to join ZA/UM in trailblazing video game unions in the UK",
       "url": "https://www.gamesradar.com/games/grand-theft-auto/rockstar-union-rep-claims-gta-6-bosses-can-easily-afford-demands-after-reportedly-generating-usd3-billion-in-pre-orders-as-devs-call-for-fairer-crunch-and-pay-transparency/",
       "date": "2026-06-30T16:28:12.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "PS5 is reportedly so far ahead of Xbox Series X that it gets up to 80% of launch sales for AAA single-player console games, though Xbox denies a huge split on GTA 6 pre-orders",
-      "summary": "Resident Evil Requiem, Crimson Desert, and 007 First Light made most of their console sales on PS5",
-      "url": "https://www.gamesradar.com/games/ps5-may-account-for-up-to-80-percent-of-launch-sales-for-aaa-single-player-console-games-its-claimed-days-after-xbox-denied-the-same-split-on-gta-6-pre-orders/",
-      "date": "2026-06-30T15:53:02.000Z"
     },
     {
       "lead": false,
@@ -108,27 +100,11 @@
     },
     {
       "lead": false,
-      "src": "GameSpot",
-      "title": "GTA 6 Might Normalize $80 Games, But Analysts Say Only A Few Can Pull It Off",
-      "summary": "With GTA 6 setting its price point at $80 , the general consensus is that it may be a trendsetter that will encourage more publishers to sell their games at this new baseline MSRP. According to analysts, while this new sticker price baseline is possible, only a handful of games might be able to get away with it. Spe…",
-      "url": "https://www.gamespot.com/articles/gta-6-might-normalize-80-games-but-analysts-say-only-a-few-can-pull-it-off/",
-      "date": "2026-06-30T11:59:52.000Z"
-    },
-    {
-      "lead": false,
       "src": "Eurogamer",
       "title": "\"We can't back out now!\" Onimusha: Way of the Sword developer laughs off concerns around 2026's packed September release window",
       "summary": "Onimusha: Way of the Sword is one of many, many games due to launch in the September/October 2026 period in 2026. As developers and publishers flee as far away from GTA 6 black hole as they possibly can , the resultant squeeze in the earlier ( or later ) months is resulting in a veritable feast of triple-A and indie…",
       "url": "https://www.eurogamer.net/onimusha-way-of-the-sword-developer-concerns-september-release-window",
       "date": "2026-06-30T10:14:57.000Z"
-    },
-    {
-      "lead": false,
-      "src": "PC Gamer",
-      "title": "Despite having no clue when GTA 6 is coming to PC, 39% of you are more than happy to wait for it",
-      "summary": "Patience is a virtue.",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/despite-having-no-clue-when-gta-6-is-coming-to-pc-39-percent-of-you-are-more-than-happy-to-wait-for-it/",
-      "date": "2026-06-29T15:58:37.000Z"
     },
     {
       "lead": false,
@@ -193,6 +169,30 @@
       "summary": "The overwhelming talking point this week surrounding the Grand Theft Auto 6 pre-order announcements - and details of the game's price and varying versions - has undeniably been the game box and what's inside it. Or rather, what's not inside it. Because the GTA 6 physical edition doesn't actually come with a disc, on…",
       "url": "https://www.eurogamer.net/grand-theft-auto-6-physical-no-disc-experts",
       "date": "2026-06-25T13:08:55.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Eurogamer",
+      "title": "Few things get me excited like these big GTA 6 moments, but we need to talk about digital game ownership - and fast",
+      "summary": "The biggie for me was always the one with the Sabre Turbo. Poised at a crossroads, black with an impossible shine, like an oil slick on tarmac, reflections iridescent. A fool in a red sports car in front, the city surrounding, mountains in the distance. A car coiled up at that intersection like the whole potential o…",
+      "url": "https://www.eurogamer.net/gta-6-exciting-but-we-need-to-talk-about-game-owenership-fast",
+      "date": "2026-06-25T12:22:41.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Eurogamer",
+      "title": "Sony wants you to know GTA 6 \"will play best on PS5\", and here's why",
+      "summary": "Sony has released a blog post detailing the PlayStation 5 features that will work with Grand Theft Auto 6 , and it's claimed the game will \"play best\" on PS5. Read more",
+      "url": "https://www.eurogamer.net/grand-theft-auto-6-ps5-features",
+      "date": "2026-06-24T13:06:18.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Eurogamer",
+      "title": "Grand Theft Auto 6 price finally revealed as $80 in the US, £70 in the UK, and €80 in Europe",
+      "summary": "UPDATE 25th JUN, 9.00AM BST: Now that pre-orders for Grand Theft Auto 6 have gone live across digital stores, the price of the game in the UK and Europe has been revealed. Read more",
+      "url": "https://www.eurogamer.net/gta-6-prices-confirmed",
+      "date": "2026-06-24T11:01:21.000Z"
     }
   ]
 }
