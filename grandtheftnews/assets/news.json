@@ -1,9 +1,25 @@
 {
-  "updated": "2026-07-01T10:05:00.734Z",
+  "updated": "2026-07-01T14:52:36.722Z",
   "count": 24,
   "items": [
     {
       "lead": true,
+      "src": "GameSpot",
+      "title": "Stranger Things Star Millie Bobby Brown Loves GTA, But Plays Differently Than Most",
+      "summary": "Stranger Things and Enola Holmes actor Millie Bobby Brown has called out Grand Theft Auto as being her favorite video game series. She said in an interview that she's very excited for GTA 6, and she also shared some insight into how she plays GTA games--it's probably not how you play them. \"I follow the rules in GTA…",
+      "url": "https://www.gamespot.com/articles/stranger-things-star-millie-bobby-brown-loves-gta-but-plays-differently-than-most/",
+      "date": "2026-07-01T14:03:42.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "GTA 6 studio Rockstar \"will arrange to meet\" union reps following devs' request for recognition, assuring it gives teams \"world-class work environments\" amid demands for \"fairer crunch practices\"",
+      "summary": "\"We value an open and constructive dialogue\"",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-studio-rockstar-will-arrange-to-meet-union-reps-following-devs-request-for-recognition-assuring-it-gives-teams-world-class-work-environments-amid-demands-for-fairer-crunch-practices/",
+      "date": "2026-07-01T11:25:06.000Z"
+    },
+    {
+      "lead": false,
       "src": "Eurogamer",
       "title": "GTA 6 developer Rockstar accused of enforcing crunch, weaponising bonus payments, and ignoring a widening gender pay gap",
       "summary": "As Rockstar employees move to pursue official union recognition following a series of high-profile sackings in 2025, new allegations are emerging related to Rockstar's treatment of its staff. In a new report published by Game Developer , multiple Rockstar developers have accused the company of failing to address gen…",
@@ -92,27 +108,11 @@
     },
     {
       "lead": false,
-      "src": "GamesRadar",
-      "title": "Which GTA 6 versions are available, and what's the difference between them?",
-      "summary": "Whether you're looking at the Standard, Ultimate, or Physical Edition, here's what you get with each version of GTA 6",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-versions/",
-      "date": "2026-06-30T12:01:00.000Z"
-    },
-    {
-      "lead": false,
       "src": "GameSpot",
       "title": "GTA 6 Might Normalize $80 Games, But Analysts Say Only A Few Can Pull It Off",
       "summary": "With GTA 6 setting its price point at $80 , the general consensus is that it may be a trendsetter that will encourage more publishers to sell their games at this new baseline MSRP. According to analysts, while this new sticker price baseline is possible, only a handful of games might be able to get away with it. Spe…",
       "url": "https://www.gamespot.com/articles/gta-6-might-normalize-80-games-but-analysts-say-only-a-few-can-pull-it-off/",
       "date": "2026-06-30T11:59:52.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "It's not just Sony, even Rockstar says GTA 6 \"plays best on PS5,\" with Xbox omitted entirely from one new ad",
-      "summary": "Some are shocked that Rockstar \"didn't even acknowledge the existence of Xbox Series\" in a new post",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/its-not-just-sony-even-rockstar-says-gta-6-plays-best-on-ps5-with-xbox-omitted-entirely-from-one-new-ad/",
-      "date": "2026-06-30T11:47:34.000Z"
     },
     {
       "lead": false,
@@ -129,14 +129,6 @@
       "summary": "Patience is a virtue.",
       "url": "https://www.pcgamer.com/games/grand-theft-auto/despite-having-no-clue-when-gta-6-is-coming-to-pc-39-percent-of-you-are-more-than-happy-to-wait-for-it/",
       "date": "2026-06-29T15:58:37.000Z"
-    },
-    {
-      "lead": false,
-      "src": "PC Gamer",
-      "title": "Eager players are pre-ordering GTA 6 for free using 98,000 Microsoft points and one super fan says it was all only possible thanks to Rockstar's delays",
-      "summary": "\"Thank you Rockstar for all the delays.\"",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/eager-players-are-pre-ordering-gta-6-for-free-using-98-000-microsoft-points-and-one-super-fan-says-it-was-all-only-possible-thanks-to-rockstars-delays/",
-      "date": "2026-06-29T13:19:03.000Z"
     },
     {
       "lead": false,
@@ -193,6 +185,14 @@
       "summary": "Grand Theft Auto 6 pre-orders have officially gone live in many parts of the world, and while many players will be placing their pre-orders through the PlayStation and Xbox Stores, many others will order from Amazon and online retailers. Read more",
       "url": "https://www.eurogamer.net/gta-6-online-retail-country-code-in-box-limitation",
       "date": "2026-06-25T14:42:17.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Eurogamer",
+      "title": "Leaks, price control, no second-hand sales: why Grand Theft Auto 6 physical editions won't come with a disc, according to experts",
+      "summary": "The overwhelming talking point this week surrounding the Grand Theft Auto 6 pre-order announcements - and details of the game's price and varying versions - has undeniably been the game box and what's inside it. Or rather, what's not inside it. Because the GTA 6 physical edition doesn't actually come with a disc, on…",
+      "url": "https://www.eurogamer.net/grand-theft-auto-6-physical-no-disc-experts",
+      "date": "2026-06-25T13:08:55.000Z"
     }
   ]
 }
