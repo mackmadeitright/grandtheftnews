@@ -1,9 +1,33 @@
 {
-  "updated": "2026-07-02T09:27:28.134Z",
+  "updated": "2026-07-02T14:22:41.029Z",
   "count": 24,
   "items": [
     {
       "lead": true,
+      "src": "Polygon",
+      "title": "GTA 6 gameplay could be coming very soon based on Rockstar's history.",
+      "summary": "While the wait to get Grand Theft Auto 6 details has been excruciating, Rockstar's history tells us that we're in for a marketing blitz soon.",
+      "url": "https://www.polygon.com/grand-theft-auto-6-rockstar-gameplay-reveal-trailer-3-timeline/",
+      "date": "2026-07-02T13:00:20.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "Capcom says sike, we actually are releasing Onimusha: Way of the Sword early with the action game now set to escape the pre-GTA 6 rush",
+      "summary": "From September to... slightly earlier in September",
+      "url": "https://www.gamesradar.com/games/action/capcom-says-sike-we-actually-are-releasing-onimusha-way-of-the-sword-early-with-the-action-game-now-set-to-escape-the-pre-gta-6-rush/",
+      "date": "2026-07-02T10:55:20.000Z"
+    },
+    {
+      "lead": false,
+      "src": "PC Gamer",
+      "title": "Rockstar UK employees say the GTA 6 developer's still plagued by gender pay gaps, crunch, and vague bonuses which make them 'as pliable as possible to their boss's whims'",
+      "summary": "\"A fifth of your salary could be withheld without any justification.\"",
+      "url": "https://www.pcgamer.com/gaming-industry/rockstar-uk-employees-say-the-gta-6-developers-still-plagued-by-gender-pay-gaps-crunch-and-vague-bonuses-which-make-them-as-pliable-as-possible-to-their-bosss-whims/",
+      "date": "2026-07-02T10:48:27.000Z"
+    },
+    {
+      "lead": false,
       "src": "PC Gamer",
       "title": "Onimusha: Way of the Sword is releasing 21 days earlier than expected, possibly cramping The Blood of Dawnwalker's style",
       "summary": "Also: it's a little bit further away from GTA 6 splash damage.",
@@ -49,14 +73,6 @@
       "summary": "Stranger Things and Enola Holmes actor Millie Bobby Brown has called out Grand Theft Auto as being her favorite video game series. She said in an interview that she's very excited for GTA 6, and she also shared some insight into how she plays GTA games--it's probably not how you play them. \"I follow the rules in GTA…",
       "url": "https://www.gamespot.com/articles/stranger-things-star-millie-bobby-brown-loves-gta-but-plays-differently-than-most/",
       "date": "2026-07-01T14:03:42.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "GTA 6 studio Rockstar \"will arrange to meet\" union reps following devs' request for recognition, assuring it gives teams \"world-class work environments\" amid demands for \"fairer crunch practices\"",
-      "summary": "\"We value an open and constructive dialogue\"",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-studio-rockstar-will-arrange-to-meet-union-reps-following-devs-request-for-recognition-assuring-it-gives-teams-world-class-work-environments-amid-demands-for-fairer-crunch-practices/",
-      "date": "2026-07-01T11:25:06.000Z"
     },
     {
       "lead": false,
@@ -177,22 +193,6 @@
       "summary": "The overwhelming talking point this week surrounding the Grand Theft Auto 6 pre-order announcements - and details of the game's price and varying versions - has undeniably been the game box and what's inside it. Or rather, what's not inside it. Because the GTA 6 physical edition doesn't actually come with a disc, on…",
       "url": "https://www.eurogamer.net/grand-theft-auto-6-physical-no-disc-experts",
       "date": "2026-06-25T13:08:55.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Eurogamer",
-      "title": "Few things get me excited like these big GTA 6 moments, but we need to talk about digital game ownership - and fast",
-      "summary": "The biggie for me was always the one with the Sabre Turbo. Poised at a crossroads, black with an impossible shine, like an oil slick on tarmac, reflections iridescent. A fool in a red sports car in front, the city surrounding, mountains in the distance. A car coiled up at that intersection like the whole potential o…",
-      "url": "https://www.eurogamer.net/gta-6-exciting-but-we-need-to-talk-about-game-owenership-fast",
-      "date": "2026-06-25T12:22:41.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Eurogamer",
-      "title": "Sony wants you to know GTA 6 \"will play best on PS5\", and here's why",
-      "summary": "Sony has released a blog post detailing the PlayStation 5 features that will work with Grand Theft Auto 6 , and it's claimed the game will \"play best\" on PS5. Read more",
-      "url": "https://www.eurogamer.net/grand-theft-auto-6-ps5-features",
-      "date": "2026-06-24T13:06:18.000Z"
     }
   ]
 }
