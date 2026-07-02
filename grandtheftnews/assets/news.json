@@ -1,14 +1,22 @@
 {
-  "updated": "2026-07-02T14:22:41.029Z",
+  "updated": "2026-07-02T16:57:11.685Z",
   "count": 24,
   "items": [
     {
       "lead": true,
-      "src": "Polygon",
-      "title": "GTA 6 gameplay could be coming very soon based on Rockstar's history.",
-      "summary": "While the wait to get Grand Theft Auto 6 details has been excruciating, Rockstar's history tells us that we're in for a marketing blitz soon.",
-      "url": "https://www.polygon.com/grand-theft-auto-6-rockstar-gameplay-reveal-trailer-3-timeline/",
-      "date": "2026-07-02T13:00:20.000Z"
+      "src": "GamesRadar",
+      "title": "Rockstar devs allege crunch is so common at the GTA 6 studio that it's \"built into\" contracts and you have to \"opt out\" of it",
+      "summary": "Rockstar has also been accused of unequal pay",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/rockstar-devs-allege-crunch-is-so-common-at-the-gta-6-studio-that-its-built-into-contracts-and-you-have-to-opt-out-of-it/",
+      "date": "2026-07-02T16:29:37.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "Game preservation expert says stop killing games if you don't want piracy, because companies like PlayStation and Rockstar \"refuse to offer a meaningful alternative\"",
+      "summary": "GTA 6 is only the tip of the iceberg",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/game-preservation-expert-says-stop-killing-games-if-you-dont-want-piracy-because-companies-like-playstation-and-rockstar-refuse-to-offer-a-meaningful-alternative/",
+      "date": "2026-07-02T15:28:01.000Z"
     },
     {
       "lead": false,
@@ -81,22 +89,6 @@
       "summary": "As Rockstar employees move to pursue official union recognition following a series of high-profile sackings in 2025, new allegations are emerging related to Rockstar's treatment of its staff. In a new report published by Game Developer , multiple Rockstar developers have accused the company of failing to address gen…",
       "url": "https://www.eurogamer.net/gta-6-rockstar-enforcing-crunch-weaponising-bonus-payments-ignoring-widening-gender-pay-gap",
       "date": "2026-07-01T09:57:13.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GameSpot",
-      "title": "GTA 6 Fans Are Convinced The Game Has A Bodybuilding System, And Here’s Why",
-      "summary": "As the wait for GTA 6's next trailer continues, fans are poring over all the little details from the new batch of screenshots that recently went live . One piece of information that fans are now obsessing about is what they believe will be a system in the game that lets you get swoll. As relayed by GamesRadar , fans…",
-      "url": "https://www.gamespot.com/articles/gta-6-fans-are-convinced-the-game-has-a-bodybuilding-system-and-heres-why/",
-      "date": "2026-06-30T20:02:48.000Z"
-    },
-    {
-      "lead": false,
-      "src": "PC Gamer",
-      "title": "Russian politician says GTA 6 carries 'the stench of Americanism,' but it's not so bad because the games are all about Americans killing each other",
-      "summary": "\"Any violence in GTA is violence against a potential enemy.\"",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/russian-politician-says-gta-6-carries-the-stench-of-americanism-but-its-not-so-bad-because-the-games-are-all-about-americans-killing-each-other/",
-      "date": "2026-06-30T15:26:27.000Z"
     },
     {
       "lead": false,
@@ -193,6 +185,14 @@
       "summary": "The overwhelming talking point this week surrounding the Grand Theft Auto 6 pre-order announcements - and details of the game's price and varying versions - has undeniably been the game box and what's inside it. Or rather, what's not inside it. Because the GTA 6 physical edition doesn't actually come with a disc, on…",
       "url": "https://www.eurogamer.net/grand-theft-auto-6-physical-no-disc-experts",
       "date": "2026-06-25T13:08:55.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Eurogamer",
+      "title": "Few things get me excited like these big GTA 6 moments, but we need to talk about digital game ownership - and fast",
+      "summary": "The biggie for me was always the one with the Sabre Turbo. Poised at a crossroads, black with an impossible shine, like an oil slick on tarmac, reflections iridescent. A fool in a red sports car in front, the city surrounding, mountains in the distance. A car coiled up at that intersection like the whole potential o…",
+      "url": "https://www.eurogamer.net/gta-6-exciting-but-we-need-to-talk-about-game-owenership-fast",
+      "date": "2026-06-25T12:22:41.000Z"
     }
   ]
 }
