@@ -1,9 +1,25 @@
 {
-  "updated": "2026-07-02T16:57:11.685Z",
+  "updated": "2026-07-02T19:43:31.636Z",
   "count": 24,
   "items": [
     {
       "lead": true,
+      "src": "Kotaku",
+      "title": "This Is The Most Expensive It’s Ever Been To Buy A New GTA And A PlayStation To Play It On",
+      "summary": "Even if you factor in inflation, buying GTA 6 and a new PS5 is the most pricey way to play in the franchise's history",
+      "url": "https://kotaku.com/this-is-the-most-expensive-its-ever-been-to-buy-a-new-gta-and-a-playstation-to-play-it-on-2000712281",
+      "date": "2026-07-02T19:30:15.000Z"
+    },
+    {
+      "lead": false,
+      "src": "PC Gamer",
+      "title": "Relax, PC Gamers: We're not getting GTA 6 on November 19, but we've got, um... 'Phantom Vice Auto' launching the same day on Steam",
+      "summary": "That's probably just as good, right?",
+      "url": "https://www.pcgamer.com/games/action/relax-pc-gamers-were-not-getting-gta-6-on-november-19-but-weve-got-um-phantom-vice-auto-launching-the-same-day-on-steam/",
+      "date": "2026-07-02T17:15:47.000Z"
+    },
+    {
+      "lead": false,
       "src": "GamesRadar",
       "title": "Rockstar devs allege crunch is so common at the GTA 6 studio that it's \"built into\" contracts and you have to \"opt out\" of it",
       "summary": "Rockstar has also been accused of unequal pay",
@@ -73,14 +89,6 @@
       "summary": "Stranger Things star Millie Bobby Brown has revealed her love for Grand Theft Auto and says she can't wait for GTA 6 — even though she has an unusual way of playing.",
       "url": "https://www.ign.com/articles/stranger-things-millie-bobby-brown-reveals-the-unusual-way-she-plays-grand-theft-auto-games-and-that-she-cant-wait-for-gta-6",
       "date": "2026-07-01T15:05:50.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GameSpot",
-      "title": "Stranger Things Star Millie Bobby Brown Loves GTA, But Plays Differently Than Most",
-      "summary": "Stranger Things and Enola Holmes actor Millie Bobby Brown has called out Grand Theft Auto as being her favorite video game series. She said in an interview that she's very excited for GTA 6, and she also shared some insight into how she plays GTA games--it's probably not how you play them. \"I follow the rules in GTA…",
-      "url": "https://www.gamespot.com/articles/stranger-things-star-millie-bobby-brown-loves-gta-but-plays-differently-than-most/",
-      "date": "2026-07-01T14:03:42.000Z"
     },
     {
       "lead": false,
@@ -185,14 +193,6 @@
       "summary": "The overwhelming talking point this week surrounding the Grand Theft Auto 6 pre-order announcements - and details of the game's price and varying versions - has undeniably been the game box and what's inside it. Or rather, what's not inside it. Because the GTA 6 physical edition doesn't actually come with a disc, on…",
       "url": "https://www.eurogamer.net/grand-theft-auto-6-physical-no-disc-experts",
       "date": "2026-06-25T13:08:55.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Eurogamer",
-      "title": "Few things get me excited like these big GTA 6 moments, but we need to talk about digital game ownership - and fast",
-      "summary": "The biggie for me was always the one with the Sabre Turbo. Poised at a crossroads, black with an impossible shine, like an oil slick on tarmac, reflections iridescent. A fool in a red sports car in front, the city surrounding, mountains in the distance. A car coiled up at that intersection like the whole potential o…",
-      "url": "https://www.eurogamer.net/gta-6-exciting-but-we-need-to-talk-about-game-owenership-fast",
-      "date": "2026-06-25T12:22:41.000Z"
     }
   ]
 }
