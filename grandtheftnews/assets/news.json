@@ -1,9 +1,17 @@
 {
-  "updated": "2026-07-01T22:23:24.417Z",
+  "updated": "2026-07-02T04:12:49.055Z",
   "count": 24,
   "items": [
     {
       "lead": true,
+      "src": "GamesRadar",
+      "title": "Where to pre-order GTA 6 in Australia: bundles, discounts, and how to find pre-load friendly delivery times",
+      "summary": "GTA 6 pre-orders are in full swing, here are the retailers I'd prioritize when buying your copy.",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/where-to-pre-order-gta-6-in-australia-bundles-discounts-and-how-to-find-pre-load-friendly-delivery-times/",
+      "date": "2026-07-02T03:35:23.000Z"
+    },
+    {
+      "lead": false,
       "src": "GamesRadar",
       "title": "Downloading GTA 6 with the \"hope it'll run in 50 years is not a preservation solution,\" Video Game History Foundation says as PlayStation kills discs",
       "summary": "\"What continues to baffle us is what the industry expects institutions like ours to do about it\"",
@@ -185,14 +193,6 @@
       "summary": "UPDATE 25th JUN, 9.00AM BST: Now that pre-orders for Grand Theft Auto 6 have gone live across digital stores, the price of the game in the UK and Europe has been revealed. Read more",
       "url": "https://www.eurogamer.net/gta-6-prices-confirmed",
       "date": "2026-06-24T11:01:21.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Eurogamer",
-      "title": "GTA 6 will seemingly only launch with the single-player campaign in November",
-      "summary": "As many of us expected, the launch version of Grand Theft Auto 6 , coming 19th November, will seemingly only include the single-player campaign. Rockstar implied this today in a press release announcing GTA 6 pre-orders will go live at midnight, with no disc included , which also did not include any mention of an on…",
-      "url": "https://www.eurogamer.net/gta-6-single-player-at-launch-gta-online",
-      "date": "2026-06-24T10:41:02.000Z"
     }
   ]
 }
