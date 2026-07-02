@@ -1,9 +1,17 @@
 {
-  "updated": "2026-07-02T04:12:49.055Z",
+  "updated": "2026-07-02T09:27:28.134Z",
   "count": 24,
   "items": [
     {
       "lead": true,
+      "src": "PC Gamer",
+      "title": "Onimusha: Way of the Sword is releasing 21 days earlier than expected, possibly cramping The Blood of Dawnwalker's style",
+      "summary": "Also: it's a little bit further away from GTA 6 splash damage.",
+      "url": "https://www.pcgamer.com/games/action/onimusha-way-of-the-sword-is-releasing-21-days-earlier-than-expected-possibly-cramping-the-blood-of-dawnwalkers-style/",
+      "date": "2026-07-02T04:54:00.000Z"
+    },
+    {
+      "lead": false,
       "src": "GamesRadar",
       "title": "Where to pre-order GTA 6 in Australia: bundles, discounts, and how to find pre-load friendly delivery times",
       "summary": "GTA 6 pre-orders are in full swing, here are the retailers I'd prioritize when buying your copy.",
@@ -185,14 +193,6 @@
       "summary": "Sony has released a blog post detailing the PlayStation 5 features that will work with Grand Theft Auto 6 , and it's claimed the game will \"play best\" on PS5. Read more",
       "url": "https://www.eurogamer.net/grand-theft-auto-6-ps5-features",
       "date": "2026-06-24T13:06:18.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Eurogamer",
-      "title": "Grand Theft Auto 6 price finally revealed as $80 in the US, £70 in the UK, and €80 in Europe",
-      "summary": "UPDATE 25th JUN, 9.00AM BST: Now that pre-orders for Grand Theft Auto 6 have gone live across digital stores, the price of the game in the UK and Europe has been revealed. Read more",
-      "url": "https://www.eurogamer.net/gta-6-prices-confirmed",
-      "date": "2026-06-24T11:01:21.000Z"
     }
   ]
 }
