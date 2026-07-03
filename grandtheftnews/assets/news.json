@@ -1,9 +1,17 @@
 {
-  "updated": "2026-07-03T16:41:31.360Z",
+  "updated": "2026-07-03T19:40:59.702Z",
   "count": 24,
   "items": [
     {
       "lead": true,
+      "src": "PC Gamer",
+      "title": "Another player has swiped a colossal discount on GTA 6, paying just $2 thanks to a forgotten Best Buy card",
+      "summary": "Don't forget to check for pennies under the couch cushions.",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/another-player-has-swiped-a-colossal-discount-on-gta-6-paying-just-usd2-thanks-to-a-forgotten-best-buy-card/",
+      "date": "2026-07-03T16:51:25.000Z"
+    },
+    {
+      "lead": false,
       "src": "GamesRadar",
       "title": "GTA 6's price shows gaming's $80 luxury-tier is here to stay, and I don't want to upgrade my setup because of it",
       "summary": "Opinion | It may be time for a AAA gaming breakup instead of getting a new machine",
@@ -185,14 +193,6 @@
       "summary": "The overwhelming talking point this week surrounding the Grand Theft Auto 6 pre-order announcements - and details of the game's price and varying versions - has undeniably been the game box and what's inside it. Or rather, what's not inside it. Because the GTA 6 physical edition doesn't actually come with a disc, on…",
       "url": "https://www.eurogamer.net/grand-theft-auto-6-physical-no-disc-experts",
       "date": "2026-06-25T13:08:55.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Eurogamer",
-      "title": "Few things get me excited like these big GTA 6 moments, but we need to talk about digital game ownership - and fast",
-      "summary": "The biggie for me was always the one with the Sabre Turbo. Poised at a crossroads, black with an impossible shine, like an oil slick on tarmac, reflections iridescent. A fool in a red sports car in front, the city surrounding, mountains in the distance. A car coiled up at that intersection like the whole potential o…",
-      "url": "https://www.eurogamer.net/gta-6-exciting-but-we-need-to-talk-about-game-owenership-fast",
-      "date": "2026-06-25T12:22:41.000Z"
     }
   ]
 }
