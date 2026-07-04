@@ -1,9 +1,17 @@
 {
-  "updated": "2026-07-04T13:51:41.031Z",
+  "updated": "2026-07-04T16:10:30.880Z",
   "count": 22,
   "items": [
     {
       "lead": true,
+      "src": "Kotaku",
+      "title": "Creator Says Fans Worried By Danganronpa 2×2′s Surprise Delay Can Just Play GTA 6 While They Wait",
+      "summary": "The designers revealed fresh details at Anime Expo 2026",
+      "url": "https://kotaku.com/creator-says-fans-worried-by-danganronpa-2x2s-surprise-delay-can-just-play-gta-6-while-they-wait-2000712572",
+      "date": "2026-07-04T13:51:14.000Z"
+    },
+    {
+      "lead": false,
       "src": "PC Gamer",
       "title": "Another player has swiped a colossal discount on GTA 6, paying just $2 thanks to a forgotten Best Buy card",
       "summary": "Don't forget to check for pennies under the couch cushions.",
@@ -169,14 +177,6 @@
       "summary": "The biggie for me was always the one with the Sabre Turbo. Poised at a crossroads, black with an impossible shine, like an oil slick on tarmac, reflections iridescent. A fool in a red sports car in front, the city surrounding, mountains in the distance. A car coiled up at that intersection like the whole potential o…",
       "url": "https://www.eurogamer.net/gta-6-exciting-but-we-need-to-talk-about-game-owenership-fast",
       "date": "2026-06-25T12:22:41.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Eurogamer",
-      "title": "Sony wants you to know GTA 6 \"will play best on PS5\", and here's why",
-      "summary": "Sony has released a blog post detailing the PlayStation 5 features that will work with Grand Theft Auto 6 , and it's claimed the game will \"play best\" on PS5. Read more",
-      "url": "https://www.eurogamer.net/grand-theft-auto-6-ps5-features",
-      "date": "2026-06-24T13:06:18.000Z"
     }
   ]
 }
