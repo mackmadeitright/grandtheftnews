@@ -1,25 +1,9 @@
 {
-  "updated": "2026-07-05T16:15:27.956Z",
-  "count": 21,
+  "updated": "2026-07-05T19:36:54.713Z",
+  "count": 18,
   "items": [
     {
       "lead": true,
-      "src": "Polygon",
-      "title": "Halo remake will be on physical disc 'so that you have tangible items to add to your collection'",
-      "summary": "Halo Studios defied PlayStation and Grand Theft Auto 6 with its latest reveal for Halo: Campaign Evolved",
-      "url": "https://www.polygon.com/halo-campaign-evolved-physical-disc-confirmation/",
-      "date": "2026-07-05T14:01:11.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Polygon",
-      "title": "GTA 6 reviews plan could throw GOTY race into chaos at The Game Awards",
-      "summary": "If Rockstar doesn't distribute review code for Grand Theft Auto 6, few if any jury members will play it in time for The Game Awards nominations",
-      "url": "https://www.polygon.com/goty-watch-gta-6-reviews-the-game-awards/",
-      "date": "2026-07-05T13:30:19.000Z"
-    },
-    {
-      "lead": false,
       "src": "Kotaku",
       "title": "Creator Says Fans Worried By Danganronpa 2×2′s Surprise Delay Can Just Play GTA 6 While They Wait",
       "summary": "The designers revealed fresh details at Anime Expo 2026",
@@ -161,14 +145,6 @@
       "summary": "The same insider who claimed in February that Grand Theft Auto 6 wouldn't launch with a physical version - which turned out to be almost correct - has now claimed a proper physical edition with a disc will launch in December. Read more",
       "url": "https://www.eurogamer.net/gta-6-physical-disc-in-december-insider-claims",
       "date": "2026-06-25T15:01:30.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Eurogamer",
-      "title": "Online retailers are stating that PS5 GTA 6 codes can only be played in the country they're bought",
-      "summary": "Grand Theft Auto 6 pre-orders have officially gone live in many parts of the world, and while many players will be placing their pre-orders through the PlayStation and Xbox Stores, many others will order from Amazon and online retailers. Read more",
-      "url": "https://www.eurogamer.net/gta-6-online-retail-country-code-in-box-limitation",
-      "date": "2026-06-25T14:42:17.000Z"
     }
   ]
 }
