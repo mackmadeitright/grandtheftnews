@@ -1,9 +1,17 @@
 {
-  "updated": "2026-07-05T13:58:22.953Z",
-  "count": 22,
+  "updated": "2026-07-05T16:15:27.956Z",
+  "count": 21,
   "items": [
     {
       "lead": true,
+      "src": "Polygon",
+      "title": "Halo remake will be on physical disc 'so that you have tangible items to add to your collection'",
+      "summary": "Halo Studios defied PlayStation and Grand Theft Auto 6 with its latest reveal for Halo: Campaign Evolved",
+      "url": "https://www.polygon.com/halo-campaign-evolved-physical-disc-confirmation/",
+      "date": "2026-07-05T14:01:11.000Z"
+    },
+    {
+      "lead": false,
       "src": "Polygon",
       "title": "GTA 6 reviews plan could throw GOTY race into chaos at The Game Awards",
       "summary": "If Rockstar doesn't distribute review code for Grand Theft Auto 6, few if any jury members will play it in time for The Game Awards nominations",
@@ -49,14 +57,6 @@
       "summary": "Grand Theft Auto 6 isn't coming out on PC right away, but when it inevitably does, it should run on the Steam Machine, albeit at lower settings.",
       "url": "https://www.ign.com/articles/gta-6-would-probably-run-on-the-steam-machine",
       "date": "2026-07-02T20:03:09.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Kotaku",
-      "title": "One Chart Shows Just How Unaffordable Playing The Next GTA Has Become",
-      "summary": "Even if you factor in inflation, buying GTA 6 and a new PS5 is the most pricey way to play in the franchise's history",
-      "url": "https://kotaku.com/this-is-the-most-expensive-its-ever-been-to-buy-a-new-gta-and-a-playstation-to-play-it-on-2000712281",
-      "date": "2026-07-02T19:30:15.000Z"
     },
     {
       "lead": false,
@@ -169,14 +169,6 @@
       "summary": "Grand Theft Auto 6 pre-orders have officially gone live in many parts of the world, and while many players will be placing their pre-orders through the PlayStation and Xbox Stores, many others will order from Amazon and online retailers. Read more",
       "url": "https://www.eurogamer.net/gta-6-online-retail-country-code-in-box-limitation",
       "date": "2026-06-25T14:42:17.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Eurogamer",
-      "title": "Leaks, price control, no second-hand sales: why Grand Theft Auto 6 physical editions won't come with a disc, according to experts",
-      "summary": "The overwhelming talking point this week surrounding the Grand Theft Auto 6 pre-order announcements - and details of the game's price and varying versions - has undeniably been the game box and what's inside it. Or rather, what's not inside it. Because the GTA 6 physical edition doesn't actually come with a disc, on…",
-      "url": "https://www.eurogamer.net/grand-theft-auto-6-physical-no-disc-experts",
-      "date": "2026-06-25T13:08:55.000Z"
     }
   ]
 }
