@@ -1,9 +1,17 @@
 {
-  "updated": "2026-07-05T09:18:20.537Z",
+  "updated": "2026-07-05T13:58:22.953Z",
   "count": 22,
   "items": [
     {
       "lead": true,
+      "src": "Polygon",
+      "title": "GTA 6 reviews plan could throw GOTY race into chaos at The Game Awards",
+      "summary": "If Rockstar doesn't distribute review code for Grand Theft Auto 6, few if any jury members will play it in time for The Game Awards nominations",
+      "url": "https://www.polygon.com/goty-watch-gta-6-reviews-the-game-awards/",
+      "date": "2026-07-05T13:30:19.000Z"
+    },
+    {
+      "lead": false,
       "src": "Kotaku",
       "title": "Creator Says Fans Worried By Danganronpa 2×2′s Surprise Delay Can Just Play GTA 6 While They Wait",
       "summary": "The designers revealed fresh details at Anime Expo 2026",
@@ -169,14 +177,6 @@
       "summary": "The overwhelming talking point this week surrounding the Grand Theft Auto 6 pre-order announcements - and details of the game's price and varying versions - has undeniably been the game box and what's inside it. Or rather, what's not inside it. Because the GTA 6 physical edition doesn't actually come with a disc, on…",
       "url": "https://www.eurogamer.net/grand-theft-auto-6-physical-no-disc-experts",
       "date": "2026-06-25T13:08:55.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Eurogamer",
-      "title": "Few things get me excited like these big GTA 6 moments, but we need to talk about digital game ownership - and fast",
-      "summary": "The biggie for me was always the one with the Sabre Turbo. Poised at a crossroads, black with an impossible shine, like an oil slick on tarmac, reflections iridescent. A fool in a red sports car in front, the city surrounding, mountains in the distance. A car coiled up at that intersection like the whole potential o…",
-      "url": "https://www.eurogamer.net/gta-6-exciting-but-we-need-to-talk-about-game-owenership-fast",
-      "date": "2026-06-25T12:22:41.000Z"
     }
   ]
 }
