@@ -1,14 +1,22 @@
 {
-  "updated": "2026-07-06T10:54:57.342Z",
-  "count": 13,
+  "updated": "2026-07-06T15:50:57.680Z",
+  "count": 11,
   "items": [
     {
       "lead": true,
-      "src": "Kotaku",
-      "title": "Creator Says Fans Worried By Danganronpa 2×2′s Surprise Delay Can Just Play GTA 6 While They Wait",
-      "summary": "The designers revealed fresh details at Anime Expo 2026",
-      "url": "https://kotaku.com/creator-says-fans-worried-by-danganronpa-2x2s-surprise-delay-can-just-play-gta-6-while-they-wait-2000712572",
-      "date": "2026-07-04T13:51:14.000Z"
+      "src": "GamesRadar",
+      "title": "GTA 6 shipping without discs \"feels unfair to studios still backing physical,\" Lords of the Fallen 2 boss says, and Sony's certainly not helping",
+      "summary": "\"Physical delivers far less revenue per unit to developers\"",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-shipping-without-discs-feels-unfair-to-studios-still-backing-physical-lords-of-the-fallen-2-boss-says-and-sonys-certainly-not-helping/",
+      "date": "2026-07-06T11:52:12.000Z"
+    },
+    {
+      "lead": false,
+      "src": "IGN",
+      "title": "These Are the Top 5 Best Selling Games on Amazon So Far This Year",
+      "summary": "Nintendo continues to dominate Amazon's 2026 best-seller charts (alongside GTA 6), offering an interesting snapshot into the ongoing physical vs digital debate for gaming.",
+      "url": "https://www.ign.com/articles/best-selling-games-of-2026-amazon",
+      "date": "2026-07-06T10:53:12.000Z"
     },
     {
       "lead": false,
@@ -17,22 +25,6 @@
       "summary": "Don't forget to check for pennies under the couch cushions.",
       "url": "https://www.pcgamer.com/games/grand-theft-auto/another-player-has-swiped-a-colossal-discount-on-gta-6-paying-just-usd2-thanks-to-a-forgotten-best-buy-card/",
       "date": "2026-07-03T16:51:25.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "GTA 6's price shows gaming's $80 luxury-tier is here to stay, and I don't want to upgrade my setup because of it",
-      "summary": "Opinion | It may be time for a AAA gaming breakup instead of getting a new machine",
-      "url": "https://www.gamesradar.com/games/gta-6s-price-shows-gamings-usd80-luxury-tier-is-here-to-stay-and-i-dont-want-to-upgrade-my-setup-because-of-it/",
-      "date": "2026-07-03T14:30:00.000Z"
-    },
-    {
-      "lead": false,
-      "src": "IGN",
-      "title": "After Sony Kills PS5 Discs and GTA 6 is Just a Code in a Box, Xbox Is Using Halo: Campaign Evolved's Physical Disc as a Selling Point",
-      "summary": "Microsoft is using the fact that Halo: Campaign Evolved will offer a physical game disc in its box as a selling point.",
-      "url": "https://www.ign.com/articles/after-sony-kills-ps5-discs-and-gta-6-is-just-a-code-in-a-box-xbox-is-using-halo-campaign-evolveds-physical-disc-as-a-selling-point",
-      "date": "2026-07-03T12:40:43.000Z"
     },
     {
       "lead": false,
@@ -97,14 +89,6 @@
       "summary": "A new report has cast doubt on hopes that a physical version of Grand Theft Auto 6 will follow the digital release later this year. Read more",
       "url": "https://www.eurogamer.net/gta-6-no-physical-release",
       "date": "2026-06-27T14:45:17.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Eurogamer",
-      "title": "GTA 6 takes aim at TikTok with a new social network where we'll apparently be able to follow influencers, get side missions, and maybe get famous?",
-      "summary": "Grand Theft Auto 6 apparently features a new in-game social network where we'll be able to watch videos and follow influences to discover \"secret\" side missions, which makes it sound like Rockstar is aiming its satirical cannon at TikTok and Instagram this time around. Read more",
-      "url": "https://www.eurogamer.net/grand-theft-auto-6-gta-social-network",
-      "date": "2026-06-26T12:39:21.000Z"
     }
   ]
 }
