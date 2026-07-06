@@ -1,9 +1,17 @@
 {
-  "updated": "2026-07-06T15:50:57.680Z",
-  "count": 11,
+  "updated": "2026-07-06T20:08:33.665Z",
+  "count": 10,
   "items": [
     {
       "lead": true,
+      "src": "GamesRadar",
+      "title": "Digital-only GTA 6 Ultimate Edition screenshot literally says \"buy more useless s***\"",
+      "summary": "Definitely one way to market your game",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/digital-only-gta-6-ultimate-edition-screenshot-literally-says-buy-more-useless-s/",
+      "date": "2026-07-06T17:03:12.000Z"
+    },
+    {
+      "lead": false,
       "src": "GamesRadar",
       "title": "GTA 6 shipping without discs \"feels unfair to studios still backing physical,\" Lords of the Fallen 2 boss says, and Sony's certainly not helping",
       "summary": "\"Physical delivers far less revenue per unit to developers\"",
@@ -25,14 +33,6 @@
       "summary": "Don't forget to check for pennies under the couch cushions.",
       "url": "https://www.pcgamer.com/games/grand-theft-auto/another-player-has-swiped-a-colossal-discount-on-gta-6-paying-just-usd2-thanks-to-a-forgotten-best-buy-card/",
       "date": "2026-07-03T16:51:25.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GameSpot",
-      "title": "Call Of Duty: Modern Warfare 4 Just Showed Up In A Very Unexpected Place",
-      "summary": "Activision's Call of Duty: Modern Warfare 4 is expected to be one of 2026's biggest game releases alongside GTA 6, and the company is expected to go all-out with its marketing and promotion campaign for it. That may have already begun, but not in the way anyone might have expected. World Cup fans have spotted a curi…",
-      "url": "https://www.gamespot.com/articles/call-of-duty-modern-warfare-4-just-showed-up-in-a-very-unexpected-place/",
-      "date": "2026-07-01T19:45:10.000Z"
     },
     {
       "lead": false,
@@ -81,14 +81,6 @@
       "summary": "Microsoft has refuted claims that its rival system, the PlayStation 5, is outselling the Xbox edition of Grand Theft Auto 6 , claiming that the figure \"doesn't represent pre-order data\" and insisting \"we've had record orders\". Read more",
       "url": "https://www.eurogamer.net/gta-6-ps5-xbox-sales",
       "date": "2026-06-28T19:04:00.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Eurogamer",
-      "title": "GTA 6 has no plans for a post-launch physical release, \"not at launch, and not months later\", insists new report",
-      "summary": "A new report has cast doubt on hopes that a physical version of Grand Theft Auto 6 will follow the digital release later this year. Read more",
-      "url": "https://www.eurogamer.net/gta-6-no-physical-release",
-      "date": "2026-06-27T14:45:17.000Z"
     }
   ]
 }
