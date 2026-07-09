@@ -1,9 +1,33 @@
 {
-  "updated": "2026-07-09T10:03:48.885Z",
-  "count": 4,
+  "updated": "2026-07-09T15:28:19.322Z",
+  "count": 6,
   "items": [
     {
       "lead": true,
+      "src": "GameSpot",
+      "title": "GTA Online’s Next Big Heist, The First Since 2020, Is Coming Soon And It Looks Great",
+      "summary": "While fans await news about GTA 6, Rockstar continues to update GTA Online, and its next big update is coming very soon. The Kortz Center Heist, the first major brand-new heist in the game since 2020's Cayo Perico, releases on July 14, Rockstar Games has announced. In this heist, players will meet up with Mr. Faber…",
+      "url": "https://www.gamespot.com/articles/gta-onlines-next-big-heist-the-first-since-2020-is-coming-soon-and-it-looks-great/",
+      "date": "2026-07-09T15:02:17.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GameSpot",
+      "title": "GTA 6 Fans Are Getting Excited Again For A Date In August, As Take-Two Makes A Notable Change",
+      "summary": "Grand Theft Auto 6 preorders have finally arrived. New screenshots were also recently released. The game's November 19 release date is locked in. But Rockstar Games is still staying relatively quiet about the specifics of GTA 6, like what new kinds of gameplay experiences it provides. To date, all that's been reveal…",
+      "url": "https://www.gamespot.com/articles/gta-6-fans-are-getting-excited-again-for-a-date-in-august-as-take-two-makes-a-notable-change/",
+      "date": "2026-07-09T13:00:58.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "GTA 6 faces potential $35 million fine if Rockstar doesn't comply with online safety laws that mean Australians would need ID to play",
+      "summary": "Much like they already do with GTA Online",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-faces-potential-usd35-million-fine-if-rockstar-doesnt-comply-with-online-safety-laws-that-mean-australians-would-need-id-to-play/",
+      "date": "2026-07-09T12:06:31.000Z"
+    },
+    {
+      "lead": false,
       "src": "GamesRadar",
       "title": "Terrible GTA Trilogy remasters were actually enjoyed by \"a lot of people,\" says studio boss who \"agreed with most of the people's reactions\"",
       "summary": "He believes better remasters can only come from Rockstar",
@@ -25,14 +49,6 @@
       "summary": "As Rockstar employees move to pursue official union recognition following a series of high-profile sackings in 2025, new allegations are emerging related to Rockstar's treatment of its staff. In a new report published by Game Developer , multiple Rockstar developers have accused the company of failing to address gen…",
       "url": "https://www.eurogamer.net/gta-6-rockstar-enforcing-crunch-weaponising-bonus-payments-ignoring-widening-gender-pay-gap",
       "date": "2026-07-01T09:57:13.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Eurogamer",
-      "title": "Surprising no one, GTA 6 is at the top of the PlayStation Store in practically every country in the world",
-      "summary": "Grand Theft Auto 6 is topping the PlayStation Store charts across nearly every regional version of Sony's digital store. Since pre-orders went live on 25th June , the game has shot to the top of the various PS Stores worldwide. Read more",
-      "url": "https://www.eurogamer.net/gta-6-top-pre-orders-playstation-store-worldwide",
-      "date": "2026-06-30T14:35:05.000Z"
     }
   ]
 }
