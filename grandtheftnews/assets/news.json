@@ -1,9 +1,25 @@
 {
-  "updated": "2026-07-10T14:45:12.744Z",
-  "count": 4,
+  "updated": "2026-07-10T17:02:59.812Z",
+  "count": 5,
   "items": [
     {
       "lead": true,
+      "src": "GameSpot",
+      "title": "GTA 6 Preloading: Start Date And What To Know About Digital And Physical Copies",
+      "summary": "After years of development and multiple delays, Rockstar's Grand Theft Auto 6 is finally launching on November 19, and you can now actually preorder the game . The $80 game arrives on November 19, but you can actually preload it a week earlier, which is nice for the countless people who no doubt want to begin playin…",
+      "url": "https://www.gamespot.com/articles/gta-6-preloading-start-date-and-what-to-know-about-digital-and-physical-copies/",
+      "date": "2026-07-10T16:42:48.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "GTA 6 shown mercy by indie dev who previously planned to \"humiliate Rockstar\" by releasing their open-world game on the same day",
+      "summary": "Future? No Thanks! is giving GTA 6 space to breathe",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-shown-mercy-by-indie-dev-who-previously-planned-to-humiliate-rockstar-by-releasing-their-open-world-game-on-the-same-day/",
+      "date": "2026-07-10T16:04:37.000Z"
+    },
+    {
+      "lead": false,
       "src": "IGN",
       "title": "GTA Online's Next Big Update, the Kortz Center Heist, Releases Next Week, and Fans Have Already Spotted a Few Rockstar-Related Easter Eggs",
       "summary": "GTA Online's next big update, The Kortz Center Heist, will officially release next week, and fans have already spotted a few Rockstar-related Easter eggs.",
@@ -25,14 +41,6 @@
       "summary": "Grand Theft Auto 6 preorders have finally arrived. New screenshots were also recently released. The game's November 19 release date is locked in. But Rockstar Games is still staying relatively quiet about the specifics of GTA 6, like what new kinds of gameplay experiences it provides. To date, all that's been reveal…",
       "url": "https://www.gamespot.com/articles/gta-6-fans-are-getting-excited-again-for-a-date-in-august-as-take-two-makes-a-notable-change/",
       "date": "2026-07-09T13:00:58.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GameSpot",
-      "title": "World Cup Star Erling Haaland Shows Off His Gaming Setup, Wants Xbox To Sponsor Him, And Is Excited For GTA 6",
-      "summary": "If you've been watching the World Cup or soccer in general, you're surely familiar with Norwegian striker Erling Haaland, and now he's provided a deeper window into his life and specifically his gaming habits. In a \"day in the life\" video on his YouTube channel ( via PureXbox ), Haaland began by saying he's a big fa…",
-      "url": "https://www.gamespot.com/articles/world-cup-star-erling-haaland-shows-off-his-gaming-setup-wants-xbox-to-sponsor-him-and-is-excited-for-gta-6/",
-      "date": "2026-07-08T14:38:23.000Z"
     }
   ]
 }
