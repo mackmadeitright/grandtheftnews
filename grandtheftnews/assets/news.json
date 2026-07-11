@@ -1,9 +1,17 @@
 {
-  "updated": "2026-07-11T10:21:17.493Z",
-  "count": 6,
+  "updated": "2026-07-11T13:44:10.404Z",
+  "count": 7,
   "items": [
     {
       "lead": true,
+      "src": "PC Gamer",
+      "title": "Mortal Shell 2 is the latest game to join the Grand Theft Auto 6 release crush, but I don't think it has much to worry about because it looks sick as hell",
+      "summary": "Cold Symmetry's soulslike releases in August.",
+      "url": "https://www.pcgamer.com/games/rpg/mortal-shell-2-is-the-latest-game-to-join-the-grand-theft-auto-6-release-crush-but-i-dont-think-it-has-much-to-worry-about-because-it-looks-sick-as-hell/",
+      "date": "2026-07-11T13:00:00.000Z"
+    },
+    {
+      "lead": false,
       "src": "Polygon",
       "title": "GTA Online's Kortz Center Heist gets release date, first details",
       "summary": "Grand Theft Auto Online players will soon get new DLC with the Kortz Center Heist, Rockstar Games' new art thief update.",
