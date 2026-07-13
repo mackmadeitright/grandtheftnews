@@ -1,9 +1,17 @@
 {
-  "updated": "2026-07-13T19:40:08.578Z",
-  "count": 5,
+  "updated": "2026-07-13T22:02:05.002Z",
+  "count": 6,
   "items": [
     {
       "lead": true,
+      "src": "GameSpot",
+      "title": "LA Noire Could Have Featured A Different, Very Famous, And More Expensive Lead Actor",
+      "summary": "The 2011 detective game LA Noire, which was published by GTA company Rockstar Games, starred Mad Men actor Aaron Staton as the lead character, Cole Phelps. A writer on the game has now revealed that a different Mad Men actor, Jon Hamm, was considered for the role as well. Staton portrayed Ken Cosgrove on Mad Men, wi…",
+      "url": "https://www.gamespot.com/articles/la-noire-could-have-featured-a-different-very-famous-and-more-expensive-lead-actor/",
+      "date": "2026-07-13T20:45:51.000Z"
+    },
+    {
+      "lead": false,
       "src": "GamesRadar",
       "title": "\"There is a magic to what Rockstar does,\" former GTA 5 dev says ahead of GTA 6, \"I just wish they could do it at a lower human cost\"",
       "summary": "\"I think I'm pretty happy that I'm not on GTA 6\"",
