@@ -1,9 +1,17 @@
 {
-  "updated": "2026-07-13T09:42:04.996Z",
+  "updated": "2026-07-13T14:53:01.963Z",
   "count": 6,
   "items": [
     {
       "lead": true,
+      "src": "Kotaku",
+      "title": "Tech Analyst Calls GTA 6′s $80 Price Tag ‘Ridiculous’: ‘They Should Be Charging Like $200 For This’",
+      "summary": "Take-Two's stock briefly took a hit when the price was first revealed",
+      "url": "https://kotaku.com/tech-analyst-calls-gta-6s-80-price-tag-ridiculous-they-should-be-charging-like-200-for-this-2000715214",
+      "date": "2026-07-13T14:20:17.000Z"
+    },
+    {
+      "lead": false,
       "src": "PC Gamer",
       "title": "Mortal Shell 2 is the latest game to join the Grand Theft Auto 6 release crush, but I don't think it has much to worry about because it looks sick as hell",
       "summary": "Cold Symmetry's soulslike releases in August.",
@@ -25,14 +33,6 @@
       "summary": "How to navigate every GTA timeline ahead of GTA 6.",
       "url": "https://www.ign.com/articles/gta-games-in-order",
       "date": "2026-07-10T16:32:00.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "GTA 6 shown mercy by indie dev who previously planned to \"humiliate Rockstar\" by releasing their open-world game on the same day",
-      "summary": "Future? No Thanks! is giving GTA 6 space to breathe",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-shown-mercy-by-indie-dev-who-previously-planned-to-humiliate-rockstar-by-releasing-their-open-world-game-on-the-same-day/",
-      "date": "2026-07-10T16:04:37.000Z"
     },
     {
       "lead": false,
