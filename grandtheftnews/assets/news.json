@@ -1,9 +1,17 @@
 {
-  "updated": "2026-07-13T17:19:47.258Z",
+  "updated": "2026-07-13T19:40:08.578Z",
   "count": 5,
   "items": [
     {
       "lead": true,
+      "src": "GamesRadar",
+      "title": "\"There is a magic to what Rockstar does,\" former GTA 5 dev says ahead of GTA 6, \"I just wish they could do it at a lower human cost\"",
+      "summary": "\"I think I'm pretty happy that I'm not on GTA 6\"",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/there-is-a-magic-to-what-rockstar-does-former-gta-5-dev-says-ahead-of-gta-6-i-just-wish-they-could-do-it-at-a-lower-human-cost/",
+      "date": "2026-07-13T19:37:56.000Z"
+    },
+    {
+      "lead": false,
       "src": "GamesRadar",
       "title": "GTA 6 isn't coming to PC at launch, but not because Rockstar doesn't \"care about PC,\" says GTA 5 producer: \"If you're working on that, you're not working on something else\"",
       "summary": "John Ricchio says Rockstar isn't \"anti any platform\"",
@@ -33,14 +41,6 @@
       "summary": "After years of development and multiple delays, Rockstar's Grand Theft Auto 6 is finally launching on November 19, and you can now actually preorder the game . The $80 game arrives on November 19, but you can actually preload it a week earlier, which is nice for the countless people who no doubt want to begin playin…",
       "url": "https://www.gamespot.com/articles/gta-6-preloading-start-date-and-what-to-know-about-digital-and-physical-copies/",
       "date": "2026-07-10T16:42:48.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GameSpot",
-      "title": "GTA Online’s Next Big Heist, The First Since 2020, Is Coming Soon And It Looks Great",
-      "summary": "While fans await news about GTA 6, Rockstar continues to update GTA Online, and its next big update is coming very soon. The Kortz Center Heist, the first major brand-new heist in the game since 2020's Cayo Perico, releases on July 14, Rockstar Games has announced. In this heist, players will meet up with Mr. Faber…",
-      "url": "https://www.gamespot.com/articles/gta-onlines-next-big-heist-the-first-since-2020-is-coming-soon-and-it-looks-great/",
-      "date": "2026-07-09T15:02:17.000Z"
     }
   ]
 }
