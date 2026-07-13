@@ -1,9 +1,17 @@
 {
-  "updated": "2026-07-13T14:53:01.963Z",
-  "count": 6,
+  "updated": "2026-07-13T17:19:47.258Z",
+  "count": 5,
   "items": [
     {
       "lead": true,
+      "src": "GamesRadar",
+      "title": "GTA 6 isn't coming to PC at launch, but not because Rockstar doesn't \"care about PC,\" says GTA 5 producer: \"If you're working on that, you're not working on something else\"",
+      "summary": "John Ricchio says Rockstar isn't \"anti any platform\"",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-isnt-coming-to-pc-at-launch-but-not-because-rockstar-doesnt-care-about-pc-says-gta-5-producer-if-youre-working-on-that-youre-not-working-on-something-else/",
+      "date": "2026-07-13T15:00:35.000Z"
+    },
+    {
+      "lead": false,
       "src": "Kotaku",
       "title": "Tech Analyst Calls GTA 6′s $80 Price Tag ‘Ridiculous’: ‘They Should Be Charging Like $200 For This’",
       "summary": "Take-Two's stock briefly took a hit when the price was first revealed",
@@ -28,27 +36,11 @@
     },
     {
       "lead": false,
-      "src": "IGN",
-      "title": "How to Play the Grand Theft Auto Games in Order",
-      "summary": "How to navigate every GTA timeline ahead of GTA 6.",
-      "url": "https://www.ign.com/articles/gta-games-in-order",
-      "date": "2026-07-10T16:32:00.000Z"
-    },
-    {
-      "lead": false,
       "src": "GameSpot",
       "title": "GTA Online’s Next Big Heist, The First Since 2020, Is Coming Soon And It Looks Great",
       "summary": "While fans await news about GTA 6, Rockstar continues to update GTA Online, and its next big update is coming very soon. The Kortz Center Heist, the first major brand-new heist in the game since 2020's Cayo Perico, releases on July 14, Rockstar Games has announced. In this heist, players will meet up with Mr. Faber…",
       "url": "https://www.gamespot.com/articles/gta-onlines-next-big-heist-the-first-since-2020-is-coming-soon-and-it-looks-great/",
       "date": "2026-07-09T15:02:17.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GameSpot",
-      "title": "GTA 6 Fans Are Getting Excited Again For A Date In August, As Take-Two Makes A Notable Change",
-      "summary": "Grand Theft Auto 6 preorders have finally arrived. New screenshots were also recently released. The game's November 19 release date is locked in. But Rockstar Games is still staying relatively quiet about the specifics of GTA 6, like what new kinds of gameplay experiences it provides. To date, all that's been reveal…",
-      "url": "https://www.gamespot.com/articles/gta-6-fans-are-getting-excited-again-for-a-date-in-august-as-take-two-makes-a-notable-change/",
-      "date": "2026-07-09T13:00:58.000Z"
     }
   ]
 }
