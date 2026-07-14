@@ -1,14 +1,22 @@
 {
-  "updated": "2026-07-14T16:21:04.746Z",
-  "count": 4,
+  "updated": "2026-07-14T19:37:36.418Z",
+  "count": 3,
   "items": [
     {
       "lead": true,
-      "src": "Polygon",
-      "title": "GTA 6 needs to steal this awesome mechanic from the cancelled LA Noire follow-up",
-      "summary": "The cancelled Shanghai detective thriller Whore of the Orient would have featured a \"language as XP\" mechanic that would translate well to Vice City",
-      "url": "https://www.polygon.com/gta-6-la-noire-whore-of-the-orient-language-learning/",
-      "date": "2026-07-14T15:30:18.000Z"
+      "src": "GamesRadar",
+      "title": "You could buy two copies of GTA 6 for the price of setting up GTA Online's new Heist from scratch",
+      "summary": "There are some pricy prerequisites to hosting GTA Online's Kortz Center Heist",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/you-could-buy-two-copies-of-gta-6-for-the-price-of-setting-up-gta-onlines-new-heist-from-scratch/",
+      "date": "2026-07-14T18:58:59.000Z"
+    },
+    {
+      "lead": false,
+      "src": "IGN",
+      "title": "Rockstar Should Charge $200 for GTA 6, Analyst Says, as It'll Be 'The Last Great Game' Before Everything is Built Using AI",
+      "summary": "Rockstar's $80 price for Grand Theft Auto 6 is less than half what the game is worth, one analyst has suggested.",
+      "url": "https://www.ign.com/articles/rockstar-should-charge-200-for-gta-6-analyst-says-as-itll-be-the-last-great-game-before-everything-is-built-using-ai",
+      "date": "2026-07-14T15:30:04.000Z"
     },
     {
       "lead": false,
@@ -17,22 +25,6 @@
       "summary": "The 2011 detective game LA Noire, which was published by GTA company Rockstar Games, starred Mad Men actor Aaron Staton as the lead character, Cole Phelps. A writer on the game has now revealed that a different Mad Men actor, Jon Hamm, was considered for the role as well. Staton portrayed Ken Cosgrove on Mad Men, wi…",
       "url": "https://www.gamespot.com/articles/la-noire-could-have-featured-a-different-very-famous-and-more-expensive-lead-actor/",
       "date": "2026-07-13T20:45:51.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "\"There is a magic to what Rockstar does,\" former GTA 5 dev says ahead of GTA 6, \"I just wish they could do it at a lower human cost\"",
-      "summary": "\"I think I'm pretty happy that I'm not on GTA 6\"",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/there-is-a-magic-to-what-rockstar-does-former-gta-5-dev-says-ahead-of-gta-6-i-just-wish-they-could-do-it-at-a-lower-human-cost/",
-      "date": "2026-07-13T19:37:56.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GameSpot",
-      "title": "GTA 6 Preloading: Start Date And What To Know About Digital And Physical Copies",
-      "summary": "After years of development and multiple delays, Rockstar's Grand Theft Auto 6 is finally launching on November 19, and you can now actually preorder the game . The $80 game arrives on November 19, but you can actually preload it a week earlier, which is nice for the countless people who no doubt want to begin playin…",
-      "url": "https://www.gamespot.com/articles/gta-6-preloading-start-date-and-what-to-know-about-digital-and-physical-copies/",
-      "date": "2026-07-10T16:42:48.000Z"
     }
   ]
 }
