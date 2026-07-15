@@ -1,30 +1,30 @@
 {
-  "updated": "2026-07-15T14:00:27.163Z",
+  "updated": "2026-07-15T16:38:57.540Z",
   "count": 4,
   "items": [
     {
       "lead": true,
+      "src": "Polygon",
+      "title": "Controversial Pokémon Winds and Waves leak warns of a game price hike",
+      "summary": "In the midst of price increases for GTA 6 and video game consoles, a Game Freak leak has left fans worried about Pokémon prices",
+      "url": "https://www.polygon.com/pokemon-winds-wave-price-increase-switch-2-leak-rumor/",
+      "date": "2026-07-15T16:05:27.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "Ahead of GTA 6, GTA Online players complain that Rockstar \"nerfed literally everything\" commonly used to make money",
+      "summary": "Hundreds of thousands have been knocked the heists",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/ahead-of-gta-6-gta-online-players-complain-that-rockstar-nerfed-literally-everything-commonly-used-to-make-money/",
+      "date": "2026-07-15T14:29:41.000Z"
+    },
+    {
+      "lead": false,
       "src": "PC Gamer",
       "title": "GTA 6 isn't on PC at launch because it's 'always better to start with the constraints', suggests former Rockstar producer",
       "summary": "\"It's not that we don't care about PC.\"",
       "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-isnt-on-pc-at-launch-because-its-always-better-to-start-with-the-constraints-suggests-former-rockstar-producer/",
       "date": "2026-07-15T11:29:54.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "You could buy two copies of GTA 6 for the price of setting up GTA Online's new Heist from scratch",
-      "summary": "There are some pricy prerequisites to hosting GTA Online's Kortz Center Heist",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/you-could-buy-two-copies-of-gta-6-for-the-price-of-setting-up-gta-onlines-new-heist-from-scratch/",
-      "date": "2026-07-14T18:58:59.000Z"
-    },
-    {
-      "lead": false,
-      "src": "IGN",
-      "title": "Rockstar Should Charge $200 for GTA 6, Analyst Says, as It'll Be 'The Last Great Game' Before Everything is Built Using AI",
-      "summary": "Rockstar's $80 price for Grand Theft Auto 6 is less than half what the game is worth, one analyst has suggested.",
-      "url": "https://www.ign.com/articles/rockstar-should-charge-200-for-gta-6-analyst-says-as-itll-be-the-last-great-game-before-everything-is-built-using-ai",
-      "date": "2026-07-14T15:30:04.000Z"
     },
     {
       "lead": false,
