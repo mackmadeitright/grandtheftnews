@@ -1,14 +1,14 @@
 {
-  "updated": "2026-07-15T16:38:57.540Z",
-  "count": 4,
+  "updated": "2026-07-15T19:23:41.132Z",
+  "count": 3,
   "items": [
     {
       "lead": true,
-      "src": "Polygon",
-      "title": "Controversial Pokémon Winds and Waves leak warns of a game price hike",
-      "summary": "In the midst of price increases for GTA 6 and video game consoles, a Game Freak leak has left fans worried about Pokémon prices",
-      "url": "https://www.polygon.com/pokemon-winds-wave-price-increase-switch-2-leak-rumor/",
-      "date": "2026-07-15T16:05:27.000Z"
+      "src": "IGN",
+      "title": "GTA 6's Lack of a PC Port Isn't Out of Greed, According to a Former Rockstar Producer",
+      "summary": "A former Rockstar Games producer has explained why the developer's PC versions usually come long after the console version.",
+      "url": "https://www.ign.com/articles/gta-6s-lack-of-a-pc-port-isnt-out-of-greed-according-to-a-former-rockstar-producer",
+      "date": "2026-07-15T16:40:08.000Z"
     },
     {
       "lead": false,
@@ -25,14 +25,6 @@
       "summary": "\"It's not that we don't care about PC.\"",
       "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-isnt-on-pc-at-launch-because-its-always-better-to-start-with-the-constraints-suggests-former-rockstar-producer/",
       "date": "2026-07-15T11:29:54.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GameSpot",
-      "title": "LA Noire Could Have Featured A Different, Very Famous, And More Expensive Lead Actor",
-      "summary": "The 2011 detective game LA Noire, which was published by GTA company Rockstar Games, starred Mad Men actor Aaron Staton as the lead character, Cole Phelps. A writer on the game has now revealed that a different Mad Men actor, Jon Hamm, was considered for the role as well. Staton portrayed Ken Cosgrove on Mad Men, wi…",
-      "url": "https://www.gamespot.com/articles/la-noire-could-have-featured-a-different-very-famous-and-more-expensive-lead-actor/",
-      "date": "2026-07-13T20:45:51.000Z"
     }
   ]
 }
