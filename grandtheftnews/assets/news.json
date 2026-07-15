@@ -1,9 +1,17 @@
 {
-  "updated": "2026-07-15T10:57:35.978Z",
-  "count": 3,
+  "updated": "2026-07-15T14:00:27.163Z",
+  "count": 4,
   "items": [
     {
       "lead": true,
+      "src": "PC Gamer",
+      "title": "GTA 6 isn't on PC at launch because it's 'always better to start with the constraints', suggests former Rockstar producer",
+      "summary": "\"It's not that we don't care about PC.\"",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-isnt-on-pc-at-launch-because-its-always-better-to-start-with-the-constraints-suggests-former-rockstar-producer/",
+      "date": "2026-07-15T11:29:54.000Z"
+    },
+    {
+      "lead": false,
       "src": "GamesRadar",
       "title": "You could buy two copies of GTA 6 for the price of setting up GTA Online's new Heist from scratch",
       "summary": "There are some pricy prerequisites to hosting GTA Online's Kortz Center Heist",
