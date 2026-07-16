@@ -1,9 +1,17 @@
 {
-  "updated": "2026-07-16T08:26:16.428Z",
-  "count": 4,
+  "updated": "2026-07-16T11:06:19.342Z",
+  "count": 5,
   "items": [
     {
       "lead": true,
+      "src": "GamesRadar",
+      "title": "Ex-PlayStation boss says devs need to reach people who don't care about GTA 6, even if Rockstar's long-awaited game is going to hit \"with great force and power\"",
+      "summary": "\"We need to bring out more games for more people, which means actually you have to have more people making games\"",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/ex-playstation-boss-says-devs-need-to-reach-people-who-dont-care-about-gta-6-even-if-rockstars-long-awaited-game-is-going-to-hit-with-great-force-and-power/",
+      "date": "2026-07-16T10:44:09.000Z"
+    },
+    {
+      "lead": false,
       "src": "Kotaku",
       "title": "GTA Online’s New Big Update Is Filled With GTA 6 Clues And Easter Eggs",
       "summary": "Wait a minute...I think I believe some of these fan theories...",
