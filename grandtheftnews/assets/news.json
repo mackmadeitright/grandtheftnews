@@ -1,9 +1,41 @@
 {
-  "updated": "2026-07-16T16:24:06.984Z",
-  "count": 9,
+  "updated": "2026-07-16T19:23:31.075Z",
+  "count": 12,
   "items": [
     {
       "lead": true,
+      "src": "Polygon",
+      "title": "GTA 6 leaker trolls internet straight from prison after long hospital stay",
+      "summary": "Arion Kurtaj claims to have access to a burner phone in prison, and he's used it to keep the internet updated on his thoughts",
+      "url": "https://www.polygon.com/gta-6-leak-hacker-what-happened-trial-burner-phone-selfies-hospital/",
+      "date": "2026-07-16T18:37:34.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Kotaku",
+      "title": "Rockstar Added Two Trees To GTA Online And It Led To A Lot Of Anger And Confusion",
+      "summary": "How much online anger could two tiny trees create?",
+      "url": "https://kotaku.com/rockstar-added-two-trees-to-gta-online-and-it-led-to-a-lot-of-anger-and-confusion-2000716733",
+      "date": "2026-07-16T18:23:44.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Polygon",
+      "title": "GTA 6 sales could hit $5.2 billion in first week — 5 times GTA 5",
+      "summary": "Rockstar Games is tipped to sell more than 50 million copies of Grand Theft Auto 6 at launch, according to new analysis of pre-order sales.",
+      "url": "https://www.polygon.com/gta-6-new-record-pre-orders-sales-launch-week-rockstar-games/",
+      "date": "2026-07-16T17:00:43.000Z"
+    },
+    {
+      "lead": false,
+      "src": "PC Gamer",
+      "title": "Grand Theft Auto 6 leaker who was given an indefinite sentence in 2023 because he wouldn't stop hacking is now out of hospital and awaiting retrial",
+      "summary": "Arion Kurtaj, a member of the Lapsus$ hacking group, was behind a 2022 hack of Rockstar that revealed GTA 6 to the world more than a year before it was announced.",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/grand-theft-auto-6-leaker-who-was-given-an-indefinite-sentence-in-2023-because-he-wouldnt-stop-hacking-is-now-out-of-hospital-and-awaiting-retrial/",
+      "date": "2026-07-16T16:30:23.000Z"
+    },
+    {
+      "lead": false,
       "src": "GamesRadar",
       "title": "GTA 6 is on track for \"the strongest pre-order campaign ever recorded\" and up to $5 billion in sales by \"the end of launch week,\" analysts say",
       "summary": "Still, reports of GTA 6 pre-orders earning Rockstar billions already are \"absurd\"",
@@ -57,14 +89,6 @@
       "summary": "\"We need to bring out more games for more people, which means actually you have to have more people making games\"",
       "url": "https://www.gamesradar.com/games/grand-theft-auto/ex-playstation-boss-says-devs-need-to-reach-people-who-dont-care-about-gta-6-even-if-rockstars-long-awaited-game-is-going-to-hit-with-great-force-and-power/",
       "date": "2026-07-16T10:44:09.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Kotaku",
-      "title": "GTA Online’s New Big Update Is Filled With GTA 6 Clues And Easter Eggs",
-      "summary": "Wait a minute...I think I believe some of these fan theories...",
-      "url": "https://kotaku.com/gta-onlines-big-update-added-new-paintings-and-yup-fans-think-they-are-filled-with-gta-6-clues-2000716305",
-      "date": "2026-07-15T19:59:50.000Z"
     },
     {
       "lead": false,
