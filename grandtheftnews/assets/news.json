@@ -1,9 +1,33 @@
 {
-  "updated": "2026-07-16T11:06:19.342Z",
-  "count": 5,
+  "updated": "2026-07-16T14:11:54.104Z",
+  "count": 8,
   "items": [
     {
       "lead": true,
+      "src": "GameSpot",
+      "title": "GTA 6 Just Got A Jaw-Dropping Sales Prediction",
+      "summary": "Everyone knows that Rockstar's GTA 6 is going to be an enormous hit upon launch in November this year, but just how big are we talking? A new report from research firm Newzoo makes several stratospheric predictions, led by an estimation that it could earn between $3.3 billion - $5.2 billion in global sales after jus…",
+      "url": "https://www.gamespot.com/articles/gta-6-just-got-a-jaw-dropping-sales-prediction/",
+      "date": "2026-07-16T13:22:54.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Eurogamer",
+      "title": "\"It's not that we don't care about PC\" - Former Rockstar developer suggests why GTA 6 is only coming to consoles at launch",
+      "summary": "GTA 6 is looming like that monolith in 2001: A Space Odyssey, casting its fearsome shadow over the games industry and probably also scaring some monkeys. But PC players won't be able to join in the fun when Rockstar Games ' mega-sequel launches on 19th November, and former studio producer John Ricchio - who worked o…",
+      "url": "https://www.eurogamer.net/gta-6-rockstar-pc-consoles-release",
+      "date": "2026-07-16T13:11:51.000Z"
+    },
+    {
+      "lead": false,
+      "src": "PC Gamer",
+      "title": "Modern Warfare 4 lead isn't scared of the GTA 6 black hole: 'It’s a little head-to-head, that’s great'",
+      "summary": "\"It’s a lot of pressure to make sure that you’re creative enough to entertain the masses.\"",
+      "url": "https://www.pcgamer.com/games/call-of-duty/modern-warfare-4-lead-isnt-scared-of-the-gta-6-black-hole-its-a-little-head-to-head-thats-great/",
+      "date": "2026-07-16T12:00:06.000Z"
+    },
+    {
+      "lead": false,
       "src": "GamesRadar",
       "title": "Ex-PlayStation boss says devs need to reach people who don't care about GTA 6, even if Rockstar's long-awaited game is going to hit \"with great force and power\"",
       "summary": "\"We need to bring out more games for more people, which means actually you have to have more people making games\"",
