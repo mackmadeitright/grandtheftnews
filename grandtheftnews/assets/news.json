@@ -1,17 +1,9 @@
 {
-  "updated": "2026-07-17T16:21:37.830Z",
-  "count": 12,
+  "updated": "2026-07-17T19:21:45.376Z",
+  "count": 8,
   "items": [
     {
       "lead": true,
-      "src": "Polygon",
-      "title": "The surprising reason GameStop's CEO isn't sweating GTA 6 going digital-only",
-      "summary": "CEO Ryan Cohen is still bullish on buying eBay, and it all has to do with GameStop's existing business strategy",
-      "url": "https://www.polygon.com/gamestop-ceo-ryan-cohen-physical-ps5-games-gta-6/",
-      "date": "2026-07-17T15:27:57.000Z"
-    },
-    {
-      "lead": false,
       "src": "Kotaku",
       "title": "The 3 Big Reasons Why GTA 6 Isn’t Coming To PC At Launch, And Why That’s A Good Thing",
       "summary": "It's always been thus, and it tends to work out very well in the end",
@@ -44,22 +36,6 @@
     },
     {
       "lead": false,
-      "src": "IGN",
-      "title": "GTA 6 Hacker Moved to Prison for Retrial Two Years After Indefinite Sentence to Secure Hospital",
-      "summary": "The hacker behind the massive GTA 6 leak in September 2022 has been released from indefinite imprisonment at a secure hospital and is now awaiting a retrial.",
-      "url": "https://www.ign.com/articles/gta-6-hacker-moved-to-prison-for-retrial-two-years-after-indefinite-sentence-to-secure-hospital",
-      "date": "2026-07-16T22:39:13.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Kotaku",
-      "title": "Rockstar Added Two Trees To GTA Online And It Led To A Lot Of Anger And Confusion",
-      "summary": "How much online anger could two tiny trees create?",
-      "url": "https://kotaku.com/rockstar-added-two-trees-to-gta-online-and-it-led-to-a-lot-of-anger-and-confusion-2000716733",
-      "date": "2026-07-16T18:23:44.000Z"
-    },
-    {
-      "lead": false,
       "src": "PC Gamer",
       "title": "Grand Theft Auto 6 leaker who was given an indefinite sentence in 2023 because he wouldn't stop hacking is now out of hospital and awaiting retrial",
       "summary": "Arion Kurtaj, a member of the Lapsus$ hacking group, was behind a 2022 hack of Rockstar that revealed GTA 6 to the world more than a year before it was announced.",
@@ -73,14 +49,6 @@
       "summary": "GTA 6 is shaping up to be the hottest console game launch of the year, but PC gamers won't be sharing in that fun. This is par for the course with developer Rockstar Games, as it has typically prioritized console versions of its games before porting them to PC, a strategy that one former employee says will result in…",
       "url": "https://www.gamespot.com/articles/former-rockstar-dev-explains-gta-6-console-first-approach/",
       "date": "2026-07-16T14:49:17.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GameSpot",
-      "title": "GTA 6 Just Got A Jaw-Dropping Sales Prediction",
-      "summary": "Everyone knows that Rockstar's GTA 6 is going to be an enormous hit upon launch in November this year, but just how big are we talking? A new report from research firm Newzoo makes several stratospheric predictions, led by an estimation that it could earn between $3.3 billion - $5.2 billion in global sales after jus…",
-      "url": "https://www.gamespot.com/articles/gta-6-just-got-a-jaw-dropping-sales-prediction/",
-      "date": "2026-07-16T13:22:54.000Z"
     },
     {
       "lead": false,
