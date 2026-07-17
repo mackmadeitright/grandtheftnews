@@ -1,9 +1,25 @@
 {
-  "updated": "2026-07-17T08:22:24.808Z",
-  "count": 10,
+  "updated": "2026-07-17T10:54:07.518Z",
+  "count": 11,
   "items": [
     {
       "lead": true,
+      "src": "GamesRadar",
+      "title": "GTA 5 had \"so much\" cut content, including minigames that were almost \"completely done,\" former Rockstar dev says: \"They'll throw out entire levels\"",
+      "summary": "Rockstar Games apparently isn't scared to kill its darling",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-5-had-so-much-cut-content-including-minigames-that-were-almost-completely-done-former-rockstar-dev-says-theyll-throw-out-entire-levels/",
+      "date": "2026-07-17T10:21:17.000Z"
+    },
+    {
+      "lead": false,
+      "src": "IGN",
+      "title": "GTA 6 Predicted to Make Up to $5.2 Billion in Sales by End of Launch Week After Securing an Estimated $260 Million via Preorders",
+      "summary": "Grand Theft Auto 6 is predicted to generate sales of up to $5.2 billion by the end of launch week after enjoying the strongest preorder campaign one analyst has ever seen.",
+      "url": "https://www.ign.com/articles/gta-6-predicted-to-make-up-to-52-billion-in-sales-by-end-of-launch-week-after-securing-an-estimated-260-million-via-preorders",
+      "date": "2026-07-17T10:06:55.000Z"
+    },
+    {
+      "lead": false,
       "src": "IGN",
       "title": "GTA 6 Hacker Moved to Prison for Retrial Two Years After Indefinite Sentence to Secure Hospital",
       "summary": "The hacker behind the massive GTA 6 leak in September 2022 has been released from indefinite imprisonment at a secure hospital and is now awaiting a retrial.",
@@ -73,14 +89,6 @@
       "summary": "\"It’s a lot of pressure to make sure that you’re creative enough to entertain the masses.\"",
       "url": "https://www.pcgamer.com/games/call-of-duty/modern-warfare-4-lead-isnt-scared-of-the-gta-6-black-hole-its-a-little-head-to-head-thats-great/",
       "date": "2026-07-16T12:00:06.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "Ex-PlayStation boss says devs need to reach people who don't care about GTA 6, even if Rockstar's long-awaited game is going to hit \"with great force and power\"",
-      "summary": "\"We need to bring out more games for more people, which means actually you have to have more people making games\"",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/ex-playstation-boss-says-devs-need-to-reach-people-who-dont-care-about-gta-6-even-if-rockstars-long-awaited-game-is-going-to-hit-with-great-force-and-power/",
-      "date": "2026-07-16T10:44:09.000Z"
     }
   ]
 }
