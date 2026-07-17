@@ -1,9 +1,25 @@
 {
-  "updated": "2026-07-17T13:55:43.491Z",
-  "count": 11,
+  "updated": "2026-07-17T16:21:37.830Z",
+  "count": 12,
   "items": [
     {
       "lead": true,
+      "src": "Polygon",
+      "title": "The surprising reason GameStop's CEO isn't sweating GTA 6 going digital-only",
+      "summary": "CEO Ryan Cohen is still bullish on buying eBay, and it all has to do with GameStop's existing business strategy",
+      "url": "https://www.polygon.com/gamestop-ceo-ryan-cohen-physical-ps5-games-gta-6/",
+      "date": "2026-07-17T15:27:57.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Kotaku",
+      "title": "The 3 Big Reasons Why GTA 6 Isn’t Coming To PC At Launch, And Why That’s A Good Thing",
+      "summary": "It's always been thus, and it tends to work out very well in the end",
+      "url": "https://kotaku.com/the-3-big-reasons-why-gta-6-isnt-coming-to-pc-at-launch-and-why-thats-a-good-thing-2000717074",
+      "date": "2026-07-17T14:32:37.000Z"
+    },
+    {
+      "lead": false,
       "src": "Eurogamer",
       "title": "Claims about GTA 6 pre-orders are incorrect and \"absurd\", analyst firm says, but it's still had the \"strongest pre-order campaign ever recorded\"",
       "summary": "We all knew that GTA 6 was going to be big, but new data from a video game market data analyst group suggests Rockstar's upcoming sandbox game has already earned in excess of $260m for the company. Read more",
@@ -49,14 +65,6 @@
       "summary": "Arion Kurtaj, a member of the Lapsus$ hacking group, was behind a 2022 hack of Rockstar that revealed GTA 6 to the world more than a year before it was announced.",
       "url": "https://www.pcgamer.com/games/grand-theft-auto/grand-theft-auto-6-leaker-who-was-given-an-indefinite-sentence-in-2023-because-he-wouldnt-stop-hacking-is-now-out-of-hospital-and-awaiting-retrial/",
       "date": "2026-07-16T16:30:23.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "GTA 6 is on track for \"the strongest pre-order campaign ever recorded\" and up to $5 billion in sales by \"the end of launch week,\" analysts say",
-      "summary": "Still, reports of GTA 6 pre-orders earning Rockstar billions already are \"absurd\"",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-is-on-track-for-the-strongest-pre-order-campaign-ever-recorded-and-up-to-usd5-billion-in-sales-by-the-end-of-launch-week-analysts-say/",
-      "date": "2026-07-16T15:24:37.000Z"
     },
     {
       "lead": false,
