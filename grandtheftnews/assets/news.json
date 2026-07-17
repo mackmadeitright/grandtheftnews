@@ -1,9 +1,17 @@
 {
-  "updated": "2026-07-17T10:54:07.518Z",
+  "updated": "2026-07-17T13:55:43.491Z",
   "count": 11,
   "items": [
     {
       "lead": true,
+      "src": "Eurogamer",
+      "title": "Claims about GTA 6 pre-orders are incorrect and \"absurd\", analyst firm says, but it's still had the \"strongest pre-order campaign ever recorded\"",
+      "summary": "We all knew that GTA 6 was going to be big, but new data from a video game market data analyst group suggests Rockstar's upcoming sandbox game has already earned in excess of $260m for the company. Read more",
+      "url": "https://www.eurogamer.net/gta-6-pre-order-numbers-record",
+      "date": "2026-07-17T13:06:16.000Z"
+    },
+    {
+      "lead": false,
       "src": "GamesRadar",
       "title": "GTA 5 had \"so much\" cut content, including minigames that were almost \"completely done,\" former Rockstar dev says: \"They'll throw out entire levels\"",
       "summary": "Rockstar Games apparently isn't scared to kill its darling",
@@ -57,14 +65,6 @@
       "summary": "GTA 6 is shaping up to be the hottest console game launch of the year, but PC gamers won't be sharing in that fun. This is par for the course with developer Rockstar Games, as it has typically prioritized console versions of its games before porting them to PC, a strategy that one former employee says will result in…",
       "url": "https://www.gamespot.com/articles/former-rockstar-dev-explains-gta-6-console-first-approach/",
       "date": "2026-07-16T14:49:17.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "Hacker behind GTA 6 leak that cost Rockstar $5 million reportedly awaiting retrial after being released from secure hospital",
-      "summary": "Arion Kurtaj was previously deemed unfit to stand trial in 2023",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/hacker-behind-gta6-leak-that-cost-rockstar-usd5-million-reportedly-awaiting-retrial-after-being-released-from-secure-hospital/",
-      "date": "2026-07-16T14:19:45.000Z"
     },
     {
       "lead": false,
