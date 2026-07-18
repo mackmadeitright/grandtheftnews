@@ -1,9 +1,17 @@
 {
-  "updated": "2026-07-18T10:24:29.048Z",
+  "updated": "2026-07-18T13:38:54.385Z",
   "count": 6,
   "items": [
     {
       "lead": true,
+      "src": "GamesRadar",
+      "title": "GTA 5 dev \"can only imagine the size of GTA 6\" – \"It must be monstrous\"",
+      "summary": "Former Rockstar Games producer John Ricchio is expecting big things",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-5-dev-can-only-imagine-the-size-of-gta-6-it-must-be-monstrous/",
+      "date": "2026-07-18T12:26:01.000Z"
+    },
+    {
+      "lead": false,
       "src": "Kotaku",
       "title": "The 3 Big Reasons Why GTA 6 Isn’t Coming To PC At Launch, And Why That’s A Good Thing",
       "summary": "It's always been thus, and it tends to work out very well in the end",
@@ -17,14 +25,6 @@
       "summary": "We all knew that GTA 6 was going to be big, but new data from a video game market data analyst group suggests Rockstar's upcoming sandbox game has already earned in excess of $260m for the company. Read more",
       "url": "https://www.eurogamer.net/gta-6-pre-order-numbers-record",
       "date": "2026-07-17T13:06:16.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "GTA 5 had \"so much\" cut content, including minigames that were almost \"completely done,\" former Rockstar dev says: \"They'll throw out entire levels\"",
-      "summary": "Rockstar Games apparently isn't scared to kill its darling",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-5-had-so-much-cut-content-including-minigames-that-were-almost-completely-done-former-rockstar-dev-says-theyll-throw-out-entire-levels/",
-      "date": "2026-07-17T10:21:17.000Z"
     },
     {
       "lead": false,
