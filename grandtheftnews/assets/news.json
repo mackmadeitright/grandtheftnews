@@ -1,9 +1,17 @@
 {
-  "updated": "2026-07-19T13:41:28.020Z",
-  "count": 6,
+  "updated": "2026-07-19T16:02:18.460Z",
+  "count": 7,
   "items": [
     {
       "lead": true,
+      "src": "GamesRadar",
+      "title": "Assassin's Creed Black Flag Resynced lead begs fans to \"please play us when when GTA 6 comes out\" as he teases post-launch support plans",
+      "summary": "Following on from previous AC games",
+      "url": "https://www.gamesradar.com/games/assassin-s-creed/assassins-creed-black-flag-resynced-lead-begs-fans-to-please-play-us-when-when-gta-6-comes-out-as-he-teases-post-launch-support-plans/",
+      "date": "2026-07-19T14:00:57.000Z"
+    },
+    {
+      "lead": false,
       "src": "GamesRadar",
       "title": "After GTA San Andreas' Hot Coffee debacle, Rockstar makes a \"huge effort\" to wipe anything cut from its game to avoid accidentally shipping it, ex-dev says",
       "summary": "\"Having things on the disc is dangerous\"",
