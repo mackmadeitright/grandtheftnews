@@ -1,9 +1,25 @@
 {
-  "updated": "2026-07-19T10:39:45.045Z",
-  "count": 4,
+  "updated": "2026-07-19T13:41:28.020Z",
+  "count": 6,
   "items": [
     {
       "lead": true,
+      "src": "GamesRadar",
+      "title": "After GTA San Andreas' Hot Coffee debacle, Rockstar makes a \"huge effort\" to wipe anything cut from its game to avoid accidentally shipping it, ex-dev says",
+      "summary": "\"Having things on the disc is dangerous\"",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/after-gta-san-andreas-hot-coffee-debacle-rockstar-makes-a-huge-effort-to-wipe-anything-cut-from-its-game-to-avoid-accidentally-shipping-it-ex-dev-says/",
+      "date": "2026-07-19T12:37:01.000Z"
+    },
+    {
+      "lead": false,
+      "src": "PC Gamer",
+      "title": "'GTA 6 needs this': This GTA 5 prison mod turns one of roleplay's most enduring staples into a game within a game",
+      "summary": "With flavours of Shawshank , this player-made masterstroke is a world unto itself.",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-needs-this-this-gta-5-prison-mod-turns-one-of-roleplays-most-enduring-staples-into-a-game-within-a-game/",
+      "date": "2026-07-19T11:00:00.000Z"
+    },
+    {
+      "lead": false,
       "src": "GamesRadar",
       "title": "GTA 5 dev \"can only imagine the size of GTA 6\" – \"It must be monstrous\"",
       "summary": "Former Rockstar Games producer John Ricchio is expecting big things",
