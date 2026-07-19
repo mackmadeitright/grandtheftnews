@@ -1,9 +1,17 @@
 {
-  "updated": "2026-07-19T16:02:18.460Z",
-  "count": 7,
+  "updated": "2026-07-19T19:17:02.925Z",
+  "count": 8,
   "items": [
     {
       "lead": true,
+      "src": "Kotaku",
+      "title": "Modder Makes GTA: Vice City Playable Inside GTA 3 Inside GTA: San Andreas",
+      "summary": "A modder made the entirety of Grand Theft Auto playable as a texture within another Grand Theft Auto and took it to the logical conclusion",
+      "url": "https://kotaku.com/gta-vice-city-made-playable-in-gta-3-made-playable-in-gta-san-andreas-2000717510",
+      "date": "2026-07-19T18:10:47.000Z"
+    },
+    {
+      "lead": false,
       "src": "GamesRadar",
       "title": "Assassin's Creed Black Flag Resynced lead begs fans to \"please play us when when GTA 6 comes out\" as he teases post-launch support plans",
       "summary": "Following on from previous AC games",
