@@ -1,22 +1,22 @@
 {
-  "updated": "2026-07-20T16:38:15.554Z",
-  "count": 8,
+  "updated": "2026-07-20T19:51:35.318Z",
+  "count": 6,
   "items": [
     {
       "lead": true,
+      "src": "GamesRadar",
+      "title": "GTA 6 probably won't include any cut content, says GTA 5 producer, even though Rockstar snuck \"unannounced\" game's missions into GTA 4",
+      "summary": "Unless that's what they want you to think!",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-probably-wont-include-any-cut-content-says-gta-5-producer-even-though-rockstar-snuck-unannounced-games-missions-into-gta-4/",
+      "date": "2026-07-20T17:30:02.000Z"
+    },
+    {
+      "lead": false,
       "src": "IGN",
       "title": "'Please Play Us When GTA 6 Comes Out': Assassin's Creed Black Flag Resynced Developer Teases Post-Game Support",
       "summary": "The director of Assassin's Creed Black Flag Resynced has told fans to keep playing – even when GTA 6 launches.",
       "url": "https://www.ign.com/articles/please-play-us-when-gta-6-comes-out-assassins-creed-black-flag-resynced-developer-teases-post-game-support",
       "date": "2026-07-20T10:09:40.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Kotaku",
-      "title": "Modder Makes GTA: Vice City Playable Inside GTA 3 Inside GTA: San Andreas",
-      "summary": "A modder made the entirety of Grand Theft Auto playable as a texture within another Grand Theft Auto and took it to the logical conclusion",
-      "url": "https://kotaku.com/gta-vice-city-made-playable-in-gta-3-made-playable-in-gta-san-andreas-2000717510",
-      "date": "2026-07-19T18:10:47.000Z"
     },
     {
       "lead": false,
@@ -28,27 +28,11 @@
     },
     {
       "lead": false,
-      "src": "GamesRadar",
-      "title": "After GTA San Andreas' Hot Coffee debacle, Rockstar makes a \"huge effort\" to wipe anything cut from its game to avoid accidentally shipping it, ex-dev says",
-      "summary": "\"Having things on the disc is dangerous\"",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/after-gta-san-andreas-hot-coffee-debacle-rockstar-makes-a-huge-effort-to-wipe-anything-cut-from-its-game-to-avoid-accidentally-shipping-it-ex-dev-says/",
-      "date": "2026-07-19T12:37:01.000Z"
-    },
-    {
-      "lead": false,
       "src": "PC Gamer",
       "title": "'GTA 6 needs this': This GTA 5 prison mod turns one of roleplay's most enduring staples into a game within a game",
       "summary": "With flavours of Shawshank , this player-made masterstroke is a world unto itself.",
       "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-needs-this-this-gta-5-prison-mod-turns-one-of-roleplays-most-enduring-staples-into-a-game-within-a-game/",
       "date": "2026-07-19T11:00:00.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "GTA 5 dev \"can only imagine the size of GTA 6\" – \"It must be monstrous\"",
-      "summary": "Former Rockstar Games producer John Ricchio is expecting big things",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-5-dev-can-only-imagine-the-size-of-gta-6-it-must-be-monstrous/",
-      "date": "2026-07-18T12:26:01.000Z"
     },
     {
       "lead": false,
