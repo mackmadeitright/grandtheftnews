@@ -1,9 +1,17 @@
 {
-  "updated": "2026-07-20T09:30:00.931Z",
+  "updated": "2026-07-20T14:25:15.250Z",
   "count": 8,
   "items": [
     {
       "lead": true,
+      "src": "IGN",
+      "title": "'Please Play Us When GTA 6 Comes Out': Assassin's Creed Black Flag Resynced Developer Teases Post-Game Support",
+      "summary": "The director of Assassin's Creed Black Flag Resynced has told fans to keep playing – even when GTA 6 launches.",
+      "url": "https://www.ign.com/articles/please-play-us-when-gta-6-comes-out-assassins-creed-black-flag-resynced-developer-teases-post-game-support",
+      "date": "2026-07-20T10:09:40.000Z"
+    },
+    {
+      "lead": false,
       "src": "Kotaku",
       "title": "Modder Makes GTA: Vice City Playable Inside GTA 3 Inside GTA: San Andreas",
       "summary": "A modder made the entirety of Grand Theft Auto playable as a texture within another Grand Theft Auto and took it to the logical conclusion",
@@ -49,14 +57,6 @@
       "summary": "We all knew that GTA 6 was going to be big, but new data from a video game market data analyst group suggests Rockstar's upcoming sandbox game has already earned in excess of $260m for the company. Read more",
       "url": "https://www.eurogamer.net/gta-6-pre-order-numbers-record",
       "date": "2026-07-17T13:06:16.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GameSpot",
-      "title": "Former Rockstar Dev Explains GTA 6’s Console-First Approach",
-      "summary": "GTA 6 is shaping up to be the hottest console game launch of the year, but PC gamers won't be sharing in that fun. This is par for the course with developer Rockstar Games, as it has typically prioritized console versions of its games before porting them to PC, a strategy that one former employee says will result in…",
-      "url": "https://www.gamespot.com/articles/former-rockstar-dev-explains-gta-6-console-first-approach/",
-      "date": "2026-07-16T14:49:17.000Z"
     },
     {
       "lead": false,
