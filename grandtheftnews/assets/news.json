@@ -1,9 +1,17 @@
 {
-  "updated": "2026-07-22T08:39:56.294Z",
-  "count": 3,
+  "updated": "2026-07-22T11:14:29.554Z",
+  "count": 4,
   "items": [
     {
       "lead": true,
+      "src": "GamesRadar",
+      "title": "Avengers: Doomsday trailer scores 503 million views in 24 hours, beating GTA 6 but falling short of Spider-Man: Brand New Day",
+      "summary": "The Doomsday trailer has made a huge impact",
+      "url": "https://www.gamesradar.com/entertainment/marvel-movies/avengers-doomsday-trailer-scores-503-million-views-in-24-hours-beating-gta-6-but-falling-short-of-spider-man-brand-new-day/",
+      "date": "2026-07-22T09:52:32.000Z"
+    },
+    {
+      "lead": false,
       "src": "Kotaku",
       "title": "Gamers Have No Problem Spending $100 On GTA 6′s Digital-Only Ultimate Edition According To Pre-Order Data",
       "summary": "The more expensive versions of Wolverine and Halo are selling better on PlayStation, too",
