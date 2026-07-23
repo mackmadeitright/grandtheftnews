@@ -1,9 +1,17 @@
 {
-  "updated": "2026-07-23T14:23:20.438Z",
-  "count": 3,
+  "updated": "2026-07-23T16:40:36.725Z",
+  "count": 4,
   "items": [
     {
       "lead": true,
+      "src": "Eurogamer",
+      "title": "As layoff controversy continues, Rockstar union has 'more members than ever before', meaning it could force mandatory recognition",
+      "summary": "The Rockstar Game Workers Union (RGWU), which was formed earlier this year in response to the Grand Theft Auto 6 developer's massively controversial job cuts , now has \"more members than it ever had before\". Read more",
+      "url": "https://www.eurogamer.net/rockstar-developer-union-more-members-layoffs",
+      "date": "2026-07-23T16:37:40.000Z"
+    },
+    {
+      "lead": false,
       "src": "GamesRadar",
       "title": "After claiming GTA 6 devs have crunch \"built into\" their contracts, union says \"first meeting with Rockstar management\" was \"a step in the right direction\"",
       "summary": "\"We were able to make the case that workers' voices need to be heard\"",
