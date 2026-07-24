@@ -1,9 +1,17 @@
 {
-  "updated": "2026-07-24T16:48:15.707Z",
-  "count": 3,
+  "updated": "2026-07-24T19:40:32.859Z",
+  "count": 4,
   "items": [
     {
       "lead": true,
+      "src": "GameSpot",
+      "title": "GTA 6 Is The First Game I’ve Seen With A Best-Before Date",
+      "summary": "We're about four months from the launch of the biggest game of the year: Grand Theft Auto 6 . The hype is no doubt through the roof, but if you're in Japan, you'll need to turn that excitement into immediate action because you'll have a limited amount of time to redeem the code that comes in the game box. As outline…",
+      "url": "https://www.gamespot.com/articles/gta-6-is-the-first-game-ive-seen-with-a-best-before-date/",
+      "date": "2026-07-24T17:34:40.000Z"
+    },
+    {
+      "lead": false,
       "src": "Eurogamer",
       "title": "As layoff controversy continues, Rockstar union has 'more members than ever before', meaning it could force mandatory recognition",
       "summary": "The Rockstar Game Workers Union (RGWU), which was formed earlier this year in response to the Grand Theft Auto 6 developer's massively controversial job cuts , now has \"more members than it ever had before\". Read more",
