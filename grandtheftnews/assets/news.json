@@ -1,9 +1,17 @@
 {
-  "updated": "2026-07-25T10:39:43.691Z",
-  "count": 5,
+  "updated": "2026-07-25T13:52:58.045Z",
+  "count": 6,
   "items": [
     {
       "lead": true,
+      "src": "PC Gamer",
+      "title": "Modding wizard creates Grand Theft Auto multiverse that lets players travel instantly between Rockstar's first three games: 'We got inter-GTA portals before GTA 6'",
+      "summary": "\"The other game is actually running behind it, it's not a video or a captured window,\" says mod creator.",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/modding-wizard-creates-grand-theft-auto-multiverse-that-lets-players-travel-instantly-between-rockstars-first-three-games-we-got-inter-gta-portals-before-gta-6/",
+      "date": "2026-07-25T12:00:00.000Z"
+    },
+    {
+      "lead": false,
       "src": "Kotaku",
       "title": "Everything We Know About Grand Theft Auto 6",
       "summary": "When does Rockstar's big open world game come out, will it have online multiplayer, and how much does it cost?",
