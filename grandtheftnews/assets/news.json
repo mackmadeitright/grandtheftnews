@@ -1,9 +1,17 @@
 {
-  "updated": "2026-07-26T08:36:22.693Z",
-  "count": 6,
+  "updated": "2026-07-26T10:48:27.689Z",
+  "count": 7,
   "items": [
     {
       "lead": true,
+      "src": "GamesRadar",
+      "title": "Rockstar Games co-founder and GTA co-creator Dan Houser says he loves physical media, but digital releases have their own benefits too",
+      "summary": "As PlayStation plans to scrap game disc production",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/rockstar-games-co-founder-and-gta-co-creator-dan-houser-says-he-loves-physical-media-but-digital-releases-have-their-own-benefits-too/",
+      "date": "2026-07-26T10:04:26.000Z"
+    },
+    {
+      "lead": false,
       "src": "PC Gamer",
       "title": "Modding wizard creates Grand Theft Auto multiverse that lets players travel instantly between Rockstar's first three games: 'We got inter-GTA portals before GTA 6'",
       "summary": "\"The other game is actually running behind it, it's not a video or a captured window,\" says mod creator.",
