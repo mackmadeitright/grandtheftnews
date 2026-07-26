@@ -1,9 +1,17 @@
 {
-  "updated": "2026-07-26T19:22:44.887Z",
-  "count": 6,
+  "updated": "2026-07-26T22:05:34.615Z",
+  "count": 7,
   "items": [
     {
       "lead": true,
+      "src": "PC Gamer",
+      "title": "What does GTA Online 2.0 even look like—and, more to the point, what do we even want from Grand Theft Auto 6 multiplayer?",
+      "summary": "So much remains unknown about the future of GTA 6's inevitable multiplayer offshoot",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/what-does-gta-online-2-0-even-look-like-and-more-to-the-point-what-do-we-even-want-from-grand-theft-auto-6-multiplayer/",
+      "date": "2026-07-26T20:50:15.000Z"
+    },
+    {
+      "lead": false,
       "src": "GamesRadar",
       "title": "Rockstar Games co-founder and GTA co-creator Dan Houser says he loves physical media, but digital releases have their own benefits too",
       "summary": "As PlayStation plans to scrap game disc production",
