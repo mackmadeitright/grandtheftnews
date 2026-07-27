@@ -1,9 +1,17 @@
 {
-  "updated": "2026-07-27T14:53:40.069Z",
+  "updated": "2026-07-27T17:04:20.059Z",
   "count": 8,
   "items": [
     {
       "lead": true,
+      "src": "Eurogamer",
+      "title": "Rockstar Games and GTA co-founder chimes in on the raging physical games debate: \"If people want that, companies should provide it\"",
+      "summary": "Rockstar Games co-founder Dan Houser and longtime Rockstar writer Lazlow Jones have chipped in on the physical video games debate. Read more",
+      "url": "https://www.eurogamer.net/dan-houser-rockstar-physical-games-gta",
+      "date": "2026-07-27T16:01:25.000Z"
+    },
+    {
+      "lead": false,
       "src": "Eurogamer",
       "title": "As Grand Theft Auto 6 hopefuls grow anxious for a gameplay trailer, AI GTA 6 slop is getting millions of views on social media",
       "summary": "As Grand Theft Auto 6 inches towards its November release date and people grow anxious for a proper gameplay trailer, GTA 6 AI slop is raking in millions of views on social media. Read more",
@@ -33,14 +41,6 @@
       "summary": "So much remains unknown about the future of GTA 6's inevitable multiplayer offshoot",
       "url": "https://www.pcgamer.com/games/grand-theft-auto/what-does-gta-online-2-0-even-look-like-and-more-to-the-point-what-do-we-even-want-from-grand-theft-auto-6-multiplayer/",
       "date": "2026-07-26T20:50:15.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "Rockstar Games co-founder and GTA co-creator Dan Houser says he loves physical media, but digital releases have their own benefits too",
-      "summary": "As PlayStation plans to scrap game disc production",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/rockstar-games-co-founder-and-gta-co-creator-dan-houser-says-he-loves-physical-media-but-digital-releases-have-their-own-benefits-too/",
-      "date": "2026-07-26T10:04:26.000Z"
     },
     {
       "lead": false,
