@@ -1,9 +1,17 @@
 {
-  "updated": "2026-07-27T19:46:09.114Z",
+  "updated": "2026-07-27T22:13:09.503Z",
   "count": 9,
   "items": [
     {
       "lead": true,
+      "src": "Kotaku",
+      "title": "Physical Copies Of GTA 6 In Japan Will Expire After A Few Months",
+      "summary": "You'd better use that code in 170 days or less...",
+      "url": "https://kotaku.com/physical-copies-of-gta-6-in-japan-will-expire-after-a-few-months-2000719555",
+      "date": "2026-07-27T20:30:37.000Z"
+    },
+    {
+      "lead": false,
       "src": "IGN",
       "title": "Physical 'Copies' of GTA 6 Will Expire 170 Days After Launch Date in Japan",
       "summary": "If you’re buying ‘physical’ copies of GTA 6 in Japan, you’d better act fast and download that code lickety-split, else it might expire while you’re not looking.",
@@ -49,14 +57,6 @@
       "summary": "So much remains unknown about the future of GTA 6's inevitable multiplayer offshoot",
       "url": "https://www.pcgamer.com/games/grand-theft-auto/what-does-gta-online-2-0-even-look-like-and-more-to-the-point-what-do-we-even-want-from-grand-theft-auto-6-multiplayer/",
       "date": "2026-07-26T20:50:15.000Z"
-    },
-    {
-      "lead": false,
-      "src": "PC Gamer",
-      "title": "Modding wizard creates Grand Theft Auto multiverse that lets players travel instantly between Rockstar's first three games: 'We got inter-GTA portals before GTA 6'",
-      "summary": "\"The other game is actually running behind it, it's not a video or a captured window,\" says mod creator.",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/modding-wizard-creates-grand-theft-auto-multiverse-that-lets-players-travel-instantly-between-rockstars-first-three-games-we-got-inter-gta-portals-before-gta-6/",
-      "date": "2026-07-25T12:00:00.000Z"
     },
     {
       "lead": false,
