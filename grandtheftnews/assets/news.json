@@ -1,9 +1,17 @@
 {
-  "updated": "2026-07-28T08:47:10.718Z",
-  "count": 9,
+  "updated": "2026-07-28T11:24:32.709Z",
+  "count": 10,
   "items": [
     {
       "lead": true,
+      "src": "Polygon",
+      "title": "Xbox will give GTA 6 players a major advantage over PS5",
+      "summary": "Rockstar's upcoming Grand Theft Auto game has region restrictions, but only on PlayStation 5",
+      "url": "https://www.polygon.com/gta-6-region-locked-xbox-ps5/",
+      "date": "2026-07-28T09:48:58.000Z"
+    },
+    {
+      "lead": false,
       "src": "Kotaku",
       "title": "Physical Copies Of GTA 6 In Japan Will Expire After A Few Months",
       "summary": "You'd better use that code in 170 days or less...",
