@@ -1,9 +1,25 @@
 {
-  "updated": "2026-07-29T11:30:50.466Z",
-  "count": 7,
+  "updated": "2026-07-29T14:25:47.579Z",
+  "count": 8,
   "items": [
     {
       "lead": true,
+      "src": "GameSpot",
+      "title": "Rockstar Co-Founder And GTA Co-Creator On Physical Games: Companies Should Provide It If People Want It",
+      "summary": "Dan Houser, the co-founder of Rockstar Games and co-creator of the GTA franchise, has commented on the ongoing discussion and debate about physical games in the wake of Sony's decision to stop supporting discs in 2028 . Speaking to IGN , Houser said, \"I don't know that I care.\" But he said, \"If people want that, I t…",
+      "url": "https://www.gamespot.com/articles/rockstar-co-founder-and-gta-co-creator-on-physical-games-companies-should-provide-it-if-people-want-it/",
+      "date": "2026-07-29T13:59:26.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GameSpot",
+      "title": "New GTA 6 Info Coming Soon, It Seems",
+      "summary": "According to a reputable insider, new information about Rockstar's GTA 6 could arrive very soon. NateTheHate, who has accurately reported unannounced details about upcoming games before, recently said he expects to see \"a fair bit\" of GTA 6 in August. He went on to push back against the narrative that just because R…",
+      "url": "https://www.gamespot.com/articles/new-gta-6-info-coming-soon-it-seems/",
+      "date": "2026-07-29T13:00:23.000Z"
+    },
+    {
+      "lead": false,
       "src": "GameSpot",
       "title": "GTA Online Players In Australia Can No Longer Gamble With Fake Money",
       "summary": "Grand Theft Auto Online players in Australia are no longer able to gamble in the game's Diamond Casino, after Rockstar Games appears to have blocked access in the wake of the Australian government's crackdown on online gambling. Australian players began to report the change on Reddit (via Vice ), as they were no lon…",
@@ -41,14 +57,6 @@
       "summary": "When Grand Theft Auto 6 pre-orders initially went live a little over a month ago, a number of retailers posted conflicting messages about which countries and regions the controversial code-in-the-box download code is actually going to work. Read more",
       "url": "https://www.eurogamer.net/gta-6-region-locked-codes-ps5-japan-expiry-date",
       "date": "2026-07-27T08:23:10.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GameSpot",
-      "title": "GTA 6 Is The First Game I’ve Seen With A Best-Before Date",
-      "summary": "We're about four months from the launch of the biggest game of the year: Grand Theft Auto 6 . The hype is no doubt through the roof, but if you're in Japan, you'll need to turn that excitement into immediate action because you'll have a limited amount of time to redeem the code that comes in the game box. As outline…",
-      "url": "https://www.gamespot.com/articles/gta-6-is-the-first-game-ive-seen-with-a-best-before-date/",
-      "date": "2026-07-24T17:34:40.000Z"
     },
     {
       "lead": false,
