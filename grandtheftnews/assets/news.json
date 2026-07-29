@@ -1,9 +1,17 @@
 {
-  "updated": "2026-07-29T19:35:00.300Z",
-  "count": 7,
+  "updated": "2026-07-29T22:06:09.062Z",
+  "count": 8,
   "items": [
     {
       "lead": true,
+      "src": "Kotaku",
+      "title": "Here’s Why GTA 6 Fans Are Convinced That After Waiting Over A Year, Trailer 3 Is Coming Soon",
+      "summary": "Trust me, bro, I can feel something in the air, okay?",
+      "url": "https://kotaku.com/heres-why-gta-6-fans-are-convinced-that-after-waiting-over-a-year-trailer-3-is-coming-soon-2000720315",
+      "date": "2026-07-29T21:30:06.000Z"
+    },
+    {
+      "lead": false,
       "src": "GameSpot",
       "title": "Rockstar Co-Founder And GTA Co-Creator On Physical Games: Companies Should Provide It If People Want It",
       "summary": "Dan Houser, the co-founder of Rockstar Games and co-creator of the GTA franchise, has commented on the ongoing discussion and debate about physical games in the wake of Sony's decision to stop supporting discs in 2028 . Speaking to IGN , Houser said, \"I don't know that I care.\" But he said, \"If people want that, I t…",
