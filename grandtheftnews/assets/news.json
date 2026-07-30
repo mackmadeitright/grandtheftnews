@@ -1,9 +1,25 @@
 {
-  "updated": "2026-07-30T11:16:03.232Z",
-  "count": 8,
+  "updated": "2026-07-30T14:23:50.660Z",
+  "count": 10,
   "items": [
     {
       "lead": true,
+      "src": "Eurogamer",
+      "title": "GTA 6 news coming in August, leaker says, as more evidence points to the game's official website getting a backend update",
+      "summary": "It looks like we're getting some sort of Grand Theft Auto 6 news very soon, according to one insider and some convenient circumstantial evidence. NateTheHate, a reliable industry insider, was asked about the highly-anticipated game as part of a recent Q&A on X. Read more",
+      "url": "https://www.eurogamer.net/gta-6-news-august-insider-official-website-backend-updates",
+      "date": "2026-07-30T11:50:27.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "Resident Evil 4 and Dragon's Dogma lead's stylish new action RPG gets an October release date, steering clear of the GTA 6 rush",
+      "summary": "Stupid Never Dies is out on October 21",
+      "url": "https://www.gamesradar.com/games/action-rpg/resident-evil-4-and-dragons-dogma-leads-stylish-new-action-rpg-gets-an-october-release-date-steering-clear-of-the-gta-6-rush/",
+      "date": "2026-07-30T11:46:07.000Z"
+    },
+    {
+      "lead": false,
       "src": "Kotaku",
       "title": "Here’s Why GTA 6 Fans Are Convinced That After Waiting Over A Year, Trailer 3 Is Coming Soon",
       "summary": "Trust me, bro, I can feel something in the air, okay?",
