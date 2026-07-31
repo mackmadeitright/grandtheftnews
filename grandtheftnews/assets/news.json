@@ -1,9 +1,49 @@
 {
-  "updated": "2026-07-31T09:12:56.595Z",
-  "count": 9,
+  "updated": "2026-07-31T14:26:14.637Z",
+  "count": 13,
   "items": [
     {
       "lead": true,
+      "src": "Kotaku",
+      "title": "Here’s Why Fans Think The Zelda: Ocarina Of Time Remake Is Going Head-To-Head With GTA 6 In November",
+      "summary": "A pattern of new amiibo releases offers a compelling theory",
+      "url": "https://kotaku.com/heres-why-fans-think-the-zelda-ocarina-of-time-remake-is-going-head-to-head-with-gta-6-in-november-2000720752",
+      "date": "2026-07-31T14:00:11.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Eurogamer",
+      "title": "Could Switch 2's The Legend of Zelda: Ocarina of Time remake be squaring up for a GTA 6 head-to-head? Newly sighted amiibo suggest a potential November release",
+      "summary": "It looks like Nintendo could be priming its The Legend of Zelda: Ocarina of Time remake for a November release - just ahead of GTA 6 's highly anticipated arrival - if speculation around a pair of newly sighted amiibo is to be believed. Read more",
+      "url": "https://www.eurogamer.net/zelda-ocarina-of-time-remake-switch-2-amiibo-november",
+      "date": "2026-07-31T12:42:19.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "Sony has enough RAM to see the PS5 through the year including GTA 6's launch",
+      "summary": "Sony's quarterly earnings report is allaying fears of a console shortage when GTA 6 launches this November.",
+      "url": "https://www.gamesradar.com/hardware/sony-has-enough-ram-to-see-the-ps5-through-the-year-including-gta-6s-launch/",
+      "date": "2026-07-31T10:56:22.000Z"
+    },
+    {
+      "lead": false,
+      "src": "IGN",
+      "title": "With GTA 6 Looming Over the Horizon, Sony Says It Has Secured Enough Memory to Meet Its PS5 Sales Targets",
+      "summary": "Sony has insisted it has enough memory to meet its PlayStation 5 sales targets for the current financial year, with this November’s launch of Grand Theft Auto 6 looming over the horizon.",
+      "url": "https://www.ign.com/articles/with-gta-6-looming-over-the-horizon-sony-says-it-has-secured-enough-memory-to-meet-its-ps5-sales-targets",
+      "date": "2026-07-31T09:24:48.000Z"
+    },
+    {
+      "lead": false,
+      "src": "IGN",
+      "title": "The Legend of Zelda: Ocarina of Time Remake Will Launch Head-to-Head With GTA 6 in November, Nintendo Fans Believe, After Amiibo Release Date Revealed",
+      "summary": "Nintendo will launch its The Legend of Zelda: Ocarina of Time Switch 2 remake head-to-head with GTA 6 in November, fans believe.",
+      "url": "https://www.ign.com/articles/the-legend-of-zelda-ocarina-of-time-remake-will-launch-head-to-head-with-gta-6-in-november-nintendo-fans-believe-after-amiibo-release-date-revealed",
+      "date": "2026-07-31T09:08:51.000Z"
+    },
+    {
+      "lead": false,
       "src": "Kotaku",
       "title": "Sony Says Don’t Panic, It Has Enough RAM For All The PS5s It Plans To Sell This Year With The Launch Of GTA 6",
       "summary": "Profit projects are up even as console sales are down",
@@ -17,14 +57,6 @@
       "summary": "It looks like we're getting some sort of Grand Theft Auto 6 news very soon, according to one insider and some convenient circumstantial evidence. NateTheHate, a reliable industry insider, was asked about the highly-anticipated game as part of a recent Q&A on X. Read more",
       "url": "https://www.eurogamer.net/gta-6-news-august-insider-official-website-backend-updates",
       "date": "2026-07-30T11:50:27.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "Resident Evil 4 and Dragon's Dogma lead's stylish new action RPG gets an October release date, steering clear of the GTA 6 rush",
-      "summary": "Stupid Never Dies is out on October 21",
-      "url": "https://www.gamesradar.com/games/action-rpg/resident-evil-4-and-dragons-dogma-leads-stylish-new-action-rpg-gets-an-october-release-date-steering-clear-of-the-gta-6-rush/",
-      "date": "2026-07-30T11:46:07.000Z"
     },
     {
       "lead": false,
