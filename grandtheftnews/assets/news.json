@@ -1,9 +1,41 @@
 {
-  "updated": "2026-07-31T14:26:14.637Z",
-  "count": 13,
+  "updated": "2026-07-31T16:49:33.302Z",
+  "count": 15,
   "items": [
     {
       "lead": true,
+      "src": "GamesRadar",
+      "title": "With Grand Theft Auto 6 on the way, it's down to the community to bring back the best (and stupidest) thing about GTA Online",
+      "summary": "Opinion | Half a decade later, it's time for an alien autopsy",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/with-grand-theft-auto-6-on-the-way-its-down-to-the-community-to-bring-back-the-best-and-stupidest-thing-about-gta-online/",
+      "date": "2026-07-31T16:00:00.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "Countdown to GTA 6 with GamesRadar+",
+      "summary": "With Grand Theft Auto 6 on the near horizon, join GamesRadar+ weekly as we explore GTA 6 and celebrate the legacy of the Grand Theft Auto series",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/countdown-to-gta-6/",
+      "date": "2026-07-31T15:36:38.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "Predicting the 5 biggest GTA 6 reveals that we should see in the next 100 days",
+      "summary": "Gameplay, online and one big surprise: predicting GTA 6's final five reveals",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/predicting-the-5-biggest-gta-6-reveals-that-we-should-see-in-the-next-100-days/",
+      "date": "2026-07-31T15:36:23.000Z"
+    },
+    {
+      "lead": false,
+      "src": "IGN",
+      "title": "Chinatown Wars Is the Unsung Hero of GTA Games",
+      "summary": "Rockstar's experiments with the Nintendo DS resulted in Chinatown Wars, the unsung hero of the GTA series.",
+      "url": "https://www.ign.com/articles/chinatown-wars-is-the-unsung-hero-of-gta-games",
+      "date": "2026-07-31T15:30:00.000Z"
+    },
+    {
+      "lead": false,
       "src": "Kotaku",
       "title": "Here’s Why Fans Think The Zelda: Ocarina Of Time Remake Is Going Head-To-Head With GTA 6 In November",
       "summary": "A pattern of new amiibo releases offers a compelling theory",
@@ -57,22 +89,6 @@
       "summary": "It looks like we're getting some sort of Grand Theft Auto 6 news very soon, according to one insider and some convenient circumstantial evidence. NateTheHate, a reliable industry insider, was asked about the highly-anticipated game as part of a recent Q&A on X. Read more",
       "url": "https://www.eurogamer.net/gta-6-news-august-insider-official-website-backend-updates",
       "date": "2026-07-30T11:50:27.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GameSpot",
-      "title": "Rockstar Co-Founder And GTA Co-Creator On Physical Games: Companies Should Provide It If People Want It",
-      "summary": "Dan Houser, the co-founder of Rockstar Games and co-creator of the GTA franchise, has commented on the ongoing discussion and debate about physical games in the wake of Sony's decision to stop supporting discs in 2028 . Speaking to IGN , Houser said, \"I don't know that I care.\" But he said, \"If people want that, I t…",
-      "url": "https://www.gamespot.com/articles/rockstar-co-founder-and-gta-co-creator-on-physical-games-companies-should-provide-it-if-people-want-it/",
-      "date": "2026-07-29T13:59:26.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GameSpot",
-      "title": "New GTA 6 Info Coming Soon, It Seems",
-      "summary": "According to a reputable insider, new information about Rockstar's GTA 6 could arrive very soon. NateTheHate, who has accurately reported unannounced details about upcoming games before, recently said he expects to see \"a fair bit\" of GTA 6 in August. He went on to push back against the narrative that just because R…",
-      "url": "https://www.gamespot.com/articles/new-gta-6-info-coming-soon-it-seems/",
-      "date": "2026-07-29T13:00:23.000Z"
     },
     {
       "lead": false,
