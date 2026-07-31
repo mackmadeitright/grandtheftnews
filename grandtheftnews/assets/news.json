@@ -1,9 +1,17 @@
 {
-  "updated": "2026-07-31T16:49:33.302Z",
-  "count": 15,
+  "updated": "2026-07-31T19:44:54.301Z",
+  "count": 16,
   "items": [
     {
       "lead": true,
+      "src": "GameSpot",
+      "title": "Here’s Why People Think The Ocarina Of Time Remake Will Launch A Week Before GTA 6",
+      "summary": "Suspicions are arising among Legend of Zelda fans that the Ocarina of Time remake will launch in mid-November--just within spitting distance of Grand Theft Auto 6. The theories revolve around an apparent pattern of Nintendo's Amiibo releases, and it's hard to blame anyone for buying into them. Per Kotaku , fans clai…",
+      "url": "https://www.gamespot.com/articles/heres-why-people-think-the-ocarina-of-time-remake-will-launch-a-week-before-gta-6/",
+      "date": "2026-07-31T16:29:54.000Z"
+    },
+    {
+      "lead": false,
       "src": "GamesRadar",
       "title": "With Grand Theft Auto 6 on the way, it's down to the community to bring back the best (and stupidest) thing about GTA Online",
       "summary": "Opinion | Half a decade later, it's time for an alien autopsy",
