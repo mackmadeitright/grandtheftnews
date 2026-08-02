@@ -1,9 +1,25 @@
 {
-  "updated": "2026-08-02T13:44:22.661Z",
-  "count": 14,
+  "updated": "2026-08-02T16:07:45.247Z",
+  "count": 16,
   "items": [
     {
       "lead": true,
+      "src": "Polygon",
+      "title": "10 places I wish GTA 6 was set instead of Vice City",
+      "summary": "GTA 6's setting is Vice City, but imagine if Rockstar took us back in time to ancient Rome or forward to a moon colony?",
+      "url": "https://www.polygon.com/gta-6-alternate-locations-vice-city/",
+      "date": "2026-08-02T16:00:12.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Polygon",
+      "title": "Troy Baker's cyberpunk answer to GTA 6 has been stuck in development hell for six years",
+      "summary": "Cyberpunk game Last Sentinel has been in the works at Tencent's Lightspeed LA studio for over six years and is still a long way from launch",
+      "url": "https://www.polygon.com/last-sentinel-layoffs-lightspeed-la/",
+      "date": "2026-08-02T13:47:00.000Z"
+    },
+    {
+      "lead": false,
       "src": "GameSpot",
       "title": "Here’s Why People Think The Ocarina Of Time Remake Will Launch A Week Before GTA 6",
       "summary": "Suspicions are arising among Legend of Zelda fans that the Ocarina of Time remake will launch in mid-November--just within spitting distance of Grand Theft Auto 6. The theories revolve around an apparent pattern of Nintendo's Amiibo releases, and it's hard to blame anyone for buying into them. Per Kotaku , fans clai…",
