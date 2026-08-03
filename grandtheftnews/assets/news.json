@@ -1,38 +1,30 @@
 {
-  "updated": "2026-08-03T10:00:39.767Z",
-  "count": 13,
+  "updated": "2026-08-03T15:07:48.440Z",
+  "count": 12,
   "items": [
     {
       "lead": true,
+      "src": "GameSpot",
+      "title": "The Last Of Us Co-Director Asks Why You Even Care About GTA 6, And The Internet Has Thoughts",
+      "summary": "Bruce Straley, the Naughty Dog veteran who worked on the Jak, Uncharted, and The Last of Us franchises before leaving to start his own studio, is asking his followers why they are excited for GTA 6 . Posting on social media, Straley said he's asking this question out of genuine curiosity, and not simply to stir the…",
+      "url": "https://www.gamespot.com/articles/the-last-of-us-co-director-asks-why-you-even-care-about-gta-6-and-the-internet-has-thoughts/",
+      "date": "2026-08-03T14:02:11.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "The best GTA moments: Cracking the vault on the first 20 entries in our explosive Top 100 list in the run-up to GTA 6",
+      "summary": "GTA's tensest heists, funniest moments, strangest secrets, and more – counting down the series' best moments",
+      "url": "https://www.gamesradar.com/greatest-grand-theft-auto-gta-moments-of-all-time/",
+      "date": "2026-08-03T14:00:00.000Z"
+    },
+    {
+      "lead": false,
       "src": "GameSpot",
       "title": "Here’s Why People Think The Ocarina Of Time Remake Will Launch A Week Before GTA 6",
       "summary": "Suspicions are arising among Legend of Zelda fans that the Ocarina of Time remake will launch in mid-November--just within spitting distance of Grand Theft Auto 6. The theories revolve around an apparent pattern of Nintendo's Amiibo releases, and it's hard to blame anyone for buying into them. Per Kotaku , fans clai…",
       "url": "https://www.gamespot.com/articles/heres-why-people-think-the-ocarina-of-time-remake-will-launch-a-week-before-gta-6/",
       "date": "2026-07-31T16:29:54.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "With Grand Theft Auto 6 on the way, it's down to the community to bring back the best (and stupidest) thing about GTA Online",
-      "summary": "Opinion | Half a decade later, it's time for an alien autopsy",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/with-grand-theft-auto-6-on-the-way-its-down-to-the-community-to-bring-back-the-best-and-stupidest-thing-about-gta-online/",
-      "date": "2026-07-31T16:00:00.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "Countdown to GTA 6 with GamesRadar+",
-      "summary": "With Grand Theft Auto 6 on the near horizon, join GamesRadar+ weekly as we explore GTA 6 and celebrate the legacy of the Grand Theft Auto series",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/countdown-to-gta-6/",
-      "date": "2026-07-31T15:36:38.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "Predicting the 5 biggest GTA 6 reveals that we should see in the next 100 days",
-      "summary": "Gameplay, online and one big surprise: predicting GTA 6's final five reveals",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/predicting-the-5-biggest-gta-6-reveals-that-we-should-see-in-the-next-100-days/",
-      "date": "2026-07-31T15:36:23.000Z"
     },
     {
       "lead": false,
