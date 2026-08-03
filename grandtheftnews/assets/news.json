@@ -1,9 +1,17 @@
 {
-  "updated": "2026-08-03T19:47:37.363Z",
-  "count": 11,
+  "updated": "2026-08-03T22:13:24.377Z",
+  "count": 12,
   "items": [
     {
       "lead": true,
+      "src": "GamesRadar",
+      "title": "\"I wouldn't have time to make the game while playing GTA 6,\" says Danganronpa creator, so obviously he delayed his new game",
+      "summary": "\"It was inevitable that we moved the release time\"",
+      "url": "https://www.gamesradar.com/games/i-wouldnt-have-time-to-make-the-game-while-playing-gta-6-says-danganronpa-creator-so-obviously-he-delayed-his-new-game/",
+      "date": "2026-08-03T21:04:06.000Z"
+    },
+    {
+      "lead": false,
       "src": "IGN",
       "title": "Rockstar Games Killed Midnight Club 5 Because It Wasn't as Big as GTA, Ex-Designer Claims",
       "summary": "An ex-Rockstar Games designer claims that the studio killed the Midnight Club franchise as it wasn't as big as Grand Theft Auto.",
