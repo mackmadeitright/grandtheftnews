@@ -1,9 +1,17 @@
 {
-  "updated": "2026-08-03T15:07:48.440Z",
-  "count": 12,
+  "updated": "2026-08-03T19:47:37.363Z",
+  "count": 11,
   "items": [
     {
       "lead": true,
+      "src": "IGN",
+      "title": "Rockstar Games Killed Midnight Club 5 Because It Wasn't as Big as GTA, Ex-Designer Claims",
+      "summary": "An ex-Rockstar Games designer claims that the studio killed the Midnight Club franchise as it wasn't as big as Grand Theft Auto.",
+      "url": "https://www.ign.com/articles/rockstar-games-killed-midnight-club-5-because-it-wasnt-as-big-as-gta-ex-designer-claims",
+      "date": "2026-08-03T16:51:43.000Z"
+    },
+    {
+      "lead": false,
       "src": "GameSpot",
       "title": "The Last Of Us Co-Director Asks Why You Even Care About GTA 6, And The Internet Has Thoughts",
       "summary": "Bruce Straley, the Naughty Dog veteran who worked on the Jak, Uncharted, and The Last of Us franchises before leaving to start his own studio, is asking his followers why they are excited for GTA 6 . Posting on social media, Straley said he's asking this question out of genuine curiosity, and not simply to stir the…",
@@ -52,14 +60,6 @@
     },
     {
       "lead": false,
-      "src": "IGN",
-      "title": "The Legend of Zelda: Ocarina of Time Remake Will Launch Head-to-Head With GTA 6 in November, Nintendo Fans Believe, After Amiibo Release Date Revealed",
-      "summary": "Nintendo will launch its The Legend of Zelda: Ocarina of Time Switch 2 remake head-to-head with GTA 6 in November, fans believe.",
-      "url": "https://www.ign.com/articles/the-legend-of-zelda-ocarina-of-time-remake-will-launch-head-to-head-with-gta-6-in-november-nintendo-fans-believe-after-amiibo-release-date-revealed",
-      "date": "2026-07-31T09:08:51.000Z"
-    },
-    {
-      "lead": false,
       "src": "Eurogamer",
       "title": "GTA 6 news coming in August, leaker says, as more evidence points to the game's official website getting a backend update",
       "summary": "It looks like we're getting some sort of Grand Theft Auto 6 news very soon, according to one insider and some convenient circumstantial evidence. NateTheHate, a reliable industry insider, was asked about the highly-anticipated game as part of a recent Q&A on X. Read more",
@@ -89,14 +89,6 @@
       "summary": "When Grand Theft Auto 6 pre-orders initially went live a little over a month ago, a number of retailers posted conflicting messages about which countries and regions the controversial code-in-the-box download code is actually going to work. Read more",
       "url": "https://www.eurogamer.net/gta-6-region-locked-codes-ps5-japan-expiry-date",
       "date": "2026-07-27T08:23:10.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Eurogamer",
-      "title": "As layoff controversy continues, Rockstar union has 'more members than ever before', meaning it could force mandatory recognition",
-      "summary": "The Rockstar Game Workers Union (RGWU), which was formed earlier this year in response to the Grand Theft Auto 6 developer's massively controversial job cuts , now has \"more members than it ever had before\". Read more",
-      "url": "https://www.eurogamer.net/rockstar-developer-union-more-members-layoffs",
-      "date": "2026-07-23T16:37:40.000Z"
     }
   ]
 }
