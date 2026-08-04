@@ -1,9 +1,17 @@
 {
-  "updated": "2026-08-04T16:58:25.532Z",
-  "count": 9,
+  "updated": "2026-08-04T19:46:37.157Z",
+  "count": 10,
   "items": [
     {
       "lead": true,
+      "src": "Polygon",
+      "title": "'Grand Theft Auto 6' Is to Blame for 'Danganronpa 2x2's Delay, but Not for the Reason You Think",
+      "summary": "A developer on Spike Chunsoft's remake of the cult mystery visual novel says the game was delayed so he could play the next Grand Theft Auto",
+      "url": "https://www.polygon.com/danganronpa-2x2-writer-delayed-game-to-play-grand-theft-auto-6/",
+      "date": "2026-08-04T19:16:44.000Z"
+    },
+    {
+      "lead": false,
       "src": "GamesRadar",
       "title": "\"I wouldn't have time to make the game while playing GTA 6,\" says Danganronpa creator, so obviously he delayed his new game",
       "summary": "\"It was inevitable that we moved the release time\"",
