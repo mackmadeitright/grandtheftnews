@@ -1,9 +1,25 @@
 {
-  "updated": "2026-08-05T16:46:30.887Z",
-  "count": 6,
+  "updated": "2026-08-05T19:46:19.833Z",
+  "count": 8,
   "items": [
     {
       "lead": true,
+      "src": "PC Gamer",
+      "title": "Grand Theft Auto 6 publisher is holding an investors call at a very unusual time this week",
+      "summary": "What could it mean?",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/grand-theft-auto-6-publisher-is-holding-an-investors-call-at-a-very-unusual-time-this-week/",
+      "date": "2026-08-05T19:20:04.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Kotaku",
+      "title": "GTA 5 Actor Says He Auditioned For Over 60 Roles In GTA 6 But Rockstar Ignored Him",
+      "summary": "'There’s definitely some disappointment and resentment,' said actor Robert Bogue",
+      "url": "https://kotaku.com/gta-5-actor-says-he-auditioned-for-over-60-roles-in-gta-6-but-rockstar-ignored-him-2000721936",
+      "date": "2026-08-05T16:45:20.000Z"
+    },
+    {
+      "lead": false,
       "src": "GameSpot",
       "title": "Why People Think GTA 6 News Is Coming Imminently",
       "summary": "Rockstar owner Take-Two will release its next earnings report on August 7, but instead of coming after the market closes at 4 PM ET, the report is being released before it opens that day at 9:30 AM ET. Another unusual element is that the report is coming on a Friday. What does it all mean? We don't know for sure, bu…",
