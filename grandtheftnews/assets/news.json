@@ -1,9 +1,17 @@
 {
-  "updated": "2026-08-05T19:46:19.833Z",
-  "count": 8,
+  "updated": "2026-08-05T22:16:44.107Z",
+  "count": 9,
   "items": [
     {
       "lead": true,
+      "src": "IGN",
+      "title": "GTA 5 Actor Auditioned for 60 Roles in GTA 6, But Heard Nothing from Rockstar",
+      "summary": "Actor Robert Bogue, who played FIB agent Steve Haines in Grand Theft Auto 5, says he auditioned for 60 roles in GTA 6, but he was ultimately ignored by Rockstar Games.",
+      "url": "https://www.ign.com/articles/gta-5-actor-auditioned-for-60-roles-in-gta-6-but-heard-nothing-from-rockstar",
+      "date": "2026-08-05T22:00:09.000Z"
+    },
+    {
+      "lead": false,
       "src": "PC Gamer",
       "title": "Grand Theft Auto 6 publisher is holding an investors call at a very unusual time this week",
       "summary": "What could it mean?",
