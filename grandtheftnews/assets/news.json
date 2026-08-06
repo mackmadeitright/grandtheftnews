@@ -1,9 +1,17 @@
 {
-  "updated": "2026-08-06T08:49:04.616Z",
+  "updated": "2026-08-06T11:29:02.728Z",
   "count": 10,
   "items": [
     {
       "lead": true,
+      "src": "GamesRadar",
+      "title": "Another GTA 6 delay \"would not\" shock a former GTA 5 dev who says it wouldn't \"hurt\" Rockstar at all",
+      "summary": "If something needs to change, then things could move",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/another-gta-6-delay-would-not-shock-a-former-gta-5-dev-who-says-it-wouldnt-hurt-rockstar-at-all/",
+      "date": "2026-08-06T10:36:57.000Z"
+    },
+    {
+      "lead": false,
       "src": "PC Gamer",
       "title": "What happens after GTA 6?",
       "summary": "With the industry in flux, will Rockstar's big one create more chaos or calm things down? Probably neither.",
@@ -73,14 +81,6 @@
       "summary": "As Grand Theft Auto 6 inches towards its November release date and people grow anxious for a proper gameplay trailer, GTA 6 AI slop is raking in millions of views on social media. Read more",
       "url": "https://www.eurogamer.net/grand-theft-auto-6-ai-slop",
       "date": "2026-07-27T13:57:55.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Eurogamer",
-      "title": "Rockstar clarifies which GTA 6 pre-order download codes are going to be region-locked, and how that is going to affect the game in your country",
-      "summary": "When Grand Theft Auto 6 pre-orders initially went live a little over a month ago, a number of retailers posted conflicting messages about which countries and regions the controversial code-in-the-box download code is actually going to work. Read more",
-      "url": "https://www.eurogamer.net/gta-6-region-locked-codes-ps5-japan-expiry-date",
-      "date": "2026-07-27T08:23:10.000Z"
     }
   ]
 }
