@@ -1,9 +1,65 @@
 {
-  "updated": "2026-08-06T11:29:02.728Z",
-  "count": 10,
+  "updated": "2026-08-06T14:29:15.505Z",
+  "count": 16,
   "items": [
     {
       "lead": true,
+      "src": "PC Gamer",
+      "title": "The first GTA 6 gameplay reveal will debut on Netflix later this month, as the streaming service tries yet again to get a piece of that videogame pie",
+      "summary": "Huh. Okay then.",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/the-first-gta-6-gameplay-reveal-will-debut-on-netflix-later-this-month-as-the-streaming-service-tries-yet-again-to-get-a-piece-of-that-videogame-pie/",
+      "date": "2026-08-06T13:20:21.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Polygon",
+      "title": "Rockstar Games announces GTA 6 extended trailer premiere on Netflix",
+      "summary": "Players can get a great peek at the world of Grand Theft Auto 6 later this month by tuning into the GTA 6: An Extended Look experience on Netflix.",
+      "url": "https://www.polygon.com/gta-6-extended-look-trailer-3-netflix-rockstar-games/",
+      "date": "2026-08-06T13:01:47.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Kotaku",
+      "title": "GTA 6 ‘Extended Look’ Will Premiere Exclusively On Netflix As Fans Beg For Trailer 3",
+      "summary": "Rockstar Games announced a 'first-of-its-kind partnership to premiere' new gameplay",
+      "url": "https://kotaku.com/gta-6-extended-look-will-premier-exclusively-on-netflix-as-fans-beg-for-trailer-3-2000722148",
+      "date": "2026-08-06T12:21:05.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Eurogamer",
+      "title": "We're getting an \"extended look\" at Grand Theft Auto 6 on 27th August",
+      "summary": "Rockstar Games and Take Two have announced that an \"extended look\" trailer for Grand Theft Auto 6 will premiere first on Netflix on Thursday, the 27th August, at 3pm ET (8pm BST). Read more",
+      "url": "https://www.eurogamer.net/gta-6-extended-look-trailer-netflix-announcement",
+      "date": "2026-08-06T12:13:50.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "GTA 6 gets an \"extended look\" later this month as Rockstar finally throws a bone to fans who have waited over a year for Trailer 3",
+      "summary": "You can watch the next look at GTA 6 hours earlier if you have Netflix",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-gets-an-extended-look-later-this-month-as-rockstar-finally-throws-a-bone-to-fans-who-have-waited-over-a-year-for-trailer-2/",
+      "date": "2026-08-06T12:10:27.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GameSpot",
+      "title": "GTA 6 “Extended Look” Trailer Coming August 27 On Netflix, New Artwork Released",
+      "summary": "Rockstar Games will provide an \"extended look\" at GTA 6 on August 27, and it'll air on Netflix. The video will be released on Netflix at 3 PM ET and it will later be posted on Rockstar's own YouTube channel at 9 PM ET that day. Rockstar has worked with Netflix before, as the company brought multiple games to the Net…",
+      "url": "https://www.gamespot.com/articles/gta-6-extended-look-coming-august-27-on-netflix/",
+      "date": "2026-08-06T12:07:18.000Z"
+    },
+    {
+      "lead": false,
+      "src": "IGN",
+      "title": "Grand Theft Auto 6: An Extended Look Premieres on Netflix This Month, Rockstar Confirms",
+      "summary": "Rockstar has announced that a special Grand Theft Auto 6: An Extended Look will premiere on Netflix later this month.",
+      "url": "https://www.ign.com/articles/grand-theft-auto-6-an-extended-look-premieres-on-netflix-this-month-rockstar-confirms",
+      "date": "2026-08-06T12:02:49.000Z"
+    },
+    {
+      "lead": false,
       "src": "GamesRadar",
       "title": "Another GTA 6 delay \"would not\" shock a former GTA 5 dev who says it wouldn't \"hurt\" Rockstar at all",
       "summary": "If something needs to change, then things could move",
@@ -73,14 +129,6 @@
       "summary": "Rockstar Games co-founder Dan Houser and longtime Rockstar writer Lazlow Jones have chipped in on the physical video games debate. Read more",
       "url": "https://www.eurogamer.net/dan-houser-rockstar-physical-games-gta",
       "date": "2026-07-27T16:01:25.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Eurogamer",
-      "title": "As Grand Theft Auto 6 hopefuls grow anxious for a gameplay trailer, AI GTA 6 slop is getting millions of views on social media",
-      "summary": "As Grand Theft Auto 6 inches towards its November release date and people grow anxious for a proper gameplay trailer, GTA 6 AI slop is raking in millions of views on social media. Read more",
-      "url": "https://www.eurogamer.net/grand-theft-auto-6-ai-slop",
-      "date": "2026-07-27T13:57:55.000Z"
     }
   ]
 }
