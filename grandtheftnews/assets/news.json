@@ -1,9 +1,57 @@
 {
-  "updated": "2026-08-07T16:01:10.097Z",
+  "updated": "2026-08-07T19:06:44.506Z",
   "count": 24,
   "items": [
     {
       "lead": true,
+      "src": "Polygon",
+      "title": "Grand Theft Auto 6 Parent Company Doubles Down on No Physical Edition, Calls Digital ‘Much More Convenient'",
+      "summary": "Take-Two's CEO says physical discs don't make sense for big games like GTA6, reveals game sales are already over 90% digital",
+      "url": "https://www.polygon.com/grand-theft-auto-6-no-physical-disc-take-two-earnings-call-digital-games/",
+      "date": "2026-08-07T18:59:12.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GameSpot",
+      "title": "AI Tools Aren’t Going To Replace Anyone, Says GTA 6 Publisher Boss",
+      "summary": "During the latest investment call for Grand Theft Auto 6 's parent company, Take-Two Interactive, CEO Strauss Zelnick weighed in on the future of AI in game development. While Zelnick acknowledges that even his company will utilize AI, he reiterated his belief that the emerging technology won't replace anyone. \"Thos…",
+      "url": "https://www.gamespot.com/articles/ai-tools-arent-going-to-replace-anyone-says-gta-6-publisher-boss/",
+      "date": "2026-08-07T18:35:00.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Kotaku",
+      "title": "10 Things We Still Don’t Know About GTA 6 That Could Be Revealed In Netflix’s Extended Look",
+      "summary": "How will guns work in GTA 6? Will the game run at 60FPS? Will these questions be answered in the upcoming reveal?",
+      "url": "https://kotaku.com/10-things-we-still-dont-know-about-gta-6-that-could-be-revealed-in-netflixs-extended-look-2000722519",
+      "date": "2026-08-07T18:34:17.000Z"
+    },
+    {
+      "lead": false,
+      "src": "IGN",
+      "title": "Take-Two Boss Predicts Actual Good Video Game Streaming Within 3 Years, Says for Streaming to Matter It Would Have to Run GTA 6 as Well as Consoles",
+      "summary": "The boss of Take-Two has suggested the video game industry will be in “commercial streaming mode” within three years — but for video game streaming to matter, it will have to run GTA 6 just as well as consoles do.",
+      "url": "https://www.ign.com/articles/take-two-boss-predicts-actual-good-video-game-streaming-within-3-years-says-for-streaming-to-matter-it-would-have-to-run-gta-6-as-well-as-consoles",
+      "date": "2026-08-07T16:28:27.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Eurogamer",
+      "title": "Take-Two boss \"not in the least\" concerned bad press around Rockstar's employment tribunal will affect GTA 6 launch",
+      "summary": "Take-Two boss Strauss Zelnick, who heads the company Rockstar belongs to, has said he's \"not in the least\" concerned that bad press over alleged union-busting will affect the launch of Grand Theft Auto 6 . Read more",
+      "url": "https://www.eurogamer.net/take-two-strauss-zelnick-not-concerned-rockstar-union-busting-gta-6",
+      "date": "2026-08-07T16:22:27.000Z"
+    },
+    {
+      "lead": false,
+      "src": "IGN",
+      "title": "Take-Two CEO Strauss Zelnick Won't Rule Out GTA 6 on Disc at Some Point, Insists Decision Had Nothing to Do With Concern Over Leaks",
+      "summary": "One of the big questions following the shock decision not to release GTA 6 on-disc at launch is whether Rockstar will ever release a disc version of the game. In a new interview with IGN, Strauss Zelnick, boss of Rockstar parent company Take-Two, refused to rule it out.",
+      "url": "https://www.ign.com/articles/take-two-ceo-strauss-zelnick-wont-rule-out-gta-6-on-disc-at-some-point-insists-decision-had-nothing-to-do-with-concern-over-leaks",
+      "date": "2026-08-07T15:14:21.000Z"
+    },
+    {
+      "lead": false,
       "src": "GameSpot",
       "title": "Why GTA 6 Doesn’t Have Early Access, According To Take-Two",
       "summary": "Take-Two Interactive's quarterly earnings call had plenty of new information about GTA 6 , including why the game won't have an early access perk. Speaking to investors, CEO Strauss Zelnick was also asked why Take-Two Interactive is selling fewer special versions of GTA 6--so far only the $80 standard and $100 ultim…",
@@ -145,54 +193,6 @@
       "summary": "Everything you need to know to get ready to tune into the Netflix GTA 6 extended look",
       "url": "https://www.gamesradar.com/how-to-watch-the-gta-6-extended-look-netflix/",
       "date": "2026-08-07T08:27:32.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GameSpot",
-      "title": "GTA 6 Trailer Being Paywalled Behind Netflix Is Upsetting A Lot Of People, But It’s A Sign Of The Times",
-      "summary": "Out of nowhere, Rockstar and Netflix announced today that an \"extended look\" at GTA 6 will be available on the streaming platform on August 27. People have been clamoring for a new look at the game, given that it's been more than a year since Trailer 2, but few could have expected the next look at GTA 6 to come via…",
-      "url": "https://www.gamespot.com/articles/gta-6-being-paywalled-behind-netflix-is-upsetting-a-lot-of-people-but-its-a-sign-of-the-times/",
-      "date": "2026-08-06T19:56:53.000Z"
-    },
-    {
-      "lead": false,
-      "src": "IGN",
-      "title": "'This Is Unbelievably Scummy' - GTA 6 Fans Are Annoyed By Netflix's Paywalled Extended Look at the Game",
-      "summary": "Grand Theft Auto 6 fans aren't thrilled with Rockstar's decision to release the next look at the game through Netflix.",
-      "url": "https://www.ign.com/articles/this-is-unbelievably-scummy-gta-6-fans-are-annoyed-by-netflixs-paywalled-extended-look-at-the-game",
-      "date": "2026-08-06T18:20:54.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "Even as Spider-Man: Brand New Day shatters records, Rockstar's Netflix deal proves GTA 6 can still claim the ultimate entertainment crown",
-      "summary": "Netflix getting six hours of exclusivity on the biggest GTA reveal in a decade is a sign",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/even-as-spider-man-brand-new-day-shatters-records-rockstars-netflix-deal-proves-gta-6-can-still-claim-the-ultimate-entertainment-crown/",
-      "date": "2026-08-06T18:00:30.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Kotaku",
-      "title": "WWE Trying To Trademark ‘Vice City’ Just Months Before GTA 6′s Big Launch",
-      "summary": "The odd move is likely connected to wrestler Lola Vice",
-      "url": "https://kotaku.com/wwe-trying-to-trademark-vice-city-just-months-before-gta-6s-big-launch-2000722220",
-      "date": "2026-08-06T16:40:07.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Kotaku",
-      "title": "What To Expect From GTA 6′s Big Netflix Reveal: Narrated Gameplay And No Delay Announcement",
-      "summary": "Don't expect some 30-minute in-depth presentation, but this will likely be different than the past GTA 6 trailers",
-      "url": "https://kotaku.com/what-to-expect-from-gta-6s-big-netflix-reveal-narrated-gameplay-and-no-delay-announcemnet-2000722204",
-      "date": "2026-08-06T15:45:26.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GameSpot",
-      "title": "Another GTA 6 Delay Would Not Be Surprising, Former Rockstar Dev Says",
-      "summary": "A developer who worked on Grand Theft Auto 5 has said he \"would not be shocked at all\" if Rockstar decides to delay GTA 6 yet again. Speaking to Indy100 , Mike York said based on his previous experience working at Rockstar, he believes \"they could delay it again.\" GTA 6 releases on November 19, unless it gets delaye…",
-      "url": "https://www.gamespot.com/articles/another-gta-6-delay-would-not-be-surprising-former-rockstar-dev-says/",
-      "date": "2026-08-06T15:12:31.000Z"
     }
   ]
 }
