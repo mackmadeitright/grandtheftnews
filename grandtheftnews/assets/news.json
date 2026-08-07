@@ -1,9 +1,25 @@
 {
-  "updated": "2026-08-07T10:05:58.494Z",
+  "updated": "2026-08-07T13:20:02.108Z",
   "count": 21,
   "items": [
     {
       "lead": true,
+      "src": "GameSpot",
+      "title": "GTA 6 Has Not Been Delayed, Still On Track For Its November Launch",
+      "summary": "GTA 6 is still on track to launch for PS5 and Xbox Series X|S on November 19, Take-Two Interactive has confirmed. As part of the publisher's quarterly briefing, Take-Two provided updates on several of its projects, including Rockstar Games' long-simmering open-world game--and the rosy financial outlook that the comp…",
+      "url": "https://www.gamespot.com/articles/gta-6-has-not-been-delayed-still-on-track-for-its-november-launch/",
+      "date": "2026-08-07T12:04:42.000Z"
+    },
+    {
+      "lead": false,
+      "src": "IGN",
+      "title": "Rockstar Owner Take-Two Confirms GTA 6 Release Date Still on Track, Says 'GTA 6: An Extended Look' Will Help Grow 'Consumers' Passion and Anticipation'",
+      "summary": "Rockstar owner Take-Two has confirmed the current November 19 GTA 6 release date is still on track, and insisted the upcoming Grand Theft Auto VI: An Extended Look will help grow “consumers’ passion and anticipation\" for the game.",
+      "url": "https://www.ign.com/articles/rockstar-owner-take-two-confirms-gta-6-release-date-still-on-track-says-gta-6-an-extended-look-will-help-grow-consumers-passion-and-anticipation",
+      "date": "2026-08-07T11:30:00.000Z"
+    },
+    {
+      "lead": false,
       "src": "GamesRadar",
       "title": "How to watch the GTA 6 extended look: Netflix streaming release date and times",
       "summary": "Everything you need to know to get ready to tune into the Netflix GTA 6 extended look",
@@ -92,14 +108,6 @@
     },
     {
       "lead": false,
-      "src": "GamesRadar",
-      "title": "GTA 6 gets an \"extended look\" later this month as Rockstar finally throws a bone to fans who have waited over a year for Trailer 3",
-      "summary": "You can watch the next look at GTA 6 hours earlier if you have Netflix",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-gets-an-extended-look-later-this-month-as-rockstar-finally-throws-a-bone-to-fans-who-have-waited-over-a-year-for-trailer-2/",
-      "date": "2026-08-06T12:10:27.000Z"
-    },
-    {
-      "lead": false,
       "src": "GameSpot",
       "title": "GTA 6 “Extended Look” Trailer Coming August 27 On Netflix, New Artwork Released",
       "summary": "Rockstar Games will provide an \"extended look\" at GTA 6 on August 27, and it'll air on Netflix. The video will be released on Netflix at 3 PM ET and it will later be posted on Rockstar's own YouTube channel at 9 PM ET that day. Rockstar has worked with Netflix before, as the company brought multiple games to the Net…",
@@ -113,14 +121,6 @@
       "summary": "Rockstar has announced that a special Grand Theft Auto 6: An Extended Look will premiere on Netflix later this month.",
       "url": "https://www.ign.com/articles/grand-theft-auto-6-an-extended-look-premieres-on-netflix-this-month-rockstar-confirms",
       "date": "2026-08-06T12:02:49.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "Another GTA 6 delay \"would not\" shock a former GTA 5 dev who says it wouldn't \"hurt\" Rockstar at all",
-      "summary": "If something needs to change, then things could move",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/another-gta-6-delay-would-not-shock-a-former-gta-5-dev-who-says-it-wouldnt-hurt-rockstar-at-all/",
-      "date": "2026-08-06T10:36:57.000Z"
     },
     {
       "lead": false,
