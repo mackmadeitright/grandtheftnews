@@ -1,22 +1,70 @@
 {
-  "updated": "2026-08-06T14:29:15.505Z",
-  "count": 16,
+  "updated": "2026-08-07T00:09:27.506Z",
+  "count": 21,
   "items": [
     {
       "lead": true,
+      "src": "GameSpot",
+      "title": "GTA 6 Trailer Being Paywalled Behind Netflix Is Upsetting A Lot Of People, But It’s A Sign Of The Times",
+      "summary": "Out of nowhere, Rockstar and Netflix announced today that an \"extended look\" at GTA 6 will be available on the streaming platform on August 27. People have been clamoring for a new look at the game, given that it's been more than a year since Trailer 2, but few could have expected the next look at GTA 6 to come via…",
+      "url": "https://www.gamespot.com/articles/gta-6-being-paywalled-behind-netflix-is-upsetting-a-lot-of-people-but-its-a-sign-of-the-times/",
+      "date": "2026-08-06T19:56:53.000Z"
+    },
+    {
+      "lead": false,
+      "src": "IGN",
+      "title": "'This Is Unbelievably Scummy' - GTA 6 Fans Are Annoyed By Netflix's Paywalled Extended Look at the Game",
+      "summary": "Grand Theft Auto 6 fans aren't thrilled with Rockstar's decision to release the next look at the game through Netflix.",
+      "url": "https://www.ign.com/articles/this-is-unbelievably-scummy-gta-6-fans-are-annoyed-by-netflixs-paywalled-extended-look-at-the-game",
+      "date": "2026-08-06T18:20:54.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "Even as Spider-Man: Brand New Day shatters records, Rockstar's Netflix deal proves GTA 6 can still claim the ultimate entertainment crown",
+      "summary": "Netflix getting six hours of exclusivity on the biggest GTA reveal in a decade is a sign",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/even-as-spider-man-brand-new-day-shatters-records-rockstars-netflix-deal-proves-gta-6-can-still-claim-the-ultimate-entertainment-crown/",
+      "date": "2026-08-06T18:00:30.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Kotaku",
+      "title": "WWE Trying To Trademark ‘Vice City’ Just Months Before GTA 6′s Big Launch",
+      "summary": "The odd move is likely connected to wrestler Lola Vice",
+      "url": "https://kotaku.com/wwe-trying-to-trademark-vice-city-just-months-before-gta-6s-big-launch-2000722220",
+      "date": "2026-08-06T16:40:07.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Kotaku",
+      "title": "What To Expect From GTA 6′s Big Netflix Reveal: Narrated Gameplay And No Delay Announcement",
+      "summary": "Don't expect some 30-minute in-depth presentation, but this will likely be different than the past GTA 6 trailers",
+      "url": "https://kotaku.com/what-to-expect-from-gta-6s-big-netflix-reveal-narrated-gameplay-and-no-delay-announcemnet-2000722204",
+      "date": "2026-08-06T15:45:26.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GameSpot",
+      "title": "Another GTA 6 Delay Would Not Be Surprising, Former Rockstar Dev Says",
+      "summary": "A developer who worked on Grand Theft Auto 5 has said he \"would not be shocked at all\" if Rockstar decides to delay GTA 6 yet again. Speaking to Indy100 , Mike York said based on his previous experience working at Rockstar, he believes \"they could delay it again.\" GTA 6 releases on November 19, unless it gets delaye…",
+      "url": "https://www.gamespot.com/articles/another-gta-6-delay-would-not-be-surprising-former-rockstar-dev-says/",
+      "date": "2026-08-06T15:12:31.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "GTA 6 Extended Look being a 6-hour Netflix exclusive is going down just as well as you can imagine: \"Weirdest marketing I've ever seen\"",
+      "summary": "\"A trailer for a trailer?\"",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-extended-look-being-a-6-hour-netflix-exclusive-is-going-down-just-as-well-as-you-can-imagine-weirdest-marketing-ive-ever-seen/",
+      "date": "2026-08-06T14:54:51.000Z"
+    },
+    {
+      "lead": false,
       "src": "PC Gamer",
       "title": "The first GTA 6 gameplay reveal will debut on Netflix later this month, as the streaming service tries yet again to get a piece of that videogame pie",
       "summary": "Huh. Okay then.",
       "url": "https://www.pcgamer.com/games/grand-theft-auto/the-first-gta-6-gameplay-reveal-will-debut-on-netflix-later-this-month-as-the-streaming-service-tries-yet-again-to-get-a-piece-of-that-videogame-pie/",
       "date": "2026-08-06T13:20:21.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Polygon",
-      "title": "Rockstar Games announces GTA 6 extended trailer premiere on Netflix",
-      "summary": "Players can get a great peek at the world of Grand Theft Auto 6 later this month by tuning into the GTA 6: An Extended Look experience on Netflix.",
-      "url": "https://www.polygon.com/gta-6-extended-look-trailer-3-netflix-rockstar-games/",
-      "date": "2026-08-06T13:01:47.000Z"
     },
     {
       "lead": false,
@@ -89,14 +137,6 @@
       "summary": "What could it mean?",
       "url": "https://www.pcgamer.com/games/grand-theft-auto/grand-theft-auto-6-publisher-is-holding-an-investors-call-at-a-very-unusual-time-this-week/",
       "date": "2026-08-05T19:20:04.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Kotaku",
-      "title": "GTA 5 Actor Says He Auditioned For Over 60 Roles In GTA 6 But Rockstar Ignored Him",
-      "summary": "'There’s definitely some disappointment and resentment,' said actor Robert Bogue",
-      "url": "https://kotaku.com/gta-5-actor-says-he-auditioned-for-over-60-roles-in-gta-6-but-rockstar-ignored-him-2000721936",
-      "date": "2026-08-05T16:45:20.000Z"
     },
     {
       "lead": false,
