@@ -1,9 +1,25 @@
 {
-  "updated": "2026-08-07T21:48:09.086Z",
+  "updated": "2026-08-08T02:07:29.836Z",
   "count": 24,
   "items": [
     {
       "lead": true,
+      "src": "PC Gamer",
+      "title": "GTA 6's Netflix deal forces us to ask: can you pirate an advertisement?",
+      "summary": "Just when you thought videogame marketing couldn't get sillier, people are going to wind up stealing a trailer.",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6s-netflix-deal-forces-us-to-ask-can-you-pirate-an-advertisement/",
+      "date": "2026-08-07T23:52:49.000Z"
+    },
+    {
+      "lead": false,
+      "src": "PC Gamer",
+      "title": "Even with an $80 price tag, 'Grand Theft Auto 6 will be an incredible bargain,' Take-Two boss says",
+      "summary": "Strauss Zelnick reckons that the quality of the experience will more than justify the price.",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/even-with-an-usd80-price-tag-grand-theft-auto-6-will-be-an-incredible-bargain-take-two-boss-says/",
+      "date": "2026-08-07T21:54:24.000Z"
+    },
+    {
+      "lead": false,
       "src": "GameSpot",
       "title": "AI Tools Aren’t Going To Replace Anyone, Says GTA 6 Publisher Boss",
       "summary": "During the latest investment call for Grand Theft Auto 6 's parent company, Take-Two Interactive, CEO Strauss Zelnick weighed in on the future of AI in game development. While Zelnick acknowledges that even his company will utilize AI, he reiterated his belief that the emerging technology won't replace anyone. \"Thos…",
@@ -177,22 +193,6 @@
       "summary": "Rockstar owner Take-Two has confirmed the current November 19 GTA 6 release date is still on track, and insisted the upcoming Grand Theft Auto VI: An Extended Look will help grow “consumers’ passion and anticipation\" for the game.",
       "url": "https://www.ign.com/articles/rockstar-owner-take-two-confirms-gta-6-release-date-still-on-track-says-gta-6-an-extended-look-will-help-grow-consumers-passion-and-anticipation",
       "date": "2026-08-07T11:30:00.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "How to watch the GTA 6 extended look: Netflix streaming release date and times",
-      "summary": "Everything you need to know to get ready to tune into the Netflix GTA 6 extended look",
-      "url": "https://www.gamesradar.com/how-to-watch-the-gta-6-extended-look-netflix/",
-      "date": "2026-08-07T08:27:32.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GameSpot",
-      "title": "GTA 6 Trailer Being Paywalled Behind Netflix Is Upsetting A Lot Of People, But It’s A Sign Of The Times",
-      "summary": "Out of nowhere, Rockstar and Netflix announced today that an \"extended look\" at GTA 6 will be available on the streaming platform on August 27. People have been clamoring for a new look at the game, given that it's been more than a year since Trailer 2, but few could have expected the next look at GTA 6 to come via…",
-      "url": "https://www.gamespot.com/articles/gta-6-being-paywalled-behind-netflix-is-upsetting-a-lot-of-people-but-its-a-sign-of-the-times/",
-      "date": "2026-08-06T19:56:53.000Z"
     }
   ]
 }
