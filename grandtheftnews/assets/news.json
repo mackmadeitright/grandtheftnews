@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-08T18:50:01.504Z",
+  "updated": "2026-08-08T21:37:50.143Z",
   "count": 24,
   "items": [
     {
@@ -140,14 +140,6 @@
     },
     {
       "lead": false,
-      "src": "Kotaku",
-      "title": "Here’s Why GTA 6 Is $80, But NBA 2K27 Is Only $70",
-      "summary": "'Given the hype around this title, I think we could have made any number of other pricing choices,' said Strauss Zelnick",
-      "url": "https://kotaku.com/gta-6-grand-theft-auto-price-80-70-nba-2k27-take-two-2k-strauss-zelnick-2000722431",
-      "date": "2026-08-07T13:34:03.000Z"
-    },
-    {
-      "lead": false,
       "src": "Eurogamer",
       "title": "As GTA 6 publisher Take-Two revises its 2027 net bookings up to $8.2bn, Strauss Zelnick confirms its sales are \"well over 90% digital\"",
       "summary": "Take-Two's latest financials are in, and they come with a few surprises. First off, Take-Two CEO Strauss Zelnick has confirmed that the publisher's sales are mostly digital, in response to Sony's controversial decision to stop manufacturing physical disc-based games . \"Our business is well over 90% digitally distrib…",
@@ -193,6 +185,14 @@
       "summary": "GTA 6 is still on track to launch for PS5 and Xbox Series X|S on November 19, Take-Two Interactive has confirmed. As part of the publisher's quarterly briefing, Take-Two provided updates on several of its projects, including Rockstar Games' long-simmering open-world game--and the rosy financial outlook that the comp…",
       "url": "https://www.gamespot.com/articles/gta-6-has-not-been-delayed-still-on-track-for-its-november-launch/",
       "date": "2026-08-07T12:04:42.000Z"
+    },
+    {
+      "lead": false,
+      "src": "IGN",
+      "title": "Rockstar Owner Take-Two Confirms GTA 6 Release Date Still on Track, Says 'GTA 6: An Extended Look' Will Help Grow 'Consumers' Passion and Anticipation'",
+      "summary": "Rockstar owner Take-Two has confirmed the current November 19 GTA 6 release date is still on track, and insisted the upcoming Grand Theft Auto VI: An Extended Look will help grow “consumers’ passion and anticipation\" for the game.",
+      "url": "https://www.ign.com/articles/rockstar-owner-take-two-confirms-gta-6-release-date-still-on-track-says-gta-6-an-extended-look-will-help-grow-consumers-passion-and-anticipation",
+      "date": "2026-08-07T11:30:00.000Z"
     }
   ]
 }
