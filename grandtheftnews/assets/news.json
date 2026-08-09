@@ -1,9 +1,17 @@
 {
-  "updated": "2026-08-09T13:06:19.788Z",
+  "updated": "2026-08-09T15:38:36.850Z",
   "count": 24,
   "items": [
     {
       "lead": true,
+      "src": "Kotaku",
+      "title": "Rising Cost Of PS5 And Xbox Is ‘Not A Good Thing,’ Says Take-Two CEO, But He Doesn’t Think It Will Hurt GTA 6",
+      "summary": "The publisher expects launch to go as planned despite the repercussions of the AI boom",
+      "url": "https://kotaku.com/rising-cost-of-ps5-and-xbox-is-not-a-good-thing-says-take-two-ceo-but-he-doesnt-think-it-will-hurt-gta-6-2000722793",
+      "date": "2026-08-09T14:30:12.000Z"
+    },
+    {
+      "lead": false,
       "src": "Polygon",
       "title": "GTA 6’s Netflix Trailer Signals That Rockstar Wants Its Halo Moment",
       "summary": "Rockstar started rolling out the red carpet for Grand Theft Auto 6 with an unusual Netflix partnership that signals Take Two means business.",
@@ -185,14 +193,6 @@
       "summary": "After announcing an extended look at GTA 6 --with a six-hour exclusivity window for Netflix in a first-of-its-kind reveal--Take-Two has said that marketing for the game is incredibly widespread. During the Take-Two earnings call on August 7, CEO Strauss Zelnick said that Netflix is \"a great marketing partner\" for th…",
       "url": "https://www.gamespot.com/articles/gta-6-marketing-is-taking-place-on-virtually-every-social-media-outlet-on-earth/",
       "date": "2026-08-07T13:14:34.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GameSpot",
-      "title": "Unsurprisingly, GTA 6 Has Take-Two Predicting A Massively Profitable Year Ahead",
-      "summary": "With GTA 6 still scheduled to launch in November , publisher Take-Two Interactive is expecting its current financial year--running from April 1 to March 31, 2027--to be very profitable. The company is expecting a 20% growth through the middle of the 2026 financial year, with revenue predicted to reach $8.2 billion t…",
-      "url": "https://www.gamespot.com/articles/unsurprisingly-gta-6-has-take-two-predicting-a-massively-profitable-year-ahead/",
-      "date": "2026-08-07T12:53:35.000Z"
     }
   ]
 }
