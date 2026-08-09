@@ -1,9 +1,25 @@
 {
-  "updated": "2026-08-09T09:48:41.285Z",
+  "updated": "2026-08-09T13:06:19.788Z",
   "count": 24,
   "items": [
     {
       "lead": true,
+      "src": "Polygon",
+      "title": "GTA 6’s Netflix Trailer Signals That Rockstar Wants Its Halo Moment",
+      "summary": "Rockstar started rolling out the red carpet for Grand Theft Auto 6 with an unusual Netflix partnership that signals Take Two means business.",
+      "url": "https://www.polygon.com/gta-6-netflix-patch-notes/",
+      "date": "2026-08-09T12:30:12.000Z"
+    },
+    {
+      "lead": false,
+      "src": "IGN",
+      "title": "'If You're Not a Netflix Subscriber, You Definitely Should Be' — Take-Two Boss Teases Grand Theft Auto VI: An Extended Look",
+      "summary": "Take-Two Boss Strauss Zelnick discusses Grand Theft Auto VI: An Extended Look Netflix reveal.",
+      "url": "https://www.ign.com/articles/if-youre-not-a-netflix-subscriber-you-definitely-should-be-take-two-boss-teases-grand-theft-auto-vi-an-extended-look",
+      "date": "2026-08-09T10:25:54.000Z"
+    },
+    {
+      "lead": false,
       "src": "GamesRadar",
       "title": "As PS5 and Xbox prices endlessly balloon, Take-Two CEO says rising console costs are good for no one, but won't hurt the company as GTA 6 approaches",
       "summary": "\"I don't think it will slow us down any because... we're delivering experiences that people want\"",
@@ -177,22 +193,6 @@
       "summary": "With GTA 6 still scheduled to launch in November , publisher Take-Two Interactive is expecting its current financial year--running from April 1 to March 31, 2027--to be very profitable. The company is expecting a 20% growth through the middle of the 2026 financial year, with revenue predicted to reach $8.2 billion t…",
       "url": "https://www.gamespot.com/articles/unsurprisingly-gta-6-has-take-two-predicting-a-massively-profitable-year-ahead/",
       "date": "2026-08-07T12:53:35.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GameSpot",
-      "title": "GTA 6 Has Not Been Delayed, Still On Track For Its November Launch",
-      "summary": "GTA 6 is still on track to launch for PS5 and Xbox Series X|S on November 19, Take-Two Interactive has confirmed. As part of the publisher's quarterly briefing, Take-Two provided updates on several of its projects, including Rockstar Games' long-simmering open-world game--and the rosy financial outlook that the comp…",
-      "url": "https://www.gamespot.com/articles/gta-6-has-not-been-delayed-still-on-track-for-its-november-launch/",
-      "date": "2026-08-07T12:04:42.000Z"
-    },
-    {
-      "lead": false,
-      "src": "IGN",
-      "title": "Rockstar Owner Take-Two Confirms GTA 6 Release Date Still on Track, Says 'GTA 6: An Extended Look' Will Help Grow 'Consumers' Passion and Anticipation'",
-      "summary": "Rockstar owner Take-Two has confirmed the current November 19 GTA 6 release date is still on track, and insisted the upcoming Grand Theft Auto VI: An Extended Look will help grow “consumers’ passion and anticipation\" for the game.",
-      "url": "https://www.ign.com/articles/rockstar-owner-take-two-confirms-gta-6-release-date-still-on-track-says-gta-6-an-extended-look-will-help-grow-consumers-passion-and-anticipation",
-      "date": "2026-08-07T11:30:00.000Z"
     }
   ]
 }
