@@ -1,9 +1,25 @@
 {
-  "updated": "2026-08-10T19:06:38.077Z",
+  "updated": "2026-08-10T21:50:45.430Z",
   "count": 24,
   "items": [
     {
       "lead": true,
+      "src": "GamesRadar",
+      "title": "As GTA 6 anticipation builds and the games industry buckles, Take-Two boss says \"I don't love winning by attrition, but I'll take it\"",
+      "summary": "\"The people who hate running public companies are the people who hate telling the truth\"",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/as-gta-6-anticipation-builds-and-the-games-industry-buckles-take-two-boss-says-i-dont-love-winning-by-attrition-but-ill-take-it/",
+      "date": "2026-08-10T21:08:00.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "18 AAA games in 8 weeks: With the GTA 6 shadow looming, Gamescom suddenly feels like the most essential gaming event of 2026",
+      "summary": "With the world migrating to Vice City this November, all eyes are on Gamescom 2026 to help us better understand the fall schedule",
+      "url": "https://www.gamesradar.com/games/18-aaa-games-in-8-weeks-with-the-gta-6-shadow-looming-gamescom-suddenly-feels-like-the-most-essential-gaming-event-of-2026/",
+      "date": "2026-08-10T20:50:48.000Z"
+    },
+    {
+      "lead": false,
       "src": "IGN",
       "title": "Grand Theft Auto Players Fundraise $50k for Sick Fan Trying to Make It to GTA 6",
       "summary": "Grand Theft Auto players have rallied behind a sick fan in need of a lung transplant by raising more than $50,000 so he can live long enough to play GTA 6.",
@@ -60,27 +76,11 @@
     },
     {
       "lead": false,
-      "src": "IGN",
-      "title": "'If You're Not a Netflix Subscriber, You Definitely Should Be' — Take-Two Boss Teases Grand Theft Auto VI: An Extended Look",
-      "summary": "Take-Two Boss Strauss Zelnick discusses Grand Theft Auto VI: An Extended Look Netflix reveal.",
-      "url": "https://www.ign.com/articles/if-youre-not-a-netflix-subscriber-you-definitely-should-be-take-two-boss-teases-grand-theft-auto-vi-an-extended-look",
-      "date": "2026-08-09T10:25:54.000Z"
-    },
-    {
-      "lead": false,
       "src": "PC Gamer",
       "title": "GTA 6's Netflix deal forces us to ask: can you pirate an advertisement?",
       "summary": "Just when you thought videogame marketing couldn't get sillier, people are going to wind up stealing a trailer.",
       "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6s-netflix-deal-forces-us-to-ask-can-you-pirate-an-advertisement/",
       "date": "2026-08-07T23:52:49.000Z"
-    },
-    {
-      "lead": false,
-      "src": "PC Gamer",
-      "title": "Even with an $80 price tag, 'Grand Theft Auto 6 will be an incredible bargain,' Take-Two boss says",
-      "summary": "Strauss Zelnick reckons that the quality of the experience will more than justify the price.",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/even-with-an-usd80-price-tag-grand-theft-auto-6-will-be-an-incredible-bargain-take-two-boss-says/",
-      "date": "2026-08-07T21:54:24.000Z"
     },
     {
       "lead": false,
