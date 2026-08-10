@@ -1,9 +1,17 @@
 {
-  "updated": "2026-08-10T16:04:16.340Z",
+  "updated": "2026-08-10T19:06:38.077Z",
   "count": 24,
   "items": [
     {
       "lead": true,
+      "src": "IGN",
+      "title": "Grand Theft Auto Players Fundraise $50k for Sick Fan Trying to Make It to GTA 6",
+      "summary": "Grand Theft Auto players have rallied behind a sick fan in need of a lung transplant by raising more than $50,000 so he can live long enough to play GTA 6.",
+      "url": "https://www.ign.com/articles/grand-theft-auto-players-fundraise-50k-for-sick-fan-trying-to-make-it-to-gta-6",
+      "date": "2026-08-10T17:59:59.000Z"
+    },
+    {
+      "lead": false,
       "src": "Kotaku",
       "title": "Upcoming Halloween Game Banned In Australia Over Drugs And Now Some GTA 6 Fans Are Worried",
       "summary": "GTA Online banned Australian players from its casino last month due to local laws and regulations",
@@ -52,35 +60,11 @@
     },
     {
       "lead": false,
-      "src": "GamesRadar",
-      "title": "\"I'm a little disappointed with Rockstar\": GTA 5 and Red Dead Redemption actor auditioned for over 60 roles in GTA 6 and never heard back",
-      "summary": "Robert Bogue first appeared in Red Dead Revolver way back in 2004",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/im-a-little-disappointed-with-rockstar-gta-5-and-red-dead-redemption-actor-auditioned-for-over-60-roles-in-gta-6-and-never-heard-back/",
-      "date": "2026-08-09T17:00:00.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Kotaku",
-      "title": "Rising Cost Of PS5 And Xbox Is ‘Not A Good Thing,’ Says Take-Two CEO, But He Doesn’t Think It Will Hurt GTA 6",
-      "summary": "The publisher expects launch to go as planned despite the repercussions of the AI boom",
-      "url": "https://kotaku.com/rising-cost-of-ps5-and-xbox-is-not-a-good-thing-says-take-two-ceo-but-he-doesnt-think-it-will-hurt-gta-6-2000722793",
-      "date": "2026-08-09T14:30:12.000Z"
-    },
-    {
-      "lead": false,
       "src": "IGN",
       "title": "'If You're Not a Netflix Subscriber, You Definitely Should Be' — Take-Two Boss Teases Grand Theft Auto VI: An Extended Look",
       "summary": "Take-Two Boss Strauss Zelnick discusses Grand Theft Auto VI: An Extended Look Netflix reveal.",
       "url": "https://www.ign.com/articles/if-youre-not-a-netflix-subscriber-you-definitely-should-be-take-two-boss-teases-grand-theft-auto-vi-an-extended-look",
       "date": "2026-08-09T10:25:54.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "As PS5 and Xbox prices endlessly balloon, Take-Two CEO says rising console costs are good for no one, but won't hurt the company as GTA 6 approaches",
-      "summary": "\"I don't think it will slow us down any because... we're delivering experiences that people want\"",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/as-ps5-and-xbox-prices-endlessly-balloon-take-two-ceo-says-rising-console-costs-are-good-for-no-one-but-wont-hurt-the-company-as-gta-6-approaches/",
-      "date": "2026-08-08T14:00:31.000Z"
     },
     {
       "lead": false,
@@ -193,6 +177,22 @@
       "summary": "Out of nowhere, Rockstar and Netflix announced today that an \"extended look\" at GTA 6 will be available on the streaming platform on August 27. People have been clamoring for a new look at the game, given that it's been more than a year since Trailer 2, but few could have expected the next look at GTA 6 to come via…",
       "url": "https://www.gamespot.com/articles/gta-6-being-paywalled-behind-netflix-is-upsetting-a-lot-of-people-but-its-a-sign-of-the-times/",
       "date": "2026-08-06T19:56:53.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Eurogamer",
+      "title": "We're getting an \"extended look\" at Grand Theft Auto 6 on 27th August",
+      "summary": "Rockstar Games and Take Two have announced that an \"extended look\" trailer for Grand Theft Auto 6 will premiere first on Netflix on Thursday, the 27th August, at 3pm ET (8pm BST). Read more",
+      "url": "https://www.eurogamer.net/gta-6-extended-look-trailer-netflix-announcement",
+      "date": "2026-08-06T12:13:50.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Eurogamer",
+      "title": "Could Switch 2's The Legend of Zelda: Ocarina of Time remake be squaring up for a GTA 6 head-to-head? Newly sighted amiibo suggest a potential November release",
+      "summary": "It looks like Nintendo could be priming its The Legend of Zelda: Ocarina of Time remake for a November release - just ahead of GTA 6 's highly anticipated arrival - if speculation around a pair of newly sighted amiibo is to be believed. Read more",
+      "url": "https://www.eurogamer.net/zelda-ocarina-of-time-remake-switch-2-amiibo-november",
+      "date": "2026-07-31T12:42:19.000Z"
     }
   ]
 }
