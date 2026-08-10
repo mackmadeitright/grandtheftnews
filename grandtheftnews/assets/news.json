@@ -1,9 +1,33 @@
 {
-  "updated": "2026-08-10T13:25:54.923Z",
+  "updated": "2026-08-10T16:04:16.340Z",
   "count": 24,
   "items": [
     {
       "lead": true,
+      "src": "Kotaku",
+      "title": "Upcoming Halloween Game Banned In Australia Over Drugs And Now Some GTA 6 Fans Are Worried",
+      "summary": "GTA Online banned Australian players from its casino last month due to local laws and regulations",
+      "url": "https://kotaku.com/upcoming-halloween-game-banned-in-australia-over-drugs-and-now-some-gta-6-fans-are-worried-2000723023",
+      "date": "2026-08-10T16:00:18.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GameSpot",
+      "title": "GTA 6 On A Disc Doesn’t Make Sense But Could Happen, Take-Two CEO Says",
+      "summary": "For big games like GTA 6 , discs \"don't really make sense for the consumer,\" but it's something Take-Two would hasn't totally ruled out for the upcoming game, the company's CEO recently said. Speaking to IGN , Strauss Zelnick said more than 90% of Take-Two's sales currently are digital, going on to say people \"need…",
+      "url": "https://www.gamespot.com/articles/gta-6-on-a-disc-doesnt-make-sense-but-could-happen-take-two-ceo-says/",
+      "date": "2026-08-10T14:56:21.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GameSpot",
+      "title": "GTA 6 Preorder Numbers Won’t Be Revealed Because They Could Be Misleading, Take-Two CEO Says",
+      "summary": "Take-Two's Strauss Zelnick recently said GTA 6 's preorder numbers are unprecedented in the gaming industry , and that's part of the reason why the company is not revealing actual numbers. Zelnick said in an interview with Bloomberg that GTA 6 preorders \"vastly\" surpassed internal expectations, but he's unsure \"whet…",
+      "url": "https://www.gamespot.com/articles/gta-6-preorder-numbers-wont-be-revealed-because-they-could-be-misleading-take-two-ceo-says/",
+      "date": "2026-08-10T13:44:54.000Z"
+    },
+    {
+      "lead": false,
       "src": "GameSpot",
       "title": "Don’t Expect To Hear About GTA 6’s Online Mode Soon",
       "summary": "GTA Online for GTA 5 has been, and continues to be, a gigantic success for Rockstar and Take-Two. So why hasn't Rockstar divulged any information about how GTA 6 will work with respect to multiplayer and online? We don't know, and a new report claims Rockstar isn't going to reveal anything anytime soon. \"Right now,…",
@@ -81,14 +105,6 @@
       "summary": "During the latest investment call for Grand Theft Auto 6 's parent company, Take-Two Interactive, CEO Strauss Zelnick weighed in on the future of AI in game development. While Zelnick acknowledges that even his company will utilize AI, he reiterated his belief that the emerging technology won't replace anyone. \"Thos…",
       "url": "https://www.gamespot.com/articles/ai-tools-arent-going-to-replace-anyone-says-gta-6-publisher-boss/",
       "date": "2026-08-07T18:35:00.000Z"
-    },
-    {
-      "lead": false,
-      "src": "IGN",
-      "title": "Take-Two Boss Predicts Actual Good Video Game Streaming Within 3 Years, Says for Streaming to Matter It Would Have to Run GTA 6 as Well as Consoles",
-      "summary": "The boss of Take-Two has suggested the video game industry will be in “commercial streaming mode” within three years — but for video game streaming to matter, it will have to run GTA 6 just as well as consoles do.",
-      "url": "https://www.ign.com/articles/take-two-boss-predicts-actual-good-video-game-streaming-within-3-years-says-for-streaming-to-matter-it-would-have-to-run-gta-6-as-well-as-consoles",
-      "date": "2026-08-07T16:28:27.000Z"
     },
     {
       "lead": false,
@@ -177,22 +193,6 @@
       "summary": "Out of nowhere, Rockstar and Netflix announced today that an \"extended look\" at GTA 6 will be available on the streaming platform on August 27. People have been clamoring for a new look at the game, given that it's been more than a year since Trailer 2, but few could have expected the next look at GTA 6 to come via…",
       "url": "https://www.gamespot.com/articles/gta-6-being-paywalled-behind-netflix-is-upsetting-a-lot-of-people-but-its-a-sign-of-the-times/",
       "date": "2026-08-06T19:56:53.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GameSpot",
-      "title": "Another GTA 6 Delay Would Not Be Surprising, Former Rockstar Dev Says",
-      "summary": "A developer who worked on Grand Theft Auto 5 has said he \"would not be shocked at all\" if Rockstar decides to delay GTA 6 yet again. Speaking to Indy100 , Mike York said based on his previous experience working at Rockstar, he believes \"they could delay it again.\" GTA 6 releases on November 19, unless it gets delaye…",
-      "url": "https://www.gamespot.com/articles/another-gta-6-delay-would-not-be-surprising-former-rockstar-dev-says/",
-      "date": "2026-08-06T15:12:31.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Eurogamer",
-      "title": "We're getting an \"extended look\" at Grand Theft Auto 6 on 27th August",
-      "summary": "Rockstar Games and Take Two have announced that an \"extended look\" trailer for Grand Theft Auto 6 will premiere first on Netflix on Thursday, the 27th August, at 3pm ET (8pm BST). Read more",
-      "url": "https://www.eurogamer.net/gta-6-extended-look-trailer-netflix-announcement",
-      "date": "2026-08-06T12:13:50.000Z"
     }
   ]
 }
