@@ -1,9 +1,25 @@
 {
-  "updated": "2026-08-10T07:56:08.808Z",
+  "updated": "2026-08-10T10:24:30.107Z",
   "count": 24,
   "items": [
     {
       "lead": true,
+      "src": "Eurogamer",
+      "title": "\"I'm sure you're going to watch it because everyone is\" - GTA 6 premiering on Netflix represents Rockstar \"trying new things\", says Take-Two boss",
+      "summary": "One of the most surprising things about Rockstar's Grand Theft Auto 6 trailer tease last week was word that it will premiere on subscription-based service Netflix - a move I can't ever remember another game company doing. Read more",
+      "url": "https://www.eurogamer.net/take-two-boss-gta-6-netflix-trailer",
+      "date": "2026-08-10T10:22:30.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "GTA 6's divisive Netflix exclusive gameplay reveal is just the start, Take-Two boss promises: \"There's appetizers, main course, and dessert to follow\"",
+      "summary": "Rockstar has more planned for GTA 6's marketing, thankfully",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6s-divisive-netflix-exclusive-gameplay-reveal-is-just-the-start-take-two-boss-promises-theres-appetizers-main-course-and-dessert-to-follow/",
+      "date": "2026-08-10T09:38:15.000Z"
+    },
+    {
+      "lead": false,
       "src": "GamesRadar",
       "title": "\"I'm a little disappointed with Rockstar\": GTA 5 and Red Dead Redemption actor auditioned for over 60 roles in GTA 6 and never heard back",
       "summary": "Robert Bogue first appeared in Red Dead Revolver way back in 2004",
@@ -133,7 +149,7 @@
     {
       "lead": false,
       "src": "GamesRadar",
-      "title": "GTA 3's Back to the Future: Hill Valley mod will take you to Vice City before GTA 6",
+      "title": "This Back to the Future mod is taking us to Vice City before GTA 6",
       "summary": "With GTA 6's release inching closer, there's a Vice City mod that I've been playing since 2009. Here's how it came to be",
       "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-3s-back-to-the-future-hill-valley-mod-is-taking-us-to-vice-city-before-gta-6/",
       "date": "2026-08-07T14:00:00.000Z"
@@ -153,14 +169,6 @@
       "summary": "Strauss Zelnick says that over 90% of the company's sales are digital anyway",
       "url": "https://www.gamesradar.com/games/grand-theft-auto/with-gta-6-digital-only-take-two-boss-says-discs-dont-really-make-sense-if-youre-already-connected-who-cares-if-you-download-digitally/",
       "date": "2026-08-07T13:43:52.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "Another GTA 6 delay looks much less likely as Take-Two has a \"high degree of confidence\" in Rockstar Games' November release",
-      "summary": "CEO Strauss Zelnick seems very confident in the open-world game's release date",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/another-gta-6-delay-looks-much-less-likely-as-take-two-has-a-high-degree-of-confidence-in-rockstar-games-november-release/",
-      "date": "2026-08-07T13:38:55.000Z"
     },
     {
       "lead": false,
@@ -185,14 +193,6 @@
       "summary": "After announcing an extended look at GTA 6 --with a six-hour exclusivity window for Netflix in a first-of-its-kind reveal--Take-Two has said that marketing for the game is incredibly widespread. During the Take-Two earnings call on August 7, CEO Strauss Zelnick said that Netflix is \"a great marketing partner\" for th…",
       "url": "https://www.gamespot.com/articles/gta-6-marketing-is-taking-place-on-virtually-every-social-media-outlet-on-earth/",
       "date": "2026-08-07T13:14:34.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GameSpot",
-      "title": "Unsurprisingly, GTA 6 Has Take-Two Predicting A Massively Profitable Year Ahead",
-      "summary": "With GTA 6 still scheduled to launch in November , publisher Take-Two Interactive is expecting its current financial year--running from April 1 to March 31, 2027--to be very profitable. The company is expecting a 20% growth through the middle of the 2026 financial year, with revenue predicted to reach $8.2 billion t…",
-      "url": "https://www.gamespot.com/articles/unsurprisingly-gta-6-has-take-two-predicting-a-massively-profitable-year-ahead/",
-      "date": "2026-08-07T12:53:35.000Z"
     }
   ]
 }
