@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-11T19:12:34.577Z",
-  "count": 20,
+  "updated": "2026-08-11T21:56:35.163Z",
+  "count": 18,
   "items": [
     {
       "lead": true,
@@ -132,27 +132,11 @@
     },
     {
       "lead": false,
-      "src": "GameSpot",
-      "title": "GTA 6 Preorders Are “Unprecedented” Across The Industry, Take-Two Claims",
-      "summary": "Following the launch of GTA 6 preorders in late June, it immediately became apparent that there was, unsurprisingly, huge demand for the game. Now, in a Take-Two earnings call, the publishing company's CEO said the number of preorders is \"unprecedented\" across the industry. Strauss Zelnick said, \"No one's ever seen…",
-      "url": "https://www.gamespot.com/articles/gta-6-preorders-are-unprecedented-across-the-industry-take-two-claims/",
-      "date": "2026-08-07T13:44:51.000Z"
-    },
-    {
-      "lead": false,
       "src": "Eurogamer",
       "title": "As GTA 6 publisher Take-Two revises its 2027 net bookings up to $8.2bn, Strauss Zelnick confirms its sales are \"well over 90% digital\"",
       "summary": "Take-Two's latest financials are in, and they come with a few surprises. First off, Take-Two CEO Strauss Zelnick has confirmed that the publisher's sales are mostly digital, in response to Sony's controversial decision to stop manufacturing physical disc-based games . \"Our business is well over 90% digitally distrib…",
       "url": "https://www.eurogamer.net/take-two-stock-digital-gta6-physical",
       "date": "2026-08-07T13:33:56.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GameSpot",
-      "title": "Take-Two Defends GTA 6’s $80 Price, Calls It “Phenomenal Value”",
-      "summary": "While most of Take-Two Interactive's games are priced at $70--which became a much more common MSRP for new releases from 2020 onwards-- GTA 6 is one of a handful of titles that will retail for $80 --a price that the publisher believes is \"phenomenal value\" for the open-world game. Speaking to investors following the…",
-      "url": "https://www.gamespot.com/articles/take-two-defends-gta-6s-80-price-calls-it-phenomenal-value/",
-      "date": "2026-08-07T13:25:36.000Z"
     },
     {
       "lead": false,
