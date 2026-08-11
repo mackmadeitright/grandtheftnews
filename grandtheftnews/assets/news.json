@@ -1,9 +1,33 @@
 {
-  "updated": "2026-08-11T13:22:06.573Z",
+  "updated": "2026-08-11T16:04:37.118Z",
   "count": 24,
   "items": [
     {
       "lead": true,
+      "src": "PC Gamer",
+      "title": "GTA 6 might not technically be $100, but it's had its cake and ate it too as pre-orders are 'skewing more to the premium edition'",
+      "summary": "Schrodinger's price change.",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-might-not-technically-be-usd100-but-its-had-its-cake-and-ate-it-too-as-pre-orders-are-skewing-more-to-the-premium-edition/",
+      "date": "2026-08-11T15:28:25.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GameSpot",
+      "title": "GTA 6 Owner Take-Two Is Not Interested In Selling To Netflix Or Anyone Right Now",
+      "summary": "Take-Two, which owns Rockstar and Grand Theft Auto, is not interested in selling. The company's top boss, Strauss Zelnick, appeared on CNBC recently where he was asked if Take-Two's partnership with Netflix for the next GTA 6 trailer might be the first step toward a buyout. It is not, he said, adding that Take-Two i…",
+      "url": "https://www.gamespot.com/articles/gta-6-owner-take-two-is-not-interested-in-selling-to-netflix-or-anyone-right-now/",
+      "date": "2026-08-11T15:04:00.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GameSpot",
+      "title": "How Students Can Get GTA 6 For $64",
+      "summary": "Rockstar's GTA 6 is priced at $80 for the standard edition, but if you're a student who shops at Target and you meet certain eligibility requirements, you can potentially get the game for a nice discount. Target Circle Students members can save 20% on the game's code-in-the-box version, bringing it down to $64 befor…",
+      "url": "https://www.gamespot.com/articles/how-students-can-get-gta-6-for-64/",
+      "date": "2026-08-11T13:22:12.000Z"
+    },
+    {
+      "lead": false,
       "src": "GameSpot",
       "title": "GTA 6 Could Have Had An Even Higher Price, As $100 Edition Proves Popular",
       "summary": "Take-Two boss Strauss Zelnick has acknowledged that the company could have charged more for Grand Theft Auto 6 , but it declined to do so to ensure pricing felt fair. He also shared new insight into how GTA 6 preorders are going so far, saying they're skewing toward the $100 edition early on. Speaking to CNBC , Zeln…",
@@ -57,14 +81,6 @@
       "summary": "With the world migrating to Vice City this November, all eyes are on Gamescom 2026 to help us better understand the fall schedule",
       "url": "https://www.gamesradar.com/games/18-aaa-games-in-8-weeks-with-the-gta-6-shadow-looming-gamescom-suddenly-feels-like-the-most-essential-gaming-event-of-2026/",
       "date": "2026-08-10T20:50:48.000Z"
-    },
-    {
-      "lead": false,
-      "src": "IGN",
-      "title": "Grand Theft Auto Players Fundraise $50k for Sick Fan Trying to Make It to GTA 6",
-      "summary": "Grand Theft Auto players have rallied behind a sick fan in need of a lung transplant by raising more than $50,000 so he can live long enough to play GTA 6.",
-      "url": "https://www.ign.com/articles/grand-theft-auto-players-fundraise-50k-for-sick-fan-trying-to-make-it-to-gta-6",
-      "date": "2026-08-10T17:59:59.000Z"
     },
     {
       "lead": false,
@@ -177,22 +193,6 @@
       "summary": "With GTA 6 still scheduled to launch in November , publisher Take-Two Interactive is expecting its current financial year--running from April 1 to March 31, 2027--to be very profitable. The company is expecting a 20% growth through the middle of the 2026 financial year, with revenue predicted to reach $8.2 billion t…",
       "url": "https://www.gamespot.com/articles/unsurprisingly-gta-6-has-take-two-predicting-a-massively-profitable-year-ahead/",
       "date": "2026-08-07T12:53:35.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GameSpot",
-      "title": "GTA 6 Has Not Been Delayed, Still On Track For Its November Launch",
-      "summary": "GTA 6 is still on track to launch for PS5 and Xbox Series X|S on November 19, Take-Two Interactive has confirmed. As part of the publisher's quarterly briefing, Take-Two provided updates on several of its projects, including Rockstar Games' long-simmering open-world game--and the rosy financial outlook that the comp…",
-      "url": "https://www.gamespot.com/articles/gta-6-has-not-been-delayed-still-on-track-for-its-november-launch/",
-      "date": "2026-08-07T12:04:42.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GameSpot",
-      "title": "GTA 6 Trailer Being Paywalled Behind Netflix Is Upsetting A Lot Of People, But It’s A Sign Of The Times",
-      "summary": "Out of nowhere, Rockstar and Netflix announced today that an \"extended look\" at GTA 6 will be available on the streaming platform on August 27. People have been clamoring for a new look at the game, given that it's been more than a year since Trailer 2, but few could have expected the next look at GTA 6 to come via…",
-      "url": "https://www.gamespot.com/articles/gta-6-being-paywalled-behind-netflix-is-upsetting-a-lot-of-people-but-its-a-sign-of-the-times/",
-      "date": "2026-08-06T19:56:53.000Z"
     }
   ]
 }
