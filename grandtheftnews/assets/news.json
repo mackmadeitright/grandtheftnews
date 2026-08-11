@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-11T16:04:37.118Z",
-  "count": 24,
+  "updated": "2026-08-11T19:12:34.577Z",
+  "count": 20,
   "items": [
     {
       "lead": true,
@@ -57,30 +57,6 @@
       "summary": "Though many may baulk at the idea of paying $100 (&pound;90) for a game, a lot of the people who pre-ordered Grand Theft Auto 6 bought the more expensive Ultimate edition rather than the $80 (&pound;70) Standard edition. That's according to Strauss Zelnick, CEO of Rockstar parent company Take-Two. Read more",
       "url": "https://www.eurogamer.net/gta-6-pre-orders-ultimate-edition-100-dollars",
       "date": "2026-08-11T10:42:09.000Z"
-    },
-    {
-      "lead": false,
-      "src": "IGN",
-      "title": "GTA 6 Boss Says More People Are Pre-Ordering the $100 Version of the Game",
-      "summary": "Grand Theft Auto 6 fans are pre-ordering the $100 Ultimate Edition more than the standard edition of the game.",
-      "url": "https://www.ign.com/articles/gta-6-boss-says-more-people-are-pre-ordering-the-100-version-of-the-game",
-      "date": "2026-08-10T22:14:28.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "As GTA 6 anticipation builds and the games industry buckles, Take-Two boss says \"I don't love winning by attrition, but I'll take it\"",
-      "summary": "\"The people who hate running public companies are the people who hate telling the truth\"",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/as-gta-6-anticipation-builds-and-the-games-industry-buckles-take-two-boss-says-i-dont-love-winning-by-attrition-but-ill-take-it/",
-      "date": "2026-08-10T21:08:00.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "18 AAA games in 8 weeks: With the GTA 6 shadow looming, Gamescom suddenly feels like the most essential gaming event of 2026",
-      "summary": "With the world migrating to Vice City this November, all eyes are on Gamescom 2026 to help us better understand the fall schedule",
-      "url": "https://www.gamesradar.com/games/18-aaa-games-in-8-weeks-with-the-gta-6-shadow-looming-gamescom-suddenly-feels-like-the-most-essential-gaming-event-of-2026/",
-      "date": "2026-08-10T20:50:48.000Z"
     },
     {
       "lead": false,
@@ -180,19 +156,11 @@
     },
     {
       "lead": false,
-      "src": "GameSpot",
-      "title": "GTA 6 Marketing Is Taking Place On “Virtually Every Social Media Outlet On Earth”",
-      "summary": "After announcing an extended look at GTA 6 --with a six-hour exclusivity window for Netflix in a first-of-its-kind reveal--Take-Two has said that marketing for the game is incredibly widespread. During the Take-Two earnings call on August 7, CEO Strauss Zelnick said that Netflix is \"a great marketing partner\" for th…",
-      "url": "https://www.gamespot.com/articles/gta-6-marketing-is-taking-place-on-virtually-every-social-media-outlet-on-earth/",
-      "date": "2026-08-07T13:14:34.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GameSpot",
-      "title": "Unsurprisingly, GTA 6 Has Take-Two Predicting A Massively Profitable Year Ahead",
-      "summary": "With GTA 6 still scheduled to launch in November , publisher Take-Two Interactive is expecting its current financial year--running from April 1 to March 31, 2027--to be very profitable. The company is expecting a 20% growth through the middle of the 2026 financial year, with revenue predicted to reach $8.2 billion t…",
-      "url": "https://www.gamespot.com/articles/unsurprisingly-gta-6-has-take-two-predicting-a-massively-profitable-year-ahead/",
-      "date": "2026-08-07T12:53:35.000Z"
+      "src": "Eurogamer",
+      "title": "We're getting an \"extended look\" at Grand Theft Auto 6 on 27th August",
+      "summary": "Rockstar Games and Take Two have announced that an \"extended look\" trailer for Grand Theft Auto 6 will premiere first on Netflix on Thursday, the 27th August, at 3pm ET (8pm BST). Read more",
+      "url": "https://www.eurogamer.net/gta-6-extended-look-trailer-netflix-announcement",
+      "date": "2026-08-06T12:13:50.000Z"
     }
   ]
 }
