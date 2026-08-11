@@ -1,9 +1,41 @@
 {
-  "updated": "2026-08-11T10:05:32.940Z",
-  "count": 23,
+  "updated": "2026-08-11T13:22:06.573Z",
+  "count": 24,
   "items": [
     {
       "lead": true,
+      "src": "GameSpot",
+      "title": "GTA 6 Could Have Had An Even Higher Price, As $100 Edition Proves Popular",
+      "summary": "Take-Two boss Strauss Zelnick has acknowledged that the company could have charged more for Grand Theft Auto 6 , but it declined to do so to ensure pricing felt fair. He also shared new insight into how GTA 6 preorders are going so far, saying they're skewing toward the $100 edition early on. Speaking to CNBC , Zeln…",
+      "url": "https://www.gamespot.com/articles/gta-6-could-have-had-an-even-higher-price-as-100-edition-proves-popular/",
+      "date": "2026-08-11T12:23:57.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "Take-Two boss says GTA 6's $100 Ultimate Edition is outselling its cheaper alternative thanks to \"avid consumers\"",
+      "summary": "Sales are \"skewing more to the premium edition\"",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/take-two-boss-says-gta-6s-usd100-ultimate-edition-is-outselling-its-cheaper-alternative-thanks-to-avid-consumers/",
+      "date": "2026-08-11T11:20:08.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "Don't expect a GTA 6 discount anytime soon, says Take-Two CEO: \"We preserved our pricing on Grand Theft Auto 5 for a very long time\"",
+      "summary": "Strauss Zelnick warns no price changes are coming from the publisher",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/dont-expect-a-gta-6-discount-anytime-soon-says-take-two-ceo-we-preserved-our-pricing-on-grand-theft-auto-5-for-a-very-long-time/",
+      "date": "2026-08-11T10:51:46.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Eurogamer",
+      "title": "GTA 6 might not cost $100, but most of the people pre-ordering it are buying it at that price, Take-Two reveals",
+      "summary": "Though many may baulk at the idea of paying $100 (&pound;90) for a game, a lot of the people who pre-ordered Grand Theft Auto 6 bought the more expensive Ultimate edition rather than the $80 (&pound;70) Standard edition. That's according to Strauss Zelnick, CEO of Rockstar parent company Take-Two. Read more",
+      "url": "https://www.eurogamer.net/gta-6-pre-orders-ultimate-edition-100-dollars",
+      "date": "2026-08-11T10:42:09.000Z"
+    },
+    {
+      "lead": false,
       "src": "IGN",
       "title": "GTA 6 Boss Says More People Are Pre-Ordering the $100 Version of the Game",
       "summary": "Grand Theft Auto 6 fans are pre-ordering the $100 Ultimate Edition more than the standard edition of the game.",
@@ -33,14 +65,6 @@
       "summary": "Grand Theft Auto players have rallied behind a sick fan in need of a lung transplant by raising more than $50,000 so he can live long enough to play GTA 6.",
       "url": "https://www.ign.com/articles/grand-theft-auto-players-fundraise-50k-for-sick-fan-trying-to-make-it-to-gta-6",
       "date": "2026-08-10T17:59:59.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Kotaku",
-      "title": "Upcoming Halloween Game Banned In Australia Over Drugs And Now Some GTA 6 Fans Are Worried",
-      "summary": "GTA Online banned Australian players from its casino last month due to local laws and regulations",
-      "url": "https://kotaku.com/upcoming-halloween-game-banned-in-australia-over-drugs-and-now-some-gta-6-fans-are-worried-2000723023",
-      "date": "2026-08-10T16:00:18.000Z"
     },
     {
       "lead": false,
@@ -169,22 +193,6 @@
       "summary": "Out of nowhere, Rockstar and Netflix announced today that an \"extended look\" at GTA 6 will be available on the streaming platform on August 27. People have been clamoring for a new look at the game, given that it's been more than a year since Trailer 2, but few could have expected the next look at GTA 6 to come via…",
       "url": "https://www.gamespot.com/articles/gta-6-being-paywalled-behind-netflix-is-upsetting-a-lot-of-people-but-its-a-sign-of-the-times/",
       "date": "2026-08-06T19:56:53.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Eurogamer",
-      "title": "We're getting an \"extended look\" at Grand Theft Auto 6 on 27th August",
-      "summary": "Rockstar Games and Take Two have announced that an \"extended look\" trailer for Grand Theft Auto 6 will premiere first on Netflix on Thursday, the 27th August, at 3pm ET (8pm BST). Read more",
-      "url": "https://www.eurogamer.net/gta-6-extended-look-trailer-netflix-announcement",
-      "date": "2026-08-06T12:13:50.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Eurogamer",
-      "title": "Could Switch 2's The Legend of Zelda: Ocarina of Time remake be squaring up for a GTA 6 head-to-head? Newly sighted amiibo suggest a potential November release",
-      "summary": "It looks like Nintendo could be priming its The Legend of Zelda: Ocarina of Time remake for a November release - just ahead of GTA 6 's highly anticipated arrival - if speculation around a pair of newly sighted amiibo is to be believed. Read more",
-      "url": "https://www.eurogamer.net/zelda-ocarina-of-time-remake-switch-2-amiibo-november",
-      "date": "2026-07-31T12:42:19.000Z"
     }
   ]
 }
