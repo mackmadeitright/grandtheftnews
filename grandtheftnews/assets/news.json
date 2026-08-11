@@ -1,9 +1,17 @@
 {
-  "updated": "2026-08-10T21:50:45.430Z",
+  "updated": "2026-08-11T02:17:38.073Z",
   "count": 24,
   "items": [
     {
       "lead": true,
+      "src": "IGN",
+      "title": "GTA 6 Boss Says More People Are Pre-Ordering the $100 Version of the Game",
+      "summary": "Grand Theft Auto 6 fans are pre-ordering the $100 Ultimate Edition more than the standard edition of the game.",
+      "url": "https://www.ign.com/articles/gta-6-boss-says-more-people-are-pre-ordering-the-100-version-of-the-game",
+      "date": "2026-08-10T22:14:28.000Z"
+    },
+    {
+      "lead": false,
       "src": "GamesRadar",
       "title": "As GTA 6 anticipation builds and the games industry buckles, Take-Two boss says \"I don't love winning by attrition, but I'll take it\"",
       "summary": "\"The people who hate running public companies are the people who hate telling the truth\"",
@@ -73,14 +81,6 @@
       "summary": "Rockstar has more planned for GTA 6's marketing, thankfully",
       "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6s-divisive-netflix-exclusive-gameplay-reveal-is-just-the-start-take-two-boss-promises-theres-appetizers-main-course-and-dessert-to-follow/",
       "date": "2026-08-10T09:38:15.000Z"
-    },
-    {
-      "lead": false,
-      "src": "PC Gamer",
-      "title": "GTA 6's Netflix deal forces us to ask: can you pirate an advertisement?",
-      "summary": "Just when you thought videogame marketing couldn't get sillier, people are going to wind up stealing a trailer.",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6s-netflix-deal-forces-us-to-ask-can-you-pirate-an-advertisement/",
-      "date": "2026-08-07T23:52:49.000Z"
     },
     {
       "lead": false,
