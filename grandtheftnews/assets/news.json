@@ -1,9 +1,33 @@
 {
-  "updated": "2026-08-12T13:26:41.120Z",
-  "count": 16,
+  "updated": "2026-08-12T16:03:18.840Z",
+  "count": 17,
   "items": [
     {
       "lead": true,
+      "src": "Polygon",
+      "title": "Game Awards 2026: All Game of the Year Front-Runners and Predictions",
+      "summary": "We rank the contenders for GOTY 2026 at TGAs, including Resident Evil Requiem and Grand Theft Auto 6",
+      "url": "https://www.polygon.com/game-of-the-year-goty-game-awards-2026-frontrunners/",
+      "date": "2026-08-12T15:58:30.000Z"
+    },
+    {
+      "lead": false,
+      "src": "IGN",
+      "title": "GTA 5’s Trevor Flipped the Bird at Rockstar's Haters",
+      "summary": "The Genius of Grand Theft Auto 5’s Trevor Philips: how Rockstar turned franchise backlash into an iconic character.",
+      "url": "https://www.ign.com/articles/gta-5-trevor-haters",
+      "date": "2026-08-12T14:00:00.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GameSpot",
+      "title": "Take-Two CEO Won’t Be In GTA 6 After His Surprise Appearance In WWE 2K26",
+      "summary": "Take-Two CEO Strauss Zelnick unexpectedly appeared in WWE 2K26 as a playable character , and now the executive has explained how that came to be while also confirming that you won't see him in GTA 6 . Zelnick told IGN that his appearance in WWE 2K26 came about simply by asking the team to do it for him, and not beca…",
+      "url": "https://www.gamespot.com/articles/take-two-ceo-wont-be-in-gta-6-after-his-surprise-appearance-in-wwe-2k26/",
+      "date": "2026-08-12T13:59:27.000Z"
+    },
+    {
+      "lead": false,
       "src": "IGN",
       "title": "Take-Two Boss Strauss Zelnick Says He Asked to Be a Playable Character in WWE 2K26 Because 'I Thought It Would Be Funny for Insiders' — but Don't Expect Him to Pop Up in GTA 6",
       "summary": "Take-Two boss Strauss Zelnick has spoken for the first time about his surprise addition to the WWE 2K26 roster in June, saying it was his idea and the DLC did quite well actually. But don’t expect the high-powered CEO to appear in GTA 6.",
@@ -84,27 +108,11 @@
     },
     {
       "lead": false,
-      "src": "GameSpot",
-      "title": "AI Tools Aren’t Going To Replace Anyone, Says GTA 6 Publisher Boss",
-      "summary": "During the latest investment call for Grand Theft Auto 6 's parent company, Take-Two Interactive, CEO Strauss Zelnick weighed in on the future of AI in game development. While Zelnick acknowledges that even his company will utilize AI, he reiterated his belief that the emerging technology won't replace anyone. \"Thos…",
-      "url": "https://www.gamespot.com/articles/ai-tools-arent-going-to-replace-anyone-says-gta-6-publisher-boss/",
-      "date": "2026-08-07T18:35:00.000Z"
-    },
-    {
-      "lead": false,
       "src": "Eurogamer",
       "title": "Take-Two boss \"not in the least\" concerned bad press around Rockstar's employment tribunal will affect GTA 6 launch",
       "summary": "Take-Two boss Strauss Zelnick, who heads the company Rockstar belongs to, has said he's \"not in the least\" concerned that bad press over alleged union-busting will affect the launch of Grand Theft Auto 6 . Read more",
       "url": "https://www.eurogamer.net/take-two-strauss-zelnick-not-concerned-rockstar-union-busting-gta-6",
       "date": "2026-08-07T16:22:27.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GameSpot",
-      "title": "Why GTA 6 Doesn’t Have Early Access, According To Take-Two",
-      "summary": "Take-Two Interactive's quarterly earnings call had plenty of new information about GTA 6 , including why the game won't have an early access perk. Speaking to investors, CEO Strauss Zelnick was also asked why Take-Two Interactive is selling fewer special versions of GTA 6--so far only the $80 standard and $100 ultim…",
-      "url": "https://www.gamespot.com/articles/why-gta-6-doesnt-have-early-access-according-to-take-two/",
-      "date": "2026-08-07T14:43:23.000Z"
     },
     {
       "lead": false,
