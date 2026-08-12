@@ -1,14 +1,22 @@
 {
-  "updated": "2026-08-12T16:03:18.840Z",
-  "count": 17,
+  "updated": "2026-08-12T19:11:47.168Z",
+  "count": 15,
   "items": [
     {
       "lead": true,
+      "src": "Kotaku",
+      "title": "Grand Theft Auto: Vice City: The Kotaku Review",
+      "summary": "The boys over at Rockstar Games have made another massive masterpiece",
+      "url": "https://kotaku.com/grand-theft-auto-vice-city-the-kotaku-review-2000720825",
+      "date": "2026-08-12T19:00:33.000Z"
+    },
+    {
+      "lead": false,
       "src": "Polygon",
-      "title": "Game Awards 2026: All Game of the Year Front-Runners and Predictions",
-      "summary": "We rank the contenders for GOTY 2026 at TGAs, including Resident Evil Requiem and Grand Theft Auto 6",
-      "url": "https://www.polygon.com/game-of-the-year-goty-game-awards-2026-frontrunners/",
-      "date": "2026-08-12T15:58:30.000Z"
+      "title": "Warhammer 40K: Dawn Of War 4 Delayed",
+      "summary": "'Warhammer 40,000: Dawn of War 4' has been delayed to early December, putting it within 2 weeks of 'GTA 6''s release.",
+      "url": "https://www.polygon.com/warhammer-dawn-of-war-4-delayed-december/",
+      "date": "2026-08-12T18:15:23.000Z"
     },
     {
       "lead": false,
@@ -73,30 +81,6 @@
       "summary": "Though many may baulk at the idea of paying $100 (&pound;90) for a game, a lot of the people who pre-ordered Grand Theft Auto 6 bought the more expensive Ultimate edition rather than the $80 (&pound;70) Standard edition. That's according to Strauss Zelnick, CEO of Rockstar parent company Take-Two. Read more",
       "url": "https://www.eurogamer.net/gta-6-pre-orders-ultimate-edition-100-dollars",
       "date": "2026-08-11T10:42:09.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GameSpot",
-      "title": "GTA 6 On A Disc Doesn’t Make Sense But Could Happen, Take-Two CEO Says",
-      "summary": "For big games like GTA 6 , discs \"don't really make sense for the consumer,\" but it's something Take-Two would hasn't totally ruled out for the upcoming game, the company's CEO recently said. Speaking to IGN , Strauss Zelnick said more than 90% of Take-Two's sales currently are digital, going on to say people \"need…",
-      "url": "https://www.gamespot.com/articles/gta-6-on-a-disc-doesnt-make-sense-but-could-happen-take-two-ceo-says/",
-      "date": "2026-08-10T14:56:21.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GameSpot",
-      "title": "GTA 6 Preorder Numbers Won’t Be Revealed Because They Could Be Misleading, Take-Two CEO Says",
-      "summary": "Take-Two's Strauss Zelnick recently said GTA 6 's preorder numbers are unprecedented in the gaming industry , and that's part of the reason why the company is not revealing actual numbers. Zelnick said in an interview with Bloomberg that GTA 6 preorders \"vastly\" surpassed internal expectations, but he's unsure \"whet…",
-      "url": "https://www.gamespot.com/articles/gta-6-preorder-numbers-wont-be-revealed-because-they-could-be-misleading-take-two-ceo-says/",
-      "date": "2026-08-10T13:44:54.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GameSpot",
-      "title": "Don’t Expect To Hear About GTA 6’s Online Mode Soon",
-      "summary": "GTA Online for GTA 5 has been, and continues to be, a gigantic success for Rockstar and Take-Two. So why hasn't Rockstar divulged any information about how GTA 6 will work with respect to multiplayer and online? We don't know, and a new report claims Rockstar isn't going to reveal anything anytime soon. \"Right now,…",
-      "url": "https://www.gamespot.com/articles/dont-expect-to-hear-about-gta-6s-online-mode-soon/",
-      "date": "2026-08-10T13:09:41.000Z"
     },
     {
       "lead": false,
