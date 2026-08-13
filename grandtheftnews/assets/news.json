@@ -1,9 +1,17 @@
 {
-  "updated": "2026-08-13T10:16:02.620Z",
-  "count": 13,
+  "updated": "2026-08-13T13:34:19.444Z",
+  "count": 14,
   "items": [
     {
       "lead": true,
+      "src": "IGN",
+      "title": "Target Offers 20% Off GTA 6 and Marvel’s Wolverine Preorders for Students and Teachers",
+      "summary": "Students and teachers can save 20% on GTA 6 and Marvel’s Wolverine preorders at Target for a limited time in a new \"Back-to-School\" offer.",
+      "url": "https://www.ign.com/articles/target-gta-6-wolverine-preorder-discount",
+      "date": "2026-08-13T10:16:53.000Z"
+    },
+    {
+      "lead": false,
       "src": "PC Gamer",
       "title": "Take-Two won't reveal raw GTA 6 preorder numbers because it doesn't know what they mean: 'It's just never happened before'",
       "summary": "The publisher says it isn't sure how to interpret GTA 6's 'astonishing' preorder sales.",
