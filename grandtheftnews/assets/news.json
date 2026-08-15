@@ -1,9 +1,17 @@
 {
-  "updated": "2026-08-15T09:32:59.534Z",
-  "count": 12,
+  "updated": "2026-08-15T12:51:35.581Z",
+  "count": 13,
   "items": [
     {
       "lead": true,
+      "src": "IGN",
+      "title": "I Hope GTA 6 Borrows a Lot From GTA 4",
+      "summary": "I've been playing Grand Theft Auto 4 for the first time since 2008, and there's a lot in it that I hope Rockstar borrows for GTA 6.",
+      "url": "https://www.ign.com/articles/i-hope-gta-6-borrows-a-lot-from-gta-4",
+      "date": "2026-08-15T12:00:00.000Z"
+    },
+    {
+      "lead": false,
       "src": "GamesRadar",
       "title": "Ahead of GTA 6, Rockstar ramps up GTA Online roleplay as nopixel V prepares for exclusive Closed Beta launch in September",
       "summary": "Time to get creative",
