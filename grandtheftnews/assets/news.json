@@ -1,9 +1,17 @@
 {
-  "updated": "2026-08-16T15:28:20.935Z",
+  "updated": "2026-08-16T18:38:46.211Z",
   "count": 12,
   "items": [
     {
       "lead": true,
+      "src": "GamesRadar",
+      "title": "GTA 4 producer Leslie Benzies wanted NPCs \"to have their own lives,\" former Rockstar lead says, but \"it ended up being so problematic\" and didn't \"really matter that much\"",
+      "summary": "Obbe Vermeij speaks on the early ambitions of GTA 4",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-4-producer-leslie-benzies-wanted-npcs-to-have-their-own-lives-former-rockstar-lead-says-but-it-ended-up-being-so-problematic-and-didnt-really-matter-that-much/",
+      "date": "2026-08-16T18:19:46.000Z"
+    },
+    {
+      "lead": false,
       "src": "IGN",
       "title": "I Hope GTA 6 Borrows a Lot From GTA 4",
       "summary": "I've been playing Grand Theft Auto 4 for the first time since 2008, and there's a lot in it that I hope Rockstar borrows for GTA 6.",
@@ -89,14 +97,6 @@
       "summary": "Take-Two's latest financials are in, and they come with a few surprises. First off, Take-Two CEO Strauss Zelnick has confirmed that the publisher's sales are mostly digital, in response to Sony's controversial decision to stop manufacturing physical disc-based games . \"Our business is well over 90% digitally distrib…",
       "url": "https://www.eurogamer.net/take-two-stock-digital-gta6-physical",
       "date": "2026-08-07T13:33:56.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Eurogamer",
-      "title": "We're getting an \"extended look\" at Grand Theft Auto 6 on 27th August",
-      "summary": "Rockstar Games and Take Two have announced that an \"extended look\" trailer for Grand Theft Auto 6 will premiere first on Netflix on Thursday, the 27th August, at 3pm ET (8pm BST). Read more",
-      "url": "https://www.eurogamer.net/gta-6-extended-look-trailer-netflix-announcement",
-      "date": "2026-08-06T12:13:50.000Z"
     }
   ]
 }
