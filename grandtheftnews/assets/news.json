@@ -1,9 +1,25 @@
 {
-  "updated": "2026-08-17T15:32:17.582Z",
-  "count": 9,
+  "updated": "2026-08-17T18:50:18.472Z",
+  "count": 10,
   "items": [
     {
       "lead": true,
+      "src": "PC Gamer",
+      "title": "I'm modding GTA 5 every day until it becomes GTA 6 or breaks, starting with a new vehicle and enough missiles to level a city block",
+      "summary": "Baby steps.",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/im-modding-gta-5-every-day-until-it-becomes-gta-6-or-breaks-starting-with-a-new-vehicle-and-enough-missiles-to-level-a-city-block/",
+      "date": "2026-08-17T17:00:00.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GameSpot",
+      "title": "GTA 6 Does Look A Bit Different In New PS5 Promo",
+      "summary": "Sony is flexing its video game muscle with a new \"It Happens On PS5\" ad campaign , and the one-minute video features arguably the most anticipated title ever: Grand Theft Auto VI . Now, to be clear, there are only snippets of old footage for the open-world experience. But you should know by now that won't stop the i…",
+      "url": "https://www.gamespot.com/articles/gta-6-does-look-a-bit-different-in-new-ps5-promo/",
+      "date": "2026-08-17T16:29:08.000Z"
+    },
+    {
+      "lead": false,
       "src": "PC Gamer",
       "title": "Steam Week in Review: Here are the 32 Steam games brave enough to release on GTA 6 day",
       "summary": "All the interesting Steam facts for the week ending August 16.",
@@ -17,14 +33,6 @@
       "summary": "Obbe Vermeij speaks on the early ambitions of GTA 4",
       "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-4-producer-leslie-benzies-wanted-npcs-to-have-their-own-lives-former-rockstar-lead-says-but-it-ended-up-being-so-problematic-and-didnt-really-matter-that-much/",
       "date": "2026-08-16T18:19:46.000Z"
-    },
-    {
-      "lead": false,
-      "src": "IGN",
-      "title": "I Hope GTA 6 Borrows a Lot From GTA 4",
-      "summary": "I've been playing Grand Theft Auto 4 for the first time since 2008, and there's a lot in it that I hope Rockstar borrows for GTA 6.",
-      "url": "https://www.ign.com/articles/i-hope-gta-6-borrows-a-lot-from-gta-4",
-      "date": "2026-08-15T12:00:00.000Z"
     },
     {
       "lead": false,
