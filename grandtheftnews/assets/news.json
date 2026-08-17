@@ -1,9 +1,17 @@
 {
-  "updated": "2026-08-16T21:27:09.192Z",
-  "count": 12,
+  "updated": "2026-08-17T01:47:22.690Z",
+  "count": 13,
   "items": [
     {
       "lead": true,
+      "src": "PC Gamer",
+      "title": "Steam Week in Review: Here are the 32 Steam games brave enough to release on GTA 6 day",
+      "summary": "All the interesting Steam facts for the week ending August 16.",
+      "url": "https://www.pcgamer.com/gaming-industry/steam-week-in-review-here-are-the-32-steam-games-brave-enough-to-release-on-gta-6-day/",
+      "date": "2026-08-17T01:43:59.000Z"
+    },
+    {
+      "lead": false,
       "src": "GamesRadar",
       "title": "GTA 4 producer Leslie Benzies wanted NPCs \"to have their own lives,\" former Rockstar lead says, but \"it ended up being so problematic\" and didn't \"really matter that much\"",
       "summary": "Obbe Vermeij speaks on the early ambitions of GTA 4",
