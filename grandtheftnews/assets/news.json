@@ -1,9 +1,33 @@
 {
-  "updated": "2026-08-18T15:38:30.940Z",
-  "count": 13,
+  "updated": "2026-08-18T18:48:58.282Z",
+  "count": 15,
   "items": [
     {
       "lead": true,
+      "src": "GameSpot",
+      "title": "Don’t Boycott GTA 6, Help Win Justice Instead, Fired Devs Say",
+      "summary": "A group of former Grand Theft Auto 6 developers accusing Rockstar Games of union busting and currently engaged in a legal battle with the studio doesn't want players to boycott the game. In a video posted by the Independent Workers' Union of Great Britain, fired members of the union made clear how they would like fa…",
+      "url": "https://www.gamespot.com/articles/dont-boycott-gta-6-help-win-justice-instead-fired-devs-say/",
+      "date": "2026-08-18T18:28:08.000Z"
+    },
+    {
+      "lead": false,
+      "src": "PC Gamer",
+      "title": "A very real-looking GTA 6 clip—and maybe the full map—just leaked online",
+      "summary": "B-b-b-b-b-basketball.",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/a-very-real-looking-gta-6-clip-and-maybe-the-full-map-just-leaked-online/",
+      "date": "2026-08-18T18:13:44.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Polygon",
+      "title": "'GTA 6' Leak Shows New Unofficial Gameplay Ahead of Netflix Reveal",
+      "summary": "New GTA 6 footage shows some optional leisure activities for Jason and Lucia while also showing off some impressive water graphics",
+      "url": "https://www.polygon.com/gta-6-gameplay-leak-rockstar-games-netflix-august-2026/",
+      "date": "2026-08-18T17:45:46.000Z"
+    },
+    {
+      "lead": false,
       "src": "Kotaku",
       "title": "Fired Rockstar Devs Say Players Should Still Buy GTA 6: ‘Don’t Boycott The Game, Support Our Legal Battle Instead’",
       "summary": "Workers are instead asking fans to buy shirts to help support their large legal fight against Rockstar later this year",
@@ -49,14 +73,6 @@
       "summary": "A battalion in the United States Army is reportedly offering soldiers four days off to let them play Grand Theft Auto 6 when it releases this November if they reenlist.",
       "url": "https://www.ign.com/articles/us-army-battalion-reportedly-giving-soldiers-time-off-to-play-gta-6-in-exchange-for-reenlisting",
       "date": "2026-08-17T23:10:03.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "\"Rockstar literally just spent over a billion dollars\": Ori studio founder wants you to stop demanding 60 FPS on Xbox Series S just because GTA 6 can run on it",
-      "summary": "Moon Studios founder Thomas Mahler says games like Ori can't compete with GTA 6 on Xbox Series S",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/rockstar-literally-just-spent-over-a-billion-dollars-ori-studio-founder-wants-you-to-stop-demanding-60-fps-on-xbox-series-s-just-because-gta-6-can-run-on-it/",
-      "date": "2026-08-17T20:42:15.000Z"
     },
     {
       "lead": false,
