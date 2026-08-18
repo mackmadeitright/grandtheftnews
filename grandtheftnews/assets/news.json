@@ -1,9 +1,25 @@
 {
-  "updated": "2026-08-18T09:40:44.804Z",
-  "count": 9,
+  "updated": "2026-08-18T12:59:06.478Z",
+  "count": 10,
   "items": [
     {
       "lead": true,
+      "src": "GamesRadar",
+      "title": "\"Don’t boycott GTA 6,\" fired Rockstar devs say: \"Support our legal battle instead\" and \"win justice for the people who helped make it\"",
+      "summary": "The last hearing is due in September",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/dont-boycott-gta-6-fired-rockstar-devs-say-support-our-legal-battle-instead-and-win-justice-for-the-people-who-helped-make-it/",
+      "date": "2026-08-18T12:11:03.000Z"
+    },
+    {
+      "lead": false,
+      "src": "IGN",
+      "title": "Do Not Boycott GTA 6, Fired Rockstar Workers Tell Fans: 'There’s a Better Way to Support Us and Hold Rockstar to Account'",
+      "summary": "The first Rockstar workers who are embroiled in a legal battle with the company have told fans they shouldn’t boycott GTA 6 to protest on their behalf.",
+      "url": "https://www.ign.com/articles/do-not-boycott-gta-6-fired-rockstar-workers-tell-fans-theres-a-better-way-to-support-us-and-hold-rockstar-to-account",
+      "date": "2026-08-18T10:26:00.000Z"
+    },
+    {
+      "lead": false,
       "src": "IGN",
       "title": "US Army Battalion Reportedly Giving Soldiers Time Off to Play GTA 6 in Exchange for Reenlisting",
       "summary": "A battalion in the United States Army is reportedly offering soldiers four days off to let them play Grand Theft Auto 6 when it releases this November if they reenlist.",
@@ -65,14 +81,6 @@
       "summary": "One of the most surprising things about Rockstar's Grand Theft Auto 6 trailer tease last week was word that it will premiere on subscription-based service Netflix - a move I can't ever remember another game company doing. Read more",
       "url": "https://www.eurogamer.net/take-two-boss-gta-6-netflix-trailer",
       "date": "2026-08-10T10:22:30.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Eurogamer",
-      "title": "Take-Two boss \"not in the least\" concerned bad press around Rockstar's employment tribunal will affect GTA 6 launch",
-      "summary": "Take-Two boss Strauss Zelnick, who heads the company Rockstar belongs to, has said he's \"not in the least\" concerned that bad press over alleged union-busting will affect the launch of Grand Theft Auto 6 . Read more",
-      "url": "https://www.eurogamer.net/take-two-strauss-zelnick-not-concerned-rockstar-union-busting-gta-6",
-      "date": "2026-08-07T16:22:27.000Z"
     }
   ]
 }
