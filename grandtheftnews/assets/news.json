@@ -1,9 +1,81 @@
 {
-  "updated": "2026-08-18T18:48:58.282Z",
-  "count": 15,
+  "updated": "2026-08-18T21:30:38.455Z",
+  "count": 22,
   "items": [
     {
       "lead": true,
+      "src": "Polygon",
+      "title": "'GTA 6' Hackers Are Targeting Rockstar's Controversial Decisions",
+      "summary": "Recent Grand Theft Auto 6 gameplay and map leaks are the work of a hacking group claiming to be \"fighting for gamer's rights\"",
+      "url": "https://www.polygon.com/gta-6-hackers-cyberleek-physical-discs/",
+      "date": "2026-08-18T21:09:31.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "Apparent GTA 6 leak smells of crypto scam, links to a manifesto demanding digital rights: \"This is not a cash grab\"",
+      "summary": "Me when I'm definitely not pulling a cash grab",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/apparent-gta-6-leak-smells-of-crypto-scam-links-to-a-manifesto-demanding-digital-rights-this-is-not-a-cash-grab/",
+      "date": "2026-08-18T20:59:16.000Z"
+    },
+    {
+      "lead": false,
+      "src": "PC Gamer",
+      "title": "Grand Theft Auto 6 leaker says they won't stop until Rockstar and Take-Two apologize for 'anti-consumerism' and make a 'concrete commitment to do better'",
+      "summary": "A manifesto threatens to target not just the GTA 6 makers, but everyone who violates Cyberleek's \"three commandments.\"",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/grand-theft-auto-6-leaker-says-they-wont-stop-until-rockstar-and-take-two-apologize-for-anti-consumerism-and-make-a-concrete-commitment-to-do-better/",
+      "date": "2026-08-18T20:39:51.000Z"
+    },
+    {
+      "lead": false,
+      "src": "PC Gamer",
+      "title": "15 details from the new GTA 6 leaks, including a possible morality system and stamina meter",
+      "summary": "A fresh set of GTA 6 leaks has sloshed onto the internet. Their authenticity is unknown, but they look real—here's what we've gleaned from them.",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-video-leak-analysis-august-2026/",
+      "date": "2026-08-18T20:10:52.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Kotaku",
+      "title": "Group Claiming Responsibility For Supposed GTA 6 Gameplay Leak Demands End to Digital Pre-Orders: ‘If Publishers Want Revenue Before Launch, They Can Press Discs’",
+      "summary": "'Preorders were not created for gamers'",
+      "url": "https://kotaku.com/gta-6-leak-group-end-digital-pre-orders-2000725477",
+      "date": "2026-08-18T20:00:15.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Polygon",
+      "title": "'GTA 6' Map Leak Reveals Size of Rockstar's New Vice City",
+      "summary": "The apparent Grand Theft Auto 6 map of Leonida matches recent teases given by GTA Online by Rockstar itself",
+      "url": "https://www.polygon.com/gta-6-map-leak-rockstar-games/",
+      "date": "2026-08-18T19:53:38.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GameSpot",
+      "title": "Apparent GTA 6 Footage And Map Leak As Rockstar Issues Takedowns",
+      "summary": "New footage and details about Rockstar Games' Grand Theft Auto 6 appear to have been leaked online. While the full veracity of the intel has yet to be confirmed, Rockstar's DMCA takedown requests suggest that some of it could be legitimate.. And the person or persons behind the leak has issued some biblical demands…",
+      "url": "https://www.gamespot.com/articles/apparent-gta-6-footage-and-map-leak-as-rockstar-issues-takedowns/",
+      "date": "2026-08-18T19:45:17.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "New GTA 6 leaks show gameplay and the full Leonida map as Rockstar issues DMCA takedowns",
+      "summary": "Combat, driving, and minigames all factor into the footage",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/new-gta-6-leaks-show-gameplay-and-the-full-leonida-map-as-rockstar-issues-dmca-takedowns/",
+      "date": "2026-08-18T19:30:13.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Kotaku",
+      "title": "GTA 6 Gameplay And A Full Map Have Seemingly Leaked Ahead Of The Big Netflix Reveal",
+      "summary": "It sure looks like some new gameplay footage of Grand Theft Auto 6 has leaked online",
+      "url": "https://kotaku.com/gta-6-gameplay-and-a-full-map-have-seemingly-leaked-ahead-of-the-big-netflix-reveal-2000725468",
+      "date": "2026-08-18T19:25:42.000Z"
+    },
+    {
+      "lead": false,
       "src": "GameSpot",
       "title": "Don’t Boycott GTA 6, Help Win Justice Instead, Fired Devs Say",
       "summary": "A group of former Grand Theft Auto 6 developers accusing Rockstar Games of union busting and currently engaged in a legal battle with the studio doesn't want players to boycott the game. In a video posted by the Independent Workers' Union of Great Britain, fired members of the union made clear how they would like fa…",
@@ -13,18 +85,10 @@
     {
       "lead": false,
       "src": "PC Gamer",
-      "title": "A very real-looking GTA 6 clip—and maybe the full map—just leaked online",
+      "title": "2 seemingly real GTA 6 clips—and maybe the full map—just leaked online",
       "summary": "B-b-b-b-b-basketball.",
       "url": "https://www.pcgamer.com/games/grand-theft-auto/a-very-real-looking-gta-6-clip-and-maybe-the-full-map-just-leaked-online/",
       "date": "2026-08-18T18:13:44.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Polygon",
-      "title": "'GTA 6' Leak Shows New Unofficial Gameplay Ahead of Netflix Reveal",
-      "summary": "New GTA 6 footage shows some optional leisure activities for Jason and Lucia while also showing off some impressive water graphics",
-      "url": "https://www.polygon.com/gta-6-gameplay-leak-rockstar-games-netflix-august-2026/",
-      "date": "2026-08-18T17:45:46.000Z"
     },
     {
       "lead": false,
@@ -73,14 +137,6 @@
       "summary": "A battalion in the United States Army is reportedly offering soldiers four days off to let them play Grand Theft Auto 6 when it releases this November if they reenlist.",
       "url": "https://www.ign.com/articles/us-army-battalion-reportedly-giving-soldiers-time-off-to-play-gta-6-in-exchange-for-reenlisting",
       "date": "2026-08-17T23:10:03.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Kotaku",
-      "title": "One Army Battalion Reportedly Offering Time Off To Play GTA 6 As Re-Enlistment Bonus",
-      "summary": "Sign a contract to serve more time and you can play GTA 6 for a few days in November",
-      "url": "https://kotaku.com/one-army-battalion-reportedly-offering-time-off-to-play-gta-6-as-re-enlistment-bonus-2000725062",
-      "date": "2026-08-17T19:06:48.000Z"
     },
     {
       "lead": false,
