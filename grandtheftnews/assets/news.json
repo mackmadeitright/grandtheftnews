@@ -1,9 +1,33 @@
 {
-  "updated": "2026-08-18T12:59:06.478Z",
-  "count": 10,
+  "updated": "2026-08-18T15:38:30.940Z",
+  "count": 13,
   "items": [
     {
       "lead": true,
+      "src": "Kotaku",
+      "title": "Fired Rockstar Devs Say Players Should Still Buy GTA 6: ‘Don’t Boycott The Game, Support Our Legal Battle Instead’",
+      "summary": "Workers are instead asking fans to buy shirts to help support their large legal fight against Rockstar later this year",
+      "url": "https://kotaku.com/fired-rockstar-devs-say-players-should-still-buy-gta-6-dont-boycott-the-game-support-our-legal-battle-instead-2000725320",
+      "date": "2026-08-18T14:39:03.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "There's no official GTA 6 headset quite yet, but the LucidSound LS500 gets pretty close with its funky Sunset Paradise design",
+      "summary": "PowerA is giving the LucidSound LS500 wireless headset a makeover that makes it look like it stepped straight out of the streets of GTA Vice City.",
+      "url": "https://www.gamesradar.com/hardware/headsets-headphones/theres-no-official-gta-6-headset-quite-yet-but-the-lucidsound-ls500-gets-pretty-close-with-its-funky-sunset-paradise-design/",
+      "date": "2026-08-18T14:34:20.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Eurogamer",
+      "title": "Don't boycott Grand Theft Auto 6, say workers fired by Rockstar - buy a T-shirt to help fund the legal battle instead",
+      "summary": "The workers fired by Rockstar Games in an alleged 'union-busting' move last autumn have asked people concerned not to boycott the upcoming release of Grand Theft Auto 6 . Read more",
+      "url": "https://www.eurogamer.net/rockstar-workers-dont-boycott-grand-theft-auto-6-support-union-costs",
+      "date": "2026-08-18T13:27:24.000Z"
+    },
+    {
+      "lead": false,
       "src": "GamesRadar",
       "title": "\"Don’t boycott GTA 6,\" fired Rockstar devs say: \"Support our legal battle instead\" and \"win justice for the people who helped make it\"",
       "summary": "The last hearing is due in September",
