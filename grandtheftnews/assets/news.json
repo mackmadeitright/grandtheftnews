@@ -1,9 +1,17 @@
 {
-  "updated": "2026-08-17T21:32:13.935Z",
-  "count": 10,
+  "updated": "2026-08-18T01:41:55.660Z",
+  "count": 11,
   "items": [
     {
       "lead": true,
+      "src": "IGN",
+      "title": "US Army Battalion Reportedly Giving Soldiers Time Off to Play GTA 6 in Exchange for Reenlisting",
+      "summary": "A battalion in the United States Army is reportedly offering soldiers four days off to let them play Grand Theft Auto 6 when it releases this November if they reenlist.",
+      "url": "https://www.ign.com/articles/us-army-battalion-reportedly-giving-soldiers-time-off-to-play-gta-6-in-exchange-for-reenlisting",
+      "date": "2026-08-17T23:10:03.000Z"
+    },
+    {
+      "lead": false,
       "src": "GamesRadar",
       "title": "\"Rockstar literally just spent over a billion dollars\": Ori studio founder wants you to stop demanding 60 FPS on Xbox Series S just because GTA 6 can run on it",
       "summary": "Moon Studios founder Thomas Mahler says games like Ori can't compete with GTA 6 on Xbox Series S",
