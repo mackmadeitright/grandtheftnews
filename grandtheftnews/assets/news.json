@@ -1,9 +1,73 @@
 {
-  "updated": "2026-08-19T09:40:47.342Z",
+  "updated": "2026-08-19T13:00:23.872Z",
   "count": 24,
   "items": [
     {
       "lead": true,
+      "src": "GameSpot",
+      "title": "GTA 6 Leakers Say They Acted For Gamers’ Rights, While Pushing A Memecoin",
+      "summary": "The consumer rights group Stop Killing Games has addressed this week's Grand Theft Auto 6 leaks , urging people not to support the hackers claiming responsibility for leaking footage of the game ahead of its November release. The group released several minutes of what appears to be GTA 6 gameplay, and while develope…",
+      "url": "https://www.gamespot.com/articles/gta-6-leakers-say-they-acted-for-gamers-rights-while-pushing-a-memecoin/",
+      "date": "2026-08-19T12:34:42.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Eurogamer",
+      "title": "The next Binding of Isaac game is going up against Grand Theft Auto 6",
+      "summary": "The Binding of Isaac : Repentance + Online has revealed a release date and it's one you probably have marked on your calendar. The package, a collection of The Binding of Isaac: Rebirth and all previously released add-ons, arrives 19th November on consoles -exactly the same day as Grand Theft Auto 6 . Read more",
+      "url": "https://www.eurogamer.net/the-binding-of-isaac-repentance-plus-online-date",
+      "date": "2026-08-19T11:59:42.000Z"
+    },
+    {
+      "lead": false,
+      "src": "IGN",
+      "title": "GTA 6 Leak Forces Stop Killing Games Movement to Distance Itself From Hacker Manifesto",
+      "summary": "The Stop Killing Games movement has distanced itself from the manifesto published by the alleged group behind last night’s GTA 6 leak, and cast doubt on their motivations.",
+      "url": "https://www.ign.com/articles/gta-6-leak-forces-stop-killing-games-movement-to-distance-itself-from-hacker-manifesto",
+      "date": "2026-08-19T11:39:34.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Eurogamer",
+      "title": "Stop Killing Games urges people not to support GTA 6 leakers, who declared \"gamers' rights\" their motive for action",
+      "summary": "Consumer rights movement Stop Killing Games has released a public statement admonishing the actions of the group which took responsibility for leaking Grand Theft Auto 6 gameplay footage overnight. Read more",
+      "url": "https://www.eurogamer.net/stop-killing-games-gta-6-leak",
+      "date": "2026-08-19T11:25:41.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "New GTA 6 leaked footage is actually years old, alleged leakers claim, so don't expect Rockstar's final product to look like that",
+      "summary": "The Netflix special is only eight days away, y'all",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/new-gta-6-leaked-footage-is-actually-years-old-alleged-leakers-claim-so-dont-expect-rockstars-final-product-to-look-like-that/",
+      "date": "2026-08-19T11:12:01.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "GTA 6 leakers called out by Stop Killing Games after demanding game preservation solutions and physical discs from Rockstar: \"Using illegal means to make a point is unacceptable\"",
+      "summary": "\"This kind of act is destructive and helps no one\"",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-leakers-called-out-by-stop-killing-games-after-demanding-game-preservation-solutions-and-physical-discs-from-rockstar-using-illegal-means-to-make-a-point-is-unacceptable/",
+      "date": "2026-08-19T10:50:28.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Eurogamer",
+      "title": "GTA 6 gameplay footage and map appear to leak online, as group seemingly responsible makes demands of Rockstar",
+      "summary": "What appears to be legitimate gameplay footage of Grand Theft Auto 6 has leaked onto the internet, alongside an alleged image of the game's entire map. Read more",
+      "url": "https://www.eurogamer.net/gta-6-leaked-gameplay-map-cyberleek",
+      "date": "2026-08-19T10:49:16.000Z"
+    },
+    {
+      "lead": false,
+      "src": "PC Gamer",
+      "title": "Fired Rockstar workers say you shouldn't boycott GTA 6 for them: 'We spent years pouring our hard work, skill, and creativity into making GTA'",
+      "summary": "\"That doesn't mean we want you to let Rockstar off the hook.\"",
+      "url": "https://www.pcgamer.com/gaming-industry/fired-rockstar-workers-say-you-shouldnt-boycott-gta-6-for-them-we-spent-years-pouring-our-hard-work-skill-and-creativity-into-making-gta/",
+      "date": "2026-08-19T10:42:27.000Z"
+    },
+    {
+      "lead": false,
       "src": "Polygon",
       "title": "GTA 6 Leaks Confirms Iconic 6-Star Wanted Level System Returns After 13 Years",
       "summary": "Gameplay leaks show GTA 6 has a six star Wanted system, which could signal the return of tank cop chases.",
@@ -36,14 +100,6 @@
     },
     {
       "lead": false,
-      "src": "Polygon",
-      "title": "'GTA 6' Hackers Are Targeting Rockstar's Controversial Decisions",
-      "summary": "Recent Grand Theft Auto 6 gameplay and map leaks are the work of a hacking group claiming to be \"fighting for gamer's rights\"",
-      "url": "https://www.polygon.com/gta-6-hackers-cyberleek-physical-discs/",
-      "date": "2026-08-18T21:09:31.000Z"
-    },
-    {
-      "lead": false,
       "src": "GamesRadar",
       "title": "Apparent GTA 6 leak smells of crypto scam, links to a manifesto demanding digital rights: \"This is not a cash grab\"",
       "summary": "Me when I'm definitely not pulling a cash grab",
@@ -73,14 +129,6 @@
       "summary": "'Preorders were not created for gamers'",
       "url": "https://kotaku.com/gta-6-leak-group-end-digital-pre-orders-2000725477",
       "date": "2026-08-18T20:00:15.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Polygon",
-      "title": "'GTA 6' Map Leak Reveals Size of Rockstar's New Vice City",
-      "summary": "The apparent Grand Theft Auto 6 map of Leonida matches recent teases given by GTA Online by Rockstar itself",
-      "url": "https://www.polygon.com/gta-6-map-leak-rockstar-games/",
-      "date": "2026-08-18T19:53:38.000Z"
     },
     {
       "lead": false,
@@ -124,14 +172,6 @@
     },
     {
       "lead": false,
-      "src": "Kotaku",
-      "title": "Fired Rockstar Devs Say Players Should Still Buy GTA 6: ‘Don’t Boycott The Game, Support Our Legal Battle Instead’",
-      "summary": "Workers are instead asking fans to buy shirts to help support their large legal fight against Rockstar later this year",
-      "url": "https://kotaku.com/fired-rockstar-devs-say-players-should-still-buy-gta-6-dont-boycott-the-game-support-our-legal-battle-instead-2000725320",
-      "date": "2026-08-18T14:39:03.000Z"
-    },
-    {
-      "lead": false,
       "src": "GamesRadar",
       "title": "There's no official GTA 6 headset quite yet, but the LucidSound LS500 gets pretty close with its funky Sunset Paradise design",
       "summary": "PowerA is giving the LucidSound LS500 wireless headset a makeover that makes it look like it stepped straight out of the streets of GTA Vice City.",
@@ -148,51 +188,11 @@
     },
     {
       "lead": false,
-      "src": "GamesRadar",
-      "title": "\"Don’t boycott GTA 6,\" fired Rockstar devs say: \"Support our legal battle instead\" and \"win justice for the people who helped make it\"",
-      "summary": "The last hearing is due in September",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/dont-boycott-gta-6-fired-rockstar-devs-say-support-our-legal-battle-instead-and-win-justice-for-the-people-who-helped-make-it/",
-      "date": "2026-08-18T12:11:03.000Z"
-    },
-    {
-      "lead": false,
       "src": "IGN",
       "title": "Do Not Boycott GTA 6, Fired Rockstar Workers Tell Fans: 'There’s a Better Way to Support Us and Hold Rockstar to Account'",
       "summary": "The first Rockstar workers who are embroiled in a legal battle with the company have told fans they shouldn’t boycott GTA 6 to protest on their behalf.",
       "url": "https://www.ign.com/articles/do-not-boycott-gta-6-fired-rockstar-workers-tell-fans-theres-a-better-way-to-support-us-and-hold-rockstar-to-account",
       "date": "2026-08-18T10:26:00.000Z"
-    },
-    {
-      "lead": false,
-      "src": "IGN",
-      "title": "US Army Battalion Reportedly Giving Soldiers Time Off to Play GTA 6 in Exchange for Reenlisting",
-      "summary": "A battalion in the United States Army is reportedly offering soldiers four days off to let them play Grand Theft Auto 6 when it releases this November if they reenlist.",
-      "url": "https://www.ign.com/articles/us-army-battalion-reportedly-giving-soldiers-time-off-to-play-gta-6-in-exchange-for-reenlisting",
-      "date": "2026-08-17T23:10:03.000Z"
-    },
-    {
-      "lead": false,
-      "src": "PC Gamer",
-      "title": "I'm modding GTA 5 every day until it becomes GTA 6 or breaks, starting with a new vehicle and enough missiles to level a city block",
-      "summary": "Baby steps.",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/im-modding-gta-5-every-day-until-it-becomes-gta-6-or-breaks-starting-with-a-new-vehicle-and-enough-missiles-to-level-a-city-block/",
-      "date": "2026-08-17T17:00:00.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GameSpot",
-      "title": "GTA 6 Does Look A Bit Different In New PS5 Promo",
-      "summary": "Sony is flexing its video game muscle with a new \"It Happens On PS5\" ad campaign , and the one-minute video features arguably the most anticipated title ever: Grand Theft Auto VI . Now, to be clear, there are only snippets of old footage for the open-world experience. But you should know by now that won't stop the i…",
-      "url": "https://www.gamespot.com/articles/gta-6-does-look-a-bit-different-in-new-ps5-promo/",
-      "date": "2026-08-17T16:29:08.000Z"
-    },
-    {
-      "lead": false,
-      "src": "PC Gamer",
-      "title": "Steam Week in Review: Here are the 32 Steam games brave enough to release on GTA 6 day",
-      "summary": "All the interesting Steam facts for the week ending August 16.",
-      "url": "https://www.pcgamer.com/gaming-industry/steam-week-in-review-here-are-the-32-steam-games-brave-enough-to-release-on-gta-6-day/",
-      "date": "2026-08-17T01:43:59.000Z"
     }
   ]
 }
