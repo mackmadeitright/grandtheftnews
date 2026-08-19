@@ -1,9 +1,41 @@
 {
-  "updated": "2026-08-18T21:30:38.455Z",
-  "count": 22,
+  "updated": "2026-08-19T01:44:10.712Z",
+  "count": 24,
   "items": [
     {
       "lead": true,
+      "src": "Polygon",
+      "title": "GTA 6 Leaks Confirms Iconic 6-Star Wanted Level System Returns After 13 Years",
+      "summary": "Gameplay leaks show GTA 6 has a six star Wanted system, which could signal the return of tank cop chases.",
+      "url": "https://www.polygon.com/gta-6-leak-wanted-level-six-stars-five-how-does-it-work-cops-tanks/",
+      "date": "2026-08-19T01:13:33.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Kotaku",
+      "title": "All The New Details We Spotted In The Leaked GTA 6 Videos: Six-Star Wanted Level, Gas Meter, Improved Combat, Boosting Stats With Basketball",
+      "summary": "Rockstar's massive open-world game has leaked once again and revealed some new details in the process",
+      "url": "https://kotaku.com/all-the-new-details-we-spotted-in-the-leaked-gta-6-videos-six-star-wanted-level-gas-meter-improved-combat-boosting-stats-with-basketball-2000725524",
+      "date": "2026-08-18T22:49:48.000Z"
+    },
+    {
+      "lead": false,
+      "src": "PC Gamer",
+      "title": "GTA 6 leaks show a game that looks like more GTA, but not a revolution",
+      "summary": "It sure doesn't look like the reinvention of the wheel(s).",
+      "url": "https://www.pcgamer.com/games/action/gta-6-leaks-show-a-game-that-looks-like-more-gta-but-not-a-revolution/",
+      "date": "2026-08-18T22:49:33.000Z"
+    },
+    {
+      "lead": false,
+      "src": "IGN",
+      "title": "GTA 6 Gameplay and Map Appear to Leak Online, Group Reportedly Responsible Threatens Rockstar Over All-Digital Future",
+      "summary": "Grand Theft Auto 6 appears to have suffered yet another significant leak after what looks like legitimate gameplay videos and an image of the full map appeared online. Rockstar has yet to comment.",
+      "url": "https://www.ign.com/articles/gta-6-gameplay-and-map-appear-to-leak-online-group-reportedly-responsible-threatens-rockstar-over-all-digital-future",
+      "date": "2026-08-18T22:15:13.000Z"
+    },
+    {
+      "lead": false,
       "src": "Polygon",
       "title": "'GTA 6' Hackers Are Targeting Rockstar's Controversial Decisions",
       "summary": "Recent Grand Theft Auto 6 gameplay and map leaks are the work of a hacking group claiming to be \"fighting for gamer's rights\"",
@@ -161,22 +193,6 @@
       "summary": "All the interesting Steam facts for the week ending August 16.",
       "url": "https://www.pcgamer.com/gaming-industry/steam-week-in-review-here-are-the-32-steam-games-brave-enough-to-release-on-gta-6-day/",
       "date": "2026-08-17T01:43:59.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Eurogamer",
-      "title": "GTA 6 might not cost $100, but most of the people pre-ordering it are buying it at that price, Take-Two reveals",
-      "summary": "Though many may baulk at the idea of paying $100 (&pound;90) for a game, a lot of the people who pre-ordered Grand Theft Auto 6 bought the more expensive Ultimate edition rather than the $80 (&pound;70) Standard edition. That's according to Strauss Zelnick, CEO of Rockstar parent company Take-Two. Read more",
-      "url": "https://www.eurogamer.net/gta-6-pre-orders-ultimate-edition-100-dollars",
-      "date": "2026-08-11T10:42:09.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Eurogamer",
-      "title": "\"I'm sure you're going to watch it because everyone is\" - GTA 6 premiering on Netflix represents Rockstar \"trying new things\", says Take-Two boss",
-      "summary": "One of the most surprising things about Rockstar's Grand Theft Auto 6 trailer tease last week was word that it will premiere on subscription-based service Netflix - a move I can't ever remember another game company doing. Read more",
-      "url": "https://www.eurogamer.net/take-two-boss-gta-6-netflix-trailer",
-      "date": "2026-08-10T10:22:30.000Z"
     }
   ]
 }
