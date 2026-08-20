@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-20T06:57:11.568Z",
+  "updated": "2026-08-20T09:41:51.152Z",
   "count": 24,
   "items": [
     {
@@ -124,14 +124,6 @@
     },
     {
       "lead": false,
-      "src": "IGN",
-      "title": "GTA 6 Leak Forces Stop Killing Games Movement to Distance Itself From Hacker Manifesto",
-      "summary": "The Stop Killing Games movement has distanced itself from the manifesto published by the alleged group behind last night’s GTA 6 leak, and cast doubt on their motivations.",
-      "url": "https://www.ign.com/articles/gta-6-leak-forces-stop-killing-games-movement-to-distance-itself-from-hacker-manifesto",
-      "date": "2026-08-19T11:39:34.000Z"
-    },
-    {
-      "lead": false,
       "src": "Eurogamer",
       "title": "Stop Killing Games urges people not to support GTA 6 leakers, who declared \"gamers' rights\" their motive for action",
       "summary": "Consumer rights movement Stop Killing Games has released a public statement admonishing the actions of the group which took responsibility for leaking Grand Theft Auto 6 gameplay footage overnight. Read more",
@@ -193,6 +185,14 @@
       "summary": "A manifesto threatens to target not just the GTA 6 makers, but everyone who violates Cyberleek's \"three commandments.\"",
       "url": "https://www.pcgamer.com/games/grand-theft-auto/grand-theft-auto-6-leaker-says-they-wont-stop-until-rockstar-and-take-two-apologize-for-anti-consumerism-and-make-a-concrete-commitment-to-do-better/",
       "date": "2026-08-18T20:39:51.000Z"
+    },
+    {
+      "lead": false,
+      "src": "PC Gamer",
+      "title": "15 details from the new GTA 6 leaks, including a possible morality system and stamina meter",
+      "summary": "A fresh set of GTA 6 leaks has sloshed onto the internet. Their authenticity is unknown, but they look real—here's what we've gleaned from them.",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-video-leak-analysis-august-2026/",
+      "date": "2026-08-18T20:10:52.000Z"
     }
   ]
 }
