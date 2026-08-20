@@ -1,9 +1,25 @@
 {
-  "updated": "2026-08-20T18:50:50.889Z",
+  "updated": "2026-08-20T21:34:36.751Z",
   "count": 24,
   "items": [
     {
       "lead": true,
+      "src": "PC Gamer",
+      "title": "Who is Cyberleek? What we know about the GTA 6 leaker",
+      "summary": "Someone is posting Grand Theft Auto 6 footage under the name \"Cyberleek.\" They may not be anonymous for long.",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/who-is-cyberleek-what-we-know-about-the-gta-6-leaker/",
+      "date": "2026-08-20T21:09:46.000Z"
+    },
+    {
+      "lead": false,
+      "src": "IGN",
+      "title": "Malware Disguised as Leaked GTA 6 Copies Are Popping Up on Piracy Sites",
+      "summary": "No, despite claims online, there is not a downloadable and playable build of GTA 6 floating around on piracy sites.",
+      "url": "https://www.ign.com/articles/malware-disguised-as-leaked-gta-6-copies-are-popping-up-on-piracy-sites",
+      "date": "2026-08-20T21:05:00.000Z"
+    },
+    {
+      "lead": false,
       "src": "GameSpot",
       "title": "Best Buy Is Offering $100 Gift Cards For $60 This Weekend, And That’s Great If You Want GTA 6’s Premium Edition",
       "summary": "To celebrate its 60th anniversary, retailer Best Buy is offering $100 gift cards for only $60, and the timing is great if you want the $100 Ultimate Edition of GTA 6. The offer is good for one day only, August 22, and you'll need to visit a store in person to get the gift card. Additionally, Best Buy said quantities…",
@@ -140,14 +156,6 @@
     },
     {
       "lead": false,
-      "src": "Kotaku",
-      "title": "The First Big GTA 6 Debate Is Here: Cars Needing Gas",
-      "summary": "Should cars in Grand Theft Auto games need to be refilled at gas stations? Fans have been debating that topic for decades",
-      "url": "https://kotaku.com/the-first-big-gta-6-debate-is-here-cars-needing-gas-2000725870",
-      "date": "2026-08-19T16:30:07.000Z"
-    },
-    {
-      "lead": false,
       "src": "GameSpot",
       "title": "New GTA 6 Leak Features Shocking Gameplay Footage, And We Mean That Literally",
       "summary": "The second day of apparent Grand Theft Auto VI leaks has started with a new gameplay clip focused on Jason Duval. There's bad driving, a well-known pop song, and multiple people shot by a taser-like weapon. The video even ends with a cutscene in which Jason has a beer on a boat with his buddy, Cal Hampton. Kotaku sp…",
@@ -185,14 +193,6 @@
       "summary": "What appears to be legitimate gameplay footage of Grand Theft Auto 6 has leaked onto the internet, alongside an alleged image of the game's entire map. Read more",
       "url": "https://www.eurogamer.net/gta-6-leaked-gameplay-map-cyberleek",
       "date": "2026-08-19T10:49:16.000Z"
-    },
-    {
-      "lead": false,
-      "src": "PC Gamer",
-      "title": "Fired Rockstar workers say you shouldn't boycott GTA 6 for them: 'We spent years pouring our hard work, skill, and creativity into making GTA'",
-      "summary": "\"That doesn't mean we want you to let Rockstar off the hook.\"",
-      "url": "https://www.pcgamer.com/gaming-industry/fired-rockstar-workers-say-you-shouldnt-boycott-gta-6-for-them-we-spent-years-pouring-our-hard-work-skill-and-creativity-into-making-gta/",
-      "date": "2026-08-19T10:42:27.000Z"
     }
   ]
 }
