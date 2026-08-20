@@ -1,9 +1,25 @@
 {
-  "updated": "2026-08-20T13:02:59.752Z",
+  "updated": "2026-08-20T15:40:15.285Z",
   "count": 24,
   "items": [
     {
       "lead": true,
+      "src": "Kotaku",
+      "title": "Rockstar Games Hasn’t Posted Anything Online In 48 Hours As GTA 6 Leaks Keep Getting Worse",
+      "summary": "The company hasn't posted anything on any of its official channels or pages since Tuesday",
+      "url": "https://kotaku.com/rockstar-games-hasnt-posted-anything-online-in-48-hours-as-gta-6-leaks-keep-getting-worse-2000726182",
+      "date": "2026-08-20T15:15:33.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "GTA 6's leaks prove AI disinformation is more rampant than you think",
+      "summary": "You think you've seen the GTA 6 leaks, but are you sure they're not AI generated?",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6s-leaks-prove-ai-disinformation-is-more-rampant-than-you-think/",
+      "date": "2026-08-20T15:00:00.000Z"
+    },
+    {
+      "lead": false,
       "src": "GamesRadar",
       "title": "GTA 6 leaks go from bad to worse for Rockstar as new footage suggests leaker has access to a playable build",
       "summary": "Some fans are already worried about spoilers, three months out from launch",
@@ -17,14 +33,6 @@
       "summary": "We also get a sense of the scale and intricacy of the game's cities, and a glimpse of the radio stations",
       "url": "https://kotaku.com/gta-6-footage-playable-build-cyberleek-radio-stations-flying-2000726124",
       "date": "2026-08-20T11:51:04.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Polygon",
-      "title": "GTA 6 Leaker May Have a Playable Copy of the Game",
-      "summary": "Cyberleek, the alias behind the GTA 6 leaks, seemingly has a playable build of the game, according to the latest video.",
-      "url": "https://www.polygon.com/gta-6-leaks-playable-build/",
-      "date": "2026-08-20T11:47:04.000Z"
     },
     {
       "lead": false,
@@ -89,14 +97,6 @@
       "summary": "The second day of apparent Grand Theft Auto VI leaks has started with a new gameplay clip focused on Jason Duval. There's bad driving, a well-known pop song, and multiple people shot by a taser-like weapon. The video even ends with a cutscene in which Jason has a beer on a boat with his buddy, Cal Hampton. Kotaku sp…",
       "url": "https://www.gamespot.com/articles/new-gta-6-leak-features-shocking-gameplay-footage-and-we-mean-that-literally/",
       "date": "2026-08-19T16:09:42.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "I thought digital-only games would stop leaks, but GTA 6 just proved me wrong",
-      "summary": "Maybe it's time to go back to floppy discs after all",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/i-thought-digital-only-games-would-stop-leaks-but-gta-6-just-proved-me-wrong/",
-      "date": "2026-08-19T15:42:35.000Z"
     },
     {
       "lead": false,
