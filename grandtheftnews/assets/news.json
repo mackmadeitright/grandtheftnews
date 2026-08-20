@@ -1,9 +1,17 @@
 {
-  "updated": "2026-08-19T21:32:15.872Z",
+  "updated": "2026-08-20T01:42:55.834Z",
   "count": 24,
   "items": [
     {
       "lead": true,
+      "src": "Polygon",
+      "title": "GTA 6 Is Too Big For These Leaks To Hurt It",
+      "summary": "New GTA 6 leaks may be insulting to developer Rockstar Games, but the open-world crime epic is too big to field much damage.",
+      "url": "https://www.polygon.com/gta-6-leaks-rockstar-games-impact/",
+      "date": "2026-08-19T21:44:19.000Z"
+    },
+    {
+      "lead": false,
       "src": "PC Gamer",
       "title": "GTA 6 cars need gas? OK, I'm finally on board",
       "summary": "It's about time GTA evolved.",
@@ -185,14 +193,6 @@
       "summary": "A manifesto threatens to target not just the GTA 6 makers, but everyone who violates Cyberleek's \"three commandments.\"",
       "url": "https://www.pcgamer.com/games/grand-theft-auto/grand-theft-auto-6-leaker-says-they-wont-stop-until-rockstar-and-take-two-apologize-for-anti-consumerism-and-make-a-concrete-commitment-to-do-better/",
       "date": "2026-08-18T20:39:51.000Z"
-    },
-    {
-      "lead": false,
-      "src": "PC Gamer",
-      "title": "15 details from the new GTA 6 leaks, including a possible morality system and stamina meter",
-      "summary": "A fresh set of GTA 6 leaks has sloshed onto the internet. Their authenticity is unknown, but they look real—here's what we've gleaned from them.",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-video-leak-analysis-august-2026/",
-      "date": "2026-08-18T20:10:52.000Z"
     }
   ]
 }
