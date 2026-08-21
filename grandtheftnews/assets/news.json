@@ -1,9 +1,81 @@
 {
-  "updated": "2026-08-21T15:40:22.577Z",
+  "updated": "2026-08-21T18:47:54.215Z",
   "count": 24,
   "items": [
     {
       "lead": true,
+      "src": "Kotaku",
+      "title": "Fan Thinks They’ve Tracked Down The GTA 6 Leaker’s Crypto Wallet, And That It’s Only A Matter Of Time Before Rockstar Catches Them",
+      "summary": "'The person behind this leak is making a substantial amount of money'",
+      "url": "https://kotaku.com/gta-6-leaks-crypto-scam-2000726671",
+      "date": "2026-08-21T17:40:22.000Z"
+    },
+    {
+      "lead": false,
+      "src": "PC Gamer",
+      "title": "Don't tell Nintendo, but I turned GTA 5 into Pokémon Go using a mod",
+      "summary": "Also, probably don't tell Rockstar.",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/dont-tell-nintendo-but-i-turned-gta-5-into-pokemon-go-using-a-mod/",
+      "date": "2026-08-21T17:00:00.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Polygon",
+      "title": "'GTA 6' Leaks Lead Desperate Fans To Get Trolled in the Most Ridiculous Way Possible",
+      "summary": "GTA 6 fans are being duped by fake hackers claiming to have access to Lucia's ending",
+      "url": "https://www.polygon.com/gta-6-reddit-lucia-ending-leak-bikini-unmoderated-jason-fake/",
+      "date": "2026-08-21T16:40:44.000Z"
+    },
+    {
+      "lead": false,
+      "src": "IGN",
+      "title": "YouTuber Named in Take-Two GTA 6 Leaker Subpoena Insists He Did Nothing Wrong",
+      "summary": "The YouTuber named in Take-Two's GTA 6 leaker subpoena has denied any wrongdoing.",
+      "url": "https://www.ign.com/articles/youtuber-named-in-take-two-gta-6-leaker-subpoena-insists-he-did-nothing-wrong",
+      "date": "2026-08-21T16:29:05.000Z"
+    },
+    {
+      "lead": false,
+      "src": "PC Gamer",
+      "title": "Take-Two kicks off GTA 6 leaker hunt with subpoenas demanding records from Microsoft and Discord",
+      "summary": "Meanwhile, another new Grand Theft Auto 6 leak dropped today.",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/take-two-kicks-off-gta-6-leaker-hunt-with-subpoenas-demanding-records-from-microsoft-and-discord/",
+      "date": "2026-08-21T16:10:58.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GameSpot",
+      "title": "Grand Theft Auto 6 Leaks Are Fueling A Crypto Pump-And-Dump Scheme",
+      "summary": "As Grand Theft Auto 6 continues to leak via small snippets of gameplay, you might be wondering why each video is plastered with watermarks for a meme coin ? It turns out while you're enjoying the early look at Rockstar's latest project, others are literally profiting off of the virality. Each of the leaked gameplay…",
+      "url": "https://www.gamespot.com/articles/grand-theft-auto-6-leaks-are-fueling-a-crypto-pump-and-dump-scheme/",
+      "date": "2026-08-21T16:01:07.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "I've fallen for GTA RP, and it shows what the future of GTA 6 Online could be",
+      "summary": "I need GTA 6 Online to steal the roleplaying servers' best bits – or maybe it already has?",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/ive-fallen-for-gta-rp-and-it-shows-what-the-future-of-gta-6-online-could-be/",
+      "date": "2026-08-21T16:00:00.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Eurogamer",
+      "title": "Take-Two's legal action to find GTA 6 leaker begins, as it subpoenas Microsoft and Discord for any data \"sufficient to identify the users person\"",
+      "summary": "The hunt for the GTA 6 leaker is on. Take-Two has reportedly filed multiple subpoenas in a federal district court to force information out of Microsoft and Discord related to anything - OneDrive data, Xbox accounts, or Discord users - that might reveal who leaked GTA 6 gameplay videos online. Read more",
+      "url": "https://www.eurogamer.net/take-two-legal-action-gta-6-leeks-cyberleek",
+      "date": "2026-08-21T15:55:19.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "Frustrated with GTA 6 leaks, Rockstar fans dig up Gabe Newell's \"I play games to have fun\" rant – and miss the most important part",
+      "summary": "\"I have never thought to myself that realism is fun. I go play games to have fun,\" said Newell",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/frustrated-with-gta-6-leaks-rockstar-fans-dig-up-gabe-newells-i-play-games-to-have-fun-rant-and-miss-the-most-important-part/",
+      "date": "2026-08-21T15:46:32.000Z"
+    },
+    {
+      "lead": false,
       "src": "PC Gamer",
       "title": "Yes, the GTA 6 leaked footage was probably running on PC, and no, that doesn't tell us a whole lot about the eventual release",
       "summary": "The party pooper has arrived.",
@@ -54,7 +126,7 @@
       "lead": false,
       "src": "IGN",
       "title": "Take-Two Seeks Information From Microsoft and Discord in Hunt for GTA 6 Leaker, Files Multiple Subpoenas in Federal Court",
-      "summary": "Take-Two has issued multiple subpoenas in a federal court requesting information from both Microsoft and Discord as it hunts the leaker or leakers behind the recent spate of GTA 6 gameplay videos.",
+      "summary": "Take-Two has issued a subpoena in a federal court requesting information from both Microsoft and Discord as it hunts the leaker or leakers behind the recent spate of GTA 6 gameplay videos.",
       "url": "https://www.ign.com/articles/take-two-seeks-information-from-microsoft-and-discord-in-hunt-for-gta-6-leaker-files-multiple-subpoenas-in-federal-court",
       "date": "2026-08-21T14:29:30.000Z"
     },
@@ -69,7 +141,7 @@
     {
       "lead": false,
       "src": "Kotaku",
-      "title": "Take-Two Subpoenas Trove Of Records From Microsoft And Discord As It Hunts For GTA 6 Leaker",
+      "title": "Take-Two Asks Court To Subpoena Trove Of Records From Microsoft And Discord As It Hunts For GTA 6 Leaker",
       "summary": "The hunt is on to find out who's behind an unprecedented spree of GTA 6 leaks",
       "url": "https://kotaku.com/take-two-subpoenas-microsoft-and-discord-records-related-to-spread-of-gta-6-leaks-2000726633",
       "date": "2026-08-21T13:44:20.000Z"
@@ -89,14 +161,6 @@
       "summary": "Plus we've got some updates on two different PC ports of GTA Vice City Stories",
       "url": "https://kotaku.com/real-gta-6-leaks-are-hard-to-spot-in-2026-due-to-all-the-ai-fakes-2000726212",
       "date": "2026-08-21T11:00:22.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Polygon",
-      "title": "GTA 6 Leaks Could Be Part of a Big Crypto Scheme",
-      "summary": "Armchair detectives have dug deep into Cyberleek, the GTA leaker, and may have discovered a possible crypto scheme.",
-      "url": "https://www.polygon.com/gta-6-leaks-cyberleek-crypto-scheme/",
-      "date": "2026-08-21T10:30:56.000Z"
     },
     {
       "lead": false,
@@ -129,70 +193,6 @@
       "summary": "Someone is posting Grand Theft Auto 6 footage under the name \"Cyberleek.\" They may not be anonymous for long.",
       "url": "https://www.pcgamer.com/games/grand-theft-auto/who-is-cyberleek-what-we-know-about-the-gta-6-leaker/",
       "date": "2026-08-20T21:09:46.000Z"
-    },
-    {
-      "lead": false,
-      "src": "IGN",
-      "title": "Malware Disguised as Leaked GTA 6 Copies Are Popping Up on Piracy Sites",
-      "summary": "No, despite claims online, there is not a downloadable and playable build of GTA 6 floating around on piracy sites.",
-      "url": "https://www.ign.com/articles/malware-disguised-as-leaked-gta-6-copies-are-popping-up-on-piracy-sites",
-      "date": "2026-08-20T21:05:00.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GameSpot",
-      "title": "Best Buy Is Offering $100 Gift Cards For $60 This Weekend, And That’s Great If You Want GTA 6’s Premium Edition",
-      "summary": "To celebrate its 60th anniversary, retailer Best Buy is offering $100 gift cards for only $60, and the timing is great if you want the $100 Ultimate Edition of GTA 6. The offer is good for one day only, August 22, and you'll need to visit a store in person to get the gift card. Additionally, Best Buy said quantities…",
-      "url": "https://www.gamespot.com/articles/best-buy-is-offering-100-gift-cards-for-60-this-weekend-and-thats-great-if-you-want-gta-6s-premium-edition/",
-      "date": "2026-08-20T18:40:52.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GameSpot",
-      "title": "Step Aside, GTA 6 Leaks, We Have To Talk About Zork",
-      "summary": "Ongoing GTA 6 leaks might be the biggest gaming news story happening right now, but there's something much more important to discuss: Zork. We finally know what From Software's new Switch 2 exclusive, The Duskbloods, actually is , and among the many details we've gotten is a reveal of some of the game's playable cha…",
-      "url": "https://www.gamespot.com/articles/step-aside-gta-6-leaks-we-have-to-talk-about-zork/",
-      "date": "2026-08-20T18:01:13.000Z"
-    },
-    {
-      "lead": false,
-      "src": "PC Gamer",
-      "title": "The latest GTA 6 leak confirms the leaker likely has or had access to a playable build",
-      "summary": "The new video is maybe the most impressive yet, but it's the ending that spells potential trouble for Rockstar and Take-Two.",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/the-latest-gta-6-leak-confirms-the-leaker-likely-has-or-had-access-to-a-playable-build/",
-      "date": "2026-08-20T16:45:31.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "GTA 6 map leak is \"100% real,\" say fans who've spent years painstakingly mapping Rockstar's open-world game by hand",
-      "summary": "\"There is literally no way someone fabricated this\"",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-map-leak-is-100-percent-real-say-fans-whove-spent-years-painstakingly-mapping-rockstars-open-world-game-by-hand/",
-      "date": "2026-08-20T16:12:37.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GameSpot",
-      "title": "GTA 6 Leaker Might Have Playable Build Of The Game",
-      "summary": "Here we go again: A new day means new apparent leaked footage of Grand Theft Auto VI . In fact, one of the latest clips appears to show that the person sharing these videos has access to a playable build of the open-world game. The leaker, who goes by CyberLeek on social media, posted an alleged gameplay video in wh…",
-      "url": "https://www.gamespot.com/articles/gta-6-leaker-might-have-playable-build-of-the-game/",
-      "date": "2026-08-20T16:12:19.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GameSpot",
-      "title": "Game Companies Could Learn Wrong Lessons From GTA 6’s $80 Price, Analyst Says",
-      "summary": "Gaming has never been more expensive. We're here to investigate why, and help you play more while spending less. Welcome to GameSpot Cheap Week . Grand Theft Auto 6's standard edition will retail for $80, and as the highest-profile game to set its price this high, players are likely wondering if other game publisher…",
-      "url": "https://www.gamespot.com/articles/game-companies-could-learn-wrong-lessons-from-gta-6s-80-price-analyst-says/",
-      "date": "2026-08-20T16:00:00.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GameSpot",
-      "title": "Take-Two Loses Billions In Market Value Since GTA 6 Leaks Began",
-      "summary": "GTA 6 is set for a big reveal on August 27 with an extended trailer coming to Netflix, but ahead of that, alleged gameplay footage is leaking everywhere . The leaks began earlier this week, and Rockstar owner Take-Two's stock price has fallen this week as well. Take-Two has seen its total market cap lose billions, a…",
-      "url": "https://www.gamespot.com/articles/take-two-loses-billions-in-market-value-since-gta-6-leaks-began/",
-      "date": "2026-08-20T15:53:48.000Z"
     }
   ]
 }
