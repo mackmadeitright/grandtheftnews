@@ -1,9 +1,33 @@
 {
-  "updated": "2026-08-21T09:44:25.094Z",
+  "updated": "2026-08-21T13:02:03.564Z",
   "count": 24,
   "items": [
     {
       "lead": true,
+      "src": "IGN",
+      "title": "Grand Theft Auto Fan Uses Digital Forensics Expertise to Expose GTA 6 Leaker's Crypto Scheme",
+      "summary": "A Grand Theft Auto fan has exposed what very much looks like a cryptocurrency scheme underpinning this week’s GTA 6 leaks.",
+      "url": "https://www.ign.com/articles/grand-theft-auto-fan-uses-digital-forensics-expertise-to-expose-gta-6-leakers-crypto-scheme",
+      "date": "2026-08-21T11:33:47.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Kotaku",
+      "title": "Real GTA 6 Leaks Are Hard To Spot In 2026 Due To All The AI Fakes",
+      "summary": "Plus we've got some updates on two different PC ports of GTA Vice City Stories",
+      "url": "https://kotaku.com/real-gta-6-leaks-are-hard-to-spot-in-2026-due-to-all-the-ai-fakes-2000726212",
+      "date": "2026-08-21T11:00:22.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Polygon",
+      "title": "GTA 6 Leaks Could Be Part of a Big Crypto Scheme",
+      "summary": "Armchair detectives have dug deep into Cyberleek, the GTA leaker, and may have discovered a possible crypto scheme.",
+      "url": "https://www.polygon.com/gta-6-leaks-cyberleek-crypto-scheme/",
+      "date": "2026-08-21T10:30:56.000Z"
+    },
+    {
+      "lead": false,
       "src": "PC Gamer",
       "title": "OK, Vice City does look pretty damn impressive from the air",
       "summary": "If the latest GTA 6 leak is legit, its world is clearly unprecedented in scale and density.",
@@ -116,14 +140,6 @@
     },
     {
       "lead": false,
-      "src": "GamesRadar",
-      "title": "GTA 6 leaks go from bad to worse for Rockstar as new footage suggests leaker has access to a playable build",
-      "summary": "Some fans are already worried about spoilers, three months out from launch",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-leaks-go-from-bad-to-worse-for-rockstar-as-new-footage-suggests-leaker-has-access-to-a-playable-build/",
-      "date": "2026-08-20T11:56:31.000Z"
-    },
-    {
-      "lead": false,
       "src": "Eurogamer",
       "title": "GTA 6 leaker shares footage suggesting link or access to playable build of the game, as Rockstar struggles to contain even more gameplay videos",
       "summary": "UPDATE 1PM BST: A previous version of this article erroneously suggested the leaker had \"full access\" to the GTA 6 game, based on the declaration of what appears to be an impersonating social media account. Read more",
@@ -177,22 +193,6 @@
       "summary": "The second day of apparent Grand Theft Auto VI leaks has started with a new gameplay clip focused on Jason Duval. There's bad driving, a well-known pop song, and multiple people shot by a taser-like weapon. The video even ends with a cutscene in which Jason has a beer on a boat with his buddy, Cal Hampton. Kotaku sp…",
       "url": "https://www.gamespot.com/articles/new-gta-6-leak-features-shocking-gameplay-footage-and-we-mean-that-literally/",
       "date": "2026-08-19T16:09:42.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Eurogamer",
-      "title": "Third seemingly real GTA 6 video leaks as Rockstar scrambles to remove footage from the internet",
-      "summary": "Another video of what appears to be legitimate Grand Theft Auto 6 gameplay has leaked online, and again it bears the watermark of the group allegedly connected with today's earlier leaks, CyberLeek. Read more",
-      "url": "https://www.eurogamer.net/third-leaked-gta-6-footage-rockstar-cyberleek",
-      "date": "2026-08-19T15:26:15.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Eurogamer",
-      "title": "The next Binding of Isaac game is going up against Grand Theft Auto 6",
-      "summary": "The Binding of Isaac : Repentance + Online has revealed a release date and it's one you probably have marked on your calendar. The package, a collection of The Binding of Isaac: Rebirth and all previously released add-ons, arrives 19th November on consoles -exactly the same day as Grand Theft Auto 6 . Read more",
-      "url": "https://www.eurogamer.net/the-binding-of-isaac-repentance-plus-online-date",
-      "date": "2026-08-19T11:59:42.000Z"
     }
   ]
 }
