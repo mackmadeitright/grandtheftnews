@@ -1,9 +1,41 @@
 {
-  "updated": "2026-08-20T21:34:36.751Z",
+  "updated": "2026-08-21T01:48:04.916Z",
   "count": 24,
   "items": [
     {
       "lead": true,
+      "src": "PC Gamer",
+      "title": "OK, Vice City does look pretty damn impressive from the air",
+      "summary": "If the latest GTA 6 leak is legit, its world is clearly unprecedented in scale and density.",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/ok-vice-city-does-look-pretty-damn-impressive-from-the-air/",
+      "date": "2026-08-21T00:03:35.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Polygon",
+      "title": "US Army Is Officially Using 'GTA 6' Time as a Reenlistment Incentive",
+      "summary": "The unusual perk comes as anticipation around Rockstar’s long-awaited sequel reaches fever pitch.",
+      "url": "https://www.polygon.com/gta-6-us-army-reenlistment-rockstar-games-release-date/",
+      "date": "2026-08-20T23:06:08.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Kotaku",
+      "title": "Jason Flying A Plane In The New GTA 6 Leak Has Me More Excited Than Any Previous Trailer",
+      "summary": "And I'm not alone in my hype, as fans are also impressed by the footage of a plane flying over Vice City",
+      "url": "https://kotaku.com/jason-flying-a-plane-in-the-new-gta-6-leak-has-me-more-excited-than-any-previous-trailer-2000726316",
+      "date": "2026-08-20T22:05:18.000Z"
+    },
+    {
+      "lead": false,
+      "src": "PC Gamer",
+      "title": "US Army confirms it's offering 4 days to play GTA 6 to soldiers who reenlist for at least 2 years",
+      "summary": "This, apparently, is pretty normal stuff.",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/us-army-confirms-its-offering-4-days-to-play-gta-6-to-soldiers-who-reenlist-for-at-least-2-years/",
+      "date": "2026-08-20T21:43:32.000Z"
+    },
+    {
+      "lead": false,
       "src": "PC Gamer",
       "title": "Who is Cyberleek? What we know about the GTA 6 leaker",
       "summary": "Someone is posting Grand Theft Auto 6 footage under the name \"Cyberleek.\" They may not be anonymous for long.",
@@ -161,38 +193,6 @@
       "summary": "The second day of apparent Grand Theft Auto VI leaks has started with a new gameplay clip focused on Jason Duval. There's bad driving, a well-known pop song, and multiple people shot by a taser-like weapon. The video even ends with a cutscene in which Jason has a beer on a boat with his buddy, Cal Hampton. Kotaku sp…",
       "url": "https://www.gamespot.com/articles/new-gta-6-leak-features-shocking-gameplay-footage-and-we-mean-that-literally/",
       "date": "2026-08-19T16:09:42.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Eurogamer",
-      "title": "Third seemingly real GTA 6 video leaks as Rockstar scrambles to remove footage from the internet",
-      "summary": "Another video of what appears to be legitimate Grand Theft Auto 6 gameplay has leaked online, and again it bears the watermark of the group allegedly connected with today's earlier leaks, CyberLeek. Read more",
-      "url": "https://www.eurogamer.net/third-leaked-gta-6-footage-rockstar-cyberleek",
-      "date": "2026-08-19T15:26:15.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Eurogamer",
-      "title": "The next Binding of Isaac game is going up against Grand Theft Auto 6",
-      "summary": "The Binding of Isaac : Repentance + Online has revealed a release date and it's one you probably have marked on your calendar. The package, a collection of The Binding of Isaac: Rebirth and all previously released add-ons, arrives 19th November on consoles -exactly the same day as Grand Theft Auto 6 . Read more",
-      "url": "https://www.eurogamer.net/the-binding-of-isaac-repentance-plus-online-date",
-      "date": "2026-08-19T11:59:42.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Eurogamer",
-      "title": "Stop Killing Games urges people not to support GTA 6 leakers, who declared \"gamers' rights\" their motive for action",
-      "summary": "Consumer rights movement Stop Killing Games has released a public statement admonishing the actions of the group which took responsibility for leaking Grand Theft Auto 6 gameplay footage overnight. Read more",
-      "url": "https://www.eurogamer.net/stop-killing-games-gta-6-leak",
-      "date": "2026-08-19T11:25:41.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Eurogamer",
-      "title": "GTA 6 gameplay footage and map appear to leak online, as group seemingly responsible makes demands of Rockstar",
-      "summary": "What appears to be legitimate gameplay footage of Grand Theft Auto 6 has leaked onto the internet, alongside an alleged image of the game's entire map. Read more",
-      "url": "https://www.eurogamer.net/gta-6-leaked-gameplay-map-cyberleek",
-      "date": "2026-08-19T10:49:16.000Z"
     }
   ]
 }
