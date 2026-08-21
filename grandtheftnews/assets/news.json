@@ -1,9 +1,81 @@
 {
-  "updated": "2026-08-21T13:02:03.564Z",
+  "updated": "2026-08-21T15:40:22.577Z",
   "count": 24,
   "items": [
     {
       "lead": true,
+      "src": "PC Gamer",
+      "title": "Yes, the GTA 6 leaked footage was probably running on PC, and no, that doesn't tell us a whole lot about the eventual release",
+      "summary": "The party pooper has arrived.",
+      "url": "https://www.pcgamer.com/hardware/yes-the-gta-6-leaked-footage-was-probably-running-on-pc-and-no-that-doesnt-tell-us-a-whole-lot-about-the-eventual-release/",
+      "date": "2026-08-21T15:36:52.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Polygon",
+      "title": "GTA 6 Leaks: Take-Two Goes After Microsoft, Discord in New Legal Action",
+      "summary": "Take-Two Interactive has issued subpoenas to Microsoft and Discord in an attempt to find the identity of Cyberleek, known as the GTA 6 leaker.",
+      "url": "https://www.polygon.com/gta-6-leaks-microsoft-discord-subpoenas-rockstar-games/",
+      "date": "2026-08-21T15:31:02.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Kotaku",
+      "title": "GTA 6 Leaker Continues Taunting With Fresh Footage Of Hyper-Realistic Streets",
+      "summary": "Seriously, those puddles",
+      "url": "https://kotaku.com/gta-6-leaker-continues-taunting-with-fresh-footage-of-hyper-realistic-streets-2000726645",
+      "date": "2026-08-21T15:02:02.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GameSpot",
+      "title": "Microsoft And Discord Subpoenaed In GTA 6 Leak Case",
+      "summary": "Many alleged clips of Grand Theft Auto 6 gameplay have leaked online this week, showing everything from combat to basketball, and Rockstar's parent company Take-Two is scrambling to figure out just how it happened. Now, the publisher has subpoenaed both Microsoft and Discord in order to investigate potential users i…",
+      "url": "https://www.gamespot.com/articles/microsoft-and-discord-subpoenaed-in-gta-6-leak-case/",
+      "date": "2026-08-21T14:57:53.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "To \"obtain the identity\" of GTA 6 leaker, Rockstar parent Take-Two subpoenas Microsoft and Discord as yet more gameplay footage is posted",
+      "summary": "They're coming, Cyberleek",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/to-obtain-the-identity-of-gta-6-leaker-rockstar-parent-take-two-subpoenas-microsoft-and-discord-as-yet-more-gameplay-footage-is-posted/",
+      "date": "2026-08-21T14:53:11.000Z"
+    },
+    {
+      "lead": false,
+      "src": "PC Gamer",
+      "title": "Cyberleek's still at it: Another GTA 6 leak shows 2 full minutes of high speed driving, surprisingly few crashes",
+      "summary": "The latest video features a new threat: \"HIGHER MARKETCAP = MORE LEEKS.\"",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/cyberleeks-still-at-it-another-gta-6-leak-shows-2-full-minutes-of-high-speed-driving-surprisingly-few-crashes/",
+      "date": "2026-08-21T14:38:03.000Z"
+    },
+    {
+      "lead": false,
+      "src": "IGN",
+      "title": "Take-Two Seeks Information From Microsoft and Discord in Hunt for GTA 6 Leaker, Files Multiple Subpoenas in Federal Court",
+      "summary": "Take-Two has issued multiple subpoenas in a federal court requesting information from both Microsoft and Discord as it hunts the leaker or leakers behind the recent spate of GTA 6 gameplay videos.",
+      "url": "https://www.ign.com/articles/take-two-seeks-information-from-microsoft-and-discord-in-hunt-for-gta-6-leaker-files-multiple-subpoenas-in-federal-court",
+      "date": "2026-08-21T14:29:30.000Z"
+    },
+    {
+      "lead": false,
+      "src": "PC Gamer",
+      "title": "Take-Two lost $2.8 billion in market cap after GTA 6 leaks—but what's more shocking to me is it probably barely felt it",
+      "summary": "Small pennies to Zelnick.",
+      "url": "https://www.pcgamer.com/gaming-industry/take-two-lost-usd2-8-billion-in-market-cap-after-gta-6-leaks-but-whats-more-shocking-to-me-is-it-probably-barely-felt-it/",
+      "date": "2026-08-21T13:50:49.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Kotaku",
+      "title": "Take-Two Subpoenas Trove Of Records From Microsoft And Discord As It Hunts For GTA 6 Leaker",
+      "summary": "The hunt is on to find out who's behind an unprecedented spree of GTA 6 leaks",
+      "url": "https://kotaku.com/take-two-subpoenas-microsoft-and-discord-records-related-to-spread-of-gta-6-leaks-2000726633",
+      "date": "2026-08-21T13:44:20.000Z"
+    },
+    {
+      "lead": false,
       "src": "IGN",
       "title": "Grand Theft Auto Fan Uses Digital Forensics Expertise to Expose GTA 6 Leaker's Crypto Scheme",
       "summary": "A Grand Theft Auto fan has exposed what very much looks like a cryptocurrency scheme underpinning this week’s GTA 6 leaks.",
@@ -121,78 +193,6 @@
       "summary": "GTA 6 is set for a big reveal on August 27 with an extended trailer coming to Netflix, but ahead of that, alleged gameplay footage is leaking everywhere . The leaks began earlier this week, and Rockstar owner Take-Two's stock price has fallen this week as well. Take-Two has seen its total market cap lose billions, a…",
       "url": "https://www.gamespot.com/articles/take-two-loses-billions-in-market-value-since-gta-6-leaks-began/",
       "date": "2026-08-20T15:53:48.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Kotaku",
-      "title": "Rockstar Games Hasn’t Posted Anything Online In 48 Hours As GTA 6 Leaks Keep Getting Worse",
-      "summary": "The company hasn't posted anything on any of its official channels or pages since Tuesday",
-      "url": "https://kotaku.com/rockstar-games-hasnt-posted-anything-online-in-48-hours-as-gta-6-leaks-keep-getting-worse-2000726182",
-      "date": "2026-08-20T15:15:33.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "GTA 6's leaks prove AI disinformation is worse than you think",
-      "summary": "You think you've seen the GTA 6 leaks, but are you sure they're not AI generated?",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6s-leaks-prove-ai-disinformation-is-more-rampant-than-you-think/",
-      "date": "2026-08-20T15:00:00.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Eurogamer",
-      "title": "GTA 6 leaker shares footage suggesting link or access to playable build of the game, as Rockstar struggles to contain even more gameplay videos",
-      "summary": "UPDATE 1PM BST: A previous version of this article erroneously suggested the leaker had \"full access\" to the GTA 6 game, based on the declaration of what appears to be an impersonating social media account. Read more",
-      "url": "https://www.eurogamer.net/rockstar-gta-6-leaker-full-access-gameplay-leaks-continue",
-      "date": "2026-08-20T11:27:51.000Z"
-    },
-    {
-      "lead": false,
-      "src": "PC Gamer",
-      "title": "GTA 6 cars need gas? OK, I'm finally on board",
-      "summary": "It's about time GTA evolved.",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-cars-need-gas-ok-im-finally-on-board/",
-      "date": "2026-08-19T19:52:57.000Z"
-    },
-    {
-      "lead": false,
-      "src": "PC Gamer",
-      "title": "Stop Killing Games distances itself from GTA 6 leak manifesto: 'Using illegal means to make a point is unacceptable to us'",
-      "summary": "The group is urging its followers not to give the leakers money.",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/stop-killing-games-distances-itself-from-gta-6-leak-manifesto-using-illegal-means-to-make-a-point-is-unacceptable-to-us/",
-      "date": "2026-08-19T19:34:09.000Z"
-    },
-    {
-      "lead": false,
-      "src": "PC Gamer",
-      "title": "More GTA 6 leaks reveal new details: Cloning keys, combat changes, random bird deaths",
-      "summary": "The latest purported GTA 6 gameplay videos show Jason committing more senseless murder, and reveal even more gameplay systems.",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/more-gta-6-leaks-reveal-new-details-cloning-keys-combat-changes-random-bird-deaths/",
-      "date": "2026-08-19T18:46:37.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GameSpot",
-      "title": "GTA 6 Has Already Made $400 Million+ From Preorders, Apparently",
-      "summary": "According to a third-party research company, GTA 6 has already brought in more than $400 million in revenue from preorders. Sensor Tower's sales tracker for GTA 6 states that Rockstar sold 4.38 million copies, including any returns, through August 18, generating $429 million. The research firm said the sales mix is…",
-      "url": "https://www.gamespot.com/articles/gta-6-has-already-made-400-million-from-preorders-apparently/",
-      "date": "2026-08-19T18:35:18.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GameSpot",
-      "title": "Army Unit Gives Soldiers 4-Day Pass To Play GTA 6 If They Re-Enlist",
-      "summary": "In an effort to encourage soldiers to re-enlist, one US Army unit in Georgia is offering a four-day pass around the time GTA 6 launches in November. The incentive is only for soldiers at Fort Stewart in Georgia in the Army's 9th Brigade Engineering Battalion. So far, 20 people there have agreed to the incentive in e…",
-      "url": "https://www.gamespot.com/articles/army-unit-gives-soldiers-4-day-pass-to-play-gta-6-if-they-re-enlist/",
-      "date": "2026-08-19T17:36:01.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GameSpot",
-      "title": "New GTA 6 Leak Features Shocking Gameplay Footage, And We Mean That Literally",
-      "summary": "The second day of apparent Grand Theft Auto VI leaks has started with a new gameplay clip focused on Jason Duval. There's bad driving, a well-known pop song, and multiple people shot by a taser-like weapon. The video even ends with a cutscene in which Jason has a beer on a boat with his buddy, Cal Hampton. Kotaku sp…",
-      "url": "https://www.gamespot.com/articles/new-gta-6-leak-features-shocking-gameplay-footage-and-we-mean-that-literally/",
-      "date": "2026-08-19T16:09:42.000Z"
     }
   ]
 }
