@@ -1,9 +1,41 @@
 {
-  "updated": "2026-08-21T18:47:54.215Z",
+  "updated": "2026-08-21T21:31:10.638Z",
   "count": 24,
   "items": [
     {
       "lead": true,
+      "src": "GamesRadar",
+      "title": "GTA 6 leaker Cyberleek is now charging a $165,000 fee for a chance to buy ad space on additional leaks",
+      "summary": "A bold response to Take-Two's subpoenas",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-leaker-cyberleek-is-now-charging-a-usd165-000-fee-for-a-chance-to-buy-ad-space-on-additional-leaks/",
+      "date": "2026-08-21T21:00:36.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "Cyberleek's GTA 6 leaks won't change Rockstar's Netflix reveal plans, report says",
+      "summary": "Rockstar plans to show the game next week",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/cyberleeks-gta-6-leaks-wont-change-rockstars-netflix-reveal-plans-report-says/",
+      "date": "2026-08-21T19:40:56.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GameSpot",
+      "title": "GTA 6 Leaker Has Not Been Identified Yet – Report",
+      "summary": "One of the biggest stories in gaming this week has been the ongoing GTA 6 gameplay leaks, which are all about hyping up a memecoin for profit. A new report provides insight into how Rockstar is handling the situation internally. Bloomberg reported that Rockstar has yet to identify the party responsible, or how such…",
+      "url": "https://www.gamespot.com/articles/gta-6-leaker-has-not-been-identified-yet-report/",
+      "date": "2026-08-21T19:29:14.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Kotaku",
+      "title": "Rockstar Games Reportedly Remains In The Dark About Who’s Leaking GTA 6 But Still Moving Ahead With Netflix Reveal",
+      "summary": "Multiple gameplay clips are circulating despite strict security protocols to keep information from leaking",
+      "url": "https://kotaku.com/rockstar-games-reportedly-still-in-the-dark-about-whos-leaking-gta-6-and-how-2000726726",
+      "date": "2026-08-21T19:20:07.000Z"
+    },
+    {
+      "lead": false,
       "src": "Kotaku",
       "title": "Fan Thinks They’ve Tracked Down The GTA 6 Leaker’s Crypto Wallet, And That It’s Only A Matter Of Time Before Rockstar Catches Them",
       "summary": "'The person behind this leak is making a substantial amount of money'",
@@ -17,14 +49,6 @@
       "summary": "Also, probably don't tell Rockstar.",
       "url": "https://www.pcgamer.com/games/grand-theft-auto/dont-tell-nintendo-but-i-turned-gta-5-into-pokemon-go-using-a-mod/",
       "date": "2026-08-21T17:00:00.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Polygon",
-      "title": "'GTA 6' Leaks Lead Desperate Fans To Get Trolled in the Most Ridiculous Way Possible",
-      "summary": "GTA 6 fans are being duped by fake hackers claiming to have access to Lucia's ending",
-      "url": "https://www.polygon.com/gta-6-reddit-lucia-ending-leak-bikini-unmoderated-jason-fake/",
-      "date": "2026-08-21T16:40:44.000Z"
     },
     {
       "lead": false,
@@ -81,14 +105,6 @@
       "summary": "The party pooper has arrived.",
       "url": "https://www.pcgamer.com/hardware/yes-the-gta-6-leaked-footage-was-probably-running-on-pc-and-no-that-doesnt-tell-us-a-whole-lot-about-the-eventual-release/",
       "date": "2026-08-21T15:36:52.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Polygon",
-      "title": "GTA 6 Leaks: Take-Two Goes After Microsoft, Discord in New Legal Action",
-      "summary": "Take-Two Interactive has issued subpoenas to Microsoft and Discord in an attempt to find the identity of Cyberleek, known as the GTA 6 leaker.",
-      "url": "https://www.polygon.com/gta-6-leaks-microsoft-discord-subpoenas-rockstar-games/",
-      "date": "2026-08-21T15:31:02.000Z"
     },
     {
       "lead": false,
@@ -172,27 +188,11 @@
     },
     {
       "lead": false,
-      "src": "Kotaku",
-      "title": "Jason Flying A Plane In The New GTA 6 Leak Has Me More Excited Than Any Previous Trailer",
-      "summary": "And I'm not alone in my hype, as fans are also impressed by the footage of a plane flying over Vice City",
-      "url": "https://kotaku.com/jason-flying-a-plane-in-the-new-gta-6-leak-has-me-more-excited-than-any-previous-trailer-2000726316",
-      "date": "2026-08-20T22:05:18.000Z"
-    },
-    {
-      "lead": false,
       "src": "PC Gamer",
       "title": "US Army confirms it's offering 4 days to play GTA 6 to soldiers who reenlist for at least 2 years",
       "summary": "This, apparently, is pretty normal stuff.",
       "url": "https://www.pcgamer.com/games/grand-theft-auto/us-army-confirms-its-offering-4-days-to-play-gta-6-to-soldiers-who-reenlist-for-at-least-2-years/",
       "date": "2026-08-20T21:43:32.000Z"
-    },
-    {
-      "lead": false,
-      "src": "PC Gamer",
-      "title": "Who is Cyberleek? What we know about the GTA 6 leaker",
-      "summary": "Someone is posting Grand Theft Auto 6 footage under the name \"Cyberleek.\" They may not be anonymous for long.",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/who-is-cyberleek-what-we-know-about-the-gta-6-leaker/",
-      "date": "2026-08-20T21:09:46.000Z"
     }
   ]
 }
