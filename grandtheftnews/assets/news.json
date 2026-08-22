@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-22T18:40:04.311Z",
+  "updated": "2026-08-22T21:28:31.292Z",
   "count": 24,
   "items": [
     {
@@ -20,14 +20,6 @@
     },
     {
       "lead": false,
-      "src": "Polygon",
-      "title": "'GTA 6' Leaks May Finally Be Coming To An End",
-      "summary": "Cyberleek's website and Telegram channel have been taken down, suggesting that the Grand Theft Auto 6 leaks will end soon",
-      "url": "https://www.polygon.com/gta-6-leaks-cyberleek-website-down/",
-      "date": "2026-08-22T14:45:52.000Z"
-    },
-    {
-      "lead": false,
       "src": "GamesRadar",
       "title": "GTA 6 leaks persist despite Take-Two taking action, and the hacker's now dangling strip club footage in front of Rockstar",
       "summary": "The Netflix Extended Look is just days away",
@@ -37,7 +29,7 @@
     {
       "lead": false,
       "src": "Kotaku",
-      "title": "GTA 6 Leaker Takes Fans To A Strip Club In Seventh Gameplay Dump As Netflix Tries To Act Normal About The Whole Thing",
+      "title": "GTA 6 Leaker Takes Fans To A Strip Club In Latest Gameplay Dump As Netflix Tries To Act Normal About The Whole Thing [Update]",
       "summary": "The leaks have shown no signs of slowing despite Take-Two's best efforts",
       "url": "https://kotaku.com/gta-6-leaker-takes-fans-to-a-strip-club-in-seventh-gameplay-dump-2000727032",
       "date": "2026-08-22T13:55:15.000Z"
@@ -193,6 +185,14 @@
       "summary": "\"I have never thought to myself that realism is fun. I go play games to have fun,\" said Newell",
       "url": "https://www.gamesradar.com/games/grand-theft-auto/frustrated-with-gta-6-leaks-rockstar-fans-dig-up-gabe-newells-i-play-games-to-have-fun-rant-and-miss-the-most-important-part/",
       "date": "2026-08-21T15:46:32.000Z"
+    },
+    {
+      "lead": false,
+      "src": "PC Gamer",
+      "title": "Yes, the GTA 6 leaked footage was probably running on PC, and no, that doesn't tell us a whole lot about the eventual release",
+      "summary": "The party pooper has arrived.",
+      "url": "https://www.pcgamer.com/hardware/yes-the-gta-6-leaked-footage-was-probably-running-on-pc-and-no-that-doesnt-tell-us-a-whole-lot-about-the-eventual-release/",
+      "date": "2026-08-21T15:36:52.000Z"
     }
   ]
 }
