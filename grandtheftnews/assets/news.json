@@ -1,9 +1,33 @@
 {
-  "updated": "2026-08-22T09:33:53.106Z",
+  "updated": "2026-08-22T12:53:07.815Z",
   "count": 24,
   "items": [
     {
       "lead": true,
+      "src": "Polygon",
+      "title": "GTA 6 Leak and Wolverine Rage Are Symptoms of Gaming's Summer of Hate",
+      "summary": "A lot bad news and a lack of major game releases has fed a poisonous atmosphere in gaming; Gamescom and the September releases can't come soon enough",
+      "url": "https://www.polygon.com/patch-notes-gta-6-leak-wolverine-summer/",
+      "date": "2026-08-22T12:00:15.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Kotaku",
+      "title": "Grand Theft Auto 6’s Latest Leak Told Me All I Need To Know",
+      "summary": "There is one thing that gets me almost as excited as Jason’s abs",
+      "url": "https://kotaku.com/grand-theft-auto-6-gta-6-leak-video-soundtrack-rockstar-2000726747",
+      "date": "2026-08-22T12:00:14.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Eurogamer",
+      "title": "Is this the end of the GTA 6 leaks? Take-Two's legal crusade appears to shut down the hubs behind them",
+      "summary": "Take-Two's legal offensive against the source of the ongoing GTA 6 leaks appears to have claimed its first scalp: the CyberLeek website, one of the group's main hubs, has gone offline. Read more",
+      "url": "https://www.eurogamer.net/gta-6-cyberleek-website-down",
+      "date": "2026-08-22T11:16:33.000Z"
+    },
+    {
+      "lead": false,
       "src": "GamesRadar",
       "title": "Xbox is \"working closely\" with GTA 6 makers Take-Two and Rockstar following leaks, tech chief says, \"to support efforts to protect creative works\"",
       "summary": "It seems Xbox is cooperating with Take-Two's subpoena",
@@ -169,30 +193,6 @@
       "summary": "They're coming, Cyberleek",
       "url": "https://www.gamesradar.com/games/grand-theft-auto/to-obtain-the-identity-of-gta-6-leaker-rockstar-parent-take-two-subpoenas-microsoft-and-discord-as-yet-more-gameplay-footage-is-posted/",
       "date": "2026-08-21T14:53:11.000Z"
-    },
-    {
-      "lead": false,
-      "src": "PC Gamer",
-      "title": "Cyberleek's still at it: Another GTA 6 leak shows 2 full minutes of high speed driving, surprisingly few crashes",
-      "summary": "The latest video features a new threat: \"HIGHER MARKETCAP = MORE LEEKS.\"",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/cyberleeks-still-at-it-another-gta-6-leak-shows-2-full-minutes-of-high-speed-driving-surprisingly-few-crashes/",
-      "date": "2026-08-21T14:38:03.000Z"
-    },
-    {
-      "lead": false,
-      "src": "IGN",
-      "title": "Take-Two Seeks Information From Microsoft and Discord in Hunt for GTA 6 Leaker, Files Multiple Subpoenas in Federal Court",
-      "summary": "Take-Two has issued a subpoena in a federal court requesting information from both Microsoft and Discord as it hunts the leaker or leakers behind the recent spate of GTA 6 gameplay videos.",
-      "url": "https://www.ign.com/articles/take-two-seeks-information-from-microsoft-and-discord-in-hunt-for-gta-6-leaker-files-multiple-subpoenas-in-federal-court",
-      "date": "2026-08-21T14:29:30.000Z"
-    },
-    {
-      "lead": false,
-      "src": "PC Gamer",
-      "title": "Take-Two lost $2.8 billion in market cap after GTA 6 leaks—but what's more shocking to me is it probably barely felt it",
-      "summary": "Small pennies to Zelnick.",
-      "url": "https://www.pcgamer.com/gaming-industry/take-two-lost-usd2-8-billion-in-market-cap-after-gta-6-leaks-but-whats-more-shocking-to-me-is-it-probably-barely-felt-it/",
-      "date": "2026-08-21T13:50:49.000Z"
     }
   ]
 }
