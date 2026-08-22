@@ -1,9 +1,33 @@
 {
-  "updated": "2026-08-22T12:53:07.815Z",
+  "updated": "2026-08-22T15:28:35.842Z",
   "count": 24,
   "items": [
     {
       "lead": true,
+      "src": "Polygon",
+      "title": "'GTA 6' Leaks May Finally Be Coming To An End",
+      "summary": "Cyberleek's website and Telegram channel have been taken down, suggesting that the Grand Theft Auto 6 leaks will end soon",
+      "url": "https://www.polygon.com/gta-6-leaks-cyberleek-website-down/",
+      "date": "2026-08-22T14:45:52.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "GTA 6 leaks persist despite Take-Two taking action, and the hacker's now dangling strip club footage in front of Rockstar",
+      "summary": "The Netflix Extended Look is just days away",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-leaks-persist-despite-take-two-taking-action-and-the-hackers-now-dangling-strip-club-footage-in-front-of-rockstar/",
+      "date": "2026-08-22T13:59:43.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Kotaku",
+      "title": "GTA 6 Leaker Takes Fans To A Strip Club In Seventh Gameplay Dump As Netflix Tries To Act Normal About The Whole Thing",
+      "summary": "The leaks have shown no signs of slowing despite Take-Two's best efforts",
+      "url": "https://kotaku.com/gta-6-leaker-takes-fans-to-a-strip-club-in-seventh-gameplay-dump-2000727032",
+      "date": "2026-08-22T13:55:15.000Z"
+    },
+    {
+      "lead": false,
       "src": "Polygon",
       "title": "GTA 6 Leak and Wolverine Rage Are Symptoms of Gaming's Summer of Hate",
       "summary": "A lot bad news and a lack of major game releases has fed a poisonous atmosphere in gaming; Gamescom and the September releases can't come soon enough",
@@ -22,7 +46,7 @@
       "lead": false,
       "src": "Eurogamer",
       "title": "Is this the end of the GTA 6 leaks? Take-Two's legal crusade appears to shut down the hubs behind them",
-      "summary": "Take-Two's legal offensive against the source of the ongoing GTA 6 leaks appears to have claimed its first scalp: the CyberLeek website, one of the group's main hubs, has gone offline. Read more",
+      "summary": "UPDATE 3.30pm: Despite the CyberLeek website going dark, nope, the GTA 6 leaks haven't stopped. Read more",
       "url": "https://www.eurogamer.net/gta-6-cyberleek-website-down",
       "date": "2026-08-22T11:16:33.000Z"
     },
@@ -169,30 +193,6 @@
       "summary": "The party pooper has arrived.",
       "url": "https://www.pcgamer.com/hardware/yes-the-gta-6-leaked-footage-was-probably-running-on-pc-and-no-that-doesnt-tell-us-a-whole-lot-about-the-eventual-release/",
       "date": "2026-08-21T15:36:52.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Kotaku",
-      "title": "GTA 6 Leaker Continues Taunting With Fresh Footage Of Hyper-Realistic Streets",
-      "summary": "Seriously, those puddles",
-      "url": "https://kotaku.com/gta-6-leaker-continues-taunting-with-fresh-footage-of-hyper-realistic-streets-2000726645",
-      "date": "2026-08-21T15:02:02.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GameSpot",
-      "title": "Microsoft And Discord Subpoenaed In GTA 6 Leak Case",
-      "summary": "Many alleged clips of Grand Theft Auto 6 gameplay have leaked online this week, showing everything from combat to basketball, and Rockstar's parent company Take-Two is scrambling to figure out just how it happened. Now, the publisher has subpoenaed both Microsoft and Discord in order to investigate potential users i…",
-      "url": "https://www.gamespot.com/articles/microsoft-and-discord-subpoenaed-in-gta-6-leak-case/",
-      "date": "2026-08-21T14:57:53.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "To \"obtain the identity\" of GTA 6 leaker, Rockstar parent Take-Two subpoenas Microsoft and Discord as yet more gameplay footage is posted",
-      "summary": "They're coming, Cyberleek",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/to-obtain-the-identity-of-gta-6-leaker-rockstar-parent-take-two-subpoenas-microsoft-and-discord-as-yet-more-gameplay-footage-is-posted/",
-      "date": "2026-08-21T14:53:11.000Z"
     }
   ]
 }
