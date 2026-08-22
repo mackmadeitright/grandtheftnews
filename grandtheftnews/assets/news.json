@@ -1,9 +1,25 @@
 {
-  "updated": "2026-08-22T15:28:35.842Z",
+  "updated": "2026-08-22T18:40:04.311Z",
   "count": 24,
   "items": [
     {
       "lead": true,
+      "src": "GamesRadar",
+      "title": "GTA 6 and Red Dead Redemption 2 are \"the north stars of gaming,\" says Gamescom chief, but they won't last forever because \"most gamers aren't only interested in a single game\"",
+      "summary": "Rockstar is very good at making games, but that doesn't mean they're for everyone",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-and-red-dead-redemption-2-are-the-north-stars-of-gaming-says-gamescom-chief-but-they-wont-last-forever-because-most-gamers-arent-only-interested-in-a-single-game/",
+      "date": "2026-08-22T17:00:00.000Z"
+    },
+    {
+      "lead": false,
+      "src": "PC Gamer",
+      "title": "GTA6 leaker Cyberleek shows off gas station rampage, refueling, promises strip club gameplay if people juice his cryptocurrency enough",
+      "summary": "Ok.",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta6-leaker-cyberleek-shows-off-gas-station-rampage-refueling-promises-strip-club-gameplay-if-people-juice-his-cryptocurrency-enough/",
+      "date": "2026-08-22T16:03:22.000Z"
+    },
+    {
+      "lead": false,
       "src": "Polygon",
       "title": "'GTA 6' Leaks May Finally Be Coming To An End",
       "summary": "Cyberleek's website and Telegram channel have been taken down, suggesting that the Grand Theft Auto 6 leaks will end soon",
@@ -25,14 +41,6 @@
       "summary": "The leaks have shown no signs of slowing despite Take-Two's best efforts",
       "url": "https://kotaku.com/gta-6-leaker-takes-fans-to-a-strip-club-in-seventh-gameplay-dump-2000727032",
       "date": "2026-08-22T13:55:15.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Polygon",
-      "title": "GTA 6 Leak and Wolverine Rage Are Symptoms of Gaming's Summer of Hate",
-      "summary": "A lot bad news and a lack of major game releases has fed a poisonous atmosphere in gaming; Gamescom and the September releases can't come soon enough",
-      "url": "https://www.polygon.com/patch-notes-gta-6-leak-wolverine-summer/",
-      "date": "2026-08-22T12:00:15.000Z"
     },
     {
       "lead": false,
@@ -185,14 +193,6 @@
       "summary": "\"I have never thought to myself that realism is fun. I go play games to have fun,\" said Newell",
       "url": "https://www.gamesradar.com/games/grand-theft-auto/frustrated-with-gta-6-leaks-rockstar-fans-dig-up-gabe-newells-i-play-games-to-have-fun-rant-and-miss-the-most-important-part/",
       "date": "2026-08-21T15:46:32.000Z"
-    },
-    {
-      "lead": false,
-      "src": "PC Gamer",
-      "title": "Yes, the GTA 6 leaked footage was probably running on PC, and no, that doesn't tell us a whole lot about the eventual release",
-      "summary": "The party pooper has arrived.",
-      "url": "https://www.pcgamer.com/hardware/yes-the-gta-6-leaked-footage-was-probably-running-on-pc-and-no-that-doesnt-tell-us-a-whole-lot-about-the-eventual-release/",
-      "date": "2026-08-21T15:36:52.000Z"
     }
   ]
 }
