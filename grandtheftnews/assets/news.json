@@ -1,9 +1,49 @@
 {
-  "updated": "2026-08-21T21:31:10.638Z",
+  "updated": "2026-08-22T01:41:18.516Z",
   "count": 24,
   "items": [
     {
       "lead": true,
+      "src": "GamesRadar",
+      "title": "Xbox is \"working closely\" with GTA 6 makers Take-Two and Rockstar following leaks, tech chief says, \"to support efforts to protect creative works\"",
+      "summary": "It seems Xbox is cooperating with Take-Two's subpoena",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/xbox-is-working-closely-with-gta-6-makers-take-two-and-rockstar-following-leaks-tech-chief-says-to-support-efforts-to-protect-creative-works/",
+      "date": "2026-08-21T23:51:13.000Z"
+    },
+    {
+      "lead": false,
+      "src": "PC Gamer",
+      "title": "Still more GTA 6 details from the latest leaked video: traffic cameras, car trackers, and drivers that put up a fight",
+      "summary": "With each leaked video we learn a bit more about the game.",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/still-more-gta-6-details-from-the-latest-leaked-video-traffic-cameras-car-trackers-and-drivers-that-put-up-a-fight/",
+      "date": "2026-08-21T23:43:08.000Z"
+    },
+    {
+      "lead": false,
+      "src": "PC Gamer",
+      "title": "Rockstar employees frustrated by GTA 6 leaks, though they may have only whet appetites for the reveal",
+      "summary": "The increased security measures following the 2022 hack didn't stop another major leak of GTA 6 gameplay.",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/rockstar-employees-frustrated-by-gta-6-leaks-though-they-may-have-only-whet-appetites-for-the-reveal/",
+      "date": "2026-08-21T23:37:09.000Z"
+    },
+    {
+      "lead": false,
+      "src": "PC Gamer",
+      "title": "The GTA 6 leaker is selling ads now",
+      "summary": "For $165,000, you too can ask Cyberleek about promoting your product on his videos.",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/the-gta-6-leaker-is-selling-ads-now/",
+      "date": "2026-08-21T22:16:19.000Z"
+    },
+    {
+      "lead": false,
+      "src": "IGN",
+      "title": "GTA 6 U.S. Army Deal Has Already Convinced at Least 20 Soldiers to Reenlist",
+      "summary": "At least 20 soldiers have chosen to reenlist after a United States Army base in Fort Stewart, Georgia, began offering time off for the launch of Grand Theft Auto 6.",
+      "url": "https://www.ign.com/articles/gta-6-us-army-deal-has-already-convinced-at-least-20-soldiers-to-reenlist",
+      "date": "2026-08-21T21:40:40.000Z"
+    },
+    {
+      "lead": false,
       "src": "GamesRadar",
       "title": "GTA 6 leaker Cyberleek is now charging a $165,000 fee for a chance to buy ad space on additional leaks",
       "summary": "A bold response to Take-Two's subpoenas",
@@ -153,46 +193,6 @@
       "summary": "Small pennies to Zelnick.",
       "url": "https://www.pcgamer.com/gaming-industry/take-two-lost-usd2-8-billion-in-market-cap-after-gta-6-leaks-but-whats-more-shocking-to-me-is-it-probably-barely-felt-it/",
       "date": "2026-08-21T13:50:49.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Kotaku",
-      "title": "Take-Two Asks Court To Subpoena Trove Of Records From Microsoft And Discord As It Hunts For GTA 6 Leaker",
-      "summary": "The hunt is on to find out who's behind an unprecedented spree of GTA 6 leaks",
-      "url": "https://kotaku.com/take-two-subpoenas-microsoft-and-discord-records-related-to-spread-of-gta-6-leaks-2000726633",
-      "date": "2026-08-21T13:44:20.000Z"
-    },
-    {
-      "lead": false,
-      "src": "IGN",
-      "title": "Grand Theft Auto Fan Uses Digital Forensics Expertise to Expose GTA 6 Leaker's Crypto Scheme",
-      "summary": "A Grand Theft Auto fan has exposed what very much looks like a cryptocurrency scheme underpinning this week’s GTA 6 leaks.",
-      "url": "https://www.ign.com/articles/grand-theft-auto-fan-uses-digital-forensics-expertise-to-expose-gta-6-leakers-crypto-scheme",
-      "date": "2026-08-21T11:33:47.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Kotaku",
-      "title": "Real GTA 6 Leaks Are Hard To Spot In 2026 Due To All The AI Fakes",
-      "summary": "Plus we've got some updates on two different PC ports of GTA Vice City Stories",
-      "url": "https://kotaku.com/real-gta-6-leaks-are-hard-to-spot-in-2026-due-to-all-the-ai-fakes-2000726212",
-      "date": "2026-08-21T11:00:22.000Z"
-    },
-    {
-      "lead": false,
-      "src": "PC Gamer",
-      "title": "OK, Vice City does look pretty damn impressive from the air",
-      "summary": "If the latest GTA 6 leak is legit, its world is clearly unprecedented in scale and density.",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/ok-vice-city-does-look-pretty-damn-impressive-from-the-air/",
-      "date": "2026-08-21T00:03:35.000Z"
-    },
-    {
-      "lead": false,
-      "src": "PC Gamer",
-      "title": "US Army confirms it's offering 4 days to play GTA 6 to soldiers who reenlist for at least 2 years",
-      "summary": "This, apparently, is pretty normal stuff.",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/us-army-confirms-its-offering-4-days-to-play-gta-6-to-soldiers-who-reenlist-for-at-least-2-years/",
-      "date": "2026-08-20T21:43:32.000Z"
     }
   ]
 }
