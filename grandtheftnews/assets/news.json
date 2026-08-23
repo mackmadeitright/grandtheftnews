@@ -1,9 +1,17 @@
 {
-  "updated": "2026-08-22T21:28:31.292Z",
+  "updated": "2026-08-23T01:51:32.065Z",
   "count": 24,
   "items": [
     {
       "lead": true,
+      "src": "IGN",
+      "title": "GTA 6 Leaker Releases More Gameplay Videos Despite Rockstar Owner Take-Two's Microsoft and Discord Subpoenas",
+      "summary": "The alleged GTA 6 leaker has released two further gameplay videos despite Rockstar owner Take-Two's subpoenas requesting identifying information from Microsoft and Discord.",
+      "url": "https://www.ign.com/articles/gta-6-leaker-releases-more-gameplay-videos-despite-rockstar-owner-take-twos-microsoft-and-discord-subpoenas",
+      "date": "2026-08-22T22:16:40.000Z"
+    },
+    {
+      "lead": false,
       "src": "GamesRadar",
       "title": "GTA 6 and Red Dead Redemption 2 are \"the north stars of gaming,\" says Gamescom chief, but they won't last forever because \"most gamers aren't only interested in a single game\"",
       "summary": "Rockstar is very good at making games, but that doesn't mean they're for everyone",
@@ -185,14 +193,6 @@
       "summary": "\"I have never thought to myself that realism is fun. I go play games to have fun,\" said Newell",
       "url": "https://www.gamesradar.com/games/grand-theft-auto/frustrated-with-gta-6-leaks-rockstar-fans-dig-up-gabe-newells-i-play-games-to-have-fun-rant-and-miss-the-most-important-part/",
       "date": "2026-08-21T15:46:32.000Z"
-    },
-    {
-      "lead": false,
-      "src": "PC Gamer",
-      "title": "Yes, the GTA 6 leaked footage was probably running on PC, and no, that doesn't tell us a whole lot about the eventual release",
-      "summary": "The party pooper has arrived.",
-      "url": "https://www.pcgamer.com/hardware/yes-the-gta-6-leaked-footage-was-probably-running-on-pc-and-no-that-doesnt-tell-us-a-whole-lot-about-the-eventual-release/",
-      "date": "2026-08-21T15:36:52.000Z"
     }
   ]
 }
