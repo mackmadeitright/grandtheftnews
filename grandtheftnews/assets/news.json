@@ -1,9 +1,17 @@
 {
-  "updated": "2026-08-23T15:29:29.210Z",
+  "updated": "2026-08-23T18:39:17.210Z",
   "count": 24,
   "items": [
     {
       "lead": true,
+      "src": "Kotaku",
+      "title": "You Guessed It, Another GTA 6 Leak Has Hit The Timeline, And This One Has An NPC Recreating A Viral 2021 Prank",
+      "summary": "Is there gas in the car?",
+      "url": "https://kotaku.com/you-guessed-it-another-gta-6-leak-has-hit-the-timeline-and-this-one-has-an-npc-recreating-a-viral-2021-prank-2000727250",
+      "date": "2026-08-23T17:05:23.000Z"
+    },
+    {
+      "lead": false,
       "src": "GamesRadar",
       "title": "Former Rockstar Games lead says GTA 6 leaks are a \"nothing burger\" because \"90% of future players\" aren't searching for the clips online",
       "summary": "Rockstar's ex-technical lead thinks most people \"don't have the time and don't want spoilers",
@@ -13,8 +21,8 @@
     {
       "lead": false,
       "src": "IGN",
-      "title": "GTA 6 Leaker Releases More Gameplay Videos Despite Rockstar Owner Take-Two's Microsoft and Discord Subpoenas",
-      "summary": "The alleged GTA 6 leaker has released two further gameplay videos despite Rockstar owner Take-Two's subpoenas requesting identifying information from Microsoft and Discord.",
+      "title": "[UPDATE] GTA 6 Leaker Shows No Sign of Slowing Down as Ninth Gameplay Video Hits the Internet",
+      "summary": "The GTA 6 leaks have stretched into a sixth consecutive day, as the person or group responsible shows no sign of slowing down even in the face of court action from Rockstar parent company Take-Two.",
       "url": "https://www.ign.com/articles/gta-6-leaker-releases-more-gameplay-videos-despite-rockstar-owner-take-twos-microsoft-and-discord-subpoenas",
       "date": "2026-08-22T22:16:40.000Z"
     },
@@ -137,14 +145,6 @@
       "summary": "Multiple gameplay clips are circulating despite strict security protocols to keep information from leaking",
       "url": "https://kotaku.com/rockstar-games-reportedly-still-in-the-dark-about-whos-leaking-gta-6-and-how-2000726726",
       "date": "2026-08-21T19:20:07.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Kotaku",
-      "title": "Fan Thinks They’ve Tracked Down The GTA 6 Leaker’s Crypto Wallet, And That It’s Only A Matter Of Time Before Rockstar Catches Them",
-      "summary": "'The person behind this leak is making a substantial amount of money'",
-      "url": "https://kotaku.com/gta-6-leaks-crypto-scam-2000726671",
-      "date": "2026-08-21T17:40:22.000Z"
     },
     {
       "lead": false,
