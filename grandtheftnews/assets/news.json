@@ -1,22 +1,54 @@
 {
-  "updated": "2026-08-24T15:47:22.469Z",
+  "updated": "2026-08-24T18:50:56.005Z",
   "count": 24,
   "items": [
     {
       "lead": true,
+      "src": "Polygon",
+      "title": "Steam’s Trippiest Game in Years Deserves a Second Shot Before GTA 6 Buries Everything",
+      "summary": "Burden Street Station has you sorting sentient books, growing bullets for legs, and talking strangers through their worst days — and finding god?",
+      "url": "https://www.polygon.com/burden-street-station-steam-impressions/",
+      "date": "2026-08-24T18:30:14.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Polygon",
+      "title": "'GTA 6' Leaks Take Dire Turn As Hackers Urge Fans To Harass Rockstar IRL",
+      "summary": "The GTA 6 leak continues into unprecedented territory as Rockstar struggles to contain new gameplay clips and hackers raise millions",
+      "url": "https://www.polygon.com/gta-6-new-leak-beach-cyberleek-rockstar-protest-discs/",
+      "date": "2026-08-24T18:00:11.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Kotaku",
+      "title": "GTA 6 Leaker Now Asking People To Antagonize Rockstar IRL And One Person Already Did It",
+      "summary": "A recent GTA 6 leak featuring nudists includes a message asking people to visit Rockstar North's office",
+      "url": "https://kotaku.com/gta-6-leaker-now-encouraging-people-to-antagonize-rockstar-irl-and-one-person-already-did-it-2000727623",
+      "date": "2026-08-24T17:45:21.000Z"
+    },
+    {
+      "lead": false,
+      "src": "PC Gamer",
+      "title": "Former Rockstar dev says the GTA 6 leaks are a 'nothing burger': 'There won't be much damage'",
+      "summary": "The Cyberleek debacle is no Hot Coffee.",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/former-rockstar-dev-says-the-gta-6-leaks-are-a-nothing-burger-there-wont-be-much-damage/",
+      "date": "2026-08-24T16:52:01.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Kotaku",
+      "title": "All The New Details We Spotted In The Leaked GTA 6 Videos: Six-Star Wanted Level, Fueling Up Cars, Nudity, Fishing, And A Stamina Meter",
+      "summary": "Rockstar's massive open-world game has leaked once again and revealed some new details in the process",
+      "url": "https://kotaku.com/all-the-new-details-we-spotted-in-the-leaked-gta-6-videos-six-star-wanted-level-gas-meter-improved-combat-boosting-stats-with-basketball-2000725524",
+      "date": "2026-08-24T16:20:48.000Z"
+    },
+    {
+      "lead": false,
       "src": "GameSpot",
       "title": "GTA 6 Leak Shows Off Apparent Nudist Colony",
       "summary": "A new clip showing leaked Grand Theft Auto 6 footage has made its way online, and it looks like you're going to be able to visit a nudist colony in Leonida. The clip, which just runs for a few minutes, shows co-protagonist Jason walking near a pool and several hot tubs, with dozens of naked people hanging around and…",
       "url": "https://www.gamespot.com/articles/gta-6-leak-shows-off-apparent-nudist-colony/",
       "date": "2026-08-24T15:29:05.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Polygon",
-      "title": "'GTA 6' Leaks Confirm Rockstar's Raunchiest Game Yet With Shocking New Clips",
-      "summary": "Fan votes have led to unauthorized gameplay clips of a strip club and nudist town as hackers continue to evade Rockstar's wrath",
-      "url": "https://www.polygon.com/gta-6-leak-strip-club-nudist-town-gameplay/",
-      "date": "2026-08-24T15:28:42.000Z"
     },
     {
       "lead": false,
@@ -76,30 +108,6 @@
     },
     {
       "lead": false,
-      "src": "GamesRadar",
-      "title": "Former Rockstar Games lead says GTA 6 leaks are a \"nothing burger\" because \"90% of future players\" aren't searching for the clips online",
-      "summary": "Rockstar's ex-technical lead thinks most people \"don't have the time and don't want spoilers",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/former-rockstar-games-lead-says-gta-6-leaks-are-a-nothing-burger-because-90-percent-of-future-players-arent-searching-for-the-clips-online/",
-      "date": "2026-08-23T13:18:23.000Z"
-    },
-    {
-      "lead": false,
-      "src": "IGN",
-      "title": "[UPDATE] GTA 6 Leaker Releases Even More Gameplay Videos as People Spend Hundreds of Dollars to Vote on Next Leak, Fueling Crypto Scheme",
-      "summary": "The GTA 6 leaker has continued to release new gameplay clips, and is even running a poll to decide which video to leak next despite Rockstar parent company Take-Two's ongoing hunt for people responsible.",
-      "url": "https://www.ign.com/articles/gta-6-leaker-releases-more-gameplay-videos-despite-rockstar-owner-take-twos-microsoft-and-discord-subpoenas",
-      "date": "2026-08-22T22:16:40.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "GTA 6 and Red Dead Redemption 2 are \"the north stars of gaming,\" says Gamescom chief, but they won't last forever because \"most gamers aren't only interested in a single game\"",
-      "summary": "Rockstar is very good at making games, but that doesn't mean they're for everyone",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-and-red-dead-redemption-2-are-the-north-stars-of-gaming-says-gamescom-chief-but-they-wont-last-forever-because-most-gamers-arent-only-interested-in-a-single-game/",
-      "date": "2026-08-22T17:00:00.000Z"
-    },
-    {
-      "lead": false,
       "src": "PC Gamer",
       "title": "GTA6 leaker Cyberleek shows off gas station rampage, refueling, promises strip club gameplay if people juice his cryptocurrency enough",
       "summary": "Ok.",
@@ -108,43 +116,11 @@
     },
     {
       "lead": false,
-      "src": "GamesRadar",
-      "title": "GTA 6 leaks persist despite Take-Two taking action, and the hacker's now dangling strip club footage in front of Rockstar",
-      "summary": "The Netflix Extended Look is just days away",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-leaks-persist-despite-take-two-taking-action-and-the-hackers-now-dangling-strip-club-footage-in-front-of-rockstar/",
-      "date": "2026-08-22T13:59:43.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Kotaku",
-      "title": "GTA 6 Leaker Takes Fans To A Strip Club In Latest Gameplay Dump As Netflix Tries To Act Normal About The Whole Thing [Update]",
-      "summary": "The leaks have shown no signs of slowing despite Take-Two's best efforts",
-      "url": "https://kotaku.com/gta-6-leaker-takes-fans-to-a-strip-club-in-seventh-gameplay-dump-2000727032",
-      "date": "2026-08-22T13:55:15.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Kotaku",
-      "title": "Grand Theft Auto 6’s Latest Leak Told Me All I Need To Know",
-      "summary": "There is one thing that gets me almost as excited as Jason’s abs",
-      "url": "https://kotaku.com/grand-theft-auto-6-gta-6-leak-video-soundtrack-rockstar-2000726747",
-      "date": "2026-08-22T12:00:14.000Z"
-    },
-    {
-      "lead": false,
       "src": "Eurogamer",
       "title": "Is this the end of the GTA 6 leaks? Take-Two's legal crusade appears to shut down the hubs behind them",
       "summary": "UPDATE 3.30pm: Despite the CyberLeek website going dark, nope, the GTA 6 leaks haven't stopped. Read more",
       "url": "https://www.eurogamer.net/gta-6-cyberleek-website-down",
       "date": "2026-08-22T11:16:33.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "Xbox is \"working closely\" with GTA 6 makers Take-Two and Rockstar following leaks, tech chief says, \"to support efforts to protect creative works\"",
-      "summary": "It seems Xbox is cooperating with Take-Two's subpoena",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/xbox-is-working-closely-with-gta-6-makers-take-two-and-rockstar-following-leaks-tech-chief-says-to-support-efforts-to-protect-creative-works/",
-      "date": "2026-08-21T23:51:13.000Z"
     },
     {
       "lead": false,
@@ -172,14 +148,6 @@
     },
     {
       "lead": false,
-      "src": "GamesRadar",
-      "title": "GTA 6 leaker Cyberleek is now charging a $165,000 fee for a chance to buy ad space on additional leaks",
-      "summary": "A bold response to Take-Two's subpoenas",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-leaker-cyberleek-is-now-charging-a-usd165-000-fee-for-a-chance-to-buy-ad-space-on-additional-leaks/",
-      "date": "2026-08-21T21:00:36.000Z"
-    },
-    {
-      "lead": false,
       "src": "GameSpot",
       "title": "GTA 6 Leaker Has Not Been Identified Yet – Report",
       "summary": "One of the biggest stories in gaming this week has been the ongoing GTA 6 gameplay leaks, which are all about hyping up a memecoin for profit. A new report provides insight into how Rockstar is handling the situation internally. Bloomberg reported that Rockstar has yet to identify the party responsible, or how such…",
@@ -193,6 +161,38 @@
       "summary": "Also, probably don't tell Rockstar.",
       "url": "https://www.pcgamer.com/games/grand-theft-auto/dont-tell-nintendo-but-i-turned-gta-5-into-pokemon-go-using-a-mod/",
       "date": "2026-08-21T17:00:00.000Z"
+    },
+    {
+      "lead": false,
+      "src": "PC Gamer",
+      "title": "Take-Two kicks off GTA 6 leaker hunt with subpoenas demanding records from Microsoft and Discord",
+      "summary": "Meanwhile, another new Grand Theft Auto 6 leak dropped today.",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/take-two-kicks-off-gta-6-leaker-hunt-with-subpoenas-demanding-records-from-microsoft-and-discord/",
+      "date": "2026-08-21T16:10:58.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GameSpot",
+      "title": "Grand Theft Auto 6 Leaks Are Fueling A Crypto Pump-And-Dump Scheme",
+      "summary": "As Grand Theft Auto 6 continues to leak via small snippets of gameplay, you might be wondering why each video is plastered with watermarks for a meme coin ? It turns out while you're enjoying the early look at Rockstar's latest project, others are literally profiting off of the virality. Each of the leaked gameplay…",
+      "url": "https://www.gamespot.com/articles/grand-theft-auto-6-leaks-are-fueling-a-crypto-pump-and-dump-scheme/",
+      "date": "2026-08-21T16:01:07.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Eurogamer",
+      "title": "Take-Two's legal action to find GTA 6 leaker begins, as it subpoenas Microsoft and Discord for any data \"sufficient to identify the users person\"",
+      "summary": "The hunt for the GTA 6 leaker is on. Take-Two has reportedly filed multiple subpoenas in a federal district court to force information out of Microsoft and Discord related to anything - OneDrive data, Xbox accounts, or Discord users - that might reveal who leaked GTA 6 gameplay videos online. Read more",
+      "url": "https://www.eurogamer.net/take-two-legal-action-gta-6-leeks-cyberleek",
+      "date": "2026-08-21T15:55:19.000Z"
+    },
+    {
+      "lead": false,
+      "src": "PC Gamer",
+      "title": "Yes, the GTA 6 leaked footage was probably running on PC, and no, that doesn't tell us a whole lot about the eventual release",
+      "summary": "The party pooper has arrived.",
+      "url": "https://www.pcgamer.com/hardware/yes-the-gta-6-leaked-footage-was-probably-running-on-pc-and-no-that-doesnt-tell-us-a-whole-lot-about-the-eventual-release/",
+      "date": "2026-08-21T15:36:52.000Z"
     }
   ]
 }
