@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-23T21:28:13.405Z",
+  "updated": "2026-08-24T01:48:45.684Z",
   "count": 24,
   "items": [
     {
@@ -140,14 +140,6 @@
     },
     {
       "lead": false,
-      "src": "Kotaku",
-      "title": "Rockstar Games Reportedly Remains In The Dark About Who’s Leaking GTA 6 But Still Moving Ahead With Netflix Reveal",
-      "summary": "Multiple gameplay clips are circulating despite strict security protocols to keep information from leaking",
-      "url": "https://kotaku.com/rockstar-games-reportedly-still-in-the-dark-about-whos-leaking-gta-6-and-how-2000726726",
-      "date": "2026-08-21T19:20:07.000Z"
-    },
-    {
-      "lead": false,
       "src": "PC Gamer",
       "title": "Don't tell Nintendo, but I turned GTA 5 into Pokémon Go using a mod",
       "summary": "Also, probably don't tell Rockstar.",
@@ -193,6 +185,14 @@
       "summary": "The hunt for the GTA 6 leaker is on. Take-Two has reportedly filed multiple subpoenas in a federal district court to force information out of Microsoft and Discord related to anything - OneDrive data, Xbox accounts, or Discord users - that might reveal who leaked GTA 6 gameplay videos online. Read more",
       "url": "https://www.eurogamer.net/take-two-legal-action-gta-6-leeks-cyberleek",
       "date": "2026-08-21T15:55:19.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "Frustrated with GTA 6 leaks, Rockstar fans dig up Gabe Newell's \"I play games to have fun\" rant – and miss the most important part",
+      "summary": "\"I have never thought to myself that realism is fun. I go play games to have fun,\" said Newell",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/frustrated-with-gta-6-leaks-rockstar-fans-dig-up-gabe-newells-i-play-games-to-have-fun-rant-and-miss-the-most-important-part/",
+      "date": "2026-08-21T15:46:32.000Z"
     }
   ]
 }
