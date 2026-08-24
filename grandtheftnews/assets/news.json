@@ -1,22 +1,54 @@
 {
-  "updated": "2026-08-24T18:50:56.005Z",
+  "updated": "2026-08-24T21:36:10.574Z",
   "count": 24,
   "items": [
     {
       "lead": true,
-      "src": "Polygon",
-      "title": "Steam’s Trippiest Game in Years Deserves a Second Shot Before GTA 6 Buries Everything",
-      "summary": "Burden Street Station has you sorting sentient books, growing bullets for legs, and talking strangers through their worst days — and finding god?",
-      "url": "https://www.polygon.com/burden-street-station-steam-impressions/",
-      "date": "2026-08-24T18:30:14.000Z"
+      "src": "Kotaku",
+      "title": "Every Song And Radio Station We’ve Spotted In The GTA 6 Leaks",
+      "summary": "From classic rock to recent pop hits and some oddball choices like a foreign cover of \"Heart of Glass,\" here's all the music (so far)",
+      "url": "https://kotaku.com/every-song-and-radio-station-weve-spotted-in-the-gta-6-leaks-2000727661",
+      "date": "2026-08-24T21:30:01.000Z"
+    },
+    {
+      "lead": false,
+      "src": "PC Gamer",
+      "title": "Latest GTA 6 leak confirms full dong",
+      "summary": "It's perfectly natural.",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/latest-gta-6-leak-confirms-full-dong/",
+      "date": "2026-08-24T20:22:51.000Z"
     },
     {
       "lead": false,
       "src": "Polygon",
-      "title": "'GTA 6' Leaks Take Dire Turn As Hackers Urge Fans To Harass Rockstar IRL",
-      "summary": "The GTA 6 leak continues into unprecedented territory as Rockstar struggles to contain new gameplay clips and hackers raise millions",
-      "url": "https://www.polygon.com/gta-6-new-leak-beach-cyberleek-rockstar-protest-discs/",
-      "date": "2026-08-24T18:00:11.000Z"
+      "title": "Forget GTA 6, Everyone is Obsessed with the 'Find a Needle in a Haystack' Game",
+      "summary": "Indie developer Nas Nakarus is building a game where you search five million pieces of hay for one needle...and even he hasn't found it yet",
+      "url": "https://www.polygon.com/needle-in-a-haystack-viral-game/",
+      "date": "2026-08-24T19:30:14.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Kotaku",
+      "title": "Discord Says It Hasn’t Been Served With A Subpoena Over GTA 6 Leaks Yet: ‘We’ll Evaluate The Validity And Scope Before Responding’",
+      "summary": "Some users are worried about how broad Take-Two's data request is",
+      "url": "https://kotaku.com/discord-says-it-hasnt-been-served-with-a-subpoena-over-gta-6-leaks-yet-well-evaluate-the-validity-and-scope-before-responding-2000727642",
+      "date": "2026-08-24T19:20:38.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Polygon",
+      "title": "'GTA 6' Leak Reveals New Feature Rockstar Was Probably Saving For Netflix",
+      "summary": "The world of Grand Theft Auto 6 will be impacted by its day and night cycle, as Rockstar deepens the open-world game's simulation elements",
+      "url": "https://www.polygon.com/gta-6-leak-how-long-is-a-day-night-cycle-gameplay/",
+      "date": "2026-08-24T19:14:33.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GameSpot",
+      "title": "GTA 6 Leaks: A Timeline Of The Events So Far",
+      "summary": "It's been a busy few weeks for Rockstar and Take-Two following a series of leaked GTA 6 gameplay videos and images. Beginning in mid-August 2026, an anonymous individual or group calling itself CyberLeek began publishing unreleased Grand Theft Auto 6 material. The first wave included gameplay videos and apparent ima…",
+      "url": "https://www.gamespot.com/articles/gta-6-leaks-a-timeline-of-the-events-so-far/",
+      "date": "2026-08-24T19:01:36.000Z"
     },
     {
       "lead": false,
@@ -92,22 +124,6 @@
     },
     {
       "lead": false,
-      "src": "GamesRadar",
-      "title": "New GTA 6 leaks suggest Cyberleek has access to Lucia as fans become even more convinced they have Rockstar's full game in their hands",
-      "summary": "Lucia is yet to be seen in the latest wave of leaks",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/new-gta-6-leaks-suggest-cyberleek-has-access-to-lucia-as-fans-become-even-more-convinced-they-have-rockstars-full-game-in-their-hands/",
-      "date": "2026-08-24T10:27:01.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Kotaku",
-      "title": "You Guessed It, Another GTA 6 Leak Has Hit The Timeline, And This One Has An NPC Recreating A Viral 2021 Prank",
-      "summary": "Is there gas in the car?",
-      "url": "https://kotaku.com/you-guessed-it-another-gta-6-leak-has-hit-the-timeline-and-this-one-has-an-npc-recreating-a-viral-2021-prank-2000727250",
-      "date": "2026-08-23T17:05:23.000Z"
-    },
-    {
-      "lead": false,
       "src": "PC Gamer",
       "title": "GTA6 leaker Cyberleek shows off gas station rampage, refueling, promises strip club gameplay if people juice his cryptocurrency enough",
       "summary": "Ok.",
@@ -177,22 +193,6 @@
       "summary": "As Grand Theft Auto 6 continues to leak via small snippets of gameplay, you might be wondering why each video is plastered with watermarks for a meme coin ? It turns out while you're enjoying the early look at Rockstar's latest project, others are literally profiting off of the virality. Each of the leaked gameplay…",
       "url": "https://www.gamespot.com/articles/grand-theft-auto-6-leaks-are-fueling-a-crypto-pump-and-dump-scheme/",
       "date": "2026-08-21T16:01:07.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Eurogamer",
-      "title": "Take-Two's legal action to find GTA 6 leaker begins, as it subpoenas Microsoft and Discord for any data \"sufficient to identify the users person\"",
-      "summary": "The hunt for the GTA 6 leaker is on. Take-Two has reportedly filed multiple subpoenas in a federal district court to force information out of Microsoft and Discord related to anything - OneDrive data, Xbox accounts, or Discord users - that might reveal who leaked GTA 6 gameplay videos online. Read more",
-      "url": "https://www.eurogamer.net/take-two-legal-action-gta-6-leeks-cyberleek",
-      "date": "2026-08-21T15:55:19.000Z"
-    },
-    {
-      "lead": false,
-      "src": "PC Gamer",
-      "title": "Yes, the GTA 6 leaked footage was probably running on PC, and no, that doesn't tell us a whole lot about the eventual release",
-      "summary": "The party pooper has arrived.",
-      "url": "https://www.pcgamer.com/hardware/yes-the-gta-6-leaked-footage-was-probably-running-on-pc-and-no-that-doesnt-tell-us-a-whole-lot-about-the-eventual-release/",
-      "date": "2026-08-21T15:36:52.000Z"
     }
   ]
 }
