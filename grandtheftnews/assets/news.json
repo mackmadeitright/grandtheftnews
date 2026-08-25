@@ -1,9 +1,33 @@
 {
-  "updated": "2026-08-25T13:01:09.515Z",
+  "updated": "2026-08-25T15:50:52.523Z",
   "count": 24,
   "items": [
     {
       "lead": true,
+      "src": "Polygon",
+      "title": "GTA 6's Incredible Beach Leak Just Proved Rockstar's Doubters Wrong In Under Two Minutes",
+      "summary": "Some Grand Theft Auto 6 fans have spent years doubting that Rockstar could really ship a game with NPC density that matched the trailers",
+      "url": "https://www.polygon.com/gta-6-beach-leak-reddit-cyberleek-memes-npc-density/",
+      "date": "2026-08-25T15:16:01.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GameSpot",
+      "title": "Latest GTA 6 Leak References Irony Of The Game Being A Digital-Exclusive",
+      "summary": "Yet another alleged GTA 6 leak has emerged, showing off one of the game's main characters, Jason, visiting a video game store that sells physical discs. This has prompted people to point out the irony of GTA 6 being a digital-exclusive game. In the clip, we see Jason visit a store called Game Horde where he uses bin…",
+      "url": "https://www.gamespot.com/articles/latest-gta-6-leak-references-irony-of-the-game-being-a-digtal-exclusive/",
+      "date": "2026-08-25T14:42:25.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Kotaku",
+      "title": "New GTA 6 Leak Shows Game Store Selling Physical Discs As Leaker Claims This Is All About ‘Ownership’ In A ‘Digital-Only Era’",
+      "summary": "It is one of three leaks (so far) that Cyberleek has posted online today",
+      "url": "https://kotaku.com/new-gta-6-leak-shows-game-store-selling-physical-discs-as-leaker-claims-this-is-all-about-ownership-in-an-digital-only-era-2000727881",
+      "date": "2026-08-25T14:15:01.000Z"
+    },
+    {
+      "lead": false,
       "src": "Kotaku",
       "title": "GTA 6′s Lucky Leak #13 Reveals Crowd Scenes You Will Not Believe",
       "summary": "Take a bike across the beach",
@@ -37,7 +61,7 @@
     {
       "lead": false,
       "src": "IGN",
-      "title": "[UPDATE] GTA 6 Leaker Releases Nightclub and Beach Gameplay Videos, Defends Crypto Scheme",
+      "title": "[UPDATE] GTA 6 Leaker Releases Game Store, Nightclub and Beach Gameplay Videos, Defends Crypto Scheme",
       "summary": "The GTA 6 leaks have continued, this time with two new gameplay videos and a message from the leaker defending their crypto scheme.",
       "url": "https://www.ign.com/articles/gta-6-leaker-releases-nightclub-gameplay-video-defends-crypto-scheme",
       "date": "2026-08-25T10:52:58.000Z"
@@ -148,14 +172,6 @@
     },
     {
       "lead": false,
-      "src": "Kotaku",
-      "title": "New GTA 6 Leak Is Filled With Boobs And Dicks",
-      "summary": "But whatever, I'm more interested in how nice that pool looks at night",
-      "url": "https://kotaku.com/new-gta-6-leak-is-filled-with-boobs-and-dicks-2000727526",
-      "date": "2026-08-24T13:54:42.000Z"
-    },
-    {
-      "lead": false,
       "src": "PC Gamer",
       "title": "GTA6 leaker Cyberleek shows off gas station rampage, refueling, promises strip club gameplay if people juice his cryptocurrency enough",
       "summary": "Ok.",
@@ -177,22 +193,6 @@
       "summary": "With each leaked video we learn a bit more about the game.",
       "url": "https://www.pcgamer.com/games/grand-theft-auto/still-more-gta-6-details-from-the-latest-leaked-video-traffic-cameras-car-trackers-and-drivers-that-put-up-a-fight/",
       "date": "2026-08-21T23:43:08.000Z"
-    },
-    {
-      "lead": false,
-      "src": "PC Gamer",
-      "title": "Rockstar employees frustrated by GTA 6 leaks, though they may have only whet appetites for the reveal",
-      "summary": "The increased security measures following the 2022 hack didn't stop another major leak of GTA 6 gameplay.",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/rockstar-employees-frustrated-by-gta-6-leaks-though-they-may-have-only-whet-appetites-for-the-reveal/",
-      "date": "2026-08-21T23:37:09.000Z"
-    },
-    {
-      "lead": false,
-      "src": "PC Gamer",
-      "title": "The GTA 6 leaker is selling ads now",
-      "summary": "For $165,000, you too can ask Cyberleek about promoting your product on his videos.",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/the-gta-6-leaker-is-selling-ads-now/",
-      "date": "2026-08-21T22:16:19.000Z"
     }
   ]
 }
