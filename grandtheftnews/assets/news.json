@@ -1,9 +1,65 @@
 {
-  "updated": "2026-08-25T09:42:53.876Z",
+  "updated": "2026-08-25T13:01:09.515Z",
   "count": 24,
   "items": [
     {
       "lead": true,
+      "src": "Kotaku",
+      "title": "GTA 6′s Lucky Leak #13 Reveals Crowd Scenes You Will Not Believe",
+      "summary": "Take a bike across the beach",
+      "url": "https://kotaku.com/gta-6-leak-13-beach-crowds-bike-rockstar-cyberleek-grand-theft-auto-2000727857",
+      "date": "2026-08-25T11:50:27.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "Latest GTA 6 leak heads to the beach, and it looks like Rockstar is delivering on the crowd density it promised 3 years ago",
+      "summary": "New GTA 6 leak contains a bird with a death wish",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/latest-gta-6-leak-heads-to-the-beach-and-it-looks-like-rockstar-is-delivering-on-the-crowd-density-it-promised-3-years-ago/",
+      "date": "2026-08-25T11:42:42.000Z"
+    },
+    {
+      "lead": false,
+      "src": "PC Gamer",
+      "title": "As Take-Two seeks IP addresses and phone numbers of thousands in GTA 6 subpoena, Discord says it's not been served the order just yet",
+      "summary": "\"We'll evaluate the validity and scope before responding.\"",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/as-take-two-seeks-ip-addresses-and-phone-numbers-of-thousands-in-gta-6-subpoena-discord-says-its-not-been-served-the-order-just-yet/",
+      "date": "2026-08-25T11:25:21.000Z"
+    },
+    {
+      "lead": false,
+      "src": "IGN",
+      "title": "Grand Theft Auto 6: An Extended Look Global Release Times Confirmed",
+      "summary": "Here's when you'll be able to watch Grand Theft Auto 6: An Extended Look as soon as it debuts on Netflix, and when it will arrive on YouTube.",
+      "url": "https://www.ign.com/articles/grand-theft-auto-6-an-extended-look-global-release-times-confirmed",
+      "date": "2026-08-25T11:10:02.000Z"
+    },
+    {
+      "lead": false,
+      "src": "IGN",
+      "title": "[UPDATE] GTA 6 Leaker Releases Nightclub and Beach Gameplay Videos, Defends Crypto Scheme",
+      "summary": "The GTA 6 leaks have continued, this time with two new gameplay videos and a message from the leaker defending their crypto scheme.",
+      "url": "https://www.ign.com/articles/gta-6-leaker-releases-nightclub-gameplay-video-defends-crypto-scheme",
+      "date": "2026-08-25T10:52:58.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "Discord will \"evaluate the validity and scope before responding\" to controversial GTA 6 leaks court order, but the platform \"has not yet been served\"",
+      "summary": "A marketing lead responds regarding Take-Two Interactive's subpoena",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/discord-will-evaluate-the-validity-and-scope-before-responding-to-controversial-gta-6-leaks-court-order-but-the-platform-has-not-yet-been-served/",
+      "date": "2026-08-25T10:04:49.000Z"
+    },
+    {
+      "lead": false,
+      "src": "IGN",
+      "title": "GTA 6 Leak Subpoena: Discord Says It Will 'Evaluate the Validity and Scope Before Responding'",
+      "summary": "Discord has countered online reports about Take-Two’s hunt for the identity of the GTA 6 leaker, saying it has yet to be formally served a subpoena, and when it does receive it, it will take a long, hard look at it before responding.",
+      "url": "https://www.ign.com/articles/gta-6-leak-subpoena-discord-says-it-will-evaluate-the-validity-and-scope-before-responding",
+      "date": "2026-08-25T09:54:10.000Z"
+    },
+    {
+      "lead": false,
       "src": "Eurogamer",
       "title": "Discord is yet to be served Take-Two's GTA 6 leak subpoena, which is set to demand broad access to user data",
       "summary": "Discord has said that it has not yet been served a subpoena from Take-Two regarding Grand Theft Auto 6 leaks. On Friday, it was reported that the Rockstar parent company filed multiple subpoenas in a federal district court in order to obtain a wide range of user data from Discord and Microsoft relating to the leaks.…",
@@ -92,22 +148,6 @@
     },
     {
       "lead": false,
-      "src": "IGN",
-      "title": "GTA 6 Leaker Drops New Nudity-Filled Gameplay, Polls People on Whether to Release Story Spoilers",
-      "summary": "The past week's extraordinary set of GTA 6 leaks appear to have continued today with a significant new release of footage that depicts mass nudity. Meanwhile, the leaker has suggested story spoilers could be posted next, and has called on fans to protest outside the offices of Rockstar and Take-Two Interactive.",
-      "url": "https://www.ign.com/articles/gta-6-leaker-drops-new-nudity-filled-gameplay-polls-people-on-whether-to-release-story-spoilers",
-      "date": "2026-08-24T14:31:55.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "Latest GTA 6 leaks see Cyberleek threaten Rockstar with Lucia story spoilers – and closely examine naked NPCs",
-      "summary": "New GTA 6 leak encourages gamers to visit Take-Two and Rockstar offices",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/latest-gta-6-leaks-see-cyberleek-threaten-rockstar-with-lucia-story-spoilers-and-closely-examine-naked-npcs/",
-      "date": "2026-08-24T14:28:43.000Z"
-    },
-    {
-      "lead": false,
       "src": "Kotaku",
       "title": "New GTA 6 Leak Is Filled With Boobs And Dicks",
       "summary": "But whatever, I'm more interested in how nice that pool looks at night",
@@ -153,46 +193,6 @@
       "summary": "For $165,000, you too can ask Cyberleek about promoting your product on his videos.",
       "url": "https://www.pcgamer.com/games/grand-theft-auto/the-gta-6-leaker-is-selling-ads-now/",
       "date": "2026-08-21T22:16:19.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GameSpot",
-      "title": "GTA 6 Leaker Has Not Been Identified Yet – Report",
-      "summary": "One of the biggest stories in gaming this week has been the ongoing GTA 6 gameplay leaks, which are all about hyping up a memecoin for profit. A new report provides insight into how Rockstar is handling the situation internally. Bloomberg reported that Rockstar has yet to identify the party responsible, or how such…",
-      "url": "https://www.gamespot.com/articles/gta-6-leaker-has-not-been-identified-yet-report/",
-      "date": "2026-08-21T19:29:14.000Z"
-    },
-    {
-      "lead": false,
-      "src": "PC Gamer",
-      "title": "Don't tell Nintendo, but I turned GTA 5 into Pokémon Go using a mod",
-      "summary": "Also, probably don't tell Rockstar.",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/dont-tell-nintendo-but-i-turned-gta-5-into-pokemon-go-using-a-mod/",
-      "date": "2026-08-21T17:00:00.000Z"
-    },
-    {
-      "lead": false,
-      "src": "PC Gamer",
-      "title": "Take-Two kicks off GTA 6 leaker hunt with subpoenas demanding records from Microsoft and Discord",
-      "summary": "Meanwhile, another new Grand Theft Auto 6 leak dropped today.",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/take-two-kicks-off-gta-6-leaker-hunt-with-subpoenas-demanding-records-from-microsoft-and-discord/",
-      "date": "2026-08-21T16:10:58.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GameSpot",
-      "title": "Grand Theft Auto 6 Leaks Are Fueling A Crypto Pump-And-Dump Scheme",
-      "summary": "As Grand Theft Auto 6 continues to leak via small snippets of gameplay, you might be wondering why each video is plastered with watermarks for a meme coin ? It turns out while you're enjoying the early look at Rockstar's latest project, others are literally profiting off of the virality. Each of the leaked gameplay…",
-      "url": "https://www.gamespot.com/articles/grand-theft-auto-6-leaks-are-fueling-a-crypto-pump-and-dump-scheme/",
-      "date": "2026-08-21T16:01:07.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Eurogamer",
-      "title": "Take-Two's legal action to find GTA 6 leaker begins, as it subpoenas Microsoft and Discord for any data \"sufficient to identify the users person\"",
-      "summary": "The hunt for the GTA 6 leaker is on. Take-Two has reportedly filed multiple subpoenas in a federal district court to force information out of Microsoft and Discord related to anything - OneDrive data, Xbox accounts, or Discord users - that might reveal who leaked GTA 6 gameplay videos online. Read more",
-      "url": "https://www.eurogamer.net/take-two-legal-action-gta-6-leeks-cyberleek",
-      "date": "2026-08-21T15:55:19.000Z"
     }
   ]
 }
