@@ -1,9 +1,17 @@
 {
-  "updated": "2026-08-25T06:59:24.033Z",
+  "updated": "2026-08-25T09:42:53.876Z",
   "count": 24,
   "items": [
     {
       "lead": true,
+      "src": "Eurogamer",
+      "title": "Discord is yet to be served Take-Two's GTA 6 leak subpoena, which is set to demand broad access to user data",
+      "summary": "Discord has said that it has not yet been served a subpoena from Take-Two regarding Grand Theft Auto 6 leaks. On Friday, it was reported that the Rockstar parent company filed multiple subpoenas in a federal district court in order to obtain a wide range of user data from Discord and Microsoft relating to the leaks.…",
+      "url": "https://www.eurogamer.net/take-two-rockstar-gta-6-leaks-subpoena-discord-response",
+      "date": "2026-08-25T08:39:48.000Z"
+    },
+    {
+      "lead": false,
       "src": "GamesRadar",
       "title": "Rockstar \"overreacts a bit at times,\" says former tech lead as GTA 6 leaks continue, but it's \"their job\" to stop them",
       "summary": "Obbe Vermeij has said the GTA 6 leaks are \"a nothing burger\"",
@@ -185,14 +193,6 @@
       "summary": "The hunt for the GTA 6 leaker is on. Take-Two has reportedly filed multiple subpoenas in a federal district court to force information out of Microsoft and Discord related to anything - OneDrive data, Xbox accounts, or Discord users - that might reveal who leaked GTA 6 gameplay videos online. Read more",
       "url": "https://www.eurogamer.net/take-two-legal-action-gta-6-leeks-cyberleek",
       "date": "2026-08-21T15:55:19.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GameSpot",
-      "title": "Microsoft And Discord Subpoenaed In GTA 6 Leak Case",
-      "summary": "Many alleged clips of Grand Theft Auto 6 gameplay have leaked online this week, showing everything from combat to basketball, and Rockstar's parent company Take-Two is scrambling to figure out just how it happened. Now, the publisher has subpoenaed both Microsoft and Discord in order to investigate potential users i…",
-      "url": "https://www.gamespot.com/articles/microsoft-and-discord-subpoenaed-in-gta-6-leak-case/",
-      "date": "2026-08-21T14:57:53.000Z"
     }
   ]
 }
