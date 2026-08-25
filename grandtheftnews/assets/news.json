@@ -1,14 +1,70 @@
 {
-  "updated": "2026-08-25T15:50:52.523Z",
+  "updated": "2026-08-25T18:49:31.627Z",
   "count": 24,
   "items": [
     {
       "lead": true,
       "src": "Polygon",
-      "title": "GTA 6's Incredible Beach Leak Just Proved Rockstar's Doubters Wrong In Under Two Minutes",
-      "summary": "Some Grand Theft Auto 6 fans have spent years doubting that Rockstar could really ship a game with NPC density that matched the trailers",
-      "url": "https://www.polygon.com/gta-6-beach-leak-reddit-cyberleek-memes-npc-density/",
-      "date": "2026-08-25T15:16:01.000Z"
+      "title": "'Anime GTA’ Game Ananta Gets Official Release Date Beyond GTA 6’s Blast Radius",
+      "summary": "NetEase Games announced a 2027 release for open-world anime-GTA game Ananta at Gamescom Opening Night Live",
+      "url": "https://www.polygon.com/ananta-the-anime-gta-game-finally-has-a-release-date/",
+      "date": "2026-08-25T18:47:51.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Kotaku",
+      "title": "Anime ‘GTA 6 Killer’ Ananta Finally Has A Release Date And A Slick New Trailer",
+      "summary": "Is this the free-to-play anime RPG I finally finish?",
+      "url": "https://kotaku.com/anime-gta-6-killer-ananta-finally-has-a-release-date-and-a-slick-new-trailer-2000728011",
+      "date": "2026-08-25T18:40:08.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "Ananta release date places the free-to-play anime take on GTA in January 2027, just 2 months after Rockstar's GTA 6",
+      "summary": "Mark your calendar",
+      "url": "https://www.gamesradar.com/games/open-world/ananta-release-date-places-the-free-to-play-anime-take-on-gta-in-january-2027-just-2-months-after-rockstars-gta-6/",
+      "date": "2026-08-25T18:35:45.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Kotaku",
+      "title": "NBA 2K27 Teases A GTA 6-Themed Season Coming Later This Year",
+      "summary": "Take-Two is already revealing some GTA 6 cross-brand synergy plans ahead of the game's launch",
+      "url": "https://kotaku.com/nba-2k27-teases-a-gta-6-themed-season-coming-later-this-year-2000727965",
+      "date": "2026-08-25T17:50:50.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Kotaku",
+      "title": "GTA 6 Beach Leak Has Fans Going Wild Over Crowd Density: ‘Best Leak I’ve Ever Seen!’",
+      "summary": "Holy crap that's a lot of people on that beach and in that night club!",
+      "url": "https://kotaku.com/gta-6-beach-leak-has-fans-going-wild-over-crowd-density-best-leak-ive-ever-seen-2000727929",
+      "date": "2026-08-25T17:02:14.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "New GTA 6 leak shows physical media is alive and well in Vice City, including one game that pokes fun at The Last of Us and Naughty Dog's many remasters",
+      "summary": "Looks like Jason's a gamer in his free time",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/new-gta-6-leak-shows-physical-media-is-alive-and-well-in-vice-city-including-one-game-that-pokes-fun-at-the-last-of-us-and-naughty-dogs-many-remasters/",
+      "date": "2026-08-25T16:32:55.000Z"
+    },
+    {
+      "lead": false,
+      "src": "PC Gamer",
+      "title": "GTA 6 leaker goes full cornball in newest videos, insists 'using crypto is the only way'",
+      "summary": "Man, give it a rest.",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-leaker-goes-full-cornball-in-newest-videos-insists-using-crypto-is-the-only-way/",
+      "date": "2026-08-25T16:14:17.000Z"
+    },
+    {
+      "lead": false,
+      "src": "IGN",
+      "title": "NBA 2K27 Is Teasing a GTA 6-Themed Event in Collaboration with Rockstar Games",
+      "summary": "NBA 2K27 is teasing a crossover with Rockstar Games, seemingly to promote Grand Theft Auto 6.",
+      "url": "https://www.ign.com/articles/nba-2k27-is-teasing-a-gta-6-themed-event-in-collaboration-with-rockstar-games",
+      "date": "2026-08-25T16:07:15.000Z"
     },
     {
       "lead": false,
@@ -68,14 +124,6 @@
     },
     {
       "lead": false,
-      "src": "GamesRadar",
-      "title": "Discord will \"evaluate the validity and scope before responding\" to controversial GTA 6 leaks court order, but the platform \"has not yet been served\"",
-      "summary": "A marketing lead responds regarding Take-Two Interactive's subpoena",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/discord-will-evaluate-the-validity-and-scope-before-responding-to-controversial-gta-6-leaks-court-order-but-the-platform-has-not-yet-been-served/",
-      "date": "2026-08-25T10:04:49.000Z"
-    },
-    {
-      "lead": false,
       "src": "IGN",
       "title": "GTA 6 Leak Subpoena: Discord Says It Will 'Evaluate the Validity and Scope Before Responding'",
       "summary": "Discord has countered online reports about Take-Two’s hunt for the identity of the GTA 6 leaker, saying it has yet to be formally served a subpoena, and when it does receive it, it will take a long, hard look at it before responding.",
@@ -89,14 +137,6 @@
       "summary": "Discord has said that it has not yet been served a subpoena from Take-Two regarding Grand Theft Auto 6 leaks. On Friday, it was reported that the Rockstar parent company filed multiple subpoenas in a federal district court in order to obtain a wide range of user data from Discord and Microsoft relating to the leaks.…",
       "url": "https://www.eurogamer.net/take-two-rockstar-gta-6-leaks-subpoena-discord-response",
       "date": "2026-08-25T08:39:48.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "Rockstar \"overreacts a bit at times,\" says former tech lead as GTA 6 leaks continue, but it's \"their job\" to stop them",
-      "summary": "Obbe Vermeij has said the GTA 6 leaks are \"a nothing burger\"",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/rockstar-overreacts-a-bit-at-times-says-former-tech-lead-as-gta-6-leaks-continue-but-its-their-job-to-stop-them/",
-      "date": "2026-08-24T21:36:09.000Z"
     },
     {
       "lead": false,
@@ -132,27 +172,11 @@
     },
     {
       "lead": false,
-      "src": "Kotaku",
-      "title": "GTA 6 Leaker Now Asking People To Antagonize Rockstar IRL And One Person Already Did It",
-      "summary": "A recent GTA 6 leak featuring nudists includes a message asking people to visit Rockstar North's office",
-      "url": "https://kotaku.com/gta-6-leaker-now-encouraging-people-to-antagonize-rockstar-irl-and-one-person-already-did-it-2000727623",
-      "date": "2026-08-24T17:45:21.000Z"
-    },
-    {
-      "lead": false,
       "src": "PC Gamer",
       "title": "Former Rockstar dev says the GTA 6 leaks are a 'nothing burger': 'There won't be much damage'",
       "summary": "The Cyberleek debacle is no Hot Coffee.",
       "url": "https://www.pcgamer.com/games/grand-theft-auto/former-rockstar-dev-says-the-gta-6-leaks-are-a-nothing-burger-there-wont-be-much-damage/",
       "date": "2026-08-24T16:52:01.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Kotaku",
-      "title": "All The New Details We Spotted In The Leaked GTA 6 Videos: Six-Star Wanted Level, Fueling Up Cars, Nudity, Fishing, And A Stamina Meter",
-      "summary": "Rockstar's massive open-world game has leaked once again and revealed some new details in the process",
-      "url": "https://kotaku.com/all-the-new-details-we-spotted-in-the-leaked-gta-6-videos-six-star-wanted-level-gas-meter-improved-combat-boosting-stats-with-basketball-2000725524",
-      "date": "2026-08-24T16:20:48.000Z"
     },
     {
       "lead": false,
@@ -169,30 +193,6 @@
       "summary": "Former Rockstar North director Obbe Vermeij has commented on the many GTA 6 leaks that have emerged over the past week. Vermeij, who was the technical director for GTA 3, GTA: San Andreas, GTA 4, and other titles in the series, told everyone to \"clam down\" because \"the leaks are a nothing burger.\" He said Rockstar i…",
       "url": "https://www.gamespot.com/articles/gta-6-leaks-dont-matter-and-arent-as-bad-as-hot-coffee-scandal-ex-rockstar-director-says/",
       "date": "2026-08-24T15:08:40.000Z"
-    },
-    {
-      "lead": false,
-      "src": "PC Gamer",
-      "title": "GTA6 leaker Cyberleek shows off gas station rampage, refueling, promises strip club gameplay if people juice his cryptocurrency enough",
-      "summary": "Ok.",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta6-leaker-cyberleek-shows-off-gas-station-rampage-refueling-promises-strip-club-gameplay-if-people-juice-his-cryptocurrency-enough/",
-      "date": "2026-08-22T16:03:22.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Eurogamer",
-      "title": "Is this the end of the GTA 6 leaks? Take-Two's legal crusade appears to shut down the hubs behind them",
-      "summary": "UPDATE 3.30pm: Despite the CyberLeek website going dark, nope, the GTA 6 leaks haven't stopped. Read more",
-      "url": "https://www.eurogamer.net/gta-6-cyberleek-website-down",
-      "date": "2026-08-22T11:16:33.000Z"
-    },
-    {
-      "lead": false,
-      "src": "PC Gamer",
-      "title": "Still more GTA 6 details from the latest leaked video: traffic cameras, car trackers, and drivers that put up a fight",
-      "summary": "With each leaked video we learn a bit more about the game.",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/still-more-gta-6-details-from-the-latest-leaked-video-traffic-cameras-car-trackers-and-drivers-that-put-up-a-fight/",
-      "date": "2026-08-21T23:43:08.000Z"
     }
   ]
 }
