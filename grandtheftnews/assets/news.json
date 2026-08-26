@@ -1,9 +1,17 @@
 {
-  "updated": "2026-08-25T21:35:41.706Z",
+  "updated": "2026-08-26T01:48:45.231Z",
   "count": 23,
   "items": [
     {
       "lead": true,
+      "src": "Kotaku",
+      "title": "The Hunt For The GTA 6 Leaker Seems To Be Getting Closer To Its Target",
+      "summary": "Cyberleek or someone closely associated with the group or leaker might have made a mistake",
+      "url": "https://kotaku.com/the-hunt-for-the-gta-6-leaker-seems-to-be-getting-closer-to-its-target-2000728088",
+      "date": "2026-08-25T22:25:01.000Z"
+    },
+    {
+      "lead": false,
       "src": "GameSpot",
       "title": "NBA 2K27 Teases GTA 6 Crossover Of Some Kind",
       "summary": "2K Sports has released a new trailer for NBA 2K27 today, and it features a reference to GTA 6 that is prompting people to theorize about what it may mean. The Season 1 trailer for NBA 2K27 does a lot more than just show off what's coming in Season 1--it also hints at Seasons 2 and 3. As you can see in the trailer be…",
@@ -73,14 +81,6 @@
       "summary": "Yet another alleged GTA 6 leak has emerged, showing off one of the game's main characters, Jason, visiting a video game store that sells physical discs. This has prompted people to point out the irony of GTA 6 being a digital-exclusive game. In the clip, we see Jason visit a store called Game Horde where he uses bin…",
       "url": "https://www.gamespot.com/articles/latest-gta-6-leak-references-irony-of-the-game-being-a-digtal-exclusive/",
       "date": "2026-08-25T14:42:25.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Kotaku",
-      "title": "New GTA 6 Leak Shows Game Store Selling Physical Discs As Leaker Claims This Is All About ‘Ownership’ In A ‘Digital-Only Era’",
-      "summary": "It is one of three leaks (so far) that Cyberleek has posted online today",
-      "url": "https://kotaku.com/new-gta-6-leak-shows-game-store-selling-physical-discs-as-leaker-claims-this-is-all-about-ownership-in-an-digital-only-era-2000727881",
-      "date": "2026-08-25T14:15:01.000Z"
     },
     {
       "lead": false,
