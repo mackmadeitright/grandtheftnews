@@ -1,9 +1,17 @@
 {
-  "updated": "2026-08-26T07:00:26.863Z",
-  "count": 23,
+  "updated": "2026-08-26T09:50:35.450Z",
+  "count": 22,
   "items": [
     {
       "lead": true,
+      "src": "GameSpot",
+      "title": "The Biggest Gaming Stories That Happened Since GTA 5 Came Out 13 Years Ago",
+      "summary": "The long, long wait for GTA 6 is coming to an end, as the game's November 19 release date approaches. Yes, there have been many leaks , but the genuine article arrives soon. It's been 13 years since GTA 5 launched in September 2013, and a lot has happened in the world of video games since then. When GTA 5 came out,…",
+      "url": "https://www.gamespot.com/articles/the-biggest-gaming-stories-that-happened-since-gta-5-came-out-13-years-ago/",
+      "date": "2026-08-26T08:00:00.000Z"
+    },
+    {
+      "lead": false,
       "src": "Kotaku",
       "title": "The Hunt For The GTA 6 Leaker Seems To Be Getting Closer To Its Target",
       "summary": "Cyberleek or someone closely associated with the group or leaker might have made a mistake",
@@ -44,14 +52,6 @@
     },
     {
       "lead": false,
-      "src": "Kotaku",
-      "title": "GTA 6 Beach Leak Has Fans Going Wild Over Crowd Density: ‘Best Leak I’ve Ever Seen!’",
-      "summary": "Holy crap that's a lot of people on that beach and in that night club!",
-      "url": "https://kotaku.com/gta-6-beach-leak-has-fans-going-wild-over-crowd-density-best-leak-ive-ever-seen-2000727929",
-      "date": "2026-08-25T17:02:14.000Z"
-    },
-    {
-      "lead": false,
       "src": "GamesRadar",
       "title": "New GTA 6 leak shows physical media is alive and well in Vice City, including one game that pokes fun at The Last of Us and Naughty Dog's many remasters",
       "summary": "Looks like Jason's a gamer in his free time",
@@ -65,14 +65,6 @@
       "summary": "Man, give it a rest.",
       "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-leaker-goes-full-cornball-in-newest-videos-insists-using-crypto-is-the-only-way/",
       "date": "2026-08-25T16:14:17.000Z"
-    },
-    {
-      "lead": false,
-      "src": "IGN",
-      "title": "NBA 2K27 Is Teasing a GTA 6-Themed Event in Collaboration with Rockstar Games",
-      "summary": "NBA 2K27 is teasing a crossover with Rockstar Games, seemingly to promote Grand Theft Auto 6.",
-      "url": "https://www.ign.com/articles/nba-2k27-is-teasing-a-gta-6-themed-event-in-collaboration-with-rockstar-games",
-      "date": "2026-08-25T16:07:15.000Z"
     },
     {
       "lead": false,
