@@ -1,14 +1,158 @@
 {
-  "updated": "2026-08-26T16:23:59.042Z",
+  "updated": "2026-08-26T19:55:28.217Z",
   "count": 24,
   "items": [
     {
       "lead": true,
+      "src": "GameSpot",
+      "title": "How Switching Between GTA 6’s Two Protagonists Works",
+      "summary": "Despite the \"heartbreaking\" leaks plaguing Rockstar Games right now, the team is speaking a bit more about what you can expect when Grand Theft Auto 6 hits PlayStation 5 and Xbox Series X|S on November 19. This includes detailing how switching between the dual protagonists, Jason Duval and Lucia Caminos, works. Brit…",
+      "url": "https://www.gamespot.com/articles/how-switching-between-gta-6s-two-protagonists-works/",
+      "date": "2026-08-26T19:19:46.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GameSpot",
+      "title": "GTA 6 Spoilers Are Part Of The Latest Gameplay Leak",
+      "summary": "The latest gameplay leak for GTA 6 has arrived, and it contains new story spoilers. As such, if you care about that and spend time on the internet, be prepared to scroll away fast if something that looks like GTA 6 comes across your feed. Read on for more information about the latest leak. For about a week, most of…",
+      "url": "https://www.gamespot.com/articles/gta-6-spoilers-are-part-of-the-latest-gameplay-leak/",
+      "date": "2026-08-26T19:11:03.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Kotaku",
+      "title": "Why A Game Originally Prototyped For Game Boy Color Is Going Head-To-Head With GTA 6",
+      "summary": "'If only we knew about the GTA 6 nudist colony'",
+      "url": "https://kotaku.com/volvys-adventure-devolver-digital-gta-6-2000728516",
+      "date": "2026-08-26T19:00:48.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "GTA 6 brings back a fan-favorite San Andreas feature: you'll get chubby if you eat a lot",
+      "summary": "Those sleepless benders will also take a toll",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-brings-back-a-fan-favorite-san-andreas-feature-youll-get-chubby-if-you-eat-a-lot/",
+      "date": "2026-08-26T18:59:47.000Z"
+    },
+    {
+      "lead": false,
       "src": "Polygon",
-      "title": "GTA 6 Leaks Keep Spilling In Defiance of Rockstar's 'Heartbreaking' Response",
-      "summary": "Cyberleek is moving into spoiler territory with Lucia a day ahead of Netflix's extended GTA 6 look",
-      "url": "https://www.polygon.com/gta-6-leak-rideout-customs-rockstar-games-statement-netflix-reveal/",
-      "date": "2026-08-26T15:41:39.000Z"
+      "title": "GTA 6's First Official Preview Reveals 5 Juicy New Details",
+      "summary": "GTA 6 upgrades many of Red Dead Redemption 2's stellar mechanics with a more complex honor system and more realistic NPCs",
+      "url": "https://www.polygon.com/gta-6-dazed-magazine-preview-npc-honor-realism-gameplay/",
+      "date": "2026-08-26T18:52:59.000Z"
+    },
+    {
+      "lead": false,
+      "src": "IGN",
+      "title": "Rockstar Games Doubled in Size for GTA 6, Hired Real World Professionals for Fashion, Vehicles, and More",
+      "summary": "Rockstar Games doubled its employee headcount for Grand Theft Auto 6 and hired real-world professionals for the game's vehicles, fashion, and more.",
+      "url": "https://www.ign.com/articles/rockstar-games-doubled-in-size-for-gta-6-hired-real-world-professionals-for-fashion-vehicles-and-more",
+      "date": "2026-08-26T18:42:05.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GameSpot",
+      "title": "GTA 6 Brings Back A Fascinating San Andreas Feature",
+      "summary": "Grand Theft Auto 6 is just two months away, and although the game has suffered some \"heartbreaking\" leaks recently , Rockstar Games is slowly peeling back the curtain on the year's most anticipated release. Now, a new deep dive has revealed that a feature from San Andreas is returning--and it sounds better than ever…",
+      "url": "https://www.gamespot.com/articles/gta-6-brings-back-a-fascinating-san-andreas-feature/",
+      "date": "2026-08-26T18:30:56.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "For GTA 6, Rockstar has more than doubled in size since Red Dead Redemption 2, and has an entire Los Angeles branch dedicated to realistic NPCs",
+      "summary": "\"We look back at our previous games with a critical eye\"",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/for-gta-6-rockstar-has-more-than-doubled-in-size-since-red-dead-redemption-2-and-has-an-entire-los-angeles-branch-dedicated-to-realistic-npcs/",
+      "date": "2026-08-26T18:21:37.000Z"
+    },
+    {
+      "lead": false,
+      "src": "PC Gamer",
+      "title": "GTA 6 leaker escalates spoilers, releases 4 minutes of Lucia's prologue",
+      "summary": "Cyberleek wants more money.",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-leaker-escalates-spoilers-releases-4-minutes-of-lucias-prologue/",
+      "date": "2026-08-26T18:17:59.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Kotaku",
+      "title": "GTA 6 Doesn’t Take Kindly To Open Carry",
+      "summary": "No machine guns on the beach, thanks",
+      "url": "https://kotaku.com/gta-6-doesnt-take-kindly-to-open-carry-2000728483",
+      "date": "2026-08-26T17:55:18.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Kotaku",
+      "title": "Rockstar Confirms GTA 6 Is Bringing Back San Andreas’ Weight System",
+      "summary": "You'll be able to hit the gym and gain some muscle tone in Grand Theft Auto 6",
+      "url": "https://kotaku.com/rockstar-confirms-gta-6-is-bringing-back-san-andreas-weight-system-2000728481",
+      "date": "2026-08-26T17:47:48.000Z"
+    },
+    {
+      "lead": false,
+      "src": "PC Gamer",
+      "title": "New GTA 6 character swapping details revealed: Jason and Lucia can 'play as a couple, or go off and cause chaos independently'",
+      "summary": "An interview published in Dazed magazine provides some juicy new details about GTA 6's design and development.",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/big-new-gta-6-gameplay-details-revealed-including-specifics-about-jason-and-lucia-character-swapping-play-as-a-couple-or-go-off-and-cause-chaos-independently/",
+      "date": "2026-08-26T17:47:40.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Kotaku",
+      "title": "Grand Theft Auto 6 Will Have Some Kind Of Relationship System",
+      "summary": "Rockstar says Jason and Lucia’s romance will have repercussions that ‘cut much deeper’ than those in previous games",
+      "url": "https://kotaku.com/grand-theft-auto-6-gta6-romance-relationship-jason-lucia-2000728485",
+      "date": "2026-08-26T17:37:44.000Z"
+    },
+    {
+      "lead": false,
+      "src": "IGN",
+      "title": "Grand Theft Auto 6 Will Have RPG Mechanics Like Eating, Exercising, and More",
+      "summary": "Some of the first gameplay details for Grand Theft Auto 6 have been confirmed, and it seems like Rockstar is embracing a more RPG-y style this time around.",
+      "url": "https://www.ign.com/articles/grand-theft-auto-6-will-have-rpg-mechanics-like-eating-exercising-and-more",
+      "date": "2026-08-26T17:10:57.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "GTA 6 leaker turns to story spoilers: Cyberleek uploads 4-minute Lucia prologue clip hours after Rockstar says the leaks are \"heartbreaking\"",
+      "summary": "GTA 6 story spoilers are out in the wild, be warned",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-leaker-turns-to-story-spoilers-cyberleek-uploads-4-minute-lucia-prologue-clip-hours-after-rockstar-says-the-leaks-are-heartbreaking/",
+      "date": "2026-08-26T16:56:57.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "New GTA 6 leak takes to the streets of Vice City for a chaotic nighttime police chase, and teases a cutscene featuring Lucia",
+      "summary": "Rockstar recently responded to the leaks publicly",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/new-gta-6-leak-takes-to-the-streets-of-vice-city-for-a-chaotic-nighttime-police-chase-and-teases-a-cutscene-featuring-lucia/",
+      "date": "2026-08-26T16:53:17.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Kotaku",
+      "title": "Watch Out, The GTA 6 Leaker Is Now Sharing Story Spoilers",
+      "summary": "What appears to be the game's prologue has been shared online by Cyberleek",
+      "url": "https://kotaku.com/watch-out-the-gta-6-leaker-is-now-sharing-story-spoilers-2000728456",
+      "date": "2026-08-26T16:28:12.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "Rockstar had to fight to get people to care about GTA 3 at E3, former lead recalls, and now GTA 6 is the most anticipated game of the generation",
+      "summary": "Although the previews at the time seemed fairly positive",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/rockstar-had-to-fight-to-get-people-to-care-about-gta-3-at-e3-former-lead-recalls-and-now-gta-6-is-the-most-anticipated-game-of-the-generation/",
+      "date": "2026-08-26T16:23:12.000Z"
+    },
+    {
+      "lead": false,
+      "src": "IGN",
+      "title": "Leaker Posts Extended Gameplay From GTA 6 Prologue Just Hours After Rockstar Warns Fans to Expect Story Spoilers",
+      "summary": "Extended gameplay footage revealing Grand Theft Auto 6's story prologue has been posted online, in a significant escalation of the past week's continued leaks.",
+      "url": "https://www.ign.com/articles/leaker-posts-extended-gameplay-from-gta-6-prologue-just-hours-after-rockstar-warns-fans-to-expect-story-spoilers",
+      "date": "2026-08-26T15:41:27.000Z"
     },
     {
       "lead": false,
@@ -49,150 +193,6 @@
       "summary": "Rockstar has officially addressed the Grand Theft Auto 6 leaks, which have been pouring in online for over a week. The developer said the gameplay leaks have been \"heartbreaking\" for the team, and warned players that \"the intended game experience may now be impacted by some spoilers\". Read more",
       "url": "https://www.eurogamer.net/gta-6-leaks-rockstar-statement-spoilers",
       "date": "2026-08-26T11:54:55.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "Rockstar officially responds to GTA 6 leaks: \"This is obviously not how we intended for you to see the game after all this time\"",
-      "summary": "\"We are very sorry that everything has taken as long as it has,\" Rockstar says, but this is \"not how we intended for you to see the game after all this time\"",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/rockstar-officially-responds-to-gta-6-leaks-this-is-obviously-not-how-we-intended-for-you-to-see-the-game-after-all-this-time/",
-      "date": "2026-08-26T11:42:37.000Z"
-    },
-    {
-      "lead": false,
-      "src": "IGN",
-      "title": "Rockstar Games Finally Addresses Extraordinary and 'Heartbreaking' GTA 6 Leaks, Warns Players That 'Some Spoilers' May Now Impact 'The Intended Game Experience'",
-      "summary": "Rockstar Games has finally addressed the past week's extraordinary spate of Grand Theft Auto 6 leaks.",
-      "url": "https://www.ign.com/articles/rockstar-games-finally-addresses-extraordinary-gta-6-leaks-warns-players-that-some-spoilers-may-now-impact-the-intended-game-experience",
-      "date": "2026-08-26T11:42:08.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Kotaku",
-      "title": "Rockstar Finally Breaks Its Silence Over The GTA 6 Leaks, Calls Them ‘Heartbreaking’",
-      "summary": "The company also uncharacteristically apologizes for the lack of official information",
-      "url": "https://kotaku.com/rockstar-gta-6-leaks-grand-theft-auto-cyberleek-official-statement-2000728341",
-      "date": "2026-08-26T11:38:14.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GameSpot",
-      "title": "The Biggest Gaming Stories That Happened Since GTA 5 Came Out 13 Years Ago",
-      "summary": "The long, long wait for GTA 6 is coming to an end, as the game's November 19 release date approaches. Yes, there have been many leaks , but the genuine article arrives soon. It's been 13 years since GTA 5 launched in September 2013, and a lot has happened in the world of video games since then. When GTA 5 came out,…",
-      "url": "https://www.gamespot.com/articles/the-biggest-gaming-stories-that-happened-since-gta-5-came-out-13-years-ago/",
-      "date": "2026-08-26T08:00:00.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Kotaku",
-      "title": "The Hunt For The GTA 6 Leaker Seems To Be Getting Closer To Its Target",
-      "summary": "Cyberleek or someone closely associated with the group or leaker might have made a mistake",
-      "url": "https://kotaku.com/the-hunt-for-the-gta-6-leaker-seems-to-be-getting-closer-to-its-target-2000728088",
-      "date": "2026-08-25T22:25:01.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GameSpot",
-      "title": "NBA 2K27 Teases GTA 6 Crossover Of Some Kind",
-      "summary": "2K Sports has released a new trailer for NBA 2K27 today, and it features a reference to GTA 6 that is prompting people to theorize about what it may mean. The Season 1 trailer for NBA 2K27 does a lot more than just show off what's coming in Season 1--it also hints at Seasons 2 and 3. As you can see in the trailer be…",
-      "url": "https://www.gamespot.com/articles/nba-2k27-teases-gta-6-crossover-of-some-kind/",
-      "date": "2026-08-25T19:00:20.000Z"
-    },
-    {
-      "lead": false,
-      "src": "PC Gamer",
-      "title": "GTA 6 leaker goes full cornball in newest videos, insists 'using crypto is the only way'",
-      "summary": "Man, give it a rest.",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-leaker-goes-full-cornball-in-newest-videos-insists-using-crypto-is-the-only-way/",
-      "date": "2026-08-25T16:14:17.000Z"
-    },
-    {
-      "lead": false,
-      "src": "PC Gamer",
-      "title": "As Take-Two seeks IP addresses and phone numbers of thousands in GTA 6 subpoena, Discord says it's not been served the order just yet",
-      "summary": "\"We'll evaluate the validity and scope before responding.\"",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/as-take-two-seeks-ip-addresses-and-phone-numbers-of-thousands-in-gta-6-subpoena-discord-says-its-not-been-served-the-order-just-yet/",
-      "date": "2026-08-25T11:25:21.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Eurogamer",
-      "title": "Discord is yet to be served Take-Two's GTA 6 leak subpoena, which is set to demand broad access to user data",
-      "summary": "Discord has said that it has not yet been served a subpoena from Take-Two regarding Grand Theft Auto 6 leaks. On Friday, it was reported that the Rockstar parent company filed multiple subpoenas in a federal district court in order to obtain a wide range of user data from Discord and Microsoft relating to the leaks.…",
-      "url": "https://www.eurogamer.net/take-two-rockstar-gta-6-leaks-subpoena-discord-response",
-      "date": "2026-08-25T08:39:48.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GameSpot",
-      "title": "GTA 6 Leaks: A Timeline Of The Events So Far",
-      "summary": "It's been a busy few weeks for Rockstar and Take-Two following a series of leaked GTA 6 gameplay videos and images. Beginning in mid-August 2026, an anonymous individual or group calling itself CyberLeek began publishing unreleased Grand Theft Auto 6 material. The first wave included gameplay videos and apparent ima…",
-      "url": "https://www.gamespot.com/articles/gta-6-leaks-a-timeline-of-the-events-so-far/",
-      "date": "2026-08-24T19:01:36.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Eurogamer",
-      "title": "Is this the end of the GTA 6 leaks? Take-Two's legal crusade appears to shut down the hubs behind them",
-      "summary": "UPDATE 3.30pm: Despite the CyberLeek website going dark, nope, the GTA 6 leaks haven't stopped. Read more",
-      "url": "https://www.eurogamer.net/gta-6-cyberleek-website-down",
-      "date": "2026-08-22T11:16:33.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Eurogamer",
-      "title": "Take-Two's legal action to find GTA 6 leaker begins, as it subpoenas Microsoft and Discord for any data \"sufficient to identify the users person\"",
-      "summary": "The hunt for the GTA 6 leaker is on. Take-Two has reportedly filed multiple subpoenas in a federal district court to force information out of Microsoft and Discord related to anything - OneDrive data, Xbox accounts, or Discord users - that might reveal who leaked GTA 6 gameplay videos online. Read more",
-      "url": "https://www.eurogamer.net/take-two-legal-action-gta-6-leeks-cyberleek",
-      "date": "2026-08-21T15:55:19.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Eurogamer",
-      "title": "GTA 6 leaker shares footage suggesting link or access to playable build of the game, as Rockstar struggles to contain even more gameplay videos",
-      "summary": "UPDATE 1PM BST: A previous version of this article erroneously suggested the leaker had \"full access\" to the GTA 6 game, based on the declaration of what appears to be an impersonating social media account. Read more",
-      "url": "https://www.eurogamer.net/rockstar-gta-6-leaker-full-access-gameplay-leaks-continue",
-      "date": "2026-08-20T11:27:51.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Eurogamer",
-      "title": "Third seemingly real GTA 6 video leaks as Rockstar scrambles to remove footage from the internet",
-      "summary": "Another video of what appears to be legitimate Grand Theft Auto 6 gameplay has leaked online, and again it bears the watermark of the group allegedly connected with today's earlier leaks, CyberLeek. Read more",
-      "url": "https://www.eurogamer.net/third-leaked-gta-6-footage-rockstar-cyberleek",
-      "date": "2026-08-19T15:26:15.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Eurogamer",
-      "title": "The next Binding of Isaac game is going up against Grand Theft Auto 6",
-      "summary": "The Binding of Isaac : Repentance + Online has revealed a release date and it's one you probably have marked on your calendar. The package, a collection of The Binding of Isaac: Rebirth and all previously released add-ons, arrives 19th November on consoles -exactly the same day as Grand Theft Auto 6 . Read more",
-      "url": "https://www.eurogamer.net/the-binding-of-isaac-repentance-plus-online-date",
-      "date": "2026-08-19T11:59:42.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Eurogamer",
-      "title": "Stop Killing Games urges people not to support GTA 6 leakers, who declared \"gamers' rights\" their motive for action",
-      "summary": "Consumer rights movement Stop Killing Games has released a public statement admonishing the actions of the group which took responsibility for leaking Grand Theft Auto 6 gameplay footage overnight. Read more",
-      "url": "https://www.eurogamer.net/stop-killing-games-gta-6-leak",
-      "date": "2026-08-19T11:25:41.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Eurogamer",
-      "title": "GTA 6 gameplay footage and map appear to leak online, as group seemingly responsible makes demands of Rockstar",
-      "summary": "What appears to be legitimate gameplay footage of Grand Theft Auto 6 has leaked onto the internet, alongside an alleged image of the game's entire map. Read more",
-      "url": "https://www.eurogamer.net/gta-6-leaked-gameplay-map-cyberleek",
-      "date": "2026-08-19T10:49:16.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Eurogamer",
-      "title": "Don't boycott Grand Theft Auto 6, say workers fired by Rockstar - buy a T-shirt to help fund the legal battle instead",
-      "summary": "The workers fired by Rockstar Games in an alleged 'union-busting' move last autumn have asked people concerned not to boycott the upcoming release of Grand Theft Auto 6 . Read more",
-      "url": "https://www.eurogamer.net/rockstar-workers-dont-boycott-grand-theft-auto-6-support-union-costs",
-      "date": "2026-08-18T13:27:24.000Z"
     }
   ]
 }
