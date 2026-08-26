@@ -1,9 +1,25 @@
 {
-  "updated": "2026-08-26T13:06:11.469Z",
+  "updated": "2026-08-26T16:23:59.042Z",
   "count": 24,
   "items": [
     {
       "lead": true,
+      "src": "Polygon",
+      "title": "GTA 6 Leaks Keep Spilling In Defiance of Rockstar's 'Heartbreaking' Response",
+      "summary": "Cyberleek is moving into spoiler territory with Lucia a day ahead of Netflix's extended GTA 6 look",
+      "url": "https://www.polygon.com/gta-6-leak-rideout-customs-rockstar-games-statement-netflix-reveal/",
+      "date": "2026-08-26T15:41:39.000Z"
+    },
+    {
+      "lead": false,
+      "src": "PC Gamer",
+      "title": "Rockstar responds to GTA 6 leaks: 'This is not how we intended for you see the game after all this time'",
+      "summary": "The studio has described the leaks as \"heartbreaking for our team\".",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/rockstar-responds-to-gta-6-leaks-this-is-not-how-we-intended-for-you-see-the-game-after-all-this-time/",
+      "date": "2026-08-26T12:47:48.000Z"
+    },
+    {
+      "lead": false,
       "src": "Kotaku",
       "title": "As Rockstar Apologizes Yet More Leaked GTA 6 Footage Appears, This Time Featuring Lucia",
       "summary": "A police chase is cut short to show the briefest glimpse of a cutscene",
@@ -17,14 +33,6 @@
       "summary": "While Naughty Dog is working on its next title, Intergalactic: The Heretic Prophet, that hasn't stopped people from taking a jab at the studio for having spent almost the entire PlayStation 5 generation without releasing a brand-new game--and it looks like even GTA 6 is having a little bit of fun at Naughty Dog's ex…",
       "url": "https://www.gamespot.com/articles/even-gta-6-is-poking-fun-at-naughty-dogs-lack-of-new-games/",
       "date": "2026-08-26T12:34:00.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Polygon",
-      "title": "Rockstar Games Releases Official Response to 'Heartbreaking' GTA 6 Leaks",
-      "summary": "A week of Grand Theft Auto 6 leaks force Rockstar Games to respond publicly to the situation in a new statement ahead of Netflix reveal.",
-      "url": "https://www.polygon.com/rockstar-games-officially-responds-to-gta-6-leaks/",
-      "date": "2026-08-26T12:14:07.000Z"
     },
     {
       "lead": false,
@@ -61,7 +69,7 @@
     {
       "lead": false,
       "src": "Kotaku",
-      "title": "Rockstar Finally Breaks Its Silence Over The GTA 6 Leaks, Calls It ‘Heartbreaking’",
+      "title": "Rockstar Finally Breaks Its Silence Over The GTA 6 Leaks, Calls Them ‘Heartbreaking’",
       "summary": "The company also uncharacteristically apologizes for the lack of official information",
       "url": "https://kotaku.com/rockstar-gta-6-leaks-grand-theft-auto-cyberleek-official-statement-2000728341",
       "date": "2026-08-26T11:38:14.000Z"
@@ -92,22 +100,6 @@
     },
     {
       "lead": false,
-      "src": "Kotaku",
-      "title": "Anime ‘GTA 6 Killer’ Ananta Finally Has A Release Date And A Slick New Trailer",
-      "summary": "Is this the free-to-play anime RPG I finally finish?",
-      "url": "https://kotaku.com/anime-gta-6-killer-ananta-finally-has-a-release-date-and-a-slick-new-trailer-2000728011",
-      "date": "2026-08-25T18:40:08.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "Ananta release date places the free-to-play anime take on GTA in January 2027, just 2 months after Rockstar's GTA 6",
-      "summary": "Mark your calendar",
-      "url": "https://www.gamesradar.com/games/open-world/ananta-release-date-places-the-free-to-play-anime-take-on-gta-in-january-2027-just-2-months-after-rockstars-gta-6/",
-      "date": "2026-08-25T18:35:45.000Z"
-    },
-    {
-      "lead": false,
       "src": "PC Gamer",
       "title": "GTA 6 leaker goes full cornball in newest videos, insists 'using crypto is the only way'",
       "summary": "Man, give it a rest.",
@@ -132,27 +124,11 @@
     },
     {
       "lead": false,
-      "src": "PC Gamer",
-      "title": "Latest GTA 6 leak confirms full dong",
-      "summary": "It's perfectly natural.",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/latest-gta-6-leak-confirms-full-dong/",
-      "date": "2026-08-24T20:22:51.000Z"
-    },
-    {
-      "lead": false,
       "src": "GameSpot",
       "title": "GTA 6 Leaks: A Timeline Of The Events So Far",
       "summary": "It's been a busy few weeks for Rockstar and Take-Two following a series of leaked GTA 6 gameplay videos and images. Beginning in mid-August 2026, an anonymous individual or group calling itself CyberLeek began publishing unreleased Grand Theft Auto 6 material. The first wave included gameplay videos and apparent ima…",
       "url": "https://www.gamespot.com/articles/gta-6-leaks-a-timeline-of-the-events-so-far/",
       "date": "2026-08-24T19:01:36.000Z"
-    },
-    {
-      "lead": false,
-      "src": "PC Gamer",
-      "title": "Former Rockstar dev says the GTA 6 leaks are a 'nothing burger': 'There won't be much damage'",
-      "summary": "The Cyberleek debacle is no Hot Coffee.",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/former-rockstar-dev-says-the-gta-6-leaks-are-a-nothing-burger-there-wont-be-much-damage/",
-      "date": "2026-08-24T16:52:01.000Z"
     },
     {
       "lead": false,
@@ -193,6 +169,30 @@
       "summary": "The Binding of Isaac : Repentance + Online has revealed a release date and it's one you probably have marked on your calendar. The package, a collection of The Binding of Isaac: Rebirth and all previously released add-ons, arrives 19th November on consoles -exactly the same day as Grand Theft Auto 6 . Read more",
       "url": "https://www.eurogamer.net/the-binding-of-isaac-repentance-plus-online-date",
       "date": "2026-08-19T11:59:42.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Eurogamer",
+      "title": "Stop Killing Games urges people not to support GTA 6 leakers, who declared \"gamers' rights\" their motive for action",
+      "summary": "Consumer rights movement Stop Killing Games has released a public statement admonishing the actions of the group which took responsibility for leaking Grand Theft Auto 6 gameplay footage overnight. Read more",
+      "url": "https://www.eurogamer.net/stop-killing-games-gta-6-leak",
+      "date": "2026-08-19T11:25:41.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Eurogamer",
+      "title": "GTA 6 gameplay footage and map appear to leak online, as group seemingly responsible makes demands of Rockstar",
+      "summary": "What appears to be legitimate gameplay footage of Grand Theft Auto 6 has leaked onto the internet, alongside an alleged image of the game's entire map. Read more",
+      "url": "https://www.eurogamer.net/gta-6-leaked-gameplay-map-cyberleek",
+      "date": "2026-08-19T10:49:16.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Eurogamer",
+      "title": "Don't boycott Grand Theft Auto 6, say workers fired by Rockstar - buy a T-shirt to help fund the legal battle instead",
+      "summary": "The workers fired by Rockstar Games in an alleged 'union-busting' move last autumn have asked people concerned not to boycott the upcoming release of Grand Theft Auto 6 . Read more",
+      "url": "https://www.eurogamer.net/rockstar-workers-dont-boycott-grand-theft-auto-6-support-union-costs",
+      "date": "2026-08-18T13:27:24.000Z"
     }
   ]
 }
