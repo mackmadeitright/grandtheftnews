@@ -1,9 +1,25 @@
 {
-  "updated": "2026-08-26T19:55:28.217Z",
+  "updated": "2026-08-27T00:37:49.130Z",
   "count": 24,
   "items": [
     {
       "lead": true,
+      "src": "Kotaku",
+      "title": "One Shot From The New GTA 6 Leak Already Has Some Fans Yelling About A Downgrade",
+      "summary": "Others suggest there are a few possible reasons the game doesn't look the same as it did in the first trailer",
+      "url": "https://kotaku.com/one-shot-from-the-new-gta-6-leak-already-has-some-fans-yelling-about-a-downgrade-2000728565",
+      "date": "2026-08-26T22:30:39.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GameSpot",
+      "title": "GTA 6 Wants You To Reconsider Doing What Everyone Does In Grand Theft Auto",
+      "summary": "A new deep dive has dropped with some fascinating takeaways from Rockstar Games on the most anticipated release of the year, Grand Theft Auto 6 . We've learned a lot already, including a feature returning from San Andreas and how switching between the two protagonists works . Now, we're finding out that you might wa…",
+      "url": "https://www.gamespot.com/articles/gta-6-wants-you-to-reconsider-doing-what-everyone-does-in-grand-theft-auto/",
+      "date": "2026-08-26T20:28:55.000Z"
+    },
+    {
+      "lead": false,
       "src": "GameSpot",
       "title": "How Switching Between GTA 6’s Two Protagonists Works",
       "summary": "Despite the \"heartbreaking\" leaks plaguing Rockstar Games right now, the team is speaking a bit more about what you can expect when Grand Theft Auto 6 hits PlayStation 5 and Xbox Series X|S on November 19. This includes detailing how switching between the dual protagonists, Jason Duval and Lucia Caminos, works. Brit…",
@@ -148,27 +164,11 @@
     },
     {
       "lead": false,
-      "src": "IGN",
-      "title": "Leaker Posts Extended Gameplay From GTA 6 Prologue Just Hours After Rockstar Warns Fans to Expect Story Spoilers",
-      "summary": "Extended gameplay footage revealing Grand Theft Auto 6's story prologue has been posted online, in a significant escalation of the past week's continued leaks.",
-      "url": "https://www.ign.com/articles/leaker-posts-extended-gameplay-from-gta-6-prologue-just-hours-after-rockstar-warns-fans-to-expect-story-spoilers",
-      "date": "2026-08-26T15:41:27.000Z"
-    },
-    {
-      "lead": false,
       "src": "PC Gamer",
       "title": "Rockstar responds to GTA 6 leaks: 'This is not how we intended for you see the game after all this time'",
       "summary": "The studio has described the leaks as \"heartbreaking for our team\".",
       "url": "https://www.pcgamer.com/games/grand-theft-auto/rockstar-responds-to-gta-6-leaks-this-is-not-how-we-intended-for-you-see-the-game-after-all-this-time/",
       "date": "2026-08-26T12:47:48.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Kotaku",
-      "title": "As Rockstar Apologizes Yet More Leaked GTA 6 Footage Appears, This Time Featuring Lucia",
-      "summary": "A police chase is cut short to show the briefest glimpse of a cutscene",
-      "url": "https://kotaku.com/rockstar-gta6-leaks-cyberleek-grand-theft-auto-vi-lucia-footage-netflix-2000728355",
-      "date": "2026-08-26T12:35:59.000Z"
     },
     {
       "lead": false,
