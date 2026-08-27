@@ -1,9 +1,89 @@
 {
-  "updated": "2026-08-27T00:37:49.130Z",
+  "updated": "2026-08-27T14:03:15.308Z",
   "count": 24,
   "items": [
     {
       "lead": true,
+      "src": "Kotaku",
+      "title": "Content Creators Nearly Crash Out Over The Netflix GTA 6 Reveal’s Confusing Streaming Guidelines",
+      "summary": "The biggest co-streaming moment of the year has confusing restrictions",
+      "url": "https://kotaku.com/content-creators-nearly-crash-out-over-the-netflix-gta-6-reveals-confusing-streaming-guidelines-2000728828",
+      "date": "2026-08-27T13:24:39.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Kotaku",
+      "title": "GTA 6‘s Netflix Special Is Over 20 Minutes Long And Was Captured On A PS5",
+      "summary": "The Extended Look at Grand Theft Auto 6 will be available to watch later today",
+      "url": "https://kotaku.com/gta-6s-netflix-special-is-over-20-minutes-long-and-was-captured-on-a-ps5-2000728832",
+      "date": "2026-08-27T13:23:28.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GameSpot",
+      "title": "GTA 6 Netflix Trailer’s Beefy Runtime Revealed, Footage Captured On PS5",
+      "summary": "At long last, Rockstar will lift the veil on GTA 6 today, August 27, via an \"Extended Look\" on Netflix . But how long will the broadcast be? Now we know. According to an updated listing for the showcase on the Netflix app, the Extended Look event will run for 26 minutes. That's pretty significant, but it should be,…",
+      "url": "https://www.gamespot.com/articles/gta-6-netflix-trailers-beefy-runtime-revealed-footage-captured-on-ps5/",
+      "date": "2026-08-27T13:18:01.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GameSpot",
+      "title": "GTA 6 Wants To Remind You That Looks Matter In The Influencer Hustle Of Vice City",
+      "summary": "Ahead of today's GTA 6 Extended Preview on Netflix , developer Rockstar Games has revealed plenty of new details on the highly anticipated open-world game. In a new interview , Rockstar North co-studio head Rob Nelson divulged how the game, similar to GTA: San Andreas , will require you to take good care of the prot…",
+      "url": "https://www.gamespot.com/articles/gta-6-wants-to-remind-you-that-looks-matter-in-the-influencer-hustle-of-vice-city/",
+      "date": "2026-08-27T12:07:55.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GameSpot",
+      "title": "GTA 6 Extended Look: How To Watch, What To Expect, And More",
+      "summary": "The countdown to Grand Theft Auto 6 is winding down, and ahead of its launch in November, developer Rockstar Games has a new look at the game on the way. But unlike other trailers or developer previews, this one won't be dropping on YouTube first, as Netflix has an exclusive on it for several hours. If you're planni…",
+      "url": "https://www.gamespot.com/articles/gta-6-extended-look-how-to-watch-what-to-expect-and-more/",
+      "date": "2026-08-27T10:00:00.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "GTA 6 promises big consequences for your actions that go beyond Red Dead Redemption 2's honor system",
+      "summary": "Rockstar Games is apparently taking things a step further with Jason and Lucia",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-promises-big-consequences-for-your-actions-that-go-beyond-red-dead-redemption-2s-honor-system/",
+      "date": "2026-08-27T09:53:20.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Eurogamer",
+      "title": "GTA 6 gameplay details revealed in new preview, including seamless character switching, playing as a couple and more",
+      "summary": "Grand Theft Auto 6 day has kicked off a little early. While everyone waits for the game's Netflix extended look , new information has emerged from something of an unlikely source. Read more",
+      "url": "https://www.eurogamer.net/gta-6-character-switching-reactive-world-jason-lucia-romance",
+      "date": "2026-08-27T09:51:21.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Eurogamer",
+      "title": "GTA 6 officially has character weight and exercise systems, and even \"multi-day benders\" reportedly have a visible effect",
+      "summary": "Official Grand Theft Auto 6 coverage is starting to appear ahead of today's Netflix 'extended look' premiere , and with it comes confirmation that eating and exercising and even going on \"multi-day benders\" can visibly affect the look of your characters. Read more",
+      "url": "https://www.eurogamer.net/gta-6-food-weight-exercise-benders",
+      "date": "2026-08-27T09:40:01.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Eurogamer",
+      "title": "Rockstar set up a special GTA 6 team in Miami to meet with \"ex-criminals, law enforcement, club promoters, gun dealers and anyone notorious or influential\"",
+      "summary": "Rockstar went to some great lengths for its Grand Theft Auto 6 research, it seems, as the studio has said it sent multiple teams of developers to Miami as well as embedding a team there longer-term for research. Read more",
+      "url": "https://www.eurogamer.net/gta-6-rockstar-miami-research-team-ex-criminals-gun-dealers",
+      "date": "2026-08-27T09:37:16.000Z"
+    },
+    {
+      "lead": false,
+      "src": "PC Gamer",
+      "title": "When and where to watch the GTA 6 gameplay reveal on August 27",
+      "summary": "Rockstar is finally, officially, showing off GTA 6 gameplay in a reveal that's coming to Netflix first.",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/how-to-watch-gta-6-gameplay-reveal-time-netflix-youtube/",
+      "date": "2026-08-27T07:30:00.000Z"
+    },
+    {
+      "lead": false,
       "src": "Kotaku",
       "title": "One Shot From The New GTA 6 Leak Already Has Some Fans Yelling About A Downgrade",
       "summary": "Others suggest there are a few possible reasons the game doesn't look the same as it did in the first trailer",
@@ -49,14 +129,6 @@
       "summary": "Those sleepless benders will also take a toll",
       "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-brings-back-a-fan-favorite-san-andreas-feature-youll-get-chubby-if-you-eat-a-lot/",
       "date": "2026-08-26T18:59:47.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Polygon",
-      "title": "GTA 6's First Official Preview Reveals 5 Juicy New Details",
-      "summary": "GTA 6 upgrades many of Red Dead Redemption 2's stellar mechanics with a more complex honor system and more realistic NPCs",
-      "url": "https://www.polygon.com/gta-6-dazed-magazine-preview-npc-honor-realism-gameplay/",
-      "date": "2026-08-26T18:52:59.000Z"
     },
     {
       "lead": false,
@@ -121,78 +193,6 @@
       "summary": "Rockstar says Jason and Lucia’s romance will have repercussions that ‘cut much deeper’ than those in previous games",
       "url": "https://kotaku.com/grand-theft-auto-6-gta6-romance-relationship-jason-lucia-2000728485",
       "date": "2026-08-26T17:37:44.000Z"
-    },
-    {
-      "lead": false,
-      "src": "IGN",
-      "title": "Grand Theft Auto 6 Will Have RPG Mechanics Like Eating, Exercising, and More",
-      "summary": "Some of the first gameplay details for Grand Theft Auto 6 have been confirmed, and it seems like Rockstar is embracing a more RPG-y style this time around.",
-      "url": "https://www.ign.com/articles/grand-theft-auto-6-will-have-rpg-mechanics-like-eating-exercising-and-more",
-      "date": "2026-08-26T17:10:57.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "GTA 6 leaker turns to story spoilers: Cyberleek uploads 4-minute Lucia prologue clip hours after Rockstar says the leaks are \"heartbreaking\"",
-      "summary": "GTA 6 story spoilers are out in the wild, be warned",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-leaker-turns-to-story-spoilers-cyberleek-uploads-4-minute-lucia-prologue-clip-hours-after-rockstar-says-the-leaks-are-heartbreaking/",
-      "date": "2026-08-26T16:56:57.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "New GTA 6 leak takes to the streets of Vice City for a chaotic nighttime police chase, and teases a cutscene featuring Lucia",
-      "summary": "Rockstar recently responded to the leaks publicly",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/new-gta-6-leak-takes-to-the-streets-of-vice-city-for-a-chaotic-nighttime-police-chase-and-teases-a-cutscene-featuring-lucia/",
-      "date": "2026-08-26T16:53:17.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Kotaku",
-      "title": "Watch Out, The GTA 6 Leaker Is Now Sharing Story Spoilers",
-      "summary": "What appears to be the game's prologue has been shared online by Cyberleek",
-      "url": "https://kotaku.com/watch-out-the-gta-6-leaker-is-now-sharing-story-spoilers-2000728456",
-      "date": "2026-08-26T16:28:12.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "Rockstar had to fight to get people to care about GTA 3 at E3, former lead recalls, and now GTA 6 is the most anticipated game of the generation",
-      "summary": "Although the previews at the time seemed fairly positive",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/rockstar-had-to-fight-to-get-people-to-care-about-gta-3-at-e3-former-lead-recalls-and-now-gta-6-is-the-most-anticipated-game-of-the-generation/",
-      "date": "2026-08-26T16:23:12.000Z"
-    },
-    {
-      "lead": false,
-      "src": "PC Gamer",
-      "title": "Rockstar responds to GTA 6 leaks: 'This is not how we intended for you see the game after all this time'",
-      "summary": "The studio has described the leaks as \"heartbreaking for our team\".",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/rockstar-responds-to-gta-6-leaks-this-is-not-how-we-intended-for-you-see-the-game-after-all-this-time/",
-      "date": "2026-08-26T12:47:48.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GameSpot",
-      "title": "Even GTA 6 Is Poking Fun At Naughty Dog’s Lack Of New Games",
-      "summary": "While Naughty Dog is working on its next title, Intergalactic: The Heretic Prophet, that hasn't stopped people from taking a jab at the studio for having spent almost the entire PlayStation 5 generation without releasing a brand-new game--and it looks like even GTA 6 is having a little bit of fun at Naughty Dog's ex…",
-      "url": "https://www.gamespot.com/articles/even-gta-6-is-poking-fun-at-naughty-dogs-lack-of-new-games/",
-      "date": "2026-08-26T12:34:00.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GameSpot",
-      "title": "Rockstar Finally Comments On All Those GTA 6 Leaks — “Heartbreaking For Our Team”",
-      "summary": "Rockstar Games has broken its silence on the GTA 6 leak situation , releasing a statement today, August 26, saying the leaks have been \"heartbreaking for our team.\" The latest wave of GTA 6 gameplay leaks began earlier this month, with lots and lots of footage and details, along with spoilers, emerging in the proces…",
-      "url": "https://www.gamespot.com/articles/rockstar-finally-comments-on-all-those-gta-6-leaks-heartbreaking-for-our-team/",
-      "date": "2026-08-26T11:58:28.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Eurogamer",
-      "title": "Rockstar issues statement on GTA 6 gameplay leaks, calling them \"heartbreaking\" and warning they may include some spoilers",
-      "summary": "Rockstar has officially addressed the Grand Theft Auto 6 leaks, which have been pouring in online for over a week. The developer said the gameplay leaks have been \"heartbreaking\" for the team, and warned players that \"the intended game experience may now be impacted by some spoilers\". Read more",
-      "url": "https://www.eurogamer.net/gta-6-leaks-rockstar-statement-spoilers",
-      "date": "2026-08-26T11:54:55.000Z"
     }
   ]
 }
