@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-29T01:42:15.617Z",
+  "updated": "2026-08-29T09:56:23.011Z",
   "count": 24,
   "items": [
     {
@@ -100,14 +100,6 @@
     },
     {
       "lead": false,
-      "src": "Polygon",
-      "title": "Netflix's New 26-Minute GTA 6 Release Is Already the No. 1 Movie on Streaming",
-      "summary": "Rockstar knocked actual movies off the Netflix charts with its Grand Theft Auto 6 special presentation, a new cultural moment for streaming.",
-      "url": "https://www.polygon.com/gta-6-netflix-charts/",
-      "date": "2026-08-28T19:00:16.000Z"
-    },
-    {
-      "lead": false,
       "src": "GamesRadar",
       "title": "GTA 6 extended look breakdown: 7 things you might have missed",
       "summary": "It's all about the little details in the GTA 6 extended look",
@@ -193,6 +185,14 @@
       "summary": "Don't hold your breath for anything beyond 30fps",
       "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-at-60fps-is-unlikely-on-console-and-will-be-genuinely-challenging-on-pc-tech-analysts-say/",
       "date": "2026-08-28T15:41:24.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "Kingdom Come: Deliverance 2 director not wowed by GTA 6 – \"Two uninteresting sociopaths chaotically committing mass murders\"",
+      "summary": "\"Zero story hook for me\"",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/kingdom-come-deliverance-2-director-not-wowed-by-gta-6-two-uninteresting-sociopaths-chaotically-committing-mass-murders/",
+      "date": "2026-08-28T15:38:09.000Z"
     }
   ]
 }
