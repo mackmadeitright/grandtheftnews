@@ -1,9 +1,33 @@
 {
-  "updated": "2026-08-29T09:56:23.011Z",
+  "updated": "2026-08-29T16:38:06.214Z",
   "count": 24,
   "items": [
     {
       "lead": true,
+      "src": "Eurogamer",
+      "title": "GTA 6's gameplay reveal pulled in 3.97 million peak viewers, overwhelming Twitch and Netflix in the process",
+      "summary": "Reaction streams to Grand Theft Auto 6 's first gameplay presentation peaked at 3,970,738 viewers across livestreaming platforms, making it the biggest gaming stream of 2026 so far. Read more",
+      "url": "https://www.eurogamer.net/gta-6-gameplay-reveal-streaming-viewership-record-twitch-netflix",
+      "date": "2026-08-29T14:25:56.000Z"
+    },
+    {
+      "lead": false,
+      "src": "PC Gamer",
+      "title": "Rockstar considered having four protagonists in Grand Theft Auto 6, but the studio 'worried about diluting the amount of player time' with each character",
+      "summary": "\"How do we follow up three characters? Is it four characters now?\"",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/rockstar-considered-having-four-protagonists-in-grand-theft-auto-6-but-the-studio-worried-about-diluting-the-amount-of-player-time-with-each-character/",
+      "date": "2026-08-29T13:13:58.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Eurogamer",
+      "title": "Squadron 42 delayed to 2027, with Star Citizen dev blaming GTA 6",
+      "summary": "Cloud Imperium Games has delayed Squadron 42, its long-in-development Star Citizen spin-off, to Q2 2027, with studio boss Chris Roberts arguing the game would be drowned out by GTA 6 . Read more",
+      "url": "https://www.eurogamer.net/squadron-42-delayed-2027-gta-6",
+      "date": "2026-08-29T12:09:49.000Z"
+    },
+    {
+      "lead": false,
       "src": "Kotaku",
       "title": "Rockstar Is Using One Of Its Old Tricks To Create GTA 6 TV Shows",
       "summary": "A commercial in GTA 6's extended look was filmed in Red Dead Redemption II",
@@ -169,30 +193,6 @@
       "summary": "A very important piece of news has come to light about GTA 6 : You can pick up dog poop and throw it at people in the upcoming open-world crime game. YouTuber TGG visited Rockstar North's offices and spoke with the team, and one of the things he learned was how dog poop can be a weapon. \"If someone is out on the str…",
       "url": "https://www.gamespot.com/articles/gta-6-lets-you-throw-dog-poop-at-people/",
       "date": "2026-08-28T16:16:13.000Z"
-    },
-    {
-      "lead": false,
-      "src": "IGN",
-      "title": "Here's How You Can Already Save $5 on Your GTA 6 Preorder",
-      "summary": "If you are already planning to spend $100 on the GTA 6 Ultimate Edition, Amazon has a tidy trick to knock $5 off your preorder right now.",
-      "url": "https://www.ign.com/articles/gta-6-preorder-how-to-save",
-      "date": "2026-08-28T16:00:00.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "GTA 6 at 60fps is \"unlikely\" on console and will be \"genuinely challenging\" on PC, tech analysts say",
-      "summary": "Don't hold your breath for anything beyond 30fps",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-at-60fps-is-unlikely-on-console-and-will-be-genuinely-challenging-on-pc-tech-analysts-say/",
-      "date": "2026-08-28T15:41:24.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "Kingdom Come: Deliverance 2 director not wowed by GTA 6 – \"Two uninteresting sociopaths chaotically committing mass murders\"",
-      "summary": "\"Zero story hook for me\"",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/kingdom-come-deliverance-2-director-not-wowed-by-gta-6-two-uninteresting-sociopaths-chaotically-committing-mass-murders/",
-      "date": "2026-08-28T15:38:09.000Z"
     }
   ]
 }
