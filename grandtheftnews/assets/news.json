@@ -1,9 +1,25 @@
 {
-  "updated": "2026-08-29T16:38:06.214Z",
+  "updated": "2026-08-29T20:50:14.535Z",
   "count": 24,
   "items": [
     {
       "lead": true,
+      "src": "Kotaku",
+      "title": "Phil Collins Returns To Vice City With An Ominous Song Choice For Jason And Lucia",
+      "summary": "On top of an extended glimpse at what the upcoming Grand Theft Auto VI will look like, Netflix gave a hint at what your crime spree playlist will sound like too",
+      "url": "https://kotaku.com/phil-collins-returns-to-vice-city-with-an-ominous-song-choice-for-jason-and-lucia-2000729601",
+      "date": "2026-08-29T20:39:51.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "GTA 6 \"will be released on time,\" Rockstar North co-lead says, who hopes the extended look will stop fans from being \"worried about the quality\"",
+      "summary": "Rockstar is saying yet again that November is the final release date for the next Grand Theft Auto game",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-will-be-released-on-time-rockstar-north-co-lead-says-who-hopes-the-extended-look-will-stop-fans-from-being-worried-about-the-quality/",
+      "date": "2026-08-29T17:00:00.000Z"
+    },
+    {
+      "lead": false,
       "src": "Eurogamer",
       "title": "GTA 6's gameplay reveal pulled in 3.97 million peak viewers, overwhelming Twitch and Netflix in the process",
       "summary": "Reaction streams to Grand Theft Auto 6 's first gameplay presentation peaked at 3,970,738 viewers across livestreaming platforms, making it the biggest gaming stream of 2026 so far. Read more",
@@ -177,22 +193,6 @@
       "summary": "There are several methods for stealing cars in GTA 6, if you want to commit grand theft auto",
       "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-how-to-steal-cars/",
       "date": "2026-08-28T16:37:32.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "A GTA 6 scene that leaked in 2022 appears in the big extended look reveal, and the difference is massive",
-      "summary": "Poor Hank's Waffles",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/a-gta-6-scene-that-leaked-in-2022-appears-in-the-big-extended-look-reveal-and-the-difference-is-massive/",
-      "date": "2026-08-28T16:20:37.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GameSpot",
-      "title": "GTA 6 Lets You Throw Dog Poop At People",
-      "summary": "A very important piece of news has come to light about GTA 6 : You can pick up dog poop and throw it at people in the upcoming open-world crime game. YouTuber TGG visited Rockstar North's offices and spoke with the team, and one of the things he learned was how dog poop can be a weapon. \"If someone is out on the str…",
-      "url": "https://www.gamespot.com/articles/gta-6-lets-you-throw-dog-poop-at-people/",
-      "date": "2026-08-28T16:16:13.000Z"
     }
   ]
 }
