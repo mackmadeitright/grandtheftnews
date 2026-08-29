@@ -1,9 +1,17 @@
 {
-  "updated": "2026-08-29T20:50:14.535Z",
+  "updated": "2026-08-29T23:12:07.349Z",
   "count": 24,
   "items": [
     {
       "lead": true,
+      "src": "IGN",
+      "title": "GTA 6 Will Have No Microtransactions or Generative AI at Launch, Rockstar Says",
+      "summary": "Rockstar Games has said Grand Theft Auto 6 will have no microtransactions or generative AI when it launches in November.",
+      "url": "https://www.ign.com/articles/gta-6-will-have-no-microtransactions-or-generative-ai-at-launch-rockstar-says",
+      "date": "2026-08-29T22:16:08.000Z"
+    },
+    {
+      "lead": false,
       "src": "Kotaku",
       "title": "Phil Collins Returns To Vice City With An Ominous Song Choice For Jason And Lucia",
       "summary": "On top of an extended glimpse at what the upcoming Grand Theft Auto VI will look like, Netflix gave a hint at what your crime spree playlist will sound like too",
@@ -185,14 +193,6 @@
       "summary": "She made a blink-and-you'll-miss-it appearance",
       "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-already-confirmed-the-first-gta-online-character-to-return-and-their-glow-up-for-rockstars-sequel-is-mind-blowing/",
       "date": "2026-08-28T16:56:45.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "How to steal cars in GTA 6",
-      "summary": "There are several methods for stealing cars in GTA 6, if you want to commit grand theft auto",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-how-to-steal-cars/",
-      "date": "2026-08-28T16:37:32.000Z"
     }
   ]
 }
