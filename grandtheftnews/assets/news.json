@@ -1,9 +1,17 @@
 {
-  "updated": "2026-08-30T11:45:50.863Z",
+  "updated": "2026-08-30T16:33:30.944Z",
   "count": 24,
   "items": [
     {
       "lead": true,
+      "src": "Polygon",
+      "title": "Maybe It's a Good Thing AAA Games Take 13 Years to Make",
+      "summary": "Gamescom may have been overshadowed by GTA 6, but The Witcher 3 shows the other side of the blockbuster coin",
+      "url": "https://www.polygon.com/patch-notes-gta-6-the-witcher-3-gamescom/",
+      "date": "2026-08-30T16:00:14.000Z"
+    },
+    {
+      "lead": false,
       "src": "Eurogamer",
       "title": "Rockstar confirms GTA 6 won't have microtransactions or generative AI at launch",
       "summary": "Rockstar has confirmed Grand Theft Auto 6 will launch without microtransactions or generative AI. Read more",
@@ -21,7 +29,7 @@
     {
       "lead": false,
       "src": "Kotaku",
-      "title": "Phil Collins Returns To Vice City With An Ominous Song Choice For Jason And Lucia",
+      "title": "Phil Collins Returns To Vice City With An Ominous Song Choice For GTA 6′s Jason And Lucia",
       "summary": "On top of an extended glimpse at what the upcoming Grand Theft Auto VI will look like, Netflix gave a hint at what your crime spree playlist will sound like too",
       "url": "https://kotaku.com/phil-collins-returns-to-vice-city-with-an-ominous-song-choice-for-jason-and-lucia-2000729601",
       "date": "2026-08-29T20:39:51.000Z"
@@ -177,14 +185,6 @@
       "summary": "Grand Theft Auto 6 will feature at least one character from GTA Online.",
       "url": "https://www.ign.com/articles/grand-theft-auto-6-is-already-bringing-back-characters-from-gta-5",
       "date": "2026-08-28T17:43:33.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Kotaku",
-      "title": "Fans Think They’ve Spotted GTA 6‘s First Returning Character And It Shows The Leap In Graphics From GTA 5",
-      "summary": "You probably don't remember her from GTA Online",
-      "url": "https://kotaku.com/fans-think-theyve-spotted-gta-6s-first-returning-character-and-it-shows-the-leap-in-graphics-from-gta-5-2000729359",
-      "date": "2026-08-28T17:30:44.000Z"
     },
     {
       "lead": false,
