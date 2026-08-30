@@ -1,9 +1,17 @@
 {
-  "updated": "2026-08-30T05:07:43.072Z",
+  "updated": "2026-08-30T11:45:50.863Z",
   "count": 24,
   "items": [
     {
       "lead": true,
+      "src": "Eurogamer",
+      "title": "Rockstar confirms GTA 6 won't have microtransactions or generative AI at launch",
+      "summary": "Rockstar has confirmed Grand Theft Auto 6 will launch without microtransactions or generative AI. Read more",
+      "url": "https://www.eurogamer.net/gta-6-microtransactions-generative-ai-rockstar",
+      "date": "2026-08-30T10:48:08.000Z"
+    },
+    {
+      "lead": false,
       "src": "IGN",
       "title": "GTA 6 Will Have No Microtransactions or Generative AI at Launch, Rockstar Says",
       "summary": "Rockstar Games has said Grand Theft Auto 6 will have no microtransactions or generative AI when it launches in November.",
@@ -29,7 +37,7 @@
     {
       "lead": false,
       "src": "Eurogamer",
-      "title": "GTA 6's gameplay reveal pulled in 3.97 million peak viewers, overwhelming Twitch and Netflix in the process",
+      "title": "GTA 6's gameplay reveal pulled in 3.97 million viewers across commentator livestreams, overwhelming Twitch and Netflix in the process",
       "summary": "Reaction streams to Grand Theft Auto 6 's first gameplay presentation peaked at 3,970,738 viewers across livestreaming platforms, making it the biggest gaming stream of 2026 so far. Read more",
       "url": "https://www.eurogamer.net/gta-6-gameplay-reveal-streaming-viewership-record-twitch-netflix",
       "date": "2026-08-29T14:25:56.000Z"
@@ -185,14 +193,6 @@
       "summary": "You might expect people to talk about the visuals, lighting, action sequences, or gunplay after Grand Theft Auto VI's brand-new extended-look trailer showed off over 25 minutes of new footage. But the top comments on Rockstar's YouTube upload of the video deal more with the human condition than expected. In fact, th…",
       "url": "https://www.gamespot.com/articles/gta-6s-long-wait-has-people-realizing-their-own-mortality/",
       "date": "2026-08-28T17:00:32.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "GTA 6 already confirmed the first GTA Online character to return, and their glow up for Rockstar's sequel is mind-blowing",
-      "summary": "She made a blink-and-you'll-miss-it appearance",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-already-confirmed-the-first-gta-online-character-to-return-and-their-glow-up-for-rockstars-sequel-is-mind-blowing/",
-      "date": "2026-08-28T16:56:45.000Z"
     }
   ]
 }
