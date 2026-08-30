@@ -1,9 +1,41 @@
 {
-  "updated": "2026-08-30T16:33:30.944Z",
+  "updated": "2026-08-30T20:55:36.567Z",
   "count": 24,
   "items": [
     {
       "lead": true,
+      "src": "PC Gamer",
+      "title": "Thanks to a dedicated team 'art-directing' every single NPC, GTA 6 has over 10 times as many unique animations as GTA 5",
+      "summary": "Over 600,000.",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/thanks-to-a-dedicated-team-art-directing-every-single-npc-gta-6-has-over-10-times-as-many-unique-animations-as-gta-5/",
+      "date": "2026-08-30T18:40:46.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Kotaku",
+      "title": "Fans Are Marvelling At How Much Better GTA 6 Looks Compared To GTA 5",
+      "summary": "Is Rockstar Games' much-anticipated GTA 6 the best thing since sliced bread, or just GTA 5 with a new coat of paint?",
+      "url": "https://kotaku.com/fans-are-marvelling-at-how-much-better-gta-6-looks-compared-to-gta-5-2000729596",
+      "date": "2026-08-30T17:11:57.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "GTA 6 became too realistic for even Rockstar so the devs had to cut a system for restocking Jason and Lucia's fridge to \"find the right balance between realism and ease of play\"",
+      "summary": "But how will I perfectly align everything now?",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-became-too-realistic-for-even-rockstar-so-the-devs-had-to-cut-a-system-for-restocking-jason-and-lucias-fridge-to-find-the-right-balance-between-realism-and-ease-of-play/",
+      "date": "2026-08-30T17:00:00.000Z"
+    },
+    {
+      "lead": false,
+      "src": "IGN",
+      "title": "GTA 6 Fans Think They Found Jason and Lucia's Vice City Apartment in Real Life",
+      "summary": "Grand Theft Auto 6 fans think they've spotted the real-life inspiration for Jason and Lucia's Vice City apartment – but don't expect to ever visit it yourself.",
+      "url": "https://www.ign.com/articles/gta-6-fans-think-they-found-jason-and-lucias-vice-city-apartment-in-real-life",
+      "date": "2026-08-30T16:27:56.000Z"
+    },
+    {
+      "lead": false,
       "src": "Polygon",
       "title": "Maybe It's a Good Thing AAA Games Take 13 Years to Make",
       "summary": "Gamescom may have been overshadowed by GTA 6, but The Witcher 3 shows the other side of the blockbuster coin",
@@ -140,14 +172,6 @@
     },
     {
       "lead": false,
-      "src": "IGN",
-      "title": "Save 42% Off the PS Portal, the Only Way You'll Be Able to Play Grand Theft Auto 6 on a Handheld",
-      "summary": "Forget the price hike.GTA 6 will only be available on PlayStation 5 and Xbox, to start out.",
-      "url": "https://www.ign.com/articles/ps-portal-deal-august-2026",
-      "date": "2026-08-28T19:05:00.000Z"
-    },
-    {
-      "lead": false,
       "src": "GameSpot",
       "title": "Fable Dev Happy About Delay To 2027 To Avoid “Chaotic Window,” And We All Know That Means GTA 6",
       "summary": "Microsoft's new Fable game was supposed to launch this year, but it was delayed to February 2027. The game's director, Ralph Fulton, said in an interview that he feels \"great\" about the launch timing for Fable, adding that shifting to 2027 helps the game avoid the \"chaotic window\" of its original timeframe of late 2…",
@@ -169,30 +193,6 @@
       "summary": "It's all about the little details in the GTA 6 extended look",
       "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-extended-look-breakdown-7-things-you-might-have-missed/",
       "date": "2026-08-28T19:00:00.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GameSpot",
-      "title": "GTA 6 Looks Like It Features This Popular TV Show Apartment",
-      "summary": "GTA 6 takes place in Vice City, which is a stand-in for Miami, and it appears the game will feature a Miami apartment building from a popular TV show. Eagle-eyed fans noticed that Dexter Morgan's apartment in Miami from the TV show Dexter appears to be in GTA 6. The TV show is set in Miami and the exterior shots wer…",
-      "url": "https://www.gamespot.com/articles/gta-6-looks-like-it-features-this-popular-tv-show-apartment/",
-      "date": "2026-08-28T18:18:03.000Z"
-    },
-    {
-      "lead": false,
-      "src": "IGN",
-      "title": "Grand Theft Auto 6 Is Already Bringing Back Characters from GTA 5",
-      "summary": "Grand Theft Auto 6 will feature at least one character from GTA Online.",
-      "url": "https://www.ign.com/articles/grand-theft-auto-6-is-already-bringing-back-characters-from-gta-5",
-      "date": "2026-08-28T17:43:33.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GameSpot",
-      "title": "GTA 6’s Long Wait Has People Realizing Their Own Mortality",
-      "summary": "You might expect people to talk about the visuals, lighting, action sequences, or gunplay after Grand Theft Auto VI's brand-new extended-look trailer showed off over 25 minutes of new footage. But the top comments on Rockstar's YouTube upload of the video deal more with the human condition than expected. In fact, th…",
-      "url": "https://www.gamespot.com/articles/gta-6s-long-wait-has-people-realizing-their-own-mortality/",
-      "date": "2026-08-28T17:00:32.000Z"
     }
   ]
 }
