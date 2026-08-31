@@ -1,9 +1,97 @@
 {
-  "updated": "2026-08-31T13:27:23.265Z",
+  "updated": "2026-08-31T20:45:09.167Z",
   "count": 24,
   "items": [
     {
       "lead": true,
+      "src": "IGN",
+      "title": "Godzilla: Destroy All Monsters Melee Remastered Dev Says GTA 6 Was 'Never Part of Our Thinking' When Choosing a Release Date",
+      "summary": "Godzilla: Destroy All Monsters Melee Remastered will take on GTA 6 when both games launch this November, but the team behind the arena fighter said Rockstar's latest was \"never part of our thinking\" when choosing a release date.",
+      "url": "https://www.ign.com/articles/godzilla-destroy-all-monsters-melee-remastered-dev-says-gta-6-was-never-part-of-our-thinking-when-choosing-a-release-date",
+      "date": "2026-08-31T18:45:35.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Kotaku",
+      "title": "One Very Dedicated GTA 6 Fan Has Found The Real-Life Location Of Jason And Lucia’s Apartment",
+      "summary": "The feat is especially remarkable considering the building was demolished in 2023",
+      "url": "https://kotaku.com/gta-6-grand-theft-auto-lucia-jason-apartment-miami-vice-city-real-location-2000729948",
+      "date": "2026-08-31T18:30:48.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GameSpot",
+      "title": "GTA 6 Fans Are Bracing For One Massive Download",
+      "summary": "We're only a few months away from the November launch of Grand Theft Auto 6 , and following the recent preview of the game on Netflix, fans have even more questions about Rockstar's highly anticipated game--namely, just how big is the download going to be? We already know that you can preload the game a week before…",
+      "url": "https://www.gamespot.com/articles/gta-6-fans-are-bracing-for-one-massive-download/",
+      "date": "2026-08-31T18:24:57.000Z"
+    },
+    {
+      "lead": false,
+      "src": "IGN",
+      "title": "GTA 6's Relationship Mechanic Is 'Cheating' on Your Real-Life Partner and Break Up Worthy, According to Angry Spouses",
+      "summary": "A bunch of angry spouses on social media believe that Grand Theft Auto 6's in-depth relationship mechanic is equivalent to cheating on your real life partner and worth breaking up over.",
+      "url": "https://www.ign.com/articles/gta-6s-relationship-mechanic-is-cheating-on-your-real-life-partner-and-break-up-worthy-according-to-angry-spouses",
+      "date": "2026-08-31T17:55:42.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "Sony lawyers argue that nobody is stupid enough to believe they actually own digital games, because then only one person could buy GTA 6",
+      "summary": "PlayStation believes \"reasonable consumers would not be misled\" by its current disclosures",
+      "url": "https://www.gamesradar.com/games/sony-lawyers-argue-that-nobody-is-stupid-enough-to-believe-they-actually-own-digital-games-because-then-only-one-person-could-buy-gta-6/",
+      "date": "2026-08-31T17:18:02.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "GTA 6 won’t let you switch between Lucia and Jason whenever you want because it would be \"unnatural\" for story progression",
+      "summary": "To switch or not to switch?",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-wont-let-you-switch-between-lucia-and-jason-whenever-you-want-because-it-would-be-unnatural-for-story-progression/",
+      "date": "2026-08-31T17:00:00.000Z"
+    },
+    {
+      "lead": false,
+      "src": "PC Gamer",
+      "title": "With GTA 6 leaker hunt 'rapidly evolving,' Take-Two asks court to keep latest subpoena request sealed to avoid tipping off leakers",
+      "summary": "The filing contains \"highly sensitive, confidential information\" that lawyers fear could help the GTA 6 leakers destroy evidence or evade detection.",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/with-gta-6-leaker-hunt-rapidly-evolving-take-two-asks-court-to-keep-latest-subpoena-request-sealed-to-avoid-tipping-off-leakers/",
+      "date": "2026-08-31T16:57:47.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "I've been staring at this GTA 6 iguana for an hour, and it's clear Rockstar's obsession with uber-detailed animals did not end with Red Dead Redemption 2's horses",
+      "summary": "In awe of the detail of this lad",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/ive-been-staring-at-this-gta-6-iguana-for-an-hour-and-its-clear-rockstars-obsession-with-uber-detailed-animals-did-not-end-with-red-dead-redemption-2s-horses/",
+      "date": "2026-08-31T16:24:08.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "GTA 6 is so big, Rockstar doesn't \"know that there's anybody on the team that knows all of it\"",
+      "summary": "It seems not even the devs have seen all of Leonida",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-is-so-big-rockstar-doesnt-know-that-theres-anybody-on-the-team-that-knows-all-of-it/",
+      "date": "2026-08-31T16:06:20.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GameSpot",
+      "title": "GTA 6 Looks Like GTA 5? You’re Out Of Your Mind, GTA Actor Says",
+      "summary": "One of the things people have said about GTA 6 following the \"extended look\" trailer is that the game looks too much like GTA 5. One person who thinks that's a bunch of baloney is Ned Luke, the actor who played Michael in GTA 5. Appearing in a recent stream with Party Chat and House of Highlights, Luke said, \"This l…",
+      "url": "https://www.gamespot.com/articles/gta-6-looks-like-gta-5-youre-out-of-your-mind-gta-actor-says/",
+      "date": "2026-08-31T13:34:09.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GameSpot",
+      "title": "People Are Reviewing The GTA 6 Extended Look On Letterboxd Like It’s A Movie",
+      "summary": "Reviews are already rolling in for Grand Theft Auto VI, but not the way you think. Letterboxd , a social media site focused on journaling films, is allowing users to log the GTA 6 extended-look trailer that premiered on Netflix last week. That means people can rate the 25-plus minute advertisement like a movie and e…",
+      "url": "https://www.gamespot.com/articles/people-are-reviewing-the-gta-6-extended-look-on-letterboxd-like-its-a-movie/",
+      "date": "2026-08-31T13:31:34.000Z"
+    },
+    {
+      "lead": false,
       "src": "IGN",
       "title": "GTA 5's Michael Actor Defends GTA 6 After Doubters Say Rockstar's Games Look Too Similar",
       "summary": "Ned Luke, the actor behind Grand Theft Auto 5's Michael De Santa, said people who think Grand Theft Auto 6 looks too much like GTA 5 are \"out of their minds.\"",
@@ -17,14 +105,6 @@
       "summary": "Over 600,000.",
       "url": "https://www.pcgamer.com/games/grand-theft-auto/thanks-to-a-dedicated-team-art-directing-every-single-npc-gta-6-has-over-10-times-as-many-unique-animations-as-gta-5/",
       "date": "2026-08-30T18:40:46.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Kotaku",
-      "title": "Fans Are Marvelling At How Much Better GTA 6 Looks Compared To GTA 5",
-      "summary": "Is Rockstar Games' much-anticipated GTA 6 the best thing since sliced bread, or just GTA 5 with a new coat of paint?",
-      "url": "https://kotaku.com/fans-are-marvelling-at-how-much-better-gta-6-looks-compared-to-gta-5-2000729596",
-      "date": "2026-08-30T17:11:57.000Z"
     },
     {
       "lead": false,
@@ -49,22 +129,6 @@
       "summary": "Rockstar has confirmed Grand Theft Auto 6 will launch without microtransactions or generative AI. Read more",
       "url": "https://www.eurogamer.net/gta-6-microtransactions-generative-ai-rockstar",
       "date": "2026-08-30T10:48:08.000Z"
-    },
-    {
-      "lead": false,
-      "src": "IGN",
-      "title": "GTA 6 Will Have No Microtransactions or Generative AI at Launch, Rockstar Says",
-      "summary": "Rockstar Games has said Grand Theft Auto 6 will have no microtransactions or generative AI when it launches in November.",
-      "url": "https://www.ign.com/articles/gta-6-will-have-no-microtransactions-or-generative-ai-at-launch-rockstar-says",
-      "date": "2026-08-29T22:16:08.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Kotaku",
-      "title": "Phil Collins Returns To Vice City With An Ominous Song Choice For GTA 6′s Jason And Lucia",
-      "summary": "On top of an extended glimpse at what the upcoming Grand Theft Auto VI will look like, Netflix gave a hint at what your crime spree playlist will sound like too",
-      "url": "https://kotaku.com/phil-collins-returns-to-vice-city-with-an-ominous-song-choice-for-jason-and-lucia-2000729601",
-      "date": "2026-08-29T20:39:51.000Z"
     },
     {
       "lead": false,
@@ -100,14 +164,6 @@
     },
     {
       "lead": false,
-      "src": "Kotaku",
-      "title": "Rockstar Is Using One Of Its Old Tricks To Create GTA 6 TV Shows",
-      "summary": "A commercial in GTA 6's extended look was filmed in Red Dead Redemption II",
-      "url": "https://kotaku.com/rockstar-is-using-one-of-its-old-tricks-to-create-gta-6-tv-shows-2000729503",
-      "date": "2026-08-28T23:00:13.000Z"
-    },
-    {
-      "lead": false,
       "src": "GameSpot",
       "title": "Tech Experts Call Grand Theft Auto 6 The Most Visually Advanced Game To Date, Which Explains Why It’s Stuck At 30FPS",
       "summary": "Grand Theft Auto 6 has finally had its first big gameplay reveal, giving us our first real look at Rockstar's massive open-world and the amount of detail it holds. It's one that might be the most visually-impressive game we've ever seen, according to the experts at Digital Foundry. Digital Foundry's Oliver Mackenzie…",
@@ -124,14 +180,6 @@
     },
     {
       "lead": false,
-      "src": "Kotaku",
-      "title": "26 GTA 6 Screenshot Comparisons Showing How Much Things Have Changed Since Vice City",
-      "summary": "Let's compare Vice City on the PS2 with GTA 6 on the PS5",
-      "url": "https://kotaku.com/26-gta-6-screenshot-comparisons-showing-how-much-things-have-changed-since-vice-city-2000729444",
-      "date": "2026-08-28T21:36:23.000Z"
-    },
-    {
-      "lead": false,
       "src": "PC Gamer",
       "title": "Bland or badass? The internet is split on GTA 6's Jason, and so is PC Gamer",
       "summary": "Everyone's got an opinion, including us.",
@@ -145,54 +193,6 @@
       "summary": "Microsoft's new Fable game was supposed to launch this year, but it was delayed to February 2027. The game's director, Ralph Fulton, said in an interview that he feels \"great\" about the launch timing for Fable, adding that shifting to 2027 helps the game avoid the \"chaotic window\" of its original timeframe of late 2…",
       "url": "https://www.gamespot.com/articles/fable-dev-happy-about-delay-to-2027-to-avoid-chaotic-window-and-we-all-know-that-means-gta-6/",
       "date": "2026-08-28T19:01:23.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "GTA 6 extended look breakdown: 7 things you might have missed",
-      "summary": "It's all about the little details in the GTA 6 extended look",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-extended-look-breakdown-7-things-you-might-have-missed/",
-      "date": "2026-08-28T19:00:00.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GameSpot",
-      "title": "GTA 6 Looks Like It Features This Popular TV Show Apartment",
-      "summary": "GTA 6 takes place in Vice City, which is a stand-in for Miami, and it appears the game will feature a Miami apartment building from a popular TV show. Eagle-eyed fans noticed that Dexter Morgan's apartment in Miami from the TV show Dexter appears to be in GTA 6. The TV show is set in Miami and the exterior shots wer…",
-      "url": "https://www.gamespot.com/articles/gta-6-looks-like-it-features-this-popular-tv-show-apartment/",
-      "date": "2026-08-28T18:18:03.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GameSpot",
-      "title": "GTA 6’s Long Wait Has People Realizing Their Own Mortality",
-      "summary": "You might expect people to talk about the visuals, lighting, action sequences, or gunplay after Grand Theft Auto VI's brand-new extended-look trailer showed off over 25 minutes of new footage. But the top comments on Rockstar's YouTube upload of the video deal more with the human condition than expected. In fact, th…",
-      "url": "https://www.gamespot.com/articles/gta-6s-long-wait-has-people-realizing-their-own-mortality/",
-      "date": "2026-08-28T17:00:32.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "GTA 6 already confirmed the first GTA Online character to return, and their glow up for Rockstar's sequel is mind-blowing",
-      "summary": "She made a blink-and-you'll-miss-it appearance",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-already-confirmed-the-first-gta-online-character-to-return-and-their-glow-up-for-rockstars-sequel-is-mind-blowing/",
-      "date": "2026-08-28T16:56:45.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "How to steal cars in GTA 6",
-      "summary": "There are several methods for stealing cars in GTA 6, if you want to commit grand theft auto",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-how-to-steal-cars/",
-      "date": "2026-08-28T16:37:32.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "A GTA 6 scene that leaked in 2022 appears in the big extended look reveal, and the difference is massive",
-      "summary": "Poor Hank's Waffles",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/a-gta-6-scene-that-leaked-in-2022-appears-in-the-big-extended-look-reveal-and-the-difference-is-massive/",
-      "date": "2026-08-28T16:20:37.000Z"
     }
   ]
 }
