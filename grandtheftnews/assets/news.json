@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-31T05:15:34.877Z",
+  "updated": "2026-08-31T13:27:23.265Z",
   "count": 24,
   "items": [
     {
@@ -140,14 +140,6 @@
     },
     {
       "lead": false,
-      "src": "IGN",
-      "title": "Kick Streamer Neon Responds After Rockstar Seemingly Includes a Reference to Him in GTA 6 Netflix Showcase",
-      "summary": "Prominent Kick streamer Neon has responded after Rockstar appeared to reference him in a side mission shown during their special GTA 6 first-look trailer on Netflix.",
-      "url": "https://www.ign.com/articles/kick-streamer-neon-responds-after-rockstar-seemingly-includes-a-reference-to-him-in-gta-6-netflix-showcase",
-      "date": "2026-08-28T19:42:32.000Z"
-    },
-    {
-      "lead": false,
       "src": "GameSpot",
       "title": "Fable Dev Happy About Delay To 2027 To Avoid “Chaotic Window,” And We All Know That Means GTA 6",
       "summary": "Microsoft's new Fable game was supposed to launch this year, but it was delayed to February 2027. The game's director, Ralph Fulton, said in an interview that he feels \"great\" about the launch timing for Fable, adding that shifting to 2027 helps the game avoid the \"chaotic window\" of its original timeframe of late 2…",
@@ -193,6 +185,14 @@
       "summary": "There are several methods for stealing cars in GTA 6, if you want to commit grand theft auto",
       "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-how-to-steal-cars/",
       "date": "2026-08-28T16:37:32.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "A GTA 6 scene that leaked in 2022 appears in the big extended look reveal, and the difference is massive",
+      "summary": "Poor Hank's Waffles",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/a-gta-6-scene-that-leaked-in-2022-appears-in-the-big-extended-look-reveal-and-the-difference-is-massive/",
+      "date": "2026-08-28T16:20:37.000Z"
     }
   ]
 }
