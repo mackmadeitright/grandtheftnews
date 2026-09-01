@@ -1,9 +1,97 @@
 {
-  "updated": "2026-09-01T18:20:30.447Z",
+  "updated": "2026-09-01T23:13:25.800Z",
   "count": 24,
   "items": [
     {
       "lead": true,
+      "src": "PC Gamer",
+      "title": "That Grand Theft Auto 6 exclusive reveal worked out pretty well for Netflix: It was the platform's biggest show last week",
+      "summary": "The GTA 6 reveal showcase pulled in more than 31 million views over just four days.",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/that-grand-theft-auto-6-exclusive-reveal-worked-out-pretty-well-for-netflix-it-was-the-platforms-biggest-show-last-week/",
+      "date": "2026-09-01T22:45:20.000Z"
+    },
+    {
+      "lead": false,
+      "src": "IGN",
+      "title": "GTA 6's Morality Meter Will Reportedly 'Shatter' and Make You Irredeemable If You Cause Too Much Mayhem",
+      "summary": "Grand Theft Auto 6's morality meter can reportedly \"shatter\" and lead to you becoming essentially irredeemable for an entire playthrough of the game.",
+      "url": "https://www.ign.com/articles/gta-6s-morality-meter-will-reportedly-shatter-and-make-you-irredeemable-if-you-cause-too-much-mayhem",
+      "date": "2026-09-01T22:21:27.000Z"
+    },
+    {
+      "lead": false,
+      "src": "PC Gamer",
+      "title": "The future of GTA roleplaying remains in GTA 5 for now, as Rockstar touts new invite-only Nopixel V RP server",
+      "summary": "Rockstar collaborated with Nopixel Studios for the latest version of its custom GTA 5 roleplaying experience, which includes 1,000 ownable properties.",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/rockstar-touts-new-invite-only-nopixel-v-gta-roleplaying-server-as-the-next-evolution-of-the-rp-community/",
+      "date": "2026-09-01T22:17:11.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "The GTA 6 extended look was Netflix's most-watched title for the week with 31.1 million views",
+      "summary": "It's no Stranger Things, but it was huge",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/the-gta-6-extended-look-was-netflixs-most-watched-title-for-the-week-with-31-1-million-views/",
+      "date": "2026-09-01T21:46:29.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Polygon",
+      "title": "Days After GTA 6's Big Reveal, Rockstar Announces A Major GTA 5 Update",
+      "summary": "Grand Theft Auto 5 will introduce a revamped world with better NPCs in addition to other improvements, Rockstar says",
+      "url": "https://www.polygon.com/gta-5-nopixel-beta-when-is-roleplay-customization-new-gameplay/",
+      "date": "2026-09-01T20:34:29.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GameSpot",
+      "title": "GTA 6’s Extended Look Trailer Seemingly Paid Off For Netflix With Massive Viewership",
+      "summary": "Netflix has confirmed that GTA 6's recent \"extended look\" trailer was the streamer's most-viewed title overall last week, drawing 31.1 million views. The trailer was labeled an \"English-language film\" by Netflix, and it was No. 1 by that designation in 87 of 93 regions globally that Netflix's tracks ( via Variety ).…",
+      "url": "https://www.gamespot.com/articles/gta-6s-extended-look-trailer-seemingly-paid-off-for-netflix-with-massive-viewership/",
+      "date": "2026-09-01T19:45:23.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Eurogamer",
+      "title": "Rockstar Games unveils its official GTA Online RP server, mere months before GTA 6",
+      "summary": "Rockstar Games hasn't said much of anything about GTA 6 's potential multiplayer offerings, but the developer is making strides for GTA Online 's roleplaying community. A watch-only nopixel 5 closed beta is coming next week. Read more",
+      "url": "https://www.eurogamer.net/rockstar-games-official-gta-online-rp-server-closed-beta",
+      "date": "2026-09-01T19:44:40.000Z"
+    },
+    {
+      "lead": false,
+      "src": "PC Gamer",
+      "title": "GTA 6's story is too important for Rockstar to let you swap between Lucia and Jason whenever you want",
+      "summary": "Outside of the story, however, you'll be free to swap whenever.",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6s-story-is-too-important-for-rockstar-to-let-you-swap-between-lucia-and-jason-whenever-you-want/",
+      "date": "2026-09-01T19:39:14.000Z"
+    },
+    {
+      "lead": false,
+      "src": "IGN",
+      "title": "GTA 6 Extended Look Tops Netflix Top 10 Chart in First Week",
+      "summary": "Grand Theft Auto 6: An Extended Look dominated Netflix's top 10 chart in its first week (in the English Film category), racking up 31.1 million views in its first week, beating the second-place film on the list, the Robert DeNiro, Adam Scott, and Michelle Monaghan thriller The Whisper Man, which pulled in 23.2 milli…",
+      "url": "https://www.ign.com/articles/gta-6-extended-look-tops-netflix-top-10-chart-in-first-week",
+      "date": "2026-09-01T19:00:00.000Z"
+    },
+    {
+      "lead": false,
+      "src": "PC Gamer",
+      "title": "No Rest for the Wicked, which was slated to hit 1.0 a month before Grand Theft Auto 6, is delayed into 2027",
+      "summary": "Moon Studios said the extra time will \"help us improve performance, tighten the class system, and polish the whole game,\" and made no mention at all of GTA 6.",
+      "url": "https://www.pcgamer.com/games/action/no-rest-for-the-wicked-which-was-slated-to-hit-1-0-a-month-before-grand-theft-auto-6-is-delayed-into-2027/",
+      "date": "2026-09-01T18:19:56.000Z"
+    },
+    {
+      "lead": false,
+      "src": "IGN",
+      "title": "Rockstar Games Reveals Its Official GTA Online Roleplaying Server, nopixel V",
+      "summary": "Rockstar Games has revealed its official GTA Online roleplaying server, nopixel V, ahead of GTA 6's launch.",
+      "url": "https://www.ign.com/articles/rockstar-games-reveals-its-official-gta-online-roleplaying-server-nopixel-v",
+      "date": "2026-09-01T17:37:24.000Z"
+    },
+    {
+      "lead": false,
       "src": "PC Gamer",
       "title": "I modded a GTA 6-like 'wanted system' into GTA 5",
       "summary": "Help, wanted.",
@@ -60,14 +148,6 @@
     },
     {
       "lead": false,
-      "src": "IGN",
-      "title": "GTA Vice City Made Escaping Cop Land The Biggest Thrill",
-      "summary": "Remember Cop Land, the GTA Vice City level where you dressed up as cops to blow up a bomb? It was frustrating, but it was the start of a huge, ambitious shift for Grand Theft Auto.",
-      "url": "https://www.ign.com/articles/gta-vice-city-cop-land-art-of-the-level",
-      "date": "2026-09-01T15:00:00.000Z"
-    },
-    {
-      "lead": false,
       "src": "GamesRadar",
       "title": "GTA 6 isn't flashy for the sake of it – I'm impressed at how additive every new detail feels to gameplay",
       "summary": "Rockstar Games evolve familiar mechanics with GTA 6 to reimagine the series' foundations while keeping them recognizable",
@@ -100,22 +180,6 @@
     },
     {
       "lead": false,
-      "src": "GamesRadar",
-      "title": "Take-Two's GTA 6 leak investigation is heating up as the publisher requests sealed subpoena to avoid tipping off leakers",
-      "summary": "The subpoena \"reveals highly sensitive, confidential information about an ongoing investigation\"",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/take-twos-gta-6-leak-investigation-is-heating-up-as-the-publisher-requests-sealed-subpoena-to-avoid-tipping-off-leakers/",
-      "date": "2026-09-01T00:09:01.000Z"
-    },
-    {
-      "lead": false,
-      "src": "IGN",
-      "title": "GTA 6 Gets Even More New Screenshots as Rockstar Locks in for November Launch",
-      "summary": "It seems the drought of Grand Theft Auto 6 news has finally come to an end, as Rockstar has published even more screenshots for fans to comb through.",
-      "url": "https://www.ign.com/articles/gta-6-gets-even-more-new-screenshots-as-rockstar-locks-in-for-november-launch",
-      "date": "2026-08-31T21:32:23.000Z"
-    },
-    {
-      "lead": false,
       "src": "GameSpot",
       "title": "Godzilla Remaster Devs Explain Why They Aren’t Worried About Releasing Near GTA 6",
       "summary": "Most upcoming games have looked to steer clear of the behemoth that is Grand Theft Auto 6 and avoid the month of November entirely. The upcoming remaster of 2002's Godzilla Destroy All Monsters Melee is a notable exception , and as it turns out, the developers didn't think about GTA 6 at all when choosing its releas…",
@@ -129,70 +193,6 @@
       "summary": "We're only a few months away from the November launch of Grand Theft Auto 6 , and following the recent preview of the game on Netflix, fans have even more questions about Rockstar's highly anticipated game--namely, just how big is the download going to be? We already know that you can preload the game a week before…",
       "url": "https://www.gamespot.com/articles/gta-6-fans-are-bracing-for-one-massive-download/",
       "date": "2026-08-31T18:24:57.000Z"
-    },
-    {
-      "lead": false,
-      "src": "PC Gamer",
-      "title": "Court grants Take-Two's latest request for more user information from Discord as the GTA 6 leaker hunt intensifies",
-      "summary": "It seems the subpoena will remain sealed, as Take-Two requested.",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/with-gta-6-leaker-hunt-rapidly-evolving-take-two-asks-court-to-keep-latest-subpoena-request-sealed-to-avoid-tipping-off-leakers/",
-      "date": "2026-08-31T16:57:47.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GameSpot",
-      "title": "GTA 6 Looks Like GTA 5? You’re Out Of Your Mind, GTA Actor Says",
-      "summary": "One of the things people have said about GTA 6 following the \"extended look\" trailer is that the game looks too much like GTA 5. One person who thinks that's a bunch of baloney is Ned Luke, the actor who played Michael in GTA 5. Appearing in a recent stream with Party Chat and House of Highlights, Luke said, \"This l…",
-      "url": "https://www.gamespot.com/articles/gta-6-looks-like-gta-5-youre-out-of-your-mind-gta-actor-says/",
-      "date": "2026-08-31T13:34:09.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GameSpot",
-      "title": "People Are Reviewing The GTA 6 Extended Look On Letterboxd Like It’s A Movie",
-      "summary": "Reviews are already rolling in for Grand Theft Auto VI, but not the way you think. Letterboxd , a social media site focused on journaling films, is allowing users to log the GTA 6 extended-look trailer that premiered on Netflix last week. That means people can rate the 25-plus minute advertisement like a movie and e…",
-      "url": "https://www.gamespot.com/articles/people-are-reviewing-the-gta-6-extended-look-on-letterboxd-like-its-a-movie/",
-      "date": "2026-08-31T13:31:34.000Z"
-    },
-    {
-      "lead": false,
-      "src": "PC Gamer",
-      "title": "Thanks to a dedicated team 'art-directing' every single NPC, GTA 6 has over 10 times as many unique animations as GTA 5",
-      "summary": "Over 600,000.",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/thanks-to-a-dedicated-team-art-directing-every-single-npc-gta-6-has-over-10-times-as-many-unique-animations-as-gta-5/",
-      "date": "2026-08-30T18:40:46.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Eurogamer",
-      "title": "Rockstar confirms GTA 6 won't have microtransactions or generative AI at launch",
-      "summary": "Rockstar has confirmed Grand Theft Auto 6 will launch without microtransactions or generative AI. Read more",
-      "url": "https://www.eurogamer.net/gta-6-microtransactions-generative-ai-rockstar",
-      "date": "2026-08-30T10:48:08.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Eurogamer",
-      "title": "GTA 6's gameplay reveal pulled in 3.97 million viewers across commentator livestreams, overwhelming Twitch and Netflix in the process",
-      "summary": "Reaction streams to Grand Theft Auto 6 's first gameplay presentation peaked at 3,970,738 viewers across livestreaming platforms, making it the biggest gaming stream of 2026 so far. Read more",
-      "url": "https://www.eurogamer.net/gta-6-gameplay-reveal-streaming-viewership-record-twitch-netflix",
-      "date": "2026-08-29T14:25:56.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Eurogamer",
-      "title": "Squadron 42 delayed to 2027, with Star Citizen dev blaming GTA 6",
-      "summary": "Cloud Imperium Games has delayed Squadron 42, its long-in-development Star Citizen spin-off, to Q2 2027, with studio boss Chris Roberts arguing the game would be drowned out by GTA 6 . Read more",
-      "url": "https://www.eurogamer.net/squadron-42-delayed-2027-gta-6",
-      "date": "2026-08-29T12:09:49.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GameSpot",
-      "title": "Tech Experts Call Grand Theft Auto 6 The Most Visually Advanced Game To Date, Which Explains Why It’s Stuck At 30FPS",
-      "summary": "Grand Theft Auto 6 has finally had its first big gameplay reveal, giving us our first real look at Rockstar's massive open-world and the amount of detail it holds. It's one that might be the most visually-impressive game we've ever seen, according to the experts at Digital Foundry. Digital Foundry's Oliver Mackenzie…",
-      "url": "https://www.gamespot.com/articles/tech-experts-call-grand-theft-auto-6-the-most-visually-advanced-game-to-date-which-explains-why-its-stuck-at-30fps/",
-      "date": "2026-08-28T22:35:19.000Z"
     }
   ]
 }
