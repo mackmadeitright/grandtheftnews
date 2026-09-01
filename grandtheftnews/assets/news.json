@@ -1,22 +1,30 @@
 {
-  "updated": "2026-09-01T08:32:16.818Z",
+  "updated": "2026-09-01T14:05:21.371Z",
   "count": 24,
   "items": [
     {
       "lead": true,
+      "src": "GameSpot",
+      "title": "GTA 6 Cut This Feature Because It Was Too Real, But One Lifelike Detail Is Staying",
+      "summary": "Rockstar Games has confirmed more details about GTA 6 , including how the developer cut a feature because it was deemed too realistic. Another feature that borrows from real life is staying, however. Rockstar's Rob Nelson told Famitsu , as translated by GamesRadar , that Jason and Lucia were initially able to buy gr…",
+      "url": "https://www.gamespot.com/articles/gta-6-cut-this-feature-because-it-was-too-real-but-one-lifelike-detail-is-staying/",
+      "date": "2026-09-01T13:31:37.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "GTA 6 lets players \"forget it's a game\" with all its choices, and that's what Rockstar lead Rob Nelson is most proud of: \"It's up to you and what matters to you\"",
+      "summary": "\"Roleplay as heavily or as lightly as you want to\"",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-lets-players-forget-its-a-game-with-all-its-choices-and-thats-what-rockstar-lead-rob-nelson-is-most-proud-of-its-up-to-you-and-what-matters-to-you/",
+      "date": "2026-09-01T09:51:06.000Z"
+    },
+    {
+      "lead": false,
       "src": "Eurogamer",
       "title": "As the legal hunt for the GTA 6 leaker continues, Take-Two reportedly tries another more secretive Discord subpoena, this time specifying individuals",
       "summary": "Rockstar parent company Take-Two has escalated its hunt for the people behind the numerous Grand Theft Auto 6 leaks from two weeks ago . The publisher has filed a request for another subpoena, though this time it's asking the court to withhold the details from the public and keep it sealed. Read more",
       "url": "https://www.eurogamer.net/gta-6-leaker-discord-subpoena-sealed-take-two",
       "date": "2026-09-01T08:26:02.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Polygon",
-      "title": "'GTA 6' Hype is Sending PS5 Pro Prices Through the Roof",
-      "summary": "Grand Theft Auto 6 hype has third-party retailers pricing PlayStation 5 Pro consoles for as much as $1,400.",
-      "url": "https://www.polygon.com/gta-6-fans-ps5-pro-prices/",
-      "date": "2026-09-01T01:12:07.000Z"
     },
     {
       "lead": false,
@@ -132,14 +140,6 @@
     },
     {
       "lead": false,
-      "src": "IGN",
-      "title": "GTA 5's Michael Actor Defends GTA 6 After Doubters Say Rockstar's Games Look Too Similar",
-      "summary": "Ned Luke, the actor behind Grand Theft Auto 5's Michael De Santa, said people who think Grand Theft Auto 6 looks too much like GTA 5 are \"out of their minds.\"",
-      "url": "https://www.ign.com/articles/gta-5s-michael-actor-defends-gta-6-after-doubters-say-rockstars-games-look-too-similar",
-      "date": "2026-08-30T22:08:13.000Z"
-    },
-    {
-      "lead": false,
       "src": "PC Gamer",
       "title": "Thanks to a dedicated team 'art-directing' every single NPC, GTA 6 has over 10 times as many unique animations as GTA 5",
       "summary": "Over 600,000.",
@@ -148,27 +148,11 @@
     },
     {
       "lead": false,
-      "src": "GamesRadar",
-      "title": "GTA 6 became too realistic for even Rockstar so the devs had to cut a system for restocking Jason and Lucia's fridge to \"find the right balance between realism and ease of play\"",
-      "summary": "But how will I perfectly align everything now?",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-became-too-realistic-for-even-rockstar-so-the-devs-had-to-cut-a-system-for-restocking-jason-and-lucias-fridge-to-find-the-right-balance-between-realism-and-ease-of-play/",
-      "date": "2026-08-30T17:00:00.000Z"
-    },
-    {
-      "lead": false,
       "src": "Eurogamer",
       "title": "Rockstar confirms GTA 6 won't have microtransactions or generative AI at launch",
       "summary": "Rockstar has confirmed Grand Theft Auto 6 will launch without microtransactions or generative AI. Read more",
       "url": "https://www.eurogamer.net/gta-6-microtransactions-generative-ai-rockstar",
       "date": "2026-08-30T10:48:08.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "GTA 6 \"will be released on time,\" Rockstar North co-lead says, who hopes the extended look will stop fans from being \"worried about the quality\"",
-      "summary": "Rockstar is saying yet again that November is the final release date for the next Grand Theft Auto game",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-will-be-released-on-time-rockstar-north-co-lead-says-who-hopes-the-extended-look-will-stop-fans-from-being-worried-about-the-quality/",
-      "date": "2026-08-29T17:00:00.000Z"
     },
     {
       "lead": false,
@@ -193,6 +177,22 @@
       "summary": "Cloud Imperium Games has delayed Squadron 42, its long-in-development Star Citizen spin-off, to Q2 2027, with studio boss Chris Roberts arguing the game would be drowned out by GTA 6 . Read more",
       "url": "https://www.eurogamer.net/squadron-42-delayed-2027-gta-6",
       "date": "2026-08-29T12:09:49.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GameSpot",
+      "title": "Tech Experts Call Grand Theft Auto 6 The Most Visually Advanced Game To Date, Which Explains Why It’s Stuck At 30FPS",
+      "summary": "Grand Theft Auto 6 has finally had its first big gameplay reveal, giving us our first real look at Rockstar's massive open-world and the amount of detail it holds. It's one that might be the most visually-impressive game we've ever seen, according to the experts at Digital Foundry. Digital Foundry's Oliver Mackenzie…",
+      "url": "https://www.gamespot.com/articles/tech-experts-call-grand-theft-auto-6-the-most-visually-advanced-game-to-date-which-explains-why-its-stuck-at-30fps/",
+      "date": "2026-08-28T22:35:19.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GameSpot",
+      "title": "Fable Dev Happy About Delay To 2027 To Avoid “Chaotic Window,” And We All Know That Means GTA 6",
+      "summary": "Microsoft's new Fable game was supposed to launch this year, but it was delayed to February 2027. The game's director, Ralph Fulton, said in an interview that he feels \"great\" about the launch timing for Fable, adding that shifting to 2027 helps the game avoid the \"chaotic window\" of its original timeframe of late 2…",
+      "url": "https://www.gamespot.com/articles/fable-dev-happy-about-delay-to-2027-to-avoid-chaotic-window-and-we-all-know-that-means-gta-6/",
+      "date": "2026-08-28T19:01:23.000Z"
     }
   ]
 }
