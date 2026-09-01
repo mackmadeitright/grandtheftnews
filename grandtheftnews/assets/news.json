@@ -1,9 +1,25 @@
 {
-  "updated": "2026-09-01T00:31:15.557Z",
+  "updated": "2026-09-01T08:32:16.818Z",
   "count": 24,
   "items": [
     {
       "lead": true,
+      "src": "Eurogamer",
+      "title": "As the legal hunt for the GTA 6 leaker continues, Take-Two reportedly tries another more secretive Discord subpoena, this time specifying individuals",
+      "summary": "Rockstar parent company Take-Two has escalated its hunt for the people behind the numerous Grand Theft Auto 6 leaks from two weeks ago . The publisher has filed a request for another subpoena, though this time it's asking the court to withhold the details from the public and keep it sealed. Read more",
+      "url": "https://www.eurogamer.net/gta-6-leaker-discord-subpoena-sealed-take-two",
+      "date": "2026-09-01T08:26:02.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Polygon",
+      "title": "'GTA 6' Hype is Sending PS5 Pro Prices Through the Roof",
+      "summary": "Grand Theft Auto 6 hype has third-party retailers pricing PlayStation 5 Pro consoles for as much as $1,400.",
+      "url": "https://www.polygon.com/gta-6-fans-ps5-pro-prices/",
+      "date": "2026-09-01T01:12:07.000Z"
+    },
+    {
+      "lead": false,
       "src": "GamesRadar",
       "title": "Take-Two's GTA 6 leak investigation is heating up as the publisher requests sealed subpoena to avoid tipping off leakers",
       "summary": "The subpoena \"reveals highly sensitive, confidential information about an ongoing investigation\"",
@@ -177,22 +193,6 @@
       "summary": "Cloud Imperium Games has delayed Squadron 42, its long-in-development Star Citizen spin-off, to Q2 2027, with studio boss Chris Roberts arguing the game would be drowned out by GTA 6 . Read more",
       "url": "https://www.eurogamer.net/squadron-42-delayed-2027-gta-6",
       "date": "2026-08-29T12:09:49.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GameSpot",
-      "title": "Tech Experts Call Grand Theft Auto 6 The Most Visually Advanced Game To Date, Which Explains Why It’s Stuck At 30FPS",
-      "summary": "Grand Theft Auto 6 has finally had its first big gameplay reveal, giving us our first real look at Rockstar's massive open-world and the amount of detail it holds. It's one that might be the most visually-impressive game we've ever seen, according to the experts at Digital Foundry. Digital Foundry's Oliver Mackenzie…",
-      "url": "https://www.gamespot.com/articles/tech-experts-call-grand-theft-auto-6-the-most-visually-advanced-game-to-date-which-explains-why-its-stuck-at-30fps/",
-      "date": "2026-08-28T22:35:19.000Z"
-    },
-    {
-      "lead": false,
-      "src": "PC Gamer",
-      "title": "Bland or badass? The internet is split on GTA 6's Jason, and so is PC Gamer",
-      "summary": "Everyone's got an opinion, including us.",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/bland-or-badass-the-internet-is-split-on-gta-6s-jason-and-so-is-pc-gamer/",
-      "date": "2026-08-28T20:16:05.000Z"
     }
   ]
 }
