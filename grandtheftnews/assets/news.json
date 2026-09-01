@@ -1,9 +1,33 @@
 {
-  "updated": "2026-08-31T20:45:09.167Z",
+  "updated": "2026-09-01T00:31:15.557Z",
   "count": 24,
   "items": [
     {
       "lead": true,
+      "src": "GamesRadar",
+      "title": "Take-Two's GTA 6 leak investigation is heating up as the publisher requests sealed subpoena to avoid tipping off leakers",
+      "summary": "The subpoena \"reveals highly sensitive, confidential information about an ongoing investigation\"",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/take-twos-gta-6-leak-investigation-is-heating-up-as-the-publisher-requests-sealed-subpoena-to-avoid-tipping-off-leakers/",
+      "date": "2026-09-01T00:09:01.000Z"
+    },
+    {
+      "lead": false,
+      "src": "IGN",
+      "title": "GTA 6 Gets Even More New Screenshots as Rockstar Locks in for November Launch",
+      "summary": "It seems the drought of Grand Theft Auto 6 news has finally come to an end, as Rockstar has published even more screenshots for fans to comb through.",
+      "url": "https://www.ign.com/articles/gta-6-gets-even-more-new-screenshots-as-rockstar-locks-in-for-november-launch",
+      "date": "2026-08-31T21:32:23.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GameSpot",
+      "title": "Godzilla Remaster Devs Explain Why They Aren’t Worried About Releasing Near GTA 6",
+      "summary": "Most upcoming games have looked to steer clear of the behemoth that is Grand Theft Auto 6 and avoid the month of November entirely. The upcoming remaster of 2002's Godzilla Destroy All Monsters Melee is a notable exception , and as it turns out, the developers didn't think about GTA 6 at all when choosing its releas…",
+      "url": "https://www.gamespot.com/articles/godzilla-remaster-devs-explain-why-they-arent-worried-about-releasing-near-gta-6/",
+      "date": "2026-08-31T20:32:14.000Z"
+    },
+    {
+      "lead": false,
       "src": "IGN",
       "title": "Godzilla: Destroy All Monsters Melee Remastered Dev Says GTA 6 Was 'Never Part of Our Thinking' When Choosing a Release Date",
       "summary": "Godzilla: Destroy All Monsters Melee Remastered will take on GTA 6 when both games launch this November, but the team behind the arena fighter said Rockstar's latest was \"never part of our thinking\" when choosing a release date.",
@@ -116,14 +140,6 @@
     },
     {
       "lead": false,
-      "src": "IGN",
-      "title": "GTA 6 Fans Think They Found Jason and Lucia's Vice City Apartment in Real Life",
-      "summary": "Grand Theft Auto 6 fans think they've spotted the real-life inspiration for Jason and Lucia's Vice City apartment – but don't expect to ever visit it yourself.",
-      "url": "https://www.ign.com/articles/gta-6-fans-think-they-found-jason-and-lucias-vice-city-apartment-in-real-life",
-      "date": "2026-08-30T16:27:56.000Z"
-    },
-    {
-      "lead": false,
       "src": "Eurogamer",
       "title": "Rockstar confirms GTA 6 won't have microtransactions or generative AI at launch",
       "summary": "Rockstar has confirmed Grand Theft Auto 6 will launch without microtransactions or generative AI. Read more",
@@ -172,27 +188,11 @@
     },
     {
       "lead": false,
-      "src": "GamesRadar",
-      "title": "PS5 Pros all but vanish after GTA 6 reveal, going for up to $1,300 at the few stores with stock",
-      "summary": "Stock has very suddenly started disappearing",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/ps5-pros-all-but-vanish-after-gta-6-reveal-going-for-up-to-usd1-300-at-the-few-stores-with-stock/",
-      "date": "2026-08-28T21:51:52.000Z"
-    },
-    {
-      "lead": false,
       "src": "PC Gamer",
       "title": "Bland or badass? The internet is split on GTA 6's Jason, and so is PC Gamer",
       "summary": "Everyone's got an opinion, including us.",
       "url": "https://www.pcgamer.com/games/grand-theft-auto/bland-or-badass-the-internet-is-split-on-gta-6s-jason-and-so-is-pc-gamer/",
       "date": "2026-08-28T20:16:05.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GameSpot",
-      "title": "Fable Dev Happy About Delay To 2027 To Avoid “Chaotic Window,” And We All Know That Means GTA 6",
-      "summary": "Microsoft's new Fable game was supposed to launch this year, but it was delayed to February 2027. The game's director, Ralph Fulton, said in an interview that he feels \"great\" about the launch timing for Fable, adding that shifting to 2027 helps the game avoid the \"chaotic window\" of its original timeframe of late 2…",
-      "url": "https://www.gamespot.com/articles/fable-dev-happy-about-delay-to-2027-to-avoid-chaotic-window-and-we-all-know-that-means-gta-6/",
-      "date": "2026-08-28T19:01:23.000Z"
     }
   ]
 }
