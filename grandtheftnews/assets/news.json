@@ -1,9 +1,81 @@
 {
-  "updated": "2026-09-01T14:05:21.371Z",
+  "updated": "2026-09-01T18:20:30.447Z",
   "count": 24,
   "items": [
     {
       "lead": true,
+      "src": "PC Gamer",
+      "title": "I modded a GTA 6-like 'wanted system' into GTA 5",
+      "summary": "Help, wanted.",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/i-modded-a-gta-6-like-wanted-system-into-gta-5/",
+      "date": "2026-09-01T17:00:00.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Kotaku",
+      "title": "TikToks Arguing That Dating In GTA 6 Is Cheating IRL Are Going Viral",
+      "summary": "Grand Theft Auto 6 's dating options are catching some flak on TikTok, but is it all just engagement bait?",
+      "url": "https://kotaku.com/gta-6-grand-theft-auto-dating-jason-lucia-cheating-tiktok-2000730212",
+      "date": "2026-09-01T16:45:18.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "GTA 6 will lock you out of story missions if you're too broke, so it's good to know the robbery mechanics have been massively expanded",
+      "summary": "There's also racing, if you don't feel like being mean",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-will-lock-you-out-of-story-missions-if-youre-too-broke-so-its-good-to-know-the-robbery-mechanics-have-been-massively-expanded/",
+      "date": "2026-09-01T16:29:22.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "\"You cannot make a game like The Witcher 4\" by being \"cost-driven,\" CD Projekt CEO says, and he's \"100% sure\" GTA 6 is being made the same way",
+      "summary": "\"I think the philosophy might be very similar in many ways\"",
+      "url": "https://www.gamesradar.com/games/the-witcher/you-cannot-make-a-game-like-the-witcher-4-by-being-cost-driven-cd-projekt-ceo-says-and-hes-100-percent-sure-gta-6-is-being-made-the-same-way/",
+      "date": "2026-09-01T16:23:32.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Kotaku",
+      "title": "GTA 6 Already Has Way More Vehicles Than GTA 5 And The Game’s Not Even Out Yet",
+      "summary": "Fans have already spotted over 250 vehicles in GTA 6 's trailers and screenshots",
+      "url": "https://kotaku.com/gta-6-already-has-way-more-vehicles-than-gta-5-and-the-games-not-even-out-yet-2000730241",
+      "date": "2026-09-01T15:45:51.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GameSpot",
+      "title": "GTA 6 Removes The Series’ Worst Feature",
+      "summary": "If you've played a Grand Theft Auto game before, then you are probably familiar with the series' sprinting mechanic. Rather than clicking the left analog stick like in most other games, you have to either hold or mash a face button. It's annoying, less intuitive, and feels like a relic of the past, and luckily, Rock…",
+      "url": "https://www.gamespot.com/articles/gta-6-removes-the-series-worst-feature/",
+      "date": "2026-09-01T15:32:11.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GameSpot",
+      "title": "GTA 6 Studio On Massive Pressure: “We Are Nervous”",
+      "summary": "GTA 6 is one of the most-anticipated entertainment releases ever, and many experts agree that it's sure to be a fast success. However, Rockstar North boss Rob Nelson said the studio is \"nervous\" about the game's upcoming release and living up to 13 years worth of hype and expectations . \"I try not to think about it,…",
+      "url": "https://www.gamespot.com/articles/gta-6-studio-on-massive-pressure-we-are-nervous/",
+      "date": "2026-09-01T15:32:03.000Z"
+    },
+    {
+      "lead": false,
+      "src": "IGN",
+      "title": "GTA Vice City Made Escaping Cop Land The Biggest Thrill",
+      "summary": "Remember Cop Land, the GTA Vice City level where you dressed up as cops to blow up a bomb? It was frustrating, but it was the start of a huge, ambitious shift for Grand Theft Auto.",
+      "url": "https://www.ign.com/articles/gta-vice-city-cop-land-art-of-the-level",
+      "date": "2026-09-01T15:00:00.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "GTA 6 isn't flashy for the sake of it – I'm impressed at how additive every new detail feels to gameplay",
+      "summary": "Rockstar Games evolve familiar mechanics with GTA 6 to reimagine the series' foundations while keeping them recognizable",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-isnt-flashy-for-the-sake-of-it-im-impressed-at-how-additive-every-new-detail-feels-to-gameplay/",
+      "date": "2026-09-01T15:00:00.000Z"
+    },
+    {
+      "lead": false,
       "src": "GameSpot",
       "title": "GTA 6 Cut This Feature Because It Was Too Real, But One Lifelike Detail Is Staying",
       "summary": "Rockstar Games has confirmed more details about GTA 6 , including how the developer cut a feature because it was deemed too realistic. Another feature that borrows from real life is staying, however. Rockstar's Rob Nelson told Famitsu , as translated by GamesRadar , that Jason and Lucia were initially able to buy gr…",
@@ -52,22 +124,6 @@
     },
     {
       "lead": false,
-      "src": "IGN",
-      "title": "Godzilla: Destroy All Monsters Melee Remastered Dev Says GTA 6 Was 'Never Part of Our Thinking' When Choosing a Release Date",
-      "summary": "Godzilla: Destroy All Monsters Melee Remastered will take on GTA 6 when both games launch this November, but the team behind the arena fighter said Rockstar's latest was \"never part of our thinking\" when choosing a release date.",
-      "url": "https://www.ign.com/articles/godzilla-destroy-all-monsters-melee-remastered-dev-says-gta-6-was-never-part-of-our-thinking-when-choosing-a-release-date",
-      "date": "2026-08-31T18:45:35.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Kotaku",
-      "title": "One Very Dedicated GTA 6 Fan Has Found The Real-Life Location Of Jason And Lucia’s Apartment",
-      "summary": "The feat is especially remarkable considering the building was demolished in 2023",
-      "url": "https://kotaku.com/gta-6-grand-theft-auto-lucia-jason-apartment-miami-vice-city-real-location-2000729948",
-      "date": "2026-08-31T18:30:48.000Z"
-    },
-    {
-      "lead": false,
       "src": "GameSpot",
       "title": "GTA 6 Fans Are Bracing For One Massive Download",
       "summary": "We're only a few months away from the November launch of Grand Theft Auto 6 , and following the recent preview of the game on Netflix, fans have even more questions about Rockstar's highly anticipated game--namely, just how big is the download going to be? We already know that you can preload the game a week before…",
@@ -76,51 +132,11 @@
     },
     {
       "lead": false,
-      "src": "IGN",
-      "title": "GTA 6's Relationship Mechanic Is 'Cheating' on Your Real-Life Partner and Break Up Worthy, According to Angry Spouses",
-      "summary": "A bunch of angry spouses on social media believe that Grand Theft Auto 6's in-depth relationship mechanic is equivalent to cheating on your real life partner and worth breaking up over.",
-      "url": "https://www.ign.com/articles/gta-6s-relationship-mechanic-is-cheating-on-your-real-life-partner-and-break-up-worthy-according-to-angry-spouses",
-      "date": "2026-08-31T17:55:42.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "Sony lawyers argue that nobody is stupid enough to believe they actually own digital games, because then only one person could buy GTA 6",
-      "summary": "PlayStation believes \"reasonable consumers would not be misled\" by its current disclosures",
-      "url": "https://www.gamesradar.com/games/sony-lawyers-argue-that-nobody-is-stupid-enough-to-believe-they-actually-own-digital-games-because-then-only-one-person-could-buy-gta-6/",
-      "date": "2026-08-31T17:18:02.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "GTA 6 won’t let you switch between Lucia and Jason whenever you want because it would be \"unnatural\" for story progression",
-      "summary": "To switch or not to switch?",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-wont-let-you-switch-between-lucia-and-jason-whenever-you-want-because-it-would-be-unnatural-for-story-progression/",
-      "date": "2026-08-31T17:00:00.000Z"
-    },
-    {
-      "lead": false,
       "src": "PC Gamer",
-      "title": "With GTA 6 leaker hunt 'rapidly evolving,' Take-Two asks court to keep latest subpoena request sealed to avoid tipping off leakers",
-      "summary": "The filing contains \"highly sensitive, confidential information\" that lawyers fear could help the GTA 6 leakers destroy evidence or evade detection.",
+      "title": "Court grants Take-Two's latest request for more user information from Discord as the GTA 6 leaker hunt intensifies",
+      "summary": "It seems the subpoena will remain sealed, as Take-Two requested.",
       "url": "https://www.pcgamer.com/games/grand-theft-auto/with-gta-6-leaker-hunt-rapidly-evolving-take-two-asks-court-to-keep-latest-subpoena-request-sealed-to-avoid-tipping-off-leakers/",
       "date": "2026-08-31T16:57:47.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "I've been staring at this GTA 6 iguana for an hour, and it's clear Rockstar's obsession with uber-detailed animals did not end with Red Dead Redemption 2's horses",
-      "summary": "In awe of the detail of this lad",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/ive-been-staring-at-this-gta-6-iguana-for-an-hour-and-its-clear-rockstars-obsession-with-uber-detailed-animals-did-not-end-with-red-dead-redemption-2s-horses/",
-      "date": "2026-08-31T16:24:08.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "GTA 6 is so big, Rockstar doesn't \"know that there's anybody on the team that knows all of it\"",
-      "summary": "It seems not even the devs have seen all of Leonida",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-is-so-big-rockstar-doesnt-know-that-theres-anybody-on-the-team-that-knows-all-of-it/",
-      "date": "2026-08-31T16:06:20.000Z"
     },
     {
       "lead": false,
@@ -164,14 +180,6 @@
     },
     {
       "lead": false,
-      "src": "PC Gamer",
-      "title": "Rockstar considered having four protagonists in Grand Theft Auto 6, but the studio 'worried about diluting the amount of player time' with each character",
-      "summary": "\"How do we follow up three characters? Is it four characters now?\"",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/rockstar-considered-having-four-protagonists-in-grand-theft-auto-6-but-the-studio-worried-about-diluting-the-amount-of-player-time-with-each-character/",
-      "date": "2026-08-29T13:13:58.000Z"
-    },
-    {
-      "lead": false,
       "src": "Eurogamer",
       "title": "Squadron 42 delayed to 2027, with Star Citizen dev blaming GTA 6",
       "summary": "Cloud Imperium Games has delayed Squadron 42, its long-in-development Star Citizen spin-off, to Q2 2027, with studio boss Chris Roberts arguing the game would be drowned out by GTA 6 . Read more",
@@ -185,14 +193,6 @@
       "summary": "Grand Theft Auto 6 has finally had its first big gameplay reveal, giving us our first real look at Rockstar's massive open-world and the amount of detail it holds. It's one that might be the most visually-impressive game we've ever seen, according to the experts at Digital Foundry. Digital Foundry's Oliver Mackenzie…",
       "url": "https://www.gamespot.com/articles/tech-experts-call-grand-theft-auto-6-the-most-visually-advanced-game-to-date-which-explains-why-its-stuck-at-30fps/",
       "date": "2026-08-28T22:35:19.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GameSpot",
-      "title": "Fable Dev Happy About Delay To 2027 To Avoid “Chaotic Window,” And We All Know That Means GTA 6",
-      "summary": "Microsoft's new Fable game was supposed to launch this year, but it was delayed to February 2027. The game's director, Ralph Fulton, said in an interview that he feels \"great\" about the launch timing for Fable, adding that shifting to 2027 helps the game avoid the \"chaotic window\" of its original timeframe of late 2…",
-      "url": "https://www.gamespot.com/articles/fable-dev-happy-about-delay-to-2027-to-avoid-chaotic-window-and-we-all-know-that-means-gta-6/",
-      "date": "2026-08-28T19:01:23.000Z"
     }
   ]
 }
