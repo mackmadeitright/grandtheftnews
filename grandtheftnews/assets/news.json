@@ -1,9 +1,41 @@
 {
-  "updated": "2026-09-02T16:27:17.939Z",
+  "updated": "2026-09-02T20:55:30.731Z",
   "count": 24,
   "items": [
     {
       "lead": true,
+      "src": "Kotaku",
+      "title": "A Bunch Of Old GTA 6 Leaks Turned Out To Be True",
+      "summary": "Turns out at least some early online leaks about Grand Theft Auto 6 weren't fake",
+      "url": "https://kotaku.com/a-bunch-of-old-gta-6-leaks-turned-out-to-be-true-2000730608",
+      "date": "2026-09-02T19:15:06.000Z"
+    },
+    {
+      "lead": false,
+      "src": "IGN",
+      "title": "YouTuber Claims Rockstar Confirmed Fans Measured Oxygen Levels Around Its Campus in Anticipation for a New Trailer",
+      "summary": "Italian YouTuber Mike ShowSha got to visit Rockstar ahead of the company’s big GTA 6 Netflix showcase, where developers told him that overeager fans were literally measuring the oxygen levels around their campus in anticipation for a new trailer.",
+      "url": "https://www.ign.com/articles/youtuber-claims-rockstar-confirmed-fans-measured-oxygen-levels-around-its-campus-in-anticipation-for-a-new-trailer",
+      "date": "2026-09-02T18:35:13.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Kotaku",
+      "title": "Rockstar Is Finally Ditching ‘Tap X To Sprint’ In GTA 6, But Not Everyone Is Happy: ‘I’m Honestly A Little Disappointed’",
+      "summary": "For some players, this is good news; for others, it's the end of an era",
+      "url": "https://kotaku.com/rockstar-is-finally-ditching-tap-x-to-sprint-in-gta-6-but-not-everyone-is-happy-im-honestly-a-little-disappointed-2000730560",
+      "date": "2026-09-02T18:00:39.000Z"
+    },
+    {
+      "lead": false,
+      "src": "PC Gamer",
+      "title": "I modded GTA 6 leak-accurate car fuelling into GTA 5",
+      "summary": "It's a sim now. I'm a sim now.",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/i-modded-gta-6-leak-accurate-car-fuelling-into-gta-5/",
+      "date": "2026-09-02T17:00:00.000Z"
+    },
+    {
+      "lead": false,
       "src": "GameSpot",
       "title": "Don’t Care About GTA 6’s Romance System? Don’t Use It, Dev Says",
       "summary": "GTA 6 's Jason and Lucia can be romantically involved , or they can just be partners in crime. If you're not interested in the game's romance system, don't use it, Rockstar's Rob Nelson said in a new interview. \"I have to say it feels great--if you are into it as a concept. Don’t bother with it if you aren’t. Up to…",
@@ -92,14 +124,6 @@
     },
     {
       "lead": false,
-      "src": "IGN",
-      "title": "GTA 6 Extended Look Tops Netflix Top 10 Chart in First Week",
-      "summary": "Grand Theft Auto 6: An Extended Look dominated Netflix's top 10 chart in its first week (in the English Film category), racking up 31.1 million views in its first week, beating the second-place film on the list, the Robert DeNiro, Adam Scott, and Michelle Monaghan thriller The Whisper Man, which pulled in 23.2 milli…",
-      "url": "https://www.ign.com/articles/gta-6-extended-look-tops-netflix-top-10-chart-in-first-week",
-      "date": "2026-09-01T19:00:00.000Z"
-    },
-    {
-      "lead": false,
       "src": "PC Gamer",
       "title": "No Rest for the Wicked, which was slated to hit 1.0 a month before Grand Theft Auto 6, is delayed into 2027",
       "summary": "Moon Studios said the extra time will \"help us improve performance, tighten the class system, and polish the whole game,\" and made no mention at all of GTA 6.",
@@ -108,43 +132,11 @@
     },
     {
       "lead": false,
-      "src": "IGN",
-      "title": "Rockstar Games Reveals Its Official GTA Online Roleplaying Server, nopixel V",
-      "summary": "Rockstar Games has revealed its official GTA Online roleplaying server, nopixel V, ahead of GTA 6's launch.",
-      "url": "https://www.ign.com/articles/rockstar-games-reveals-its-official-gta-online-roleplaying-server-nopixel-v",
-      "date": "2026-09-01T17:37:24.000Z"
-    },
-    {
-      "lead": false,
       "src": "PC Gamer",
       "title": "I modded a GTA 6-like 'wanted system' into GTA 5",
       "summary": "Help, wanted.",
       "url": "https://www.pcgamer.com/games/grand-theft-auto/i-modded-a-gta-6-like-wanted-system-into-gta-5/",
       "date": "2026-09-01T17:00:00.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Kotaku",
-      "title": "TikToks Arguing That Dating In GTA 6 Is Cheating IRL Are Going Viral",
-      "summary": "Grand Theft Auto 6 's dating options are catching some flak on TikTok, but is it all just engagement bait?",
-      "url": "https://kotaku.com/gta-6-grand-theft-auto-dating-jason-lucia-cheating-tiktok-2000730212",
-      "date": "2026-09-01T16:45:18.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "GTA 6 will lock you out of story missions if you're too broke, so it's good to know the robbery mechanics have been massively expanded",
-      "summary": "There's also racing, if you don't feel like being mean",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-will-lock-you-out-of-story-missions-if-youre-too-broke-so-its-good-to-know-the-robbery-mechanics-have-been-massively-expanded/",
-      "date": "2026-09-01T16:29:22.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "\"You cannot make a game like The Witcher 4\" by being \"cost-driven,\" CD Projekt CEO says, and he's \"100% sure\" GTA 6 is being made the same way",
-      "summary": "\"I think the philosophy might be very similar in many ways\"",
-      "url": "https://www.gamesradar.com/games/the-witcher/you-cannot-make-a-game-like-the-witcher-4-by-being-cost-driven-cd-projekt-ceo-says-and-hes-100-percent-sure-gta-6-is-being-made-the-same-way/",
-      "date": "2026-09-01T16:23:32.000Z"
     },
     {
       "lead": false,
@@ -164,14 +156,6 @@
     },
     {
       "lead": false,
-      "src": "GameSpot",
-      "title": "GTA 6 Cut This Feature Because It Was Too Real, But One Lifelike Detail Is Staying",
-      "summary": "Rockstar Games has confirmed more details about GTA 6 , including how the developer cut a feature because it was deemed too realistic. Another feature that borrows from real life is staying, however. Rockstar's Rob Nelson told Famitsu , as translated by GamesRadar , that Jason and Lucia were initially able to buy gr…",
-      "url": "https://www.gamespot.com/articles/gta-6-cut-this-feature-because-it-was-too-real-but-one-lifelike-detail-is-staying/",
-      "date": "2026-09-01T13:31:37.000Z"
-    },
-    {
-      "lead": false,
       "src": "Eurogamer",
       "title": "As the legal hunt for the GTA 6 leaker continues, Take-Two reportedly tries another more secretive Discord subpoena, this time specifying individuals",
       "summary": "Rockstar parent company Take-Two has escalated its hunt for the people behind the numerous Grand Theft Auto 6 leaks from two weeks ago . The publisher has filed a request for another subpoena, though this time it's asking the court to withhold the details from the public and keep it sealed. Read more",
@@ -180,19 +164,35 @@
     },
     {
       "lead": false,
-      "src": "GameSpot",
-      "title": "Godzilla Remaster Devs Explain Why They Aren’t Worried About Releasing Near GTA 6",
-      "summary": "Most upcoming games have looked to steer clear of the behemoth that is Grand Theft Auto 6 and avoid the month of November entirely. The upcoming remaster of 2002's Godzilla Destroy All Monsters Melee is a notable exception , and as it turns out, the developers didn't think about GTA 6 at all when choosing its releas…",
-      "url": "https://www.gamespot.com/articles/godzilla-remaster-devs-explain-why-they-arent-worried-about-releasing-near-gta-6/",
-      "date": "2026-08-31T20:32:14.000Z"
-    },
-    {
-      "lead": false,
       "src": "Eurogamer",
       "title": "Rockstar confirms GTA 6 won't have microtransactions or generative AI at launch",
       "summary": "Rockstar has confirmed Grand Theft Auto 6 will launch without microtransactions or generative AI. Read more",
       "url": "https://www.eurogamer.net/gta-6-microtransactions-generative-ai-rockstar",
       "date": "2026-08-30T10:48:08.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Eurogamer",
+      "title": "GTA 6's gameplay reveal pulled in 3.97 million viewers across commentator livestreams, overwhelming Twitch and Netflix in the process",
+      "summary": "Reaction streams to Grand Theft Auto 6 's first gameplay presentation peaked at 3,970,738 viewers across livestreaming platforms, making it the biggest gaming stream of 2026 so far. Read more",
+      "url": "https://www.eurogamer.net/gta-6-gameplay-reveal-streaming-viewership-record-twitch-netflix",
+      "date": "2026-08-29T14:25:56.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Eurogamer",
+      "title": "Squadron 42 delayed to 2027, with Star Citizen dev blaming GTA 6",
+      "summary": "Cloud Imperium Games has delayed Squadron 42, its long-in-development Star Citizen spin-off, to Q2 2027, with studio boss Chris Roberts arguing the game would be drowned out by GTA 6 . Read more",
+      "url": "https://www.eurogamer.net/squadron-42-delayed-2027-gta-6",
+      "date": "2026-08-29T12:09:49.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Eurogamer",
+      "title": "Rockstar says GTA 6 runs at 30 FPS, while it's reportedly unsure about a 60 FPS performance mode",
+      "summary": "UPDATE 3.30PM BST: Performance perfectionist Digital Foundry has scrutinised the latest GTA 6 trailer ( which can be downloaded for a closer, purer appraisal) and said that on this evidence it looks like GTA 6 is running at 1440p natively on PS5 and maintains \"a relatively stable and well-paced 30 FPS output with on…",
+      "url": "https://www.eurogamer.net/gta-6-frame-rate-ps5-xbox-series-x-s",
+      "date": "2026-08-28T13:20:14.000Z"
     }
   ]
 }
