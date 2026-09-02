@@ -1,9 +1,17 @@
 {
-  "updated": "2026-09-02T20:55:30.731Z",
+  "updated": "2026-09-02T23:13:55.359Z",
   "count": 24,
   "items": [
     {
       "lead": true,
+      "src": "GamesRadar",
+      "title": "Getting GTA Online players to move on to GTA 6 Online is going to be \"a mess\" for Rockstar, Valve veteran says",
+      "summary": "\"Are they just going to kill Grand Theft Auto 5?\"",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/getting-gta-online-players-to-move-on-to-gta-6-online-is-going-to-be-a-mess-for-rockstar-valve-veteran-says/",
+      "date": "2026-09-02T21:37:47.000Z"
+    },
+    {
+      "lead": false,
       "src": "Kotaku",
       "title": "A Bunch Of Old GTA 6 Leaks Turned Out To Be True",
       "summary": "Turns out at least some early online leaks about Grand Theft Auto 6 weren't fake",
@@ -68,38 +76,6 @@
     },
     {
       "lead": false,
-      "src": "PC Gamer",
-      "title": "That Grand Theft Auto 6 exclusive reveal worked out pretty well for Netflix: It was the platform's biggest show last week",
-      "summary": "The GTA 6 reveal showcase pulled in more than 31 million views over just four days.",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/that-grand-theft-auto-6-exclusive-reveal-worked-out-pretty-well-for-netflix-it-was-the-platforms-biggest-show-last-week/",
-      "date": "2026-09-01T22:45:20.000Z"
-    },
-    {
-      "lead": false,
-      "src": "IGN",
-      "title": "GTA 6's Morality Meter Will Reportedly 'Shatter' and Make You Irredeemable If You Cause Too Much Mayhem",
-      "summary": "Grand Theft Auto 6's morality meter can reportedly \"shatter\" and lead to you becoming essentially irredeemable for an entire playthrough of the game.",
-      "url": "https://www.ign.com/articles/gta-6s-morality-meter-will-reportedly-shatter-and-make-you-irredeemable-if-you-cause-too-much-mayhem",
-      "date": "2026-09-01T22:21:27.000Z"
-    },
-    {
-      "lead": false,
-      "src": "PC Gamer",
-      "title": "The future of GTA roleplaying remains in GTA 5 for now, as Rockstar touts new invite-only Nopixel V RP server",
-      "summary": "Rockstar collaborated with Nopixel Studios for the latest version of its custom GTA 5 roleplaying experience, which includes 1,000 ownable properties.",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/rockstar-touts-new-invite-only-nopixel-v-gta-roleplaying-server-as-the-next-evolution-of-the-rp-community/",
-      "date": "2026-09-01T22:17:11.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "The GTA 6 extended look was Netflix's most-watched title for the week with 31.1 million views",
-      "summary": "It's no Stranger Things, but it was huge",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/the-gta-6-extended-look-was-netflixs-most-watched-title-for-the-week-with-31-1-million-views/",
-      "date": "2026-09-01T21:46:29.000Z"
-    },
-    {
-      "lead": false,
       "src": "GameSpot",
       "title": "GTA 6’s Extended Look Trailer Seemingly Paid Off For Netflix With Massive Viewership",
       "summary": "Netflix has confirmed that GTA 6's recent \"extended look\" trailer was the streamer's most-viewed title overall last week, drawing 31.1 million views. The trailer was labeled an \"English-language film\" by Netflix, and it was No. 1 by that designation in 87 of 93 regions globally that Netflix's tracks ( via Variety ).…",
@@ -113,30 +89,6 @@
       "summary": "Rockstar Games hasn't said much of anything about GTA 6 's potential multiplayer offerings, but the developer is making strides for GTA Online 's roleplaying community. A watch-only nopixel 5 closed beta is coming next week. Read more",
       "url": "https://www.eurogamer.net/rockstar-games-official-gta-online-rp-server-closed-beta",
       "date": "2026-09-01T19:44:40.000Z"
-    },
-    {
-      "lead": false,
-      "src": "PC Gamer",
-      "title": "GTA 6's story is too important for Rockstar to let you swap between Lucia and Jason whenever you want",
-      "summary": "Outside of the story, however, you'll be free to swap whenever.",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6s-story-is-too-important-for-rockstar-to-let-you-swap-between-lucia-and-jason-whenever-you-want/",
-      "date": "2026-09-01T19:39:14.000Z"
-    },
-    {
-      "lead": false,
-      "src": "PC Gamer",
-      "title": "No Rest for the Wicked, which was slated to hit 1.0 a month before Grand Theft Auto 6, is delayed into 2027",
-      "summary": "Moon Studios said the extra time will \"help us improve performance, tighten the class system, and polish the whole game,\" and made no mention at all of GTA 6.",
-      "url": "https://www.pcgamer.com/games/action/no-rest-for-the-wicked-which-was-slated-to-hit-1-0-a-month-before-grand-theft-auto-6-is-delayed-into-2027/",
-      "date": "2026-09-01T18:19:56.000Z"
-    },
-    {
-      "lead": false,
-      "src": "PC Gamer",
-      "title": "I modded a GTA 6-like 'wanted system' into GTA 5",
-      "summary": "Help, wanted.",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/i-modded-a-gta-6-like-wanted-system-into-gta-5/",
-      "date": "2026-09-01T17:00:00.000Z"
     },
     {
       "lead": false,
@@ -193,6 +145,54 @@
       "summary": "UPDATE 3.30PM BST: Performance perfectionist Digital Foundry has scrutinised the latest GTA 6 trailer ( which can be downloaded for a closer, purer appraisal) and said that on this evidence it looks like GTA 6 is running at 1440p natively on PS5 and maintains \"a relatively stable and well-paced 30 FPS output with on…",
       "url": "https://www.eurogamer.net/gta-6-frame-rate-ps5-xbox-series-x-s",
       "date": "2026-08-28T13:20:14.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Eurogamer",
+      "title": "GTA 6's map is so massive, you could fit two GTA 5s in it - and we know roughly how long it'll take to beat too",
+      "summary": "As part of its massive GTA 6 info blowout , Rockstar has been talking sizes - both of the map kind and length kind - confirming its latest open-world epic unfolds across a world that's twice as big as that of GTA 5 , and should take around 80 hours to complete. Read more",
+      "url": "https://www.eurogamer.net/gta-6-map-size-length-how-big-revealed",
+      "date": "2026-08-27T21:37:19.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Eurogamer",
+      "title": "Twitch suffers major outage following Grand Theft Auto 6's extended look gameplay trailer premiere",
+      "summary": "Popular livestreaming platform Twitch suffered a major outage soon after the premiere of the Grand Theft Auto 6 extended look on Netflix . Read more",
+      "url": "https://www.eurogamer.net/twitch-down-outage-grand-theft-auto-6",
+      "date": "2026-08-27T21:10:45.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Eurogamer",
+      "title": "GTA 6 has more than 10 times the animations in GTA 5, and double the amount in Red Dead Redemption 2, Rockstar confirms",
+      "summary": "Everyone was expecting GTA 6 to be massive, sure, but comparing the amount of unique animations in the game to what was included in Rockstar Games ' previous work really puts things into perspective. Read more",
+      "url": "https://www.eurogamer.net/gta-6-has-more-than-10-times-the-animations-in-gta-5-and-double-the-amount-in-red-dead-redemption-2-rockstar-confirms",
+      "date": "2026-08-27T21:07:47.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Eurogamer",
+      "title": "GTA 6: This is what a billion dollars gets you",
+      "summary": "There are plenty of layers to GTA 6 , if the game's 26-minute Netflix teaser is anything to go by. Read more",
+      "url": "https://www.eurogamer.net/gta-6-reaction-this-is-what-a-billion-dollars-gets-you",
+      "date": "2026-08-27T21:05:44.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Eurogamer",
+      "title": "GTA 6's apparent shift towards awkward ultra-realism is a huge risk - and that's exactly why it's the right thing to do",
+      "summary": "Scrabble together all the various, disparate nuggets of information released about Grand Theft Auto 6 since its big Netflix premiere, and you might spot a pattern emerging: Rockstar is going full, Red Dead Redemption 2 -style realism with GTA 6. In fact it sounds like it's going even further. Forget the breezy, plug…",
+      "url": "https://www.eurogamer.net/gta-6-shift-towards-realism-rockstar-taking-huge-risk",
+      "date": "2026-08-27T20:08:46.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Eurogamer",
+      "title": "Every activity we've spotted in GTA 6's extended look trailer and previews so far",
+      "summary": "Anyone who played a Grand Theft Auto game before will tell you that a lot of the fun comes from everything you can do outside of scripted story sequences. GTA 6 looks to offer a wide range of things to do in Leonida that don't include shooting people or driving recklessly. Read more",
+      "url": "https://www.eurogamer.net/gta-6-activities-things-to-do-spotted-so-far",
+      "date": "2026-08-27T19:46:00.000Z"
     }
   ]
 }
