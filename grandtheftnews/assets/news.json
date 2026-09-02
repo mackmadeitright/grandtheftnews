@@ -1,9 +1,17 @@
 {
-  "updated": "2026-09-02T04:11:32.793Z",
+  "updated": "2026-09-02T11:06:33.191Z",
   "count": 24,
   "items": [
     {
       "lead": true,
+      "src": "Eurogamer",
+      "title": "The Grand Theft Auto run button has changed after 25 years - GTA 6 no longer requires you to tap a face button to peg it",
+      "summary": "For nearly 25 years, Grand Theft Auto games have uniquely mapped your sprint movement to a face button on a controller. Although some Rockstar games offered alternate control schemes, the default has always required players to tap X or A (depending on your platform) to run. But GTA 6 is bucking the trend. Read more",
+      "url": "https://www.eurogamer.net/gta-6-run-button-changes-tap-rockstar",
+      "date": "2026-09-02T08:48:30.000Z"
+    },
+    {
+      "lead": false,
       "src": "Polygon",
       "title": "GTA 6 Soars to No. 1 on Netflix's Movie Chart",
       "summary": "Grand Theft Auto 6 is dominating Netflix's movie charts, with its 27-minute extended look hitting No. 1 in 87 countries.",
@@ -41,14 +49,6 @@
       "summary": "It's no Stranger Things, but it was huge",
       "url": "https://www.gamesradar.com/games/grand-theft-auto/the-gta-6-extended-look-was-netflixs-most-watched-title-for-the-week-with-31-1-million-views/",
       "date": "2026-09-01T21:46:29.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Polygon",
-      "title": "Days After GTA 6's Big Reveal, Rockstar Announces A Major GTA 5 Update",
-      "summary": "Grand Theft Auto 5 will introduce a revamped world with better NPCs in addition to other improvements, Rockstar says",
-      "url": "https://www.polygon.com/gta-5-nopixel-beta-when-is-roleplay-customization-new-gameplay/",
-      "date": "2026-09-01T20:34:29.000Z"
     },
     {
       "lead": false,
