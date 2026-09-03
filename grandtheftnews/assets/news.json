@@ -1,46 +1,70 @@
 {
-  "updated": "2026-09-03T11:03:32.480Z",
+  "updated": "2026-09-03T16:22:12.315Z",
   "count": 24,
   "items": [
     {
       "lead": true,
-      "src": "GamesRadar",
-      "title": "Getting GTA Online players to move on to GTA 6 Online is going to be \"a mess\" for Rockstar, Valve veteran says",
-      "summary": "\"Are they just going to kill Grand Theft Auto 5?\"",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/getting-gta-online-players-to-move-on-to-gta-6-online-is-going-to-be-a-mess-for-rockstar-valve-veteran-says/",
-      "date": "2026-09-02T21:37:47.000Z"
+      "src": "Polygon",
+      "title": "Fall 2026 Games, Movies, TV, and Books: Everything We’re Excited For",
+      "summary": "Before GTA 6, we have exclusive interviews for Resident Evil, Gears of War, Marvel's VisionQuest, Hunger Games, Amazon's Lord of the Rings, and more.",
+      "url": "https://www.polygon.com/polygons-2026-fall-preview/",
+      "date": "2026-09-03T15:01:35.000Z"
     },
     {
       "lead": false,
-      "src": "Kotaku",
-      "title": "A Bunch Of Old GTA 6 Leaks Turned Out To Be True",
-      "summary": "Turns out at least some early online leaks about Grand Theft Auto 6 weren't fake",
-      "url": "https://kotaku.com/a-bunch-of-old-gta-6-leaks-turned-out-to-be-true-2000730608",
-      "date": "2026-09-02T19:15:06.000Z"
+      "src": "Eurogamer",
+      "title": "GTA 6 is getting two limited edition dualsense PS5 controllers",
+      "summary": "Two limited Edition Grand Theft Auto 6 PS5 Dualsense controllers were just revealed during the Sony State of Play livestream. Read more",
+      "url": "https://www.eurogamer.net/gta6-ps5-controllers-white-black-state-of-play",
+      "date": "2026-09-03T14:47:05.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "Sony announces GTA 6 limited edition DualSense, and at least something's physical",
+      "summary": "Sony has announced a special edition DualSense controller ready for GTA 6, and pre-orders begin on September 10.",
+      "url": "https://www.gamesradar.com/hardware/gaming-controllers/sony-announces-gta-6-limited-edition-dualsense-and-at-least-somethings-physical/",
+      "date": "2026-09-03T14:45:38.000Z"
     },
     {
       "lead": false,
       "src": "IGN",
-      "title": "YouTuber Claims Rockstar Confirmed Fans Measured Oxygen Levels Around Its Campus in Anticipation for a New Trailer",
-      "summary": "Italian YouTuber Mike ShowSha got to visit Rockstar ahead of the company’s big GTA 6 Netflix showcase, where developers told him that overeager fans were literally measuring the oxygen levels around their campus in anticipation for a new trailer.",
-      "url": "https://www.ign.com/articles/youtuber-claims-rockstar-confirmed-fans-measured-oxygen-levels-around-its-campus-in-anticipation-for-a-new-trailer",
-      "date": "2026-09-02T18:35:13.000Z"
+      "title": "Grand Theft Auto 6 Is Getting a Pair of Limited Edition PS5 Controllers",
+      "summary": "Rockstar Games and PlayStation have revealed a pair of GTA 6-themed PS5 controllers.",
+      "url": "https://www.ign.com/articles/grand-theft-auto-6-is-getting-a-pair-of-limited-edition-ps5-controllers",
+      "date": "2026-09-03T14:04:29.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GameSpot",
+      "title": "GTA 6 Limited-Edition DualSense Controllers Are On The Way, And They Look Fantastic",
+      "summary": "During today's State of Play broadcast, Sony announced that two limited-edition Grand Theft Auto 6 -themed DualSense controllers will be released. They'll come in black or white and feature distinctive Leonida-themed graphics and coloring. Both have pastel pink icons on the buttons, with a blue-purple shift that spa…",
+      "url": "https://www.gamespot.com/articles/gta-6-limited-edition-dualsense-controllers-are-on-the-way-and-they-look-fantastic/",
+      "date": "2026-09-03T13:54:07.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GameSpot",
+      "title": "GTA 6 Fishing And Hunting Doesn’t Work Like You Think It Does",
+      "summary": "Rockstar Games has confirmed new details about how fishing and hunting work in GTA 6, and it's probably not what you would expect. Speaking to YouTuber TGG , Rockstar North's Rob Nelson confirmed that fishing in GTA 6 is limited to catch and release--players cannot keep any fish. Why? \"It didn't fit this game,\" Nels…",
+      "url": "https://www.gamespot.com/articles/gta-6-fishing-and-hunting-doesnt-work-like-you-think-it-does/",
+      "date": "2026-09-03T13:53:03.000Z"
     },
     {
       "lead": false,
       "src": "Kotaku",
-      "title": "Rockstar Is Finally Ditching ‘Tap X To Sprint’ In GTA 6, But Not Everyone Is Happy: ‘I’m Honestly A Little Disappointed’",
-      "summary": "For some players, this is good news; for others, it's the end of an era",
-      "url": "https://kotaku.com/rockstar-is-finally-ditching-tap-x-to-sprint-in-gta-6-but-not-everyone-is-happy-im-honestly-a-little-disappointed-2000730560",
-      "date": "2026-09-02T18:00:39.000Z"
+      "title": "GTA 6 Getting Two Custom PS5 Controllers That Look Cool",
+      "summary": "Grand Theft Auto 6 appeared briefly at Sony's State of Play via a short controller teaser",
+      "url": "https://kotaku.com/gta-6-getting-two-custom-ps5-controllers-that-look-cool-2000730879",
+      "date": "2026-09-03T13:47:09.000Z"
     },
     {
       "lead": false,
-      "src": "PC Gamer",
-      "title": "I modded GTA 6 leak-accurate car fuelling into GTA 5",
-      "summary": "It's a sim now. I'm a sim now.",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/i-modded-gta-6-leak-accurate-car-fuelling-into-gta-5/",
-      "date": "2026-09-02T17:00:00.000Z"
+      "src": "GamesRadar",
+      "title": "Rockstar boss says \"we'll see what people say\" about GTA 6's controversial refueling system, but thinks it's so fast that \"you can't complain\"",
+      "summary": "\"Do you think people are going to like it?\" Rob Nelson asks",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/rockstar-boss-says-well-see-what-people-say-about-gta-6s-controversial-refueling-system-but-thinks-its-so-fast-that-you-cant-complain/",
+      "date": "2026-09-03T11:54:49.000Z"
     },
     {
       "lead": false,
@@ -52,14 +76,6 @@
     },
     {
       "lead": false,
-      "src": "GameSpot",
-      "title": "GTA 6 Has A Point Of No Return For Players Who Take Crime Too Far",
-      "summary": "Grand Theft Auto 6 is looking to add some extra wrinkles to several of its established gameplay pillars, but the biggest update here might just be the inclusion of an honor system. Taking a page from Red Dead Redemption 2, GTA 6 will remind you that actions have consequences, as your less-than-legal activities will…",
-      "url": "https://www.gamespot.com/articles/gta-6-morality-system-has-a-secret-breaking-point/",
-      "date": "2026-09-02T13:36:10.000Z"
-    },
-    {
-      "lead": false,
       "src": "Eurogamer",
       "title": "The Grand Theft Auto run button has changed after 25 years - GTA 6 no longer requires you to tap a face button to peg it",
       "summary": "For nearly 25 years, Grand Theft Auto games have uniquely mapped your sprint movement to a face button on a controller. Although some Rockstar games offered alternate control schemes, the default has always required players to tap X or A (depending on your platform) to run. But GTA 6 is bucking the trend. Read more",
@@ -68,35 +84,11 @@
     },
     {
       "lead": false,
-      "src": "GameSpot",
-      "title": "GTA 6’s Extended Look Trailer Seemingly Paid Off For Netflix With Massive Viewership",
-      "summary": "Netflix has confirmed that GTA 6's recent \"extended look\" trailer was the streamer's most-viewed title overall last week, drawing 31.1 million views. The trailer was labeled an \"English-language film\" by Netflix, and it was No. 1 by that designation in 87 of 93 regions globally that Netflix's tracks ( via Variety ).…",
-      "url": "https://www.gamespot.com/articles/gta-6s-extended-look-trailer-seemingly-paid-off-for-netflix-with-massive-viewership/",
-      "date": "2026-09-01T19:45:23.000Z"
-    },
-    {
-      "lead": false,
       "src": "Eurogamer",
       "title": "Rockstar Games unveils its official GTA Online RP server, mere months before GTA 6",
       "summary": "Rockstar Games hasn't said much of anything about GTA 6 's potential multiplayer offerings, but the developer is making strides for GTA Online 's roleplaying community. A watch-only nopixel 5 closed beta is coming next week. Read more",
       "url": "https://www.eurogamer.net/rockstar-games-official-gta-online-rp-server-closed-beta",
       "date": "2026-09-01T19:44:40.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GameSpot",
-      "title": "GTA 6 Removes The Series’ Worst Feature",
-      "summary": "If you've played a Grand Theft Auto game before, then you are probably familiar with the series' sprinting mechanic. Rather than clicking the left analog stick like in most other games, you have to either hold or mash a face button. It's annoying, less intuitive, and feels like a relic of the past, and luckily, Rock…",
-      "url": "https://www.gamespot.com/articles/gta-6-removes-the-series-worst-feature/",
-      "date": "2026-09-01T15:32:11.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GameSpot",
-      "title": "GTA 6 Studio On Massive Pressure: “We Are Nervous”",
-      "summary": "GTA 6 is one of the most-anticipated entertainment releases ever, and many experts agree that it's sure to be a fast success. However, Rockstar North boss Rob Nelson said the studio is \"nervous\" about the game's upcoming release and living up to 13 years worth of hype and expectations . \"I try not to think about it,…",
-      "url": "https://www.gamespot.com/articles/gta-6-studio-on-massive-pressure-we-are-nervous/",
-      "date": "2026-09-01T15:32:03.000Z"
     },
     {
       "lead": false,
@@ -193,6 +185,14 @@
       "summary": "Those eager to see GTA 6 's big Netflix reveal this evening were met with a \"Something Went Wrong\" message at the moment the video was meant to go live, with the rush to see Rockstar's latest open-world epic seemingly bringing the streaming service to its knees. Read more",
       "url": "https://www.eurogamer.net/grand-theft-auto-6-netflix-something-went-wrong",
       "date": "2026-08-27T19:31:17.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Eurogamer",
+      "title": "GTA 6 has a relationship system, and it sounds as though you can make-or-break Jason and Lucia's romance",
+      "summary": "Rockstar has revealed a relationship system in Grand Theft Auto 6 , to underpin and support the bond between co-protagonists and lovers Jason and Lucia. Using this system you can nurture their bond, bringing them closer together, or neglect it, potentially leading to what sounds like a split somewhere down the line.…",
+      "url": "https://www.eurogamer.net/gta-6-romance-relationship-system-jason-lucia",
+      "date": "2026-08-27T19:27:26.000Z"
     }
   ]
 }
