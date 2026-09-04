@@ -1,9 +1,25 @@
 {
-  "updated": "2026-09-04T11:04:38.882Z",
+  "updated": "2026-09-04T16:13:00.534Z",
   "count": 24,
   "items": [
     {
       "lead": true,
+      "src": "Kotaku",
+      "title": "Miami Sheriff Slams GTA 6 For Glorifying Crimes They ‘Work Every Single Day To Prevent’ In Clash Over Turning Miami Into Vice City",
+      "summary": "The 'GTA x MDC' marketing event proposed by Miami-Dade’s mayor has been criticized by both Miami-Dade's sheriff and its commissioner",
+      "url": "https://kotaku.com/gta-6-grand-theft-auto-vice-city-miami-mayor-sheriff-2000731268",
+      "date": "2026-09-04T14:33:57.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GameSpot",
+      "title": "GTA 6 Online Could Struggle To Pull Players Away From GTA Online, Says Valve Veteran",
+      "summary": "What's the biggest question about Grand Theft Auto 6 ? Easily Rockstar's plans for GTA Online, and how it'll factor into the post-launch plans of GTA 6. Considering just how consistently popular GTA Online has been for the developer, it is strange that Rockstar has yet to publicly comment on the anticipated multipla…",
+      "url": "https://www.gamespot.com/articles/gta-6-online-could-struggle-to-pull-players-away-from-gta-online-says-valve-veteran/",
+      "date": "2026-09-04T11:38:18.000Z"
+    },
+    {
+      "lead": false,
       "src": "GamesRadar",
       "title": "Plan to market GTA 6 by turning Miami-Dade into Vice City isn't going down well with local sheriff: \"We need to seriously consider the message we send\"",
       "summary": "\"At a time when law enforcement is working every day to reduce violent crime...\"",
@@ -36,35 +52,11 @@
     },
     {
       "lead": false,
-      "src": "IGN",
-      "title": "Heads Up: You Can Save $12 on GTA 6 for PS5 Right Now",
-      "summary": "Today only, you can save $12 on Grand Theft Auto 6 for PS5. Here's How.",
-      "url": "https://www.ign.com/articles/heads-up-you-can-save-12-on-gta-6-for-ps5-right-now",
-      "date": "2026-09-03T17:30:29.000Z"
-    },
-    {
-      "lead": false,
-      "src": "IGN",
-      "title": "'We Were All Positive It Was Going to Fail': Rockstar Devs Thought GTA Online Would Flop",
-      "summary": "A former Rockstar Games developer has revealed that the team thought GTA Online was going to fail before it launched.",
-      "url": "https://www.ign.com/articles/we-were-all-positive-it-was-going-to-fail-rockstar-devs-thought-gta-online-would-flop",
-      "date": "2026-09-03T16:12:01.000Z"
-    },
-    {
-      "lead": false,
       "src": "Eurogamer",
       "title": "GTA 6 is getting two limited edition dualsense PS5 controllers",
       "summary": "Two limited Edition Grand Theft Auto 6 PS5 Dualsense controllers were just revealed during the Sony State of Play livestream. Read more",
       "url": "https://www.eurogamer.net/gta6-ps5-controllers-white-black-state-of-play",
       "date": "2026-09-03T14:47:05.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "Sony announces GTA 6 limited edition DualSense, and at least something's physical",
-      "summary": "Sony has announced a special edition DualSense controller ready for GTA 6, and pre-orders begin on September 10.",
-      "url": "https://www.gamesradar.com/hardware/gaming-controllers/sony-announces-gta-6-limited-edition-dualsense-and-at-least-somethings-physical/",
-      "date": "2026-09-03T14:45:38.000Z"
     },
     {
       "lead": false,
@@ -193,6 +185,14 @@
       "summary": "Those eager to see GTA 6 's big Netflix reveal this evening were met with a \"Something Went Wrong\" message at the moment the video was meant to go live, with the rush to see Rockstar's latest open-world epic seemingly bringing the streaming service to its knees. Read more",
       "url": "https://www.eurogamer.net/grand-theft-auto-6-netflix-something-went-wrong",
       "date": "2026-08-27T19:31:17.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Eurogamer",
+      "title": "GTA 6 has a relationship system, and it sounds as though you can make-or-break Jason and Lucia's romance",
+      "summary": "Rockstar has revealed a relationship system in Grand Theft Auto 6 , to underpin and support the bond between co-protagonists and lovers Jason and Lucia. Using this system you can nurture their bond, bringing them closer together, or neglect it, potentially leading to what sounds like a split somewhere down the line.…",
+      "url": "https://www.eurogamer.net/gta-6-romance-relationship-system-jason-lucia",
+      "date": "2026-08-27T19:27:26.000Z"
     }
   ]
 }
