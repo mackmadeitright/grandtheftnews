@@ -1,9 +1,25 @@
 {
-  "updated": "2026-09-05T10:26:23.236Z",
+  "updated": "2026-09-05T15:00:59.519Z",
   "count": 24,
   "items": [
     {
       "lead": true,
+      "src": "PC Gamer",
+      "title": "Grand Theft Auto 6's controversial refuelling action reportedly takes about 10 seconds to perform, which Rockstar's co-studio head says is 'pretty fast for a fill-up'",
+      "summary": "\"You can't complain about that\".",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/grand-theft-auto-6s-controversial-refuelling-action-reportedly-takes-about-10-seconds-to-perform-which-rockstars-co-studio-head-says-is-pretty-fast-for-a-fill-up/",
+      "date": "2026-09-05T12:16:31.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "GTA 6 is a bit too real for me - Rockstar will punish you if Jason and Lucia don't get a good night's sleep: \"We track lots of things\"",
+      "summary": "Art imitating life",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-is-a-bit-too-real-for-me-rockstar-will-punish-you-if-jason-and-lucia-dont-get-a-good-nights-sleep-we-track-lots-of-things/",
+      "date": "2026-09-05T11:36:05.000Z"
+    },
+    {
+      "lead": false,
       "src": "PC Gamer",
       "title": "'Grand Theft Auto is a videogame franchise built around criminal activity': Miami-Dade County Sheriff comes out hard against a proposed GTA 6 collab with Rockstar",
       "summary": "It actually sounds like a really good idea, but of course the cops are against it.",
@@ -177,22 +193,6 @@
       "summary": "Popular livestreaming platform Twitch suffered a major outage soon after the premiere of the Grand Theft Auto 6 extended look on Netflix . Read more",
       "url": "https://www.eurogamer.net/twitch-down-outage-grand-theft-auto-6",
       "date": "2026-08-27T21:10:45.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Eurogamer",
-      "title": "GTA 6 has more than 10 times the animations in GTA 5, and double the amount in Red Dead Redemption 2, Rockstar confirms",
-      "summary": "Everyone was expecting GTA 6 to be massive, sure, but comparing the amount of unique animations in the game to what was included in Rockstar Games ' previous work really puts things into perspective. Read more",
-      "url": "https://www.eurogamer.net/gta-6-has-more-than-10-times-the-animations-in-gta-5-and-double-the-amount-in-red-dead-redemption-2-rockstar-confirms",
-      "date": "2026-08-27T21:07:47.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Eurogamer",
-      "title": "GTA 6: This is what a billion dollars gets you",
-      "summary": "There are plenty of layers to GTA 6 , if the game's 26-minute Netflix teaser is anything to go by. Read more",
-      "url": "https://www.eurogamer.net/gta-6-reaction-this-is-what-a-billion-dollars-gets-you",
-      "date": "2026-08-27T21:05:44.000Z"
     }
   ]
 }
