@@ -1,9 +1,25 @@
 {
-  "updated": "2026-09-06T10:45:16.155Z",
+  "updated": "2026-09-06T15:21:33.733Z",
   "count": 24,
   "items": [
     {
       "lead": true,
+      "src": "GamesRadar",
+      "title": "Rockstar boss says GTA 6 doesn't just let you easily walk around with guns because GTA 5's approach doesn't work \"at this resolution\"",
+      "summary": "GTA 6 needs better \"behavioral sophistication\" from its NPCs",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/rockstar-boss-says-gta-6-doesnt-just-let-you-easily-walk-around-with-guns-because-gta-5s-approach-doesnt-work-at-this-resolution/",
+      "date": "2026-09-06T12:27:19.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Polygon",
+      "title": "GOTY 2026 is the Weakest Field in Years",
+      "summary": "In the shadow of GTA 6, other 2026 GOTY contenders like The Blood of Dawnwalker keep missing the mark.",
+      "url": "https://www.polygon.com/goty-2026-game-awards-blood-dawnwalker-onimusha-orbitals/",
+      "date": "2026-09-06T12:00:14.000Z"
+    },
+    {
+      "lead": false,
       "src": "PC Gamer",
       "title": "Grand Theft Auto 6's controversial refuelling action reportedly takes about 10 seconds to perform, which Rockstar's co-studio head says is 'pretty fast for a fill-up'",
       "summary": "\"You can't complain about that\".",
@@ -73,14 +89,6 @@
       "summary": "What's the biggest question about Grand Theft Auto 6 ? Easily Rockstar's plans for GTA Online, and how it'll factor into the post-launch plans of GTA 6. Considering just how consistently popular GTA Online has been for the developer, it is strange that Rockstar has yet to publicly comment on the anticipated multipla…",
       "url": "https://www.gamespot.com/articles/gta-6-online-could-struggle-to-pull-players-away-from-gta-online-says-valve-veteran/",
       "date": "2026-09-04T11:38:18.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "Plan to market GTA 6 by turning Miami-Dade into Vice City isn't going down well with local sheriff: \"We need to seriously consider the message we send\"",
-      "summary": "\"At a time when law enforcement is working every day to reduce violent crime...\"",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/plan-to-market-gta-6-by-turning-miami-dade-into-vice-city-isnt-going-down-well-with-local-sheriff-we-need-to-seriously-consider-the-message-we-send/",
-      "date": "2026-09-04T10:36:30.000Z"
     },
     {
       "lead": false,
@@ -185,14 +193,6 @@
       "summary": "Popular livestreaming platform Twitch suffered a major outage soon after the premiere of the Grand Theft Auto 6 extended look on Netflix . Read more",
       "url": "https://www.eurogamer.net/twitch-down-outage-grand-theft-auto-6",
       "date": "2026-08-27T21:10:45.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Eurogamer",
-      "title": "GTA 6 has more than 10 times the animations in GTA 5, and double the amount in Red Dead Redemption 2, Rockstar confirms",
-      "summary": "Everyone was expecting GTA 6 to be massive, sure, but comparing the amount of unique animations in the game to what was included in Rockstar Games ' previous work really puts things into perspective. Read more",
-      "url": "https://www.eurogamer.net/gta-6-has-more-than-10-times-the-animations-in-gta-5-and-double-the-amount-in-red-dead-redemption-2-rockstar-confirms",
-      "date": "2026-08-27T21:07:47.000Z"
     }
   ]
 }
