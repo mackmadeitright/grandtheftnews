@@ -1,9 +1,33 @@
 {
-  "updated": "2026-09-07T04:17:49.263Z",
-  "count": 21,
+  "updated": "2026-09-07T12:15:51.232Z",
+  "count": 20,
   "items": [
     {
       "lead": true,
+      "src": "GamesRadar",
+      "title": "GTA 6 boss says \"there will always be things to satirize,\" but Rockstar has to \"be careful about what we pick\" because after 11 years of development \"it could be gone, it could change, it could be dated\"",
+      "summary": "The next Grand Theft Auto game has been in development since 2015, but most developers didn't join until Red Dead Redemption wrapped up in 2018",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-boss-says-there-will-always-be-things-to-satirize-but-rockstar-has-to-be-careful-about-what-we-pick-because-after-11-years-of-development-it-could-be-gone-it-could-change-it-could-be-dated/",
+      "date": "2026-09-07T12:02:11.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "Fan makes Lego GTA 6 set, and it's so perfect I'm gutted there isn't an official version",
+      "summary": "I'm heartbroken that this fan-made Lego GTA 6 set isn't an official model, because it deserves to be",
+      "url": "https://www.gamesradar.com/toys-collectibles/fan-makes-lego-gta-6-set-and-its-so-perfect-im-gutted-there-isnt-an-official-version/",
+      "date": "2026-09-07T11:52:06.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Polygon",
+      "title": "15 Biggest New Video Games Releasing This Fall That Will Define 2026",
+      "summary": "From Grand Theft Auto 6 to Barbie Rewind, these 15 video games are leading a packed field this fall.",
+      "url": "https://www.polygon.com/new-video-games-fall-2026/",
+      "date": "2026-09-07T08:00:14.000Z"
+    },
+    {
+      "lead": false,
       "src": "GamesRadar",
       "title": "Rockstar boss says GTA 6 doesn't just let you easily walk around with guns because GTA 5's approach doesn't work \"at this resolution\"",
       "summary": "GTA 6 needs better \"behavioral sophistication\" from its NPCs",
@@ -41,22 +65,6 @@
       "summary": "The best of both worlds",
       "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-driving-is-the-best-parts-of-gta-4-but-with-the-accessibility-of-gta-5-says-rockstar-boss/",
       "date": "2026-09-04T21:45:56.000Z"
-    },
-    {
-      "lead": false,
-      "src": "IGN",
-      "title": "Rockstar Censors GTA 6 Extended Look Trailer for China",
-      "summary": "Rockstar Games has published a heavily censored version of the Grand Theft Auto 6 extended look reveal for China.",
-      "url": "https://www.ign.com/articles/rockstar-censors-gta-6-extended-look-trailer-for-china",
-      "date": "2026-09-04T19:48:54.000Z"
-    },
-    {
-      "lead": false,
-      "src": "IGN",
-      "title": "GTA 6 for Xbox: You Can Save $10, Today Only",
-      "summary": "Xbox owners can save $10 on Grand Theft Auto 6's ultimate edition using this simple workaround (but it's only available today).",
-      "url": "https://www.ign.com/articles/gta-6-for-xbox-you-can-save-10-today-only",
-      "date": "2026-09-04T18:21:04.000Z"
     },
     {
       "lead": false,
@@ -153,22 +161,6 @@
       "summary": "Cloud Imperium Games has delayed Squadron 42, its long-in-development Star Citizen spin-off, to Q2 2027, with studio boss Chris Roberts arguing the game would be drowned out by GTA 6 . Read more",
       "url": "https://www.eurogamer.net/squadron-42-delayed-2027-gta-6",
       "date": "2026-08-29T12:09:49.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Eurogamer",
-      "title": "Rockstar says GTA 6 runs at 30 FPS, while it's reportedly unsure about a 60 FPS performance mode",
-      "summary": "UPDATE 3.30PM BST: Performance perfectionist Digital Foundry has scrutinised the latest GTA 6 trailer ( which can be downloaded for a closer, purer appraisal) and said that on this evidence it looks like GTA 6 is running at 1440p natively on PS5 and maintains \"a relatively stable and well-paced 30 FPS output with on…",
-      "url": "https://www.eurogamer.net/gta-6-frame-rate-ps5-xbox-series-x-s",
-      "date": "2026-08-28T13:20:14.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Eurogamer",
-      "title": "GTA 6's map is so massive, you could fit two GTA 5s in it - and we know roughly how long it'll take to beat too",
-      "summary": "As part of its massive GTA 6 info blowout , Rockstar has been talking sizes - both of the map kind and length kind - confirming its latest open-world epic unfolds across a world that's twice as big as that of GTA 5 , and should take around 80 hours to complete. Read more",
-      "url": "https://www.eurogamer.net/gta-6-map-size-length-how-big-revealed",
-      "date": "2026-08-27T21:37:19.000Z"
     }
   ]
 }
