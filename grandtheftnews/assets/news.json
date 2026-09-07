@@ -1,9 +1,33 @@
 {
-  "updated": "2026-09-07T19:05:06.865Z",
-  "count": 17,
+  "updated": "2026-09-07T23:24:54.316Z",
+  "count": 18,
   "items": [
     {
       "lead": true,
+      "src": "Polygon",
+      "title": "Where to Play Every Grand Theft Auto Game in 2026",
+      "summary": "Rockstar Games GTA might be the most popular game franchise of all time, but a lot of it is hard to play. Here's a guide on how to play every game",
+      "url": "https://www.polygon.com/gta-games-grand-theft-auto-where-to-play-all-2026/",
+      "date": "2026-09-07T21:00:14.000Z"
+    },
+    {
+      "lead": false,
+      "src": "PC Gamer",
+      "title": "GTA 6's Criminal Profile system sounds pretty interesting, includes a 'shattered' state for players who DGAF",
+      "summary": "There are reportedly four main states, Professional, Aggressive, Violent, and Psycho, plus a hard-to-reach state you can't come back from.",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6s-criminal-profile-system-sounds-pretty-interesting-isnt-a-direct-copy-of-red-deads-honor-system/",
+      "date": "2026-09-07T19:19:23.000Z"
+    },
+    {
+      "lead": false,
+      "src": "IGN",
+      "title": "Is GTA 6 Too Realistic for Its Own Good? Refueling Cars and Gun Restrictions Spark Debate",
+      "summary": "Early Grand Theft Auto 6 details have sparked debate about whether Rockstar Games' latest is too realistic for its own good.",
+      "url": "https://www.ign.com/articles/is-gta-6-too-realistic-for-its-own-good-refueling-cars-and-gun-restrictions-spark-debate",
+      "date": "2026-09-07T19:09:52.000Z"
+    },
+    {
+      "lead": false,
       "src": "GamesRadar",
       "title": "GTA 5 left Rockstar feeling \"slightly nervous\" about Red Dead Redemption 2 as devs worried fans \"were going to be bored\" by only having one protagonist to play as",
       "summary": "Suffering from success",
@@ -33,14 +57,6 @@
       "summary": "I'm heartbroken that this fan-made Lego GTA 6 set isn't an official model, because it deserves to be",
       "url": "https://www.gamesradar.com/toys-collectibles/fan-makes-lego-gta-6-set-and-its-so-perfect-im-gutted-there-isnt-an-official-version/",
       "date": "2026-09-07T11:52:06.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "Rockstar boss says GTA 6 doesn't just let you easily walk around with guns because GTA 5's approach doesn't work \"at this resolution\"",
-      "summary": "GTA 6 needs better \"behavioral sophistication\" from its NPCs",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/rockstar-boss-says-gta-6-doesnt-just-let-you-easily-walk-around-with-guns-because-gta-5s-approach-doesnt-work-at-this-resolution/",
-      "date": "2026-09-06T12:27:19.000Z"
     },
     {
       "lead": false,
@@ -129,14 +145,6 @@
       "summary": "Rockstar parent company Take-Two has escalated its hunt for the people behind the numerous Grand Theft Auto 6 leaks from two weeks ago . The publisher has filed a request for another subpoena, though this time it's asking the court to withhold the details from the public and keep it sealed. Read more",
       "url": "https://www.eurogamer.net/gta-6-leaker-discord-subpoena-sealed-take-two",
       "date": "2026-09-01T08:26:02.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Eurogamer",
-      "title": "Rockstar confirms GTA 6 won't have microtransactions or generative AI at launch",
-      "summary": "Rockstar has confirmed Grand Theft Auto 6 will launch without microtransactions or generative AI. Read more",
-      "url": "https://www.eurogamer.net/gta-6-microtransactions-generative-ai-rockstar",
-      "date": "2026-08-30T10:48:08.000Z"
     }
   ]
 }
