@@ -1,9 +1,25 @@
 {
-  "updated": "2026-09-07T12:15:51.232Z",
-  "count": 20,
+  "updated": "2026-09-07T19:05:06.865Z",
+  "count": 17,
   "items": [
     {
       "lead": true,
+      "src": "GamesRadar",
+      "title": "GTA 5 left Rockstar feeling \"slightly nervous\" about Red Dead Redemption 2 as devs worried fans \"were going to be bored\" by only having one protagonist to play as",
+      "summary": "Suffering from success",
+      "url": "https://www.gamesradar.com/games/action/gta-5-left-rockstar-feeling-slightly-nervous-about-red-dead-redemption-2-as-devs-worried-fans-were-going-to-be-bored-by-only-having-one-protagonist-to-play-as/",
+      "date": "2026-09-07T19:00:00.000Z"
+    },
+    {
+      "lead": false,
+      "src": "IGN",
+      "title": "GTA 6 Will Launch Digitally at Midnight Around the World, So Of Course Fans Are Already Planning to Set Their Console Locations to New Zealand",
+      "summary": "Rockstar will launch Grand Theft Auto 6 at midnight local time in most countries on November 19 — meaning some fans are already planning to adjust their console region and play early.",
+      "url": "https://www.ign.com/articles/gta-6-will-launch-digitally-at-midnight-around-the-world-so-of-course-fans-are-already-planning-to-set-their-console-locations-to-new-zealand",
+      "date": "2026-09-07T18:00:31.000Z"
+    },
+    {
+      "lead": false,
       "src": "GamesRadar",
       "title": "GTA 6 boss says \"there will always be things to satirize,\" but Rockstar has to \"be careful about what we pick\" because after 11 years of development \"it could be gone, it could change, it could be dated\"",
       "summary": "The next Grand Theft Auto game has been in development since 2015, but most developers didn't join until Red Dead Redemption wrapped up in 2018",
@@ -17,14 +33,6 @@
       "summary": "I'm heartbroken that this fan-made Lego GTA 6 set isn't an official model, because it deserves to be",
       "url": "https://www.gamesradar.com/toys-collectibles/fan-makes-lego-gta-6-set-and-its-so-perfect-im-gutted-there-isnt-an-official-version/",
       "date": "2026-09-07T11:52:06.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Polygon",
-      "title": "15 Biggest New Video Games Releasing This Fall That Will Define 2026",
-      "summary": "From Grand Theft Auto 6 to Barbie Rewind, these 15 video games are leading a packed field this fall.",
-      "url": "https://www.polygon.com/new-video-games-fall-2026/",
-      "date": "2026-09-07T08:00:14.000Z"
     },
     {
       "lead": false,
@@ -44,27 +52,11 @@
     },
     {
       "lead": false,
-      "src": "GamesRadar",
-      "title": "GTA 6 is a bit too real for me - Rockstar will punish you if Jason and Lucia don't get a good night's sleep: \"We track lots of things\"",
-      "summary": "Art imitating life",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-is-a-bit-too-real-for-me-rockstar-will-punish-you-if-jason-and-lucia-dont-get-a-good-nights-sleep-we-track-lots-of-things/",
-      "date": "2026-09-05T11:36:05.000Z"
-    },
-    {
-      "lead": false,
       "src": "PC Gamer",
       "title": "'Grand Theft Auto is a videogame franchise built around criminal activity': Miami-Dade County Sheriff comes out hard against a proposed GTA 6 collab with Rockstar",
       "summary": "It actually sounds like a really good idea, but of course the cops are against it.",
       "url": "https://www.pcgamer.com/games/grand-theft-auto/grand-theft-auto-is-a-videogame-franchise-built-around-criminal-activity-miami-dade-county-sheriff-comes-out-hard-against-a-proposed-gta-6-collab-with-rockstar/",
       "date": "2026-09-04T21:54:43.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "GTA 6 driving is \"the best parts\" of GTA 4 but with \"the accessibility of GTA 5,\" says Rockstar boss",
-      "summary": "The best of both worlds",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-driving-is-the-best-parts-of-gta-4-but-with-the-accessibility-of-gta-5-says-rockstar-boss/",
-      "date": "2026-09-04T21:45:56.000Z"
     },
     {
       "lead": false,
@@ -145,22 +137,6 @@
       "summary": "Rockstar has confirmed Grand Theft Auto 6 will launch without microtransactions or generative AI. Read more",
       "url": "https://www.eurogamer.net/gta-6-microtransactions-generative-ai-rockstar",
       "date": "2026-08-30T10:48:08.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Eurogamer",
-      "title": "GTA 6's gameplay reveal pulled in 3.97 million viewers across commentator livestreams, overwhelming Twitch and Netflix in the process",
-      "summary": "Reaction streams to Grand Theft Auto 6 's first gameplay presentation peaked at 3,970,738 viewers across livestreaming platforms, making it the biggest gaming stream of 2026 so far. Read more",
-      "url": "https://www.eurogamer.net/gta-6-gameplay-reveal-streaming-viewership-record-twitch-netflix",
-      "date": "2026-08-29T14:25:56.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Eurogamer",
-      "title": "Squadron 42 delayed to 2027, with Star Citizen dev blaming GTA 6",
-      "summary": "Cloud Imperium Games has delayed Squadron 42, its long-in-development Star Citizen spin-off, to Q2 2027, with studio boss Chris Roberts arguing the game would be drowned out by GTA 6 . Read more",
-      "url": "https://www.eurogamer.net/squadron-42-delayed-2027-gta-6",
-      "date": "2026-08-29T12:09:49.000Z"
     }
   ]
 }
