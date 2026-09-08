@@ -1,9 +1,25 @@
 {
-  "updated": "2026-09-08T16:30:43.984Z",
-  "count": 17,
+  "updated": "2026-09-08T21:01:50.902Z",
+  "count": 15,
   "items": [
     {
       "lead": true,
+      "src": "Polygon",
+      "title": "Official GTA 6 Release Time Could Mean Long Waits for Some Players",
+      "summary": "Grand Theft Auto 6's official release time has been updated on the PlayStation Store, revealing when it will be available across all regions.",
+      "url": "https://www.polygon.com/grand-theft-auto-6-gta-staggered-release-time/",
+      "date": "2026-09-08T18:26:40.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Polygon",
+      "title": "Nintendo Doesn't Care About GTA 6",
+      "summary": "Nintendo's release date for The Legend of Zelda: Ocarina of Time Switch 2 remake is closer to GTA 6 than most dare",
+      "url": "https://www.polygon.com/zelda-ocarina-of-time-switch-2-release-date-nintendo-gta-6-november/",
+      "date": "2026-09-08T18:00:14.000Z"
+    },
+    {
+      "lead": false,
       "src": "GamesRadar",
       "title": "Zelda: Ocarina of Time remake release date set for November as Nintendo joins GTA 6 in a weird month",
       "summary": "Nintendo and Rockstar fill out the fall",
@@ -17,14 +33,6 @@
       "summary": "As part of the Zelda-themed Nintendo Direct today , Nintendo announced that The Legend of Zelda: Ocarina of Time's new remake for Switch 2 will release on November 5. That's just before GTA 6 launches on November 19. The Ocarina of Time remake will cost $70 for the physical edition and $60 for the digital version. N…",
       "url": "https://www.gamespot.com/articles/legend-of-zelda-ocarina-of-time-remake-release-date-is-november-5-just-before-gta-6/",
       "date": "2026-09-08T14:25:42.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Kotaku",
-      "title": "The United States Will Be One Of The Last Countries In The World To Be Able To Play GTA 6",
-      "summary": "Lock yourself in a bank vault for the whole of November 18, because spoilers will be everywhere",
-      "url": "https://kotaku.com/gta6-grand-theft-auto-6-launch-date-time-midnight-rockstar-2000732098",
-      "date": "2026-09-08T12:54:52.000Z"
     },
     {
       "lead": false,
@@ -57,30 +65,6 @@
       "summary": "There are reportedly four main states, Professional, Aggressive, Violent, and Psycho, plus a hard-to-reach state you can't come back from.",
       "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6s-criminal-profile-system-sounds-pretty-interesting-isnt-a-direct-copy-of-red-deads-honor-system/",
       "date": "2026-09-07T19:19:23.000Z"
-    },
-    {
-      "lead": false,
-      "src": "IGN",
-      "title": "Is GTA 6 Too Realistic for Its Own Good? Refueling Cars and Gun Restrictions Spark Debate",
-      "summary": "Early Grand Theft Auto 6 details have sparked debate about whether Rockstar Games' latest is too realistic for its own good.",
-      "url": "https://www.ign.com/articles/is-gta-6-too-realistic-for-its-own-good-refueling-cars-and-gun-restrictions-spark-debate",
-      "date": "2026-09-07T19:09:52.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "GTA 5 left Rockstar feeling \"slightly nervous\" about Red Dead Redemption 2 as devs worried fans \"were going to be bored\" by only having one protagonist to play as",
-      "summary": "Suffering from success",
-      "url": "https://www.gamesradar.com/games/action/gta-5-left-rockstar-feeling-slightly-nervous-about-red-dead-redemption-2-as-devs-worried-fans-were-going-to-be-bored-by-only-having-one-protagonist-to-play-as/",
-      "date": "2026-09-07T19:00:00.000Z"
-    },
-    {
-      "lead": false,
-      "src": "IGN",
-      "title": "GTA 6 Will Launch Digitally at Midnight Around the World, So Of Course Fans Are Already Planning to Set Their Console Locations to New Zealand",
-      "summary": "Rockstar will launch Grand Theft Auto 6 at midnight local time in most countries on November 19 — meaning some fans are already planning to adjust their console region and play early.",
-      "url": "https://www.ign.com/articles/gta-6-will-launch-digitally-at-midnight-around-the-world-so-of-course-fans-are-already-planning-to-set-their-console-locations-to-new-zealand",
-      "date": "2026-09-07T18:00:31.000Z"
     },
     {
       "lead": false,
