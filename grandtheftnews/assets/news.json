@@ -1,22 +1,30 @@
 {
-  "updated": "2026-09-09T11:09:29.017Z",
-  "count": 13,
+  "updated": "2026-09-09T16:27:22.558Z",
+  "count": 11,
   "items": [
     {
       "lead": true,
-      "src": "Polygon",
-      "title": "Forget 'GTA 6,' The Greatest Miami Action Crime Series Ever Made Is Streaming For Free Right Now",
-      "summary": "A visually distinct series that changed television forever.",
-      "url": "https://www.polygon.com/miami-crime-drama-series-streaming-free-tubi/",
-      "date": "2026-09-09T04:22:14.000Z"
+      "src": "GameSpot",
+      "title": "GTA 6 Was Not “Fully Formed” When Trailer 1 Came Out In 2023",
+      "summary": "When Rockstar released GTA 6's first trailer in December 2023, the game looked like it was coming along well, but it wasn't \"fully formed\" back then. That's according to Rockstar North boss Rob Nelson, who said in an interview that the trailer's song, Tom Petty's \"Love is a Long Road\" was a \"mission statement\" for t…",
+      "url": "https://www.gamespot.com/articles/gta-6-was-not-fully-formed-when-trailer-1-came-out-in-2023/",
+      "date": "2026-09-09T14:56:41.000Z"
     },
     {
       "lead": false,
       "src": "GamesRadar",
-      "title": "Zelda: Ocarina of Time remake release date set for November as Nintendo joins GTA 6 in a weird month",
-      "summary": "Nintendo and Rockstar fill out the fall",
-      "url": "https://www.gamesradar.com/games/the-legend-of-zelda/zelda-ocarina-of-time-remake-release-date-set-for-november-as-nintendo-joins-gta-6-in-a-weird-month/",
-      "date": "2026-09-08T14:35:22.000Z"
+      "title": "GTA 6 wasn't \"fully formed\" when Trailer 1 released, Rockstar boss says, but the Tom Petty song it used was a \"mission statement\" of where it was going",
+      "summary": "Rockstar North's co-studio head Rob Nelson says \"often it is a song we rally around\" in the early stages of making a game",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-wasnt-fully-formed-when-trailer-1-released-rockstar-boss-says-but-the-tom-petty-song-it-used-was-a-mission-statement-of-where-it-was-going/",
+      "date": "2026-09-09T13:58:38.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "GTA 6 DualSense pre-orders drop soon, here's how to secure your Vice City controller",
+      "summary": "GTA 6 DualSense pre-orders will drop at 10am local time on September 10, here's how to secure your controller.",
+      "url": "https://www.gamesradar.com/news/live/gta-6-dualsense-pre-orders-where-to-buy-live/",
+      "date": "2026-09-09T13:53:34.000Z"
     },
     {
       "lead": false,
@@ -60,22 +68,6 @@
     },
     {
       "lead": false,
-      "src": "GameSpot",
-      "title": "GTA 6 Online Could Struggle To Pull Players Away From GTA Online, Says Valve Veteran",
-      "summary": "What's the biggest question about Grand Theft Auto 6 ? Easily Rockstar's plans for GTA Online, and how it'll factor into the post-launch plans of GTA 6. Considering just how consistently popular GTA Online has been for the developer, it is strange that Rockstar has yet to publicly comment on the anticipated multipla…",
-      "url": "https://www.gamespot.com/articles/gta-6-online-could-struggle-to-pull-players-away-from-gta-online-says-valve-veteran/",
-      "date": "2026-09-04T11:38:18.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GameSpot",
-      "title": "GTA 6 Is Completely Changing How You Steal Cars",
-      "summary": "Carjacking in Grand Theft Auto games has been, as the title denotes, a staple of the series. Up until now, it's largely been the same. While there have been more details and animations added over the years, the premise has remained that you'll walk up to a car, press Y or Triangle, throw the driver out, get in and d…",
-      "url": "https://www.gamespot.com/articles/gta-6-how-to-steal-cars/",
-      "date": "2026-09-03T21:00:00.000Z"
-    },
-    {
-      "lead": false,
       "src": "Eurogamer",
       "title": "GTA 6 is getting two limited edition dualsense PS5 controllers",
       "summary": "Two limited Edition Grand Theft Auto 6 PS5 Dualsense controllers were just revealed during the Sony State of Play livestream. Read more",
@@ -97,14 +89,6 @@
       "summary": "Rockstar Games hasn't said much of anything about GTA 6 's potential multiplayer offerings, but the developer is making strides for GTA Online 's roleplaying community. A watch-only nopixel 5 closed beta is coming next week. Read more",
       "url": "https://www.eurogamer.net/rockstar-games-official-gta-online-rp-server-closed-beta",
       "date": "2026-09-01T19:44:40.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Eurogamer",
-      "title": "As the legal hunt for the GTA 6 leaker continues, Take-Two reportedly tries another more secretive Discord subpoena, this time specifying individuals",
-      "summary": "Rockstar parent company Take-Two has escalated its hunt for the people behind the numerous Grand Theft Auto 6 leaks from two weeks ago . The publisher has filed a request for another subpoena, though this time it's asking the court to withhold the details from the public and keep it sealed. Read more",
-      "url": "https://www.eurogamer.net/gta-6-leaker-discord-subpoena-sealed-take-two",
-      "date": "2026-09-01T08:26:02.000Z"
     }
   ]
 }
