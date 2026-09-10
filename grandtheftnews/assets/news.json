@@ -1,9 +1,17 @@
 {
-  "updated": "2026-09-10T20:45:25.237Z",
-  "count": 16,
+  "updated": "2026-09-10T23:04:14.411Z",
+  "count": 17,
   "items": [
     {
       "lead": true,
+      "src": "Kotaku",
+      "title": "Someone Recreated The Weirdest-Looking Moment From The Big GTA 6 Trailer In Real Life",
+      "summary": "Turns out Jason's odd backflip is possible, if you are a skilled athlete who loves flipping",
+      "url": "https://kotaku.com/someone-recreated-the-weirdest-looking-moment-from-the-big-gta-6-trailer-in-real-life-2000733323",
+      "date": "2026-09-10T22:00:59.000Z"
+    },
+    {
+      "lead": false,
       "src": "GamesRadar",
       "title": "GTA 6 fans track down real-life nudist resort featured in leaks just to write unflattering fake reviews that are driving its owner to madness: \"A nudist resort DENYING exposure?\"",
       "summary": "Leave these nice naked people alone",
