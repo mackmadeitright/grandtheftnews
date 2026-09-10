@@ -1,9 +1,25 @@
 {
-  "updated": "2026-09-10T04:21:22.597Z",
-  "count": 8,
+  "updated": "2026-09-10T11:06:18.943Z",
+  "count": 9,
   "items": [
     {
       "lead": true,
+      "src": "IGN",
+      "title": "GTA 6 Developer Rockstar Says It Will Defend Itself 'Vigorously' From Union Claims as Employment Tribunal Over the Firing of 31 Workers Gets Underway",
+      "summary": "GTA 6 developer Rockstar Games has issued a new statement as it heads to an employment tribunal to face allegations that it unlawfully fired 31 workers.",
+      "url": "https://www.ign.com/articles/gta-6-developer-rockstar-says-it-will-defend-itself-vigorously-from-union-claims-as-employment-tribunal-over-the-firing-of-31-workers-gets-underway",
+      "date": "2026-09-10T09:08:53.000Z"
+    },
+    {
+      "lead": false,
+      "src": "IGN",
+      "title": "GTA 6 DualSense Controller Preorders Are Now Live in the UK",
+      "summary": "Secure your GTA 6 DualSense controller in the UK. Preorders are live for both Vice City-themed PS5 controllers starting at £74.99.",
+      "url": "https://www.ign.com/articles/gta-6-dualsense-controller-preorders-are-now-live-in-the-uk",
+      "date": "2026-09-10T09:06:01.000Z"
+    },
+    {
+      "lead": false,
       "src": "GameSpot",
       "title": "GTA 6 Was Not “Fully Formed” When Trailer 1 Came Out In 2023",
       "summary": "When Rockstar released GTA 6's first trailer in December 2023, the game looked like it was coming along well, but it wasn't \"fully formed\" back then. That's according to Rockstar North boss Rob Nelson, who said in an interview that the trailer's song, Tom Petty's \"Love is a Long Road\" was a \"mission statement\" for t…",
@@ -21,8 +37,8 @@
     {
       "lead": false,
       "src": "GamesRadar",
-      "title": "GTA 6 DualSense pre-orders drop soon, here's how to secure your Vice City controller",
-      "summary": "GTA 6 DualSense pre-orders will drop at 10am local time on September 10, here's how to secure your controller.",
+      "title": "GTA 6 DualSense pre-orders are live, all the latest stock of your new Vice City controller",
+      "summary": "GTA 6 DualSense pre-orders are already underway across the world, here's how to secure your controller.",
       "url": "https://www.gamesradar.com/news/live/gta-6-dualsense-pre-orders-where-to-buy-live/",
       "date": "2026-09-09T13:53:34.000Z"
     },
@@ -57,14 +73,6 @@
       "summary": "Two limited Edition Grand Theft Auto 6 PS5 Dualsense controllers were just revealed during the Sony State of Play livestream. Read more",
       "url": "https://www.eurogamer.net/gta6-ps5-controllers-white-black-state-of-play",
       "date": "2026-09-03T14:47:05.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Eurogamer",
-      "title": "The Grand Theft Auto run button has changed after 25 years - GTA 6 no longer requires you to tap a face button to peg it",
-      "summary": "For nearly 25 years, Grand Theft Auto games have uniquely mapped your sprint movement to a face button on a controller. Although some Rockstar games offered alternate control schemes, the default has always required players to tap X or A (depending on your platform) to run. But GTA 6 is bucking the trend. Read more",
-      "url": "https://www.eurogamer.net/gta-6-run-button-changes-tap-rockstar",
-      "date": "2026-09-02T08:48:30.000Z"
     }
   ]
 }
