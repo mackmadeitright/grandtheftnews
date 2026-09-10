@@ -1,9 +1,81 @@
 {
-  "updated": "2026-09-10T11:06:18.943Z",
-  "count": 9,
+  "updated": "2026-09-10T16:16:31.659Z",
+  "count": 16,
   "items": [
     {
       "lead": true,
+      "src": "Polygon",
+      "title": "Meet the GOTY 2026 Contenders: GTA 6, Crimson Desert, Resident Evil Requiem and More! | Point It Out",
+      "summary": "It's never too early for an Awards convo. In this episode of Point It Out, Simone and Patches discuss the contenders for this year's GOTY Awards. Will it be the juggernaut GTA 6? Or could an underdog sneak in under the wire?Hosted by: Matt Patches & Simone de RochefortFeaturing: Oli Welsh",
+      "url": "https://www.polygon.com/video/meet-the-goty-2026-contenders-gta-6-crimson-desert-resident-evil-requiem-and-more-point-it-out/",
+      "date": "2026-09-10T16:04:59.000Z"
+    },
+    {
+      "lead": false,
+      "src": "PC Gamer",
+      "title": "'The modern workplace runs on fear ... today we are fighting fear': Fired Grand Theft Auto 6 dev calls out Rockstar in impassioned pre-trial speech",
+      "summary": "The final hearing in the dispute between Rockstar and 31 employees who were fired in 2025 begins today.",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/the-modern-workplace-runs-on-fear-today-we-are-fighting-fear-fired-grand-theft-auto-6-dev-calls-out-rockstar-in-impassioned-pre-trial-speech/",
+      "date": "2026-09-10T15:59:30.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GameSpot",
+      "title": "GTA 6 Trailer Drove 100,000 Netflix Sign-Ups In The US Alone In One Day, Analyst Claims",
+      "summary": "Netflix and Rockstar Games worked together on the recent 26-minute GTA 6 Extended Look trailer, and it seemingly paid off in multiple ways for the streaming company. After Netflix's own data showed that the Extended Look was incredibly popular with viewers , it's now been reported that the Extended Look drove more t…",
+      "url": "https://www.gamespot.com/articles/gta-6-trailer-drove-100000-netflix-sign-ups-in-the-us-alone-in-one-day-analyst-claims/",
+      "date": "2026-09-10T15:37:28.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "GTA 6 extended reveal caused a surge in PS5 and Xbox Series X sales, analysts say – now imagine the response if consoles didn't cost an arm and a leg",
+      "summary": "A 17% bump for PS5 and a 9% bump for Xbox in the US",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-extended-reveal-caused-a-surge-in-ps5-and-xbox-series-x-sales-analysts-say-now-imagine-the-response-if-consoles-didnt-cost-an-arm-and-a-leg/",
+      "date": "2026-09-10T14:43:20.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GameSpot",
+      "title": "Unofficial GTA 6 Worldwide Release Times Revealed, And The US Gets It Almost Last",
+      "summary": "GTA 6 is one of the most-anticipated games ever, and it arrives on November 19. People naturally want to know when exactly that day it will be available to play, and now it looks the like first indication of that has come to light. GTA Vice scoured PlayStation Store listings for the game across 63 countries and regi…",
+      "url": "https://www.gamespot.com/articles/unofficial-gta-6-worldwide-release-times-revealed-and-the-us-gets-it-almost-last/",
+      "date": "2026-09-10T14:34:11.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Kotaku",
+      "title": "GTA 6 PS5 Controller Pre-Orders Go Live On PlayStation Store And It Immediately Collapses, Meanwhile eBay Is Flooded With Scalpers",
+      "summary": "Other players got stuck in hour long queues or couldn't check out at all",
+      "url": "https://kotaku.com/gta-6-ps5-controller-pre-orders-go-live-on-playstation-store-and-it-immediately-collapses-2000733219",
+      "date": "2026-09-10T14:27:54.000Z"
+    },
+    {
+      "lead": false,
+      "src": "IGN",
+      "title": "Grand Theft Auto VI Limited-Edition PS5 DualSense Controllers Are Up for Preorder",
+      "summary": "Preorders are live for Grand Theft Auto VI Limited-Edition PS5 DualSense Controllers, but stock is limited. Hurry if you want one.",
+      "url": "https://www.ign.com/articles/grand-theft-auto-6-limited-edition-ps5-dualsense-controllers-where-to-buy",
+      "date": "2026-09-10T13:58:45.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GameSpot",
+      "title": "A Top Boss At GTA 6 Company Take-Two Sold A Bunch Of Stock, But It’s Not What You Think",
+      "summary": "With Rockstar's GTA 6 on the horizon, and poised for massive success, many people might be interested in buying stock of Rockstar's parent company, Take-Two, as opposed to selling it. One Take-Two executive, CFO Lainie Goldstein , recently sold a big chunk of shares, prompting some to theorize as to why. But the ans…",
+      "url": "https://www.gamespot.com/articles/a-top-boss-at-gta-6-company-take-two-sold-a-bunch-of-stock-but-its-not-what-you-think/",
+      "date": "2026-09-10T13:09:16.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Eurogamer",
+      "title": "\"Today, we are fighting fear\" - Final hearing in Rockstar Games vs. fired GTA 6 developers tribunal begins",
+      "summary": "The final hearing in the Rockstar Games versus the 31 fired GTA 6 developers employment tribunal has begun in Scotland, and it's opened to rallies and rousing speeches from the people unceremoniously marched out of the company's offices last October. Read more",
+      "url": "https://www.eurogamer.net/rockstar-employment-tribunal-fired-gta-6-employees-iwgb",
+      "date": "2026-09-10T12:25:25.000Z"
+    },
+    {
+      "lead": false,
       "src": "IGN",
       "title": "GTA 6 Developer Rockstar Says It Will Defend Itself 'Vigorously' From Union Claims as Employment Tribunal Over the Firing of 31 Workers Gets Underway",
       "summary": "GTA 6 developer Rockstar Games has issued a new statement as it heads to an employment tribunal to face allegations that it unlawfully fired 31 workers.",
@@ -25,22 +97,6 @@
       "summary": "When Rockstar released GTA 6's first trailer in December 2023, the game looked like it was coming along well, but it wasn't \"fully formed\" back then. That's according to Rockstar North boss Rob Nelson, who said in an interview that the trailer's song, Tom Petty's \"Love is a Long Road\" was a \"mission statement\" for t…",
       "url": "https://www.gamespot.com/articles/gta-6-was-not-fully-formed-when-trailer-1-came-out-in-2023/",
       "date": "2026-09-09T14:56:41.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "GTA 6 wasn't \"fully formed\" when Trailer 1 released, Rockstar boss says, but the Tom Petty song it used was a \"mission statement\" of where it was going",
-      "summary": "Rockstar North's co-studio head Rob Nelson says \"often it is a song we rally around\" in the early stages of making a game",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-wasnt-fully-formed-when-trailer-1-released-rockstar-boss-says-but-the-tom-petty-song-it-used-was-a-mission-statement-of-where-it-was-going/",
-      "date": "2026-09-09T13:58:38.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "GTA 6 DualSense pre-orders are live, all the latest stock of your new Vice City controller",
-      "summary": "GTA 6 DualSense pre-orders are already underway across the world, here's how to secure your controller.",
-      "url": "https://www.gamesradar.com/news/live/gta-6-dualsense-pre-orders-where-to-buy-live/",
-      "date": "2026-09-09T13:53:34.000Z"
     },
     {
       "lead": false,
