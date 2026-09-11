@@ -1,9 +1,33 @@
 {
-  "updated": "2026-09-11T04:20:50.382Z",
-  "count": 17,
+  "updated": "2026-09-11T11:04:58.068Z",
+  "count": 19,
   "items": [
     {
       "lead": true,
+      "src": "Eurogamer",
+      "title": "\"I don't think it's worth any amount of money\" - Controversial real-life GTA 6 advertising campaign passed by City of Miami, but brand can only appear \"discreetly\"",
+      "summary": "The City of Miami Beach has approved negotiations with Rockstar Games for an upcoming marketing campaign. This would bring advertisements for Grand Theft Auto 6 to the seaside city in exchange for millions of dollars. Read more",
+      "url": "https://www.eurogamer.net/gta-6-miami-beach-marketing-campagin-negotiations-approved",
+      "date": "2026-09-11T08:56:27.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GameSpot",
+      "title": "GTA 6 Is Going To Be Huge. So Why Is Take-Two’s Stock Having Such A Bad Year?",
+      "summary": "Take-Two owns one of the largest entertainment franchises out there in Grand Theft Auto. The newest entry, GTA 6, launches this November. There is enormous hype for the new game, which is expected to sell millions of copies at launch and break records. In short, it's expected to be a once-in-a-decade (if not ever) k…",
+      "url": "https://www.gamespot.com/articles/gta-6-is-going-to-be-huge-so-why-is-take-twos-stock-having-such-a-bad-year/",
+      "date": "2026-09-11T08:07:00.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Kotaku",
+      "title": "Miami Beach Debates Taking Millions From Rockstar To Advertise GTA 6: ‘We’re Not Giving Away Pistols And Cocaine To People’",
+      "summary": "Local commissioners voted 4-3 to approve negotiating a marketing campaign after some bizarre grandstanding",
+      "url": "https://kotaku.com/miami-beach-debates-taking-millions-from-rockstar-to-advertise-gta-6-were-not-giving-away-pistols-and-cocaine-to-people-2000733378",
+      "date": "2026-09-11T04:55:07.000Z"
+    },
+    {
+      "lead": false,
       "src": "Kotaku",
       "title": "Someone Recreated The Weirdest-Looking Moment From The Big GTA 6 Trailer In Real Life",
       "summary": "Turns out Jason's odd backflip is possible, if you are a skilled athlete who loves flipping",
@@ -73,14 +97,6 @@
       "summary": "Other players got stuck in hour long queues or couldn't check out at all",
       "url": "https://kotaku.com/gta-6-ps5-controller-pre-orders-go-live-on-playstation-store-and-it-immediately-collapses-2000733219",
       "date": "2026-09-10T14:27:54.000Z"
-    },
-    {
-      "lead": false,
-      "src": "IGN",
-      "title": "Grand Theft Auto VI Limited-Edition PS5 DualSense Controllers Are Up for Preorder",
-      "summary": "Preorders are live for Grand Theft Auto VI Limited-Edition PS5 DualSense Controllers, but stock is limited. Hurry if you want one.",
-      "url": "https://www.ign.com/articles/grand-theft-auto-6-limited-edition-ps5-dualsense-controllers-where-to-buy",
-      "date": "2026-09-10T13:58:45.000Z"
     },
     {
       "lead": false,
