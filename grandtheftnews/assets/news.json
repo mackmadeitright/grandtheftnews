@@ -1,9 +1,17 @@
 {
-  "updated": "2026-09-11T20:51:35.924Z",
-  "count": 24,
+  "updated": "2026-09-11T23:10:04.578Z",
+  "count": 23,
   "items": [
     {
       "lead": true,
+      "src": "Polygon",
+      "title": "GTA 6 Is About to Take Over Miami IRL",
+      "summary": "Miami has approved Rockstar's $3 million marketing campaign for GTA 6 that'll turn the city into an IRL version of Vice City.",
+      "url": "https://www.polygon.com/gta-6-miami-marketing-campaign-vice-city/",
+      "date": "2026-09-11T20:53:50.000Z"
+    },
+    {
+      "lead": false,
       "src": "PC Gamer",
       "title": "'We're not giving away pistols and cocaine to people': Miami Beach votes in favor of Grand Theft Auto 6 collab despite concerns",
       "summary": "One city commissioner said he asked the police about it, and they \"actually kind of laughed at me.\"",
@@ -68,14 +76,6 @@
     },
     {
       "lead": false,
-      "src": "Kotaku",
-      "title": "GTA 6 Fans Track Down Real-World Version Of The Nudist Resort, Then Try To Extort It",
-      "summary": "According to Cypress Cove Nudist Resort, reviewers have demanded money to remove references to gun violence",
-      "url": "https://kotaku.com/gta6-nudist-resort-cypress-cove-rockstar-grand-theft-auto-vi-leaks-2000733492",
-      "date": "2026-09-11T13:16:45.000Z"
-    },
-    {
-      "lead": false,
       "src": "GameSpot",
       "title": "GTA 6 DualSense Controller Scalpers Are Already Cashing In",
       "summary": "It feels like it's the 2021 PS5/Xbox Series X|S shortage all over again, as scalpers have once again begun targeting preorders for limited-edition consoles and accessories. After the 25th-anniversary Xbox Series X sold out within a minute and stock of the new Legend of Zelda-themed Switch 2 console was scooped up in…",
@@ -105,22 +105,6 @@
       "summary": "Take-Two owns one of the largest entertainment franchises out there in Grand Theft Auto. The newest entry, GTA 6, launches this November. There is enormous hype for the new game, which is expected to sell millions of copies at launch and break records. In short, it's expected to be a once-in-a-decade (if not ever) k…",
       "url": "https://www.gamespot.com/articles/gta-6-is-going-to-be-huge-so-why-is-take-twos-stock-having-such-a-bad-year/",
       "date": "2026-09-11T08:07:00.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Kotaku",
-      "title": "Miami Beach Has The Most Ridiculous Debate About GTA 6: ‘We’re Not Giving Away Pistols And Cocaine To People’",
-      "summary": "Local commissioners voted 4-3 to approve negotiating a marketing campaign after some bizarre grandstanding",
-      "url": "https://kotaku.com/miami-beach-debates-taking-millions-from-rockstar-to-advertise-gta-6-were-not-giving-away-pistols-and-cocaine-to-people-2000733378",
-      "date": "2026-09-11T04:55:07.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Kotaku",
-      "title": "Someone Recreated The Weirdest-Looking Moment From The Big GTA 6 Trailer In Real Life",
-      "summary": "Turns out Jason's odd backflip is possible, if you are a skilled athlete who loves flipping",
-      "url": "https://kotaku.com/someone-recreated-the-weirdest-looking-moment-from-the-big-gta-6-trailer-in-real-life-2000733323",
-      "date": "2026-09-10T22:00:59.000Z"
     },
     {
       "lead": false,
@@ -193,6 +177,14 @@
       "summary": "GTA 6 is already giving PlayStation and Xbox consoles a much needed sales boost, at least in the UK, even though Rockstar Games ' inevitable pile of cash doesn't drop for another couple of months. Read more",
       "url": "https://www.eurogamer.net/gta-6-hype-giving-ps5-xbox-series-sales-boost",
       "date": "2026-09-04T17:14:16.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Eurogamer",
+      "title": "GTA 6 is getting two limited edition dualsense PS5 controllers",
+      "summary": "Two limited Edition Grand Theft Auto 6 PS5 Dualsense controllers were just revealed during the Sony State of Play livestream. Read more",
+      "url": "https://www.eurogamer.net/gta6-ps5-controllers-white-black-state-of-play",
+      "date": "2026-09-03T14:47:05.000Z"
     }
   ]
 }
