@@ -1,9 +1,33 @@
 {
-  "updated": "2026-09-11T16:21:12.931Z",
-  "count": 20,
+  "updated": "2026-09-11T20:51:35.924Z",
+  "count": 24,
   "items": [
     {
       "lead": true,
+      "src": "PC Gamer",
+      "title": "'We're not giving away pistols and cocaine to people': Miami Beach votes in favor of Grand Theft Auto 6 collab despite concerns",
+      "summary": "One city commissioner said he asked the police about it, and they \"actually kind of laughed at me.\"",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/were-not-giving-away-pistols-and-cocaine-to-people-miami-beach-votes-in-favor-of-grand-theft-auto-6-collab-despite-concerns/",
+      "date": "2026-09-11T18:35:30.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GameSpot",
+      "title": "GTA 6 Developer Is Fighting Drones And Hackers To Keep The Game’s Secrets Safe",
+      "summary": "As the studio behind one of the most highly anticipated games of all time, GTA 6 developer Rockstar Games has divulged more details on how it keeps its secrets. As part of a hearing, which began yesterday at the Glasgow Employment Tribunal--in which Rockstar Games has been accused of unlawfully firing 34 GTA 6 devel…",
+      "url": "https://www.gamespot.com/articles/gta-6-developer-is-fighting-drones-and-hackers-to-keep-the-games-secrets-safe/",
+      "date": "2026-09-11T17:12:00.000Z"
+    },
+    {
+      "lead": false,
+      "src": "IGN",
+      "title": "Miami Approves 'Discreet' GTA 6 Marketing Campaign So the City Can Fix Its Football Field",
+      "summary": "Rockstar Games' Grand Theft Auto 6 is coming to real-life Miami after a city meeting resulted in the approval of a \"discreet\" – and controversial – marketing campaign.",
+      "url": "https://www.ign.com/articles/miami-approves-discreet-gta-6-marketing-campaign-so-the-city-can-fix-its-football-field",
+      "date": "2026-09-11T17:06:15.000Z"
+    },
+    {
+      "lead": false,
       "src": "IGN",
       "title": "GTA 6 Developer Rockstar Says It Was Forced to Put Privacy Films on Its Buildings After Drones Were Used to Snap Photos Through Office Windows",
       "summary": "Rockstar Games has released its opening note in the employment tribunal to determine the fate of the 31 GTA 6 developers it fired last year, and in doing so has revealed the extreme lengths it goes to in order to prevent security breaches.",
@@ -44,6 +68,14 @@
     },
     {
       "lead": false,
+      "src": "Kotaku",
+      "title": "GTA 6 Fans Track Down Real-World Version Of The Nudist Resort, Then Try To Extort It",
+      "summary": "According to Cypress Cove Nudist Resort, reviewers have demanded money to remove references to gun violence",
+      "url": "https://kotaku.com/gta6-nudist-resort-cypress-cove-rockstar-grand-theft-auto-vi-leaks-2000733492",
+      "date": "2026-09-11T13:16:45.000Z"
+    },
+    {
+      "lead": false,
       "src": "GameSpot",
       "title": "GTA 6 DualSense Controller Scalpers Are Already Cashing In",
       "summary": "It feels like it's the 2021 PS5/Xbox Series X|S shortage all over again, as scalpers have once again begun targeting preorders for limited-edition consoles and accessories. After the 25th-anniversary Xbox Series X sold out within a minute and stock of the new Legend of Zelda-themed Switch 2 console was scooped up in…",
@@ -73,6 +105,22 @@
       "summary": "Take-Two owns one of the largest entertainment franchises out there in Grand Theft Auto. The newest entry, GTA 6, launches this November. There is enormous hype for the new game, which is expected to sell millions of copies at launch and break records. In short, it's expected to be a once-in-a-decade (if not ever) k…",
       "url": "https://www.gamespot.com/articles/gta-6-is-going-to-be-huge-so-why-is-take-twos-stock-having-such-a-bad-year/",
       "date": "2026-09-11T08:07:00.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Kotaku",
+      "title": "Miami Beach Has The Most Ridiculous Debate About GTA 6: ‘We’re Not Giving Away Pistols And Cocaine To People’",
+      "summary": "Local commissioners voted 4-3 to approve negotiating a marketing campaign after some bizarre grandstanding",
+      "url": "https://kotaku.com/miami-beach-debates-taking-millions-from-rockstar-to-advertise-gta-6-were-not-giving-away-pistols-and-cocaine-to-people-2000733378",
+      "date": "2026-09-11T04:55:07.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Kotaku",
+      "title": "Someone Recreated The Weirdest-Looking Moment From The Big GTA 6 Trailer In Real Life",
+      "summary": "Turns out Jason's odd backflip is possible, if you are a skilled athlete who loves flipping",
+      "url": "https://kotaku.com/someone-recreated-the-weirdest-looking-moment-from-the-big-gta-6-trailer-in-real-life-2000733323",
+      "date": "2026-09-10T22:00:59.000Z"
     },
     {
       "lead": false,
@@ -124,14 +172,6 @@
     },
     {
       "lead": false,
-      "src": "GameSpot",
-      "title": "GTA 6 Was Not “Fully Formed” When Trailer 1 Came Out In 2023",
-      "summary": "When Rockstar released GTA 6's first trailer in December 2023, the game looked like it was coming along well, but it wasn't \"fully formed\" back then. That's according to Rockstar North boss Rob Nelson, who said in an interview that the trailer's song, Tom Petty's \"Love is a Long Road\" was a \"mission statement\" for t…",
-      "url": "https://www.gamespot.com/articles/gta-6-was-not-fully-formed-when-trailer-1-came-out-in-2023/",
-      "date": "2026-09-09T14:56:41.000Z"
-    },
-    {
-      "lead": false,
       "src": "Eurogamer",
       "title": "Grand Theft Auto 6 worldwide unlock times revealed, and Xbox owners can seemingly still use the old New Zealand trick to play early",
       "summary": "Grand Theft Auto 6 arrives 19th November on PlayStation 5 and Xbox Series X/S. Depending on where you may be in the world, however, when you actually get to play varies. Read more",
@@ -153,14 +193,6 @@
       "summary": "GTA 6 is already giving PlayStation and Xbox consoles a much needed sales boost, at least in the UK, even though Rockstar Games ' inevitable pile of cash doesn't drop for another couple of months. Read more",
       "url": "https://www.eurogamer.net/gta-6-hype-giving-ps5-xbox-series-sales-boost",
       "date": "2026-09-04T17:14:16.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Eurogamer",
-      "title": "GTA 6 is getting two limited edition dualsense PS5 controllers",
-      "summary": "Two limited Edition Grand Theft Auto 6 PS5 Dualsense controllers were just revealed during the Sony State of Play livestream. Read more",
-      "url": "https://www.eurogamer.net/gta6-ps5-controllers-white-black-state-of-play",
-      "date": "2026-09-03T14:47:05.000Z"
     }
   ]
 }
