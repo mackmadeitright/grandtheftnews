@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-12T10:34:04.809Z",
-  "count": 24,
+  "updated": "2026-09-12T15:25:48.167Z",
+  "count": 23,
   "items": [
     {
       "lead": true,
@@ -68,14 +68,6 @@
     },
     {
       "lead": false,
-      "src": "IGN",
-      "title": "Grand Theft Auto: Vice City – The Legacy Review",
-      "summary": "The original, legendary GTA: Vice City remains an irresistible experience in 2026 thanks to its unrivalled personality and style, and its sonically unmistakable soundtrack.",
-      "url": "https://www.ign.com/articles/grand-theft-auto-vice-city-the-legacy-review",
-      "date": "2026-09-11T14:00:00.000Z"
-    },
-    {
-      "lead": false,
       "src": "Kotaku",
       "title": "GTA 6 Fans Track Down Real-World Version Of The Nudist Resort, Then Try To Extort It",
       "summary": "According to Cypress Cove Nudist Resort, reviewers have demanded money to remove references to gun violence",
@@ -121,14 +113,6 @@
       "summary": "Local commissioners voted 4-3 to approve negotiating a marketing campaign after some bizarre grandstanding",
       "url": "https://kotaku.com/miami-beach-debates-taking-millions-from-rockstar-to-advertise-gta-6-were-not-giving-away-pistols-and-cocaine-to-people-2000733378",
       "date": "2026-09-11T04:55:07.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Kotaku",
-      "title": "Someone Recreated The Weirdest-Looking Moment From The Big GTA 6 Trailer In Real Life",
-      "summary": "Turns out Jason's odd backflip is possible, if you are a skilled athlete who loves flipping",
-      "url": "https://kotaku.com/someone-recreated-the-weirdest-looking-moment-from-the-big-gta-6-trailer-in-real-life-2000733323",
-      "date": "2026-09-10T22:00:59.000Z"
     },
     {
       "lead": false,
@@ -193,6 +177,14 @@
       "summary": "GTA 6 is already giving PlayStation and Xbox consoles a much needed sales boost, at least in the UK, even though Rockstar Games ' inevitable pile of cash doesn't drop for another couple of months. Read more",
       "url": "https://www.eurogamer.net/gta-6-hype-giving-ps5-xbox-series-sales-boost",
       "date": "2026-09-04T17:14:16.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Eurogamer",
+      "title": "GTA 6 is getting two limited edition dualsense PS5 controllers",
+      "summary": "Two limited Edition Grand Theft Auto 6 PS5 Dualsense controllers were just revealed during the Sony State of Play livestream. Read more",
+      "url": "https://www.eurogamer.net/gta6-ps5-controllers-white-black-state-of-play",
+      "date": "2026-09-03T14:47:05.000Z"
     }
   ]
 }
