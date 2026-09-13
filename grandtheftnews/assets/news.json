@@ -1,9 +1,17 @@
 {
-  "updated": "2026-09-13T04:32:56.178Z",
+  "updated": "2026-09-13T11:37:02.701Z",
   "count": 16,
   "items": [
     {
       "lead": true,
+      "src": "Polygon",
+      "title": "GTA 6 Is About to Totally Reinvent One of the Best Experiences in Video Games",
+      "summary": "Rockstar's GTA 6 aims to make the act of stealing cars more immersive and surprising than any Grand Theft Auto game before it",
+      "url": "https://www.polygon.com/gta-6-stealing-cars/",
+      "date": "2026-09-13T05:00:14.000Z"
+    },
+    {
+      "lead": false,
       "src": "PC Gamer",
       "title": "'We're not giving away pistols and cocaine to people': Miami Beach votes in favor of Grand Theft Auto 6 collab despite concerns",
       "summary": "One city commissioner said he asked the police about it, and they \"actually kind of laughed at me.\"",
@@ -121,14 +129,6 @@
       "summary": "GTA 6 is already giving PlayStation and Xbox consoles a much needed sales boost, at least in the UK, even though Rockstar Games ' inevitable pile of cash doesn't drop for another couple of months. Read more",
       "url": "https://www.eurogamer.net/gta-6-hype-giving-ps5-xbox-series-sales-boost",
       "date": "2026-09-04T17:14:16.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Eurogamer",
-      "title": "GTA 6 is getting two limited edition dualsense PS5 controllers",
-      "summary": "Two limited Edition Grand Theft Auto 6 PS5 Dualsense controllers were just revealed during the Sony State of Play livestream. Read more",
-      "url": "https://www.eurogamer.net/gta6-ps5-controllers-white-black-state-of-play",
-      "date": "2026-09-03T14:47:05.000Z"
     }
   ]
 }
