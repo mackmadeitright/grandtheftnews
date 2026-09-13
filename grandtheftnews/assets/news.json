@@ -1,9 +1,17 @@
 {
-  "updated": "2026-09-13T16:05:42.236Z",
+  "updated": "2026-09-13T20:39:13.850Z",
   "count": 15,
   "items": [
     {
       "lead": true,
+      "src": "GamesRadar",
+      "title": "Rockstar wants GTA 6's Jason and Lucia to inspire the same sort of \"emotional connection\" that Red Dead Redemption 2 fans had with Arthur",
+      "summary": "\"We wanted to see if we could bring some of those elements into GTA 6\"",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/rockstar-wants-gta-6s-jason-and-lucia-to-inspire-the-same-sort-of-emotional-connection-that-red-dead-redemption-2-fans-had-with-arthur/",
+      "date": "2026-09-13T17:00:00.000Z"
+    },
+    {
+      "lead": false,
       "src": "Polygon",
       "title": "Sony is the Bad Guy of 2026, but it’s Going to Win Anyway",
       "summary": "Polygon previews an exciting but lopsided fall, dominated by GTA 6 and Zelda, with PlayStation playing the role of villain",
@@ -81,14 +89,6 @@
       "summary": "Netflix and Rockstar Games worked together on the recent 26-minute GTA 6 Extended Look trailer, and it seemingly paid off in multiple ways for the streaming company. After Netflix's own data showed that the Extended Look was incredibly popular with viewers , it's now been reported that the Extended Look drove more t…",
       "url": "https://www.gamespot.com/articles/gta-6-trailer-drove-100000-netflix-sign-ups-in-the-us-alone-in-one-day-analyst-claims/",
       "date": "2026-09-10T15:37:28.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GameSpot",
-      "title": "Unofficial GTA 6 Worldwide Release Times Revealed, And The US Gets It Almost Last",
-      "summary": "GTA 6 is one of the most-anticipated games ever, and it arrives on November 19. People naturally want to know when exactly that day it will be available to play, and now it looks the like first indication of that has come to light. GTA Vice scoured PlayStation Store listings for the game across 63 countries and regi…",
-      "url": "https://www.gamespot.com/articles/unofficial-gta-6-worldwide-release-times-revealed-and-the-us-gets-it-almost-last/",
-      "date": "2026-09-10T14:34:11.000Z"
     },
     {
       "lead": false,
