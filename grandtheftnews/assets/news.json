@@ -1,9 +1,25 @@
 {
-  "updated": "2026-09-14T12:31:19.548Z",
-  "count": 15,
+  "updated": "2026-09-14T19:53:05.755Z",
+  "count": 12,
   "items": [
     {
       "lead": true,
+      "src": "Eurogamer",
+      "title": "GTA 6's first confirmed actor is King of the Hill's Stephen Root: \"It's an amazing thing to look at\"",
+      "summary": "Rockstar Games hasn't said much about who's voicing the GTA 6 cast, but we now know at least one big-name actor attached to the upcoming crime epic: Stephen Root. Read more",
+      "url": "https://www.eurogamer.net/gta-6-confirmed-actor-king-of-the-hill-stephen-root",
+      "date": "2026-09-14T19:04:43.000Z"
+    },
+    {
+      "lead": false,
+      "src": "PC Gamer",
+      "title": "Forget GTA 6, I have brought GTA 5 closer to being the true greatest game of all time: Hulk – Ultimate Destruction",
+      "summary": "Quit staring.",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/forget-gta-6-i-have-brought-gta-5-closer-to-being-the-true-greatest-game-of-all-time-hulk-ultimate-destruction/",
+      "date": "2026-09-14T17:37:10.000Z"
+    },
+    {
+      "lead": false,
       "src": "Kotaku",
       "title": "GTA 6′s First Voice Actor Is Confirmed, And There’s A Good Chance You Already Figured It Out",
       "summary": "Honestly, if you didn't recognize his voice then you've terrible taste in TV and movies",
@@ -44,22 +60,6 @@
     },
     {
       "lead": false,
-      "src": "PC Gamer",
-      "title": "'We're not giving away pistols and cocaine to people': Miami Beach votes in favor of Grand Theft Auto 6 collab despite concerns",
-      "summary": "One city commissioner said he asked the police about it, and they \"actually kind of laughed at me.\"",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/were-not-giving-away-pistols-and-cocaine-to-people-miami-beach-votes-in-favor-of-grand-theft-auto-6-collab-despite-concerns/",
-      "date": "2026-09-11T18:35:30.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GameSpot",
-      "title": "GTA 6 Developer Is Fighting Drones And Hackers To Keep The Game’s Secrets Safe",
-      "summary": "As the studio behind one of the most highly anticipated games of all time, GTA 6 developer Rockstar Games has divulged more details on how it keeps its secrets. As part of a hearing, which began yesterday at the Glasgow Employment Tribunal--in which Rockstar Games has been accused of unlawfully firing 34 GTA 6 devel…",
-      "url": "https://www.gamespot.com/articles/gta-6-developer-is-fighting-drones-and-hackers-to-keep-the-games-secrets-safe/",
-      "date": "2026-09-11T17:12:00.000Z"
-    },
-    {
-      "lead": false,
       "src": "Eurogamer",
       "title": "'It would have been insanity to take no action' - Fiery opening statements reveal Rockstar's culture of secrecy as tribunal over sacked GTA 6 employees begins",
       "summary": "Rockstar Games and the Independent Workers Union of Great Britain (IWGB) have traded blows in fiery opening statements during the final employment tribunal hearing, relating to the sudden firing of 31 Rockstar North employees nearly a year ago . Read more",
@@ -68,27 +68,11 @@
     },
     {
       "lead": false,
-      "src": "GameSpot",
-      "title": "GTA 6 DualSense Controller Scalpers Are Already Cashing In",
-      "summary": "It feels like it's the 2021 PS5/Xbox Series X|S shortage all over again, as scalpers have once again begun targeting preorders for limited-edition consoles and accessories. After the 25th-anniversary Xbox Series X sold out within a minute and stock of the new Legend of Zelda-themed Switch 2 console was scooped up in…",
-      "url": "https://www.gamespot.com/articles/gta-6-dualsense-controller-scalpers-are-already-cashing-in/",
-      "date": "2026-09-11T11:15:52.000Z"
-    },
-    {
-      "lead": false,
       "src": "Eurogamer",
       "title": "\"I don't think it's worth any amount of money\" - Controversial real-life GTA 6 advertising campaign passed by City of Miami, but brand can only appear \"discreetly\"",
       "summary": "The City of Miami Beach has approved negotiations with Rockstar Games for an upcoming marketing campaign. This would bring advertisements for Grand Theft Auto 6 to the seaside city in exchange for millions of dollars. Read more",
       "url": "https://www.eurogamer.net/gta-6-miami-beach-marketing-campagin-negotiations-approved",
       "date": "2026-09-11T08:56:27.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GameSpot",
-      "title": "GTA 6 Is Going To Be Huge. So Why Is Take-Two’s Stock Having Such A Bad Year?",
-      "summary": "Take-Two owns one of the largest entertainment franchises out there in Grand Theft Auto. The newest entry, GTA 6, launches this November. There is enormous hype for the new game, which is expected to sell millions of copies at launch and break records. In short, it's expected to be a once-in-a-decade (if not ever) k…",
-      "url": "https://www.gamespot.com/articles/gta-6-is-going-to-be-huge-so-why-is-take-twos-stock-having-such-a-bad-year/",
-      "date": "2026-09-11T08:07:00.000Z"
     },
     {
       "lead": false,
@@ -113,14 +97,6 @@
       "summary": "Two weeks after Grand Theft Auto 6's Netflix reveal , and only a couple of months before the game's meteoric release, Rockstar Games has an employment tribunal to fight. This week, the final hearing in Rockstar vs. the 31 fired Rockstar North employees begins. Read more",
       "url": "https://www.eurogamer.net/rockstar-north-employment-tribunal-gta-6",
       "date": "2026-09-08T10:24:19.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Eurogamer",
-      "title": "Hype for GTA 6 is giving PS5 and Xbox console sales a much needed 30% boost",
-      "summary": "GTA 6 is already giving PlayStation and Xbox consoles a much needed sales boost, at least in the UK, even though Rockstar Games ' inevitable pile of cash doesn't drop for another couple of months. Read more",
-      "url": "https://www.eurogamer.net/gta-6-hype-giving-ps5-xbox-series-sales-boost",
-      "date": "2026-09-04T17:14:16.000Z"
     }
   ]
 }
