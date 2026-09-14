@@ -1,9 +1,41 @@
 {
-  "updated": "2026-09-14T04:38:35.944Z",
-  "count": 13,
+  "updated": "2026-09-14T12:31:19.548Z",
+  "count": 15,
   "items": [
     {
       "lead": true,
+      "src": "Kotaku",
+      "title": "GTA 6′s First Voice Actor Is Confirmed, And There’s A Good Chance You Already Figured It Out",
+      "summary": "Honestly, if you didn't recognize his voice then you've terrible taste in TV and movies",
+      "url": "https://kotaku.com/gta6-grand-theft-auto-vi-voice-actors-rockstar-netflix-footage-2000734229",
+      "date": "2026-09-14T11:45:37.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GameSpot",
+      "title": "First GTA 6 Actor Officially Confirmed, And It’s A Big Name",
+      "summary": "There's been speculation for months over who could be voicing the GTA 6 cast, but nothing has been officially confirmed, either by developer Rockstar or any of the starring talents, until now. At the BAFTA TV Tea Party, held at The Maybourne Beverly Hills in California, actor Stephen Root was attending in support of…",
+      "url": "https://www.gamespot.com/articles/first-gta-6-actor-officially-confirmed-and-its-a-big-name/",
+      "date": "2026-09-14T10:26:31.000Z"
+    },
+    {
+      "lead": false,
+      "src": "IGN",
+      "title": "First Major Cast Member Confirms Appearance in GTA 6, Seemingly Going Off Rockstar's Script",
+      "summary": "The first major cast member has confirmed his appearance in Grand Theft Auto 6, seemingly going off Rockstar’s tightly controlled marketing script.",
+      "url": "https://www.ign.com/articles/first-major-cast-member-confirms-appearance-in-gta-6-seemingly-going-off-rockstars-script",
+      "date": "2026-09-14T10:14:56.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "One of GTA 6's actors has finally been confirmed because it was already obvious: \"There are too many people who knew me from King of the Hill\"",
+      "summary": "We got the Billdozer in GTA 6 before GTA 6",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/one-of-gta-6s-actors-has-finally-been-confirmed-because-it-was-already-obvious-there-are-too-many-people-who-knew-me-from-king-of-the-hill/",
+      "date": "2026-09-14T09:59:28.000Z"
+    },
+    {
+      "lead": false,
       "src": "GamesRadar",
       "title": "Rockstar wants GTA 6's Jason and Lucia to inspire the same sort of \"emotional connection\" that Red Dead Redemption 2 fans had with Arthur",
       "summary": "\"We wanted to see if we could bring some of those elements into GTA 6\"",
@@ -25,22 +57,6 @@
       "summary": "As the studio behind one of the most highly anticipated games of all time, GTA 6 developer Rockstar Games has divulged more details on how it keeps its secrets. As part of a hearing, which began yesterday at the Glasgow Employment Tribunal--in which Rockstar Games has been accused of unlawfully firing 34 GTA 6 devel…",
       "url": "https://www.gamespot.com/articles/gta-6-developer-is-fighting-drones-and-hackers-to-keep-the-games-secrets-safe/",
       "date": "2026-09-11T17:12:00.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "Politicians dig up Grand Theft Auto's \"hot coffee\" incident and grill Rockstar for violence, but clear $3m in GTA 6 Miami Beach marketing anyway: \"It's a video game, it's fake\"",
-      "summary": "A commissioner who loves Rockstar's series says \"I'm not going to play the game and then go on a crime spree\"",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/politicians-dig-up-grand-theft-autos-hot-coffee-incident-and-grill-rockstar-for-violence-but-clear-usd3m-in-gta-6-miami-beach-marketing-anyway-its-a-video-game-its-fake/",
-      "date": "2026-09-11T15:06:56.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "$2 billion later, I'm not convinced GTA 6 will do more for me than a PS2 and San Andreas",
-      "summary": "I'll be playing GTA San Andreas on an original PS2 while everyone tucks in GTA 6, and you'd be surprised how easy it is to get the retro console up and running.",
-      "url": "https://www.gamesradar.com/hardware/retro/usd2-billion-later-im-not-convinced-gta-6-will-do-more-for-me-than-a-ps2-and-san-andreas/",
-      "date": "2026-09-11T14:48:25.000Z"
     },
     {
       "lead": false,
