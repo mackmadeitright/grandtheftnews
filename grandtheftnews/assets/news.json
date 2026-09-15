@@ -1,9 +1,17 @@
 {
-  "updated": "2026-09-15T04:39:34.437Z",
-  "count": 9,
+  "updated": "2026-09-15T11:34:10.847Z",
+  "count": 10,
   "items": [
     {
       "lead": true,
+      "src": "GamesRadar",
+      "title": "Rockstar boss says GTA 6's police \"can be harder\" to shake off than before, \"but it's fun\" because it forces you \"to think more\"",
+      "summary": "Rob Nelson also reveals that the police have \"more persistent memory\"",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/rockstar-boss-says-gta-6s-police-can-be-harder-to-shake-off-than-before-but-its-fun-because-it-forces-you-to-think-more/",
+      "date": "2026-09-15T10:26:49.000Z"
+    },
+    {
+      "lead": false,
       "src": "Eurogamer",
       "title": "GTA 6's first confirmed actor is King of the Hill's Stephen Root: \"It's an amazing thing to look at\"",
       "summary": "Rockstar Games hasn't said much about who's voicing the GTA 6 cast, but we now know at least one big-name actor attached to the upcoming crime epic: Stephen Root. Read more",
