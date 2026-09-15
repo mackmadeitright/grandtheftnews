@@ -1,14 +1,30 @@
 {
-  "updated": "2026-09-15T16:47:58.043Z",
-  "count": 12,
+  "updated": "2026-09-15T21:10:25.817Z",
+  "count": 14,
   "items": [
     {
       "lead": true,
+      "src": "GamesRadar",
+      "title": "GTA 6 teasers keep popping up on celebrity social media as Travis Scott, Morgan Wallen, and more hint at Rockstar collaboration",
+      "summary": "Who passed Rockstar the aux?",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-teasers-keep-popping-up-on-celebrity-social-media-as-travis-scott-morgan-wallen-and-more-hint-at-rockstar-collaboration/",
+      "date": "2026-09-15T17:18:58.000Z"
+    },
+    {
+      "lead": false,
       "src": "Kotaku",
-      "title": "Music Artists Like Travis Scott And Keith Richards Have Started Hyping GTA 6‘s Massive Soundtrack",
+      "title": "GTA 6‘s Massive Soundtrack Is Starting To Be Revealed",
       "summary": "Keith Richards of the Rolling Stones, Rauw Alejandro, Travis Scott, and others are teasing that their songs are included in Grand Theft Auto 6",
       "url": "https://kotaku.com/music-artists-like-travis-scott-and-keith-richards-have-started-hyping-gta-6s-massive-soundtrack-2000734652",
       "date": "2026-09-15T16:23:51.000Z"
+    },
+    {
+      "lead": false,
+      "src": "IGN",
+      "title": "Rockstar Games Begins Teasing GTA 6's Soundtrack With Travis Scott, Future, Morgan Wallen, and More",
+      "summary": "Rockstar Games has begun teasing the soundtrack for Grand Theft Auto 6 with new artwork from Future, Travis Scott, and other artists.",
+      "url": "https://www.ign.com/articles/rockstar-games-begins-teasing-gta-6s-soundtrack-with-travis-scott-future-morgan-wallen-and-more",
+      "date": "2026-09-15T16:06:58.000Z"
     },
     {
       "lead": false,
