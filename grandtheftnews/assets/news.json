@@ -1,9 +1,41 @@
 {
-  "updated": "2026-09-15T11:34:10.847Z",
-  "count": 10,
+  "updated": "2026-09-15T16:47:58.043Z",
+  "count": 12,
   "items": [
     {
       "lead": true,
+      "src": "Kotaku",
+      "title": "Music Artists Like Travis Scott And Keith Richards Have Started Hyping GTA 6‘s Massive Soundtrack",
+      "summary": "Keith Richards of the Rolling Stones, Rauw Alejandro, Travis Scott, and others are teasing that their songs are included in Grand Theft Auto 6",
+      "url": "https://kotaku.com/music-artists-like-travis-scott-and-keith-richards-have-started-hyping-gta-6s-massive-soundtrack-2000734652",
+      "date": "2026-09-15T16:23:51.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GameSpot",
+      "title": "Big GTA 6 News Could Be Coming Up Soon",
+      "summary": "It appears some GTA 6 news is coming up soon, and it could be focused on the game's music. A variety of musicians have released GTA-inspired teasers, and people are theorizing it's tied to some kind of music reveal for the game. Country pop singer Morgan Wallen released an image showing GTA-inspired visuals of a poo…",
+      "url": "https://www.gamespot.com/articles/big-gta-6-news-could-be-coming-up-soon/",
+      "date": "2026-09-15T15:58:42.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GameSpot",
+      "title": "GTA 6’s Stephen Root Is The Franchise’s Second-Ever Emmy Winning Actor",
+      "summary": "Actor Stephen Root recently confirmed that he will appear in GTA 6 , after people correctly identified him as the voice of the drug-runner Brian Heder . He confirmed this on September 13, and on September 14, Root won his first-ever Emmy award for his incredible performance on the show Widow's Bay. In winning an Emm…",
+      "url": "https://www.gamespot.com/articles/gta-6s-stephen-root-is-the-franchises-second-ever-emmy-winning-actor/",
+      "date": "2026-09-15T14:59:37.000Z"
+    },
+    {
+      "lead": false,
+      "src": "IGN",
+      "title": "GTA 6 for PS5: Save $11, Today Only",
+      "summary": "Today only, you can save $11 on Grand Theft Auto 6 for PS5, by following a few simple steps.",
+      "url": "https://www.ign.com/articles/gta-6-for-ps5-save-11-today-only",
+      "date": "2026-09-15T14:08:26.000Z"
+    },
+    {
+      "lead": false,
       "src": "GamesRadar",
       "title": "Rockstar boss says GTA 6's police \"can be harder\" to shake off than before, \"but it's fun\" because it forces you \"to think more\"",
       "summary": "Rob Nelson also reveals that the police have \"more persistent memory\"",
@@ -25,22 +57,6 @@
       "summary": "Quit staring.",
       "url": "https://www.pcgamer.com/games/grand-theft-auto/forget-gta-6-i-have-brought-gta-5-closer-to-being-the-true-greatest-game-of-all-time-hulk-ultimate-destruction/",
       "date": "2026-09-14T17:37:10.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GameSpot",
-      "title": "First GTA 6 Actor Officially Confirmed, And It’s A Big Name",
-      "summary": "There's been speculation for months over who could be voicing the GTA 6 cast, but nothing has been officially confirmed, either by developer Rockstar or any of the starring talents, until now. At the BAFTA TV Tea Party, held at The Maybourne Beverly Hills in California, actor Stephen Root was attending in support of…",
-      "url": "https://www.gamespot.com/articles/first-gta-6-actor-officially-confirmed-and-its-a-big-name/",
-      "date": "2026-09-14T10:26:31.000Z"
-    },
-    {
-      "lead": false,
-      "src": "IGN",
-      "title": "First Major Cast Member Confirms Appearance in GTA 6, Seemingly Going Off Rockstar's Script",
-      "summary": "The first major cast member has confirmed his appearance in Grand Theft Auto 6, seemingly going off Rockstar’s tightly controlled marketing script.",
-      "url": "https://www.ign.com/articles/first-major-cast-member-confirms-appearance-in-gta-6-seemingly-going-off-rockstars-script",
-      "date": "2026-09-14T10:14:56.000Z"
     },
     {
       "lead": false,
