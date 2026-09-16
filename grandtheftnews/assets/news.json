@@ -1,9 +1,25 @@
 {
-  "updated": "2026-09-16T16:42:27.788Z",
+  "updated": "2026-09-16T21:11:42.513Z",
   "count": 12,
   "items": [
     {
       "lead": true,
+      "src": "Kotaku",
+      "title": "Drama Around A PS5 Exploit, AI-Coding, Linux, And GTA 6 Has One Popular Hacker Calling It Quits",
+      "summary": "An anticipated open-source Linux mod for newer PS5 consoles might now be in danger of never happening",
+      "url": "https://kotaku.com/popular-playstation-hacker-calling-it-quits-due-to-ai-using-slop-kiddies-reporting-important-bug-to-sony-2000735105",
+      "date": "2026-09-16T18:20:26.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "PS5 Linux dev abandons the project as AI \"slop kiddies\" ruin open-source mods ahead of GTA 6: \"Just a bunch of noobs using LLMs and writing hacks they don't even understand\"",
+      "summary": "\"I asked them to at least wait for GTA 6 to come out,\" says Andy Nguyen",
+      "url": "https://www.gamesradar.com/games/ps5-linux-dev-abandons-the-project-as-ai-slop-kiddies-ruin-open-source-mods-ahead-of-gta-6-just-a-bunch-of-noobs-using-llms-and-writing-hacks-they-dont-even-understand/",
+      "date": "2026-09-16T17:14:07.000Z"
+    },
+    {
+      "lead": false,
       "src": "GamesRadar",
       "title": "Parts of GTA 6 are \"a bit outdated and weird,\" says former Rockstar dev, but \"like GTA 5\" it will \"perform really well\" and keep fans busy for a decade",
       "summary": "An animator on Grand Theft Auto 5 and Red Dead Redemption 2 has his say",
@@ -17,14 +33,6 @@
       "summary": "It looks like every GTA fan just had the same, very expensive idea",
       "url": "https://www.gamesradar.com/games/grand-theft-auto/as-gta-6-an-extended-look-sends-hype-into-overdrive-ps5-pro-prices-surge-as-high-as-eur1-400-in-europe-as-stock-issues-persist/",
       "date": "2026-09-16T10:10:08.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "GTA 6 teasers keep popping up on celebrity social media as Travis Scott, Morgan Wallen, and more hint at Rockstar collaboration",
-      "summary": "Who passed Rockstar the aux?",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-teasers-keep-popping-up-on-celebrity-social-media-as-travis-scott-morgan-wallen-and-more-hint-at-rockstar-collaboration/",
-      "date": "2026-09-15T17:18:58.000Z"
     },
     {
       "lead": false,
@@ -49,14 +57,6 @@
       "summary": "Rockstar Games hasn't said much about who's voicing the GTA 6 cast, but we now know at least one big-name actor attached to the upcoming crime epic: Stephen Root. Read more",
       "url": "https://www.eurogamer.net/gta-6-confirmed-actor-king-of-the-hill-stephen-root",
       "date": "2026-09-14T19:04:43.000Z"
-    },
-    {
-      "lead": false,
-      "src": "PC Gamer",
-      "title": "Forget GTA 6, I have brought GTA 5 closer to being the true greatest game of all time: Hulk – Ultimate Destruction",
-      "summary": "Quit staring.",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/forget-gta-6-i-have-brought-gta-5-closer-to-being-the-true-greatest-game-of-all-time-hulk-ultimate-destruction/",
-      "date": "2026-09-14T17:37:10.000Z"
     },
     {
       "lead": false,
