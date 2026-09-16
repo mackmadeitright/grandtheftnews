@@ -1,9 +1,17 @@
 {
-  "updated": "2026-09-16T04:34:34.330Z",
-  "count": 15,
+  "updated": "2026-09-16T11:20:33.169Z",
+  "count": 14,
   "items": [
     {
       "lead": true,
+      "src": "GamesRadar",
+      "title": "As GTA 6: An Extended Look sends hype into overdrive, PS5 Pro prices surge as high as €1,400 in Europe as stock issues persist",
+      "summary": "It looks like every GTA fan just had the same, very expensive idea",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/as-gta-6-an-extended-look-sends-hype-into-overdrive-ps5-pro-prices-surge-as-high-as-eur1-400-in-europe-as-stock-issues-persist/",
+      "date": "2026-09-16T10:10:08.000Z"
+    },
+    {
+      "lead": false,
       "src": "Polygon",
       "title": "7 Major GTA 6 Questions the Previews Haven't Answered",
       "summary": "Who's in the cast? What's happening with GTA Online? We have questions after Rockstar's Netflix Grand Theft Auto 6 extended look.",
@@ -49,22 +57,6 @@
       "summary": "Actor Stephen Root recently confirmed that he will appear in GTA 6 , after people correctly identified him as the voice of the drug-runner Brian Heder . He confirmed this on September 13, and on September 14, Root won his first-ever Emmy award for his incredible performance on the show Widow's Bay. In winning an Emm…",
       "url": "https://www.gamespot.com/articles/gta-6s-stephen-root-is-the-franchises-second-ever-emmy-winning-actor/",
       "date": "2026-09-15T14:59:37.000Z"
-    },
-    {
-      "lead": false,
-      "src": "IGN",
-      "title": "GTA 6 for PS5: Save $11, Today Only",
-      "summary": "Today only, you can save $11 on Grand Theft Auto 6 for PS5, by following a few simple steps.",
-      "url": "https://www.ign.com/articles/gta-6-for-ps5-save-11-today-only",
-      "date": "2026-09-15T14:08:26.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "Rockstar boss says GTA 6's police \"can be harder\" to shake off than before, \"but it's fun\" because it forces you \"to think more\"",
-      "summary": "Rob Nelson also reveals that the police have \"more persistent memory\"",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/rockstar-boss-says-gta-6s-police-can-be-harder-to-shake-off-than-before-but-its-fun-because-it-forces-you-to-think-more/",
-      "date": "2026-09-15T10:26:49.000Z"
     },
     {
       "lead": false,
