@@ -1,9 +1,17 @@
 {
-  "updated": "2026-09-15T21:10:25.817Z",
-  "count": 14,
+  "updated": "2026-09-16T04:34:34.330Z",
+  "count": 15,
   "items": [
     {
       "lead": true,
+      "src": "Polygon",
+      "title": "7 Major GTA 6 Questions the Previews Haven't Answered",
+      "summary": "Who's in the cast? What's happening with GTA Online? We have questions after Rockstar's Netflix Grand Theft Auto 6 extended look.",
+      "url": "https://www.polygon.com/gta-6-major-questions/",
+      "date": "2026-09-15T21:35:50.000Z"
+    },
+    {
+      "lead": false,
       "src": "GamesRadar",
       "title": "GTA 6 teasers keep popping up on celebrity social media as Travis Scott, Morgan Wallen, and more hint at Rockstar collaboration",
       "summary": "Who passed Rockstar the aux?",
