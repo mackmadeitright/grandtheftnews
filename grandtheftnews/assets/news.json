@@ -1,9 +1,17 @@
 {
-  "updated": "2026-09-16T11:20:33.169Z",
-  "count": 14,
+  "updated": "2026-09-16T16:42:27.788Z",
+  "count": 12,
   "items": [
     {
       "lead": true,
+      "src": "GamesRadar",
+      "title": "Parts of GTA 6 are \"a bit outdated and weird,\" says former Rockstar dev, but \"like GTA 5\" it will \"perform really well\" and keep fans busy for a decade",
+      "summary": "An animator on Grand Theft Auto 5 and Red Dead Redemption 2 has his say",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/parts-of-gta-6-are-a-bit-outdated-and-weird-says-former-rockstar-dev-but-like-gta-5-it-will-perform-really-well-and-keep-fans-busy-for-a-decade/",
+      "date": "2026-09-16T16:36:46.000Z"
+    },
+    {
+      "lead": false,
       "src": "GamesRadar",
       "title": "As GTA 6: An Extended Look sends hype into overdrive, PS5 Pro prices surge as high as €1,400 in Europe as stock issues persist",
       "summary": "It looks like every GTA fan just had the same, very expensive idea",
@@ -12,35 +20,11 @@
     },
     {
       "lead": false,
-      "src": "Polygon",
-      "title": "7 Major GTA 6 Questions the Previews Haven't Answered",
-      "summary": "Who's in the cast? What's happening with GTA Online? We have questions after Rockstar's Netflix Grand Theft Auto 6 extended look.",
-      "url": "https://www.polygon.com/gta-6-major-questions/",
-      "date": "2026-09-15T21:35:50.000Z"
-    },
-    {
-      "lead": false,
       "src": "GamesRadar",
       "title": "GTA 6 teasers keep popping up on celebrity social media as Travis Scott, Morgan Wallen, and more hint at Rockstar collaboration",
       "summary": "Who passed Rockstar the aux?",
       "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-teasers-keep-popping-up-on-celebrity-social-media-as-travis-scott-morgan-wallen-and-more-hint-at-rockstar-collaboration/",
       "date": "2026-09-15T17:18:58.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Kotaku",
-      "title": "GTA 6‘s Massive Soundtrack Is Starting To Be Revealed",
-      "summary": "Keith Richards of the Rolling Stones, Rauw Alejandro, Travis Scott, and others are teasing that their songs are included in Grand Theft Auto 6",
-      "url": "https://kotaku.com/music-artists-like-travis-scott-and-keith-richards-have-started-hyping-gta-6s-massive-soundtrack-2000734652",
-      "date": "2026-09-15T16:23:51.000Z"
-    },
-    {
-      "lead": false,
-      "src": "IGN",
-      "title": "Rockstar Games Begins Teasing GTA 6's Soundtrack With Travis Scott, Future, Morgan Wallen, and More",
-      "summary": "Rockstar Games has begun teasing the soundtrack for Grand Theft Auto 6 with new artwork from Future, Travis Scott, and other artists.",
-      "url": "https://www.ign.com/articles/rockstar-games-begins-teasing-gta-6s-soundtrack-with-travis-scott-future-morgan-wallen-and-more",
-      "date": "2026-09-15T16:06:58.000Z"
     },
     {
       "lead": false,
