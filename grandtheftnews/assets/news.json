@@ -1,9 +1,17 @@
 {
-  "updated": "2026-09-16T21:11:42.513Z",
-  "count": 12,
+  "updated": "2026-09-17T04:39:49.501Z",
+  "count": 13,
   "items": [
     {
       "lead": true,
+      "src": "IGN",
+      "title": "Spotify Seems to Be Teasing a GTA 6 Collaboration with Rockstar Games",
+      "summary": "Spotify appears to be the next big streaming giant to partner with Rockstar Games for GTA 6's marketing.",
+      "url": "https://www.ign.com/articles/spotify-seems-to-be-teasing-a-gta-6-collaboration-with-rockstar-games",
+      "date": "2026-09-16T21:13:38.000Z"
+    },
+    {
+      "lead": false,
       "src": "Kotaku",
       "title": "Drama Around A PS5 Exploit, AI-Coding, Linux, And GTA 6 Has One Popular Hacker Calling It Quits",
       "summary": "An anticipated open-source Linux mod for newer PS5 consoles might now be in danger of never happening",
