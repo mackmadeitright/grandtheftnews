@@ -1,9 +1,145 @@
 {
-  "updated": "2026-09-17T11:28:52.572Z",
-  "count": 14,
+  "updated": "2026-09-17T16:47:53.043Z",
+  "count": 24,
   "items": [
     {
       "lead": true,
+      "src": "GamesRadar",
+      "title": "Upcoming soulslike Valor Mortis costs $40 as it's up against GTA 6 and the Zelda: Ocarina of Time remake: \"We want this to be a game that you can pick up alongside these other great games\"",
+      "summary": "\"We find ourselves as one of the only new IPs launching in what is objectively the craziest fall in the history of this business\"",
+      "url": "https://www.gamesradar.com/games/action/upcoming-soulslike-valor-mortis-costs-usd40-as-its-up-against-gta-6-and-the-zelda-ocarina-of-time-remake-we-want-this-to-be-a-game-that-you-can-pick-up-alongside-these-other-great-games/",
+      "date": "2026-09-17T16:31:08.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GameSpot",
+      "title": "GTA 6 Multiplayer Could Launch In 2027, Twitch CEO Says",
+      "summary": "Rockstar has described GTA 6 as a \"single-player experience,\" but everyone expects the game to eventually include a multiplayer element given the enormous success of the existing GTA Online. But when could GTA 6's online multiplayer release? According to Twitch CEO Dan Clancy, fans can expect it sometime in 2027. He…",
+      "url": "https://www.gamespot.com/articles/gta-6-multiplayer-could-launch-in-2027-twitch-ceo-says/",
+      "date": "2026-09-17T15:42:53.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GameSpot",
+      "title": "GTA 6 Boss Says PC Is Becoming “More And More Important”",
+      "summary": "Rockstar's Grand Theft Auto 6 launches in November for PlayStation 5 and Xbox Series X|S, but is it also going to release on PC? It won't at launch, but history suggests it will come to PC further down the track. Now, Take-Two boss Strauss Zelnick has commented on the company's approach to PC releases generally. At…",
+      "url": "https://www.gamespot.com/articles/gta-6-boss-says-pc-is-becoming-more-and-more-important/",
+      "date": "2026-09-17T15:23:56.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "With GTA 6 about to launch, Take-Two boss unloads on investor criticizing \"years of delays, missed expectations, and continued dependence on a small number of major franchises\"",
+      "summary": "Take-Two was \"nearly bankrupt\" before GTA 5 launched",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/with-gta-6-about-to-launch-take-two-boss-unloads-on-investor-criticizing-years-of-delays-missed-expectations-and-continued-dependence-on-a-small-number-of-major-franchises/",
+      "date": "2026-09-17T15:18:48.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "You can't get a physical copy of GTA 6, but you can get the soundtrack on CD or a $125 deluxe vinyl collection",
+      "summary": "GTA 6 features original tracks from Travis Scott, Rauw Alejandro, Keith Richards, Morgan Wallen, and more",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/you-cant-get-a-physical-copy-of-gta-6-but-you-can-get-the-soundtrack-on-cd-or-a-usd125-deluxe-vinyl-collection/",
+      "date": "2026-09-17T15:15:18.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Polygon",
+      "title": "GTA 6 Physical Album Officially Announced, Available for Pre-Order Now",
+      "summary": "Rockstar has revealed the physical GTA 6 album, with 34 tracks from artits like Travis Scott and PinkPantheress",
+      "url": "https://www.polygon.com/gta-6-album-vinyl-cd-musicians-pre-order-release-date/",
+      "date": "2026-09-17T15:13:48.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Kotaku",
+      "title": "Twitch CEO Expects GTA 6 Will Lead To A Huge Influx Of Viewers And Anticipates Multiplayer Mode Is Coming Next Year",
+      "summary": "Dan Clancy says other studios and publishers are right to try and avoid GTA 6' s launch",
+      "url": "https://kotaku.com/twitch-ceo-expects-gta-6-will-lead-to-a-huge-influx-of-viewers-and-anticipates-multiplayer-mode-is-coming-next-year-2000735285",
+      "date": "2026-09-17T15:00:20.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GameSpot",
+      "title": "Game’s Price Is Lower Because This Fall Is So Packed, Dev Admits",
+      "summary": "October is going to be a tough month for anyone on a budget, as a ton of big games are coming up. Sandwiched between an already-packed September and the November release of GTA 6 , how does any game stand out from the pack? In the case of Valor Mortis, a launch price of $40--and day-one availability via Xbox Game Pa…",
+      "url": "https://www.gamespot.com/articles/games-price-is-lower-because-this-fall-is-so-packed-dev-admits/",
+      "date": "2026-09-17T14:23:19.000Z"
+    },
+    {
+      "lead": false,
+      "src": "IGN",
+      "title": "Valor Mortis Costs $40 Because of 'The Craziest Fall in the History of This Business'",
+      "summary": "Promising first-person action soulslike Valor Mortis has a confirmed $40 price point, which was settled upon by its publisher because of the fall crush fueled by GTA 6.",
+      "url": "https://www.ign.com/articles/valor-mortis-costs-40-because-of-the-craziest-fall-in-the-history-of-this-business",
+      "date": "2026-09-17T14:14:53.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "GTA 6 on PC sounds even more inevitable in Take-Two CEO's latest comments",
+      "summary": "Strauss Zelnick suggests Grand Theft Auto will target platforms with \"a meaningful audience\"",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-on-pc-sounds-even-more-inevitable-in-take-two-ceos-latest-comments/",
+      "date": "2026-09-17T14:08:35.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GameSpot",
+      "title": "GTA Is Like Barbie, Take-Two Boss Says",
+      "summary": "Rockstar's Grand Theft Auto 6 is one of the most-anticipated game releases ever, and despite the enormous hype, Rockstar and owner Take-Two are going to market the game aggressively. Why does the game even need a marketing push? According to Take-Two boss Strauss Zelnick, just because a franchise is popular and well…",
+      "url": "https://www.gamespot.com/articles/gta-is-like-barbie-take-two-boss-says/",
+      "date": "2026-09-17T13:59:47.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Kotaku",
+      "title": "GTA 6 Won’t Have A Game Disc But It Is Getting A Vinyl And CD Soundtrack",
+      "summary": "That’s something for the physical media lovers, I suppose",
+      "url": "https://kotaku.com/grand-theft-auto-6-gta6-soundtrack-vinyl-cd-pre-order-2000735270",
+      "date": "2026-09-17T13:18:33.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Eurogamer",
+      "title": "GTA 6 is getting a 34-song original soundtrack, with music from multiple real-world artists - and you can stream six tracks today",
+      "summary": "Grand Theft Auto 6 's original soundtrack was partially revealed today. The full album contains 34 original tracks made for the upcoming open-world crime game. Read more",
+      "url": "https://www.eurogamer.net/gta-6-original-soundtrack-six-track-preview",
+      "date": "2026-09-17T12:57:37.000Z"
+    },
+    {
+      "lead": false,
+      "src": "IGN",
+      "title": "Grand Theft Auto VI: The Album Is Up for Preorder (Stream Select Tracks Now)",
+      "summary": "Preorders are live for Grand Theft Auto VI: The Album, which features 34 tracks and is available in limited-edition vinyl, standard vinyl, and CD.",
+      "url": "https://www.ign.com/articles/grand-theft-auto-vi-the-album-is-up-for-preorder",
+      "date": "2026-09-17T12:48:46.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GameSpot",
+      "title": "GTA 6 The Album Gets A Physical Release, Even Though The Game Won’t",
+      "summary": "Rockstar Games has officially announced Grand Theft Auto 6: The Album. The 34-song collection includes original music from people like Keith Richards, Yung Lean, Morgan Wallen, Rauw Alejandro, and more. Rockstar is releasing the album in partnership with Atlantic Records. In addition to a lot of brand-new songs, GTA…",
+      "url": "https://www.gamespot.com/articles/gta-6-the-album-announced-and-itll-be-on-physical-media/",
+      "date": "2026-09-17T12:12:24.000Z"
+    },
+    {
+      "lead": false,
+      "src": "IGN",
+      "title": "GTA 6 Soundtrack Gets Physical CD and Vinyl Release, Rockstar Confirms",
+      "summary": "Rockstar will launch a physical edition of the Grand Theft Auto 6 soundtrack, a new leak has revealed.",
+      "url": "https://www.ign.com/articles/gta-6-leak-reveals-physical-release-for-its-music-album",
+      "date": "2026-09-17T12:06:45.000Z"
+    },
+    {
+      "lead": false,
+      "src": "IGN",
+      "title": "Twitch Boss Says Game Companies Are Right to Avoid Competing With GTA 6 for Attention — Expects GTA Online 2 Next Year",
+      "summary": "Twitch boss Dan Clancy has said he expects an enormous launch for GTA 6 this November, one video game companies are right to avoid like the plague. But he also expects GTA 6 to continue to hoover up the internet’s attention when GTA Online 2 — or whatever GTA 6’s multiplayer mode is called — launches next year.",
+      "url": "https://www.ign.com/articles/twitch-boss-says-game-companies-are-right-to-avoid-competing-with-gta-6-for-attention-expects-gta-online-2-next-year",
+      "date": "2026-09-17T11:56:47.000Z"
+    },
+    {
+      "lead": false,
       "src": "GamesRadar",
       "title": "13 years in and on its third console generation, how does GTA 5 hold up for a return visit?",
       "summary": "Time Capsule | Revisiting Los Santos on the cusp of GTA 6",
@@ -36,38 +172,6 @@
     },
     {
       "lead": false,
-      "src": "GamesRadar",
-      "title": "PS5 Linux dev abandons the project as AI \"slop kiddies\" ruin open-source mods ahead of GTA 6: \"Just a bunch of noobs using LLMs and writing hacks they don't even understand\"",
-      "summary": "\"I asked them to at least wait for GTA 6 to come out,\" says Andy Nguyen",
-      "url": "https://www.gamesradar.com/games/ps5-linux-dev-abandons-the-project-as-ai-slop-kiddies-ruin-open-source-mods-ahead-of-gta-6-just-a-bunch-of-noobs-using-llms-and-writing-hacks-they-dont-even-understand/",
-      "date": "2026-09-16T17:14:07.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "Parts of GTA 6 are \"a bit outdated and weird,\" says former Rockstar dev, but \"like GTA 5\" it will \"perform really well\" and keep fans busy for a decade",
-      "summary": "An animator on Grand Theft Auto 5 and Red Dead Redemption 2 has his say",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/parts-of-gta-6-are-a-bit-outdated-and-weird-says-former-rockstar-dev-but-like-gta-5-it-will-perform-really-well-and-keep-fans-busy-for-a-decade/",
-      "date": "2026-09-16T16:36:46.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GameSpot",
-      "title": "Big GTA 6 News Could Be Coming Up Soon",
-      "summary": "It appears some GTA 6 news is coming up soon, and it could be focused on the game's music. A variety of musicians have released GTA-inspired teasers, and people are theorizing it's tied to some kind of music reveal for the game. Country pop singer Morgan Wallen released an image showing GTA-inspired visuals of a poo…",
-      "url": "https://www.gamespot.com/articles/big-gta-6-news-could-be-coming-up-soon/",
-      "date": "2026-09-15T15:58:42.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GameSpot",
-      "title": "GTA 6’s Stephen Root Is The Franchise’s Second-Ever Emmy Winning Actor",
-      "summary": "Actor Stephen Root recently confirmed that he will appear in GTA 6 , after people correctly identified him as the voice of the drug-runner Brian Heder . He confirmed this on September 13, and on September 14, Root won his first-ever Emmy award for his incredible performance on the show Widow's Bay. In winning an Emm…",
-      "url": "https://www.gamespot.com/articles/gta-6s-stephen-root-is-the-franchises-second-ever-emmy-winning-actor/",
-      "date": "2026-09-15T14:59:37.000Z"
-    },
-    {
-      "lead": false,
       "src": "Eurogamer",
       "title": "GTA 6's first confirmed actor is King of the Hill's Stephen Root: \"It's an amazing thing to look at\"",
       "summary": "Rockstar Games hasn't said much about who's voicing the GTA 6 cast, but we now know at least one big-name actor attached to the upcoming crime epic: Stephen Root. Read more",
@@ -89,30 +193,6 @@
       "summary": "The City of Miami Beach has approved negotiations with Rockstar Games for an upcoming marketing campaign. This would bring advertisements for Grand Theft Auto 6 to the seaside city in exchange for millions of dollars. Read more",
       "url": "https://www.eurogamer.net/gta-6-miami-beach-marketing-campagin-negotiations-approved",
       "date": "2026-09-11T08:56:27.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Eurogamer",
-      "title": "\"Today, we are fighting fear\" - Final hearing in Rockstar Games vs. fired GTA 6 developers tribunal begins",
-      "summary": "The final hearing in the Rockstar Games versus the 31 fired GTA 6 developers employment tribunal has begun in Scotland, and it's opened to rallies and rousing speeches from the people unceremoniously marched out of the company's offices last October. Read more",
-      "url": "https://www.eurogamer.net/rockstar-employment-tribunal-fired-gta-6-employees-iwgb",
-      "date": "2026-09-10T12:25:25.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Eurogamer",
-      "title": "Grand Theft Auto 6 worldwide unlock times revealed, and Xbox owners can seemingly still use the old New Zealand trick to play early",
-      "summary": "Grand Theft Auto 6 arrives 19th November on PlayStation 5 and Xbox Series X/S. Depending on where you may be in the world, however, when you actually get to play varies. Read more",
-      "url": "https://www.eurogamer.net/gta-6-worldwide-release-unlock-times-ps5-xbox-series-x-s",
-      "date": "2026-09-08T11:12:12.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Eurogamer",
-      "title": "\"Rockstar has tried to get away with Grand Theft Employment Rights\" - Final hearing in Rockstar vs. GTA 6 fired employees begins this week",
-      "summary": "Two weeks after Grand Theft Auto 6's Netflix reveal , and only a couple of months before the game's meteoric release, Rockstar Games has an employment tribunal to fight. This week, the final hearing in Rockstar vs. the 31 fired Rockstar North employees begins. Read more",
-      "url": "https://www.eurogamer.net/rockstar-north-employment-tribunal-gta-6",
-      "date": "2026-09-08T10:24:19.000Z"
     }
   ]
 }
