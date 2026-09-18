@@ -1,14 +1,46 @@
 {
-  "updated": "2026-09-18T11:01:39.164Z",
+  "updated": "2026-09-18T16:16:33.710Z",
   "count": 24,
   "items": [
     {
       "lead": true,
+      "src": "GameSpot",
+      "title": "A Lot Of People Are Seemingly Taking Time Off Work To Play GTA 6. Are You?",
+      "summary": "BambooHR , a human resources company that provides software-as-a-service for more than 30,000 companies, has released data that suggests people are taking time off to play GTA 6 this November. You might have seen anecdotes online, or even stories from people you know in real life, about skipping work on November 19…",
+      "url": "https://www.gamespot.com/articles/a-lot-of-people-are-seemingly-taking-time-off-work-to-play-gta-6-are-you/",
+      "date": "2026-09-18T16:01:31.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Kotaku",
+      "title": "GTA 5‘s Canceled Liberty City Expansion And Super Early Looks At GTA 6 Revealed Via Another Big Leak",
+      "summary": "An older 190GB leak from 2022 seems to have finally been dumped online for everyone to dig into",
+      "url": "https://kotaku.com/gta-5s-canceled-liberty-city-expansion-and-super-early-looks-at-gta-6-revealed-via-another-big-leak-2000735593",
+      "date": "2026-09-18T15:32:38.000Z"
+    },
+    {
+      "lead": false,
       "src": "Polygon",
-      "title": "GTA 6 Will Get Multiplayer After All, According to Twitch CEO",
-      "summary": "Twitch CEO Dan Clancy revealed during an interview that GTA 6 will get multiplayer 'next year.'",
-      "url": "https://www.polygon.com/gta-6-multiplayer-online-coming-2027-twitch-ceo/",
-      "date": "2026-09-18T10:53:57.000Z"
+      "title": "Massive GTA 5 Leak Reveals Cut DLC Plans and Early GTA 6 Assets",
+      "summary": "The leaks keep coming for Rockstar. A new leak has revealed plans for cut Grand Theft Auto 5 DLC as well as Grand Theft Auto 6 assets.",
+      "url": "https://www.polygon.com/gta-5-leak-cut-dlc-gta-6-assets/",
+      "date": "2026-09-18T14:37:15.000Z"
+    },
+    {
+      "lead": false,
+      "src": "IGN",
+      "title": "New GTA 5 Leak Suggests Rockstar Had Ambitious, City-Sized DLC Plans That Were Ultimately Scrapped",
+      "summary": "GTA 5 has suffered a new leak that suggests Rockstar Games had ambitious, city-sized DLC plans for the game.",
+      "url": "https://www.ign.com/articles/new-gta-5-leak-suggests-rockstar-had-ambitious-city-sized-dlc-plans-that-were-ultimately-scrapped",
+      "date": "2026-09-18T11:34:29.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "The game may be a code in a box, but GTA 6's soundtrack is now available on vinyl for physical media fans",
+      "summary": "Rockstar has just dropped pre-orders for the GTA 6 soundtrack on vinyl, which is helping me cope with the game's lack of a true physical release.",
+      "url": "https://www.gamesradar.com/toys-collectibles/the-game-may-be-a-code-in-a-box-but-gta-6s-soundtrack-is-now-available-on-vinyl-for-physical-media-fans/",
+      "date": "2026-09-18T11:20:57.000Z"
     },
     {
       "lead": false,
@@ -76,22 +108,6 @@
     },
     {
       "lead": false,
-      "src": "IGN",
-      "title": "GTA Online Will Be Supported 'Beyond' GTA 6 Release, PC 'Becoming More and More Important'",
-      "summary": "Rockstar Games plans to support GTA Online \"beyond\" the launch of Grand Theft Auto 6, parent company Take-Two has confirmed.",
-      "url": "https://www.ign.com/articles/gta-online-will-be-supported-beyond-gta-6-release-pc-becoming-more-and-more-important",
-      "date": "2026-09-17T16:50:19.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "Upcoming soulslike Valor Mortis costs $40 as it's up against GTA 6 and the Zelda: Ocarina of Time remake: \"We want this to be a game that you can pick up alongside these other great games\"",
-      "summary": "\"We find ourselves as one of the only new IPs launching in what is objectively the craziest fall in the history of this business\"",
-      "url": "https://www.gamesradar.com/games/action/upcoming-soulslike-valor-mortis-costs-usd40-as-its-up-against-gta-6-and-the-zelda-ocarina-of-time-remake-we-want-this-to-be-a-game-that-you-can-pick-up-alongside-these-other-great-games/",
-      "date": "2026-09-17T16:31:08.000Z"
-    },
-    {
-      "lead": false,
       "src": "GameSpot",
       "title": "GTA 6 Multiplayer Could Launch In 2027, Twitch CEO Says",
       "summary": "Rockstar has described GTA 6 as a \"single-player experience,\" but everyone expects the game to eventually include a multiplayer element given the enormous success of the existing GTA Online. But when could GTA 6's online multiplayer release? According to Twitch CEO Dan Clancy, fans can expect it sometime in 2027. He…",
@@ -105,22 +121,6 @@
       "summary": "Rockstar's Grand Theft Auto 6 launches in November for PlayStation 5 and Xbox Series X|S, but is it also going to release on PC? It won't at launch, but history suggests it will come to PC further down the track. Now, Take-Two boss Strauss Zelnick has commented on the company's approach to PC releases generally. At…",
       "url": "https://www.gamespot.com/articles/gta-6-boss-says-pc-is-becoming-more-and-more-important/",
       "date": "2026-09-17T15:23:56.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "With GTA 6 about to launch, Take-Two boss unloads on investor criticizing \"years of delays, missed expectations, and continued dependence on a small number of major franchises\"",
-      "summary": "Take-Two was \"nearly bankrupt\" before GTA 5 launched",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/with-gta-6-about-to-launch-take-two-boss-unloads-on-investor-criticizing-years-of-delays-missed-expectations-and-continued-dependence-on-a-small-number-of-major-franchises/",
-      "date": "2026-09-17T15:18:48.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "You can't get a physical copy of GTA 6, but you can get the soundtrack on CD or a $125 deluxe vinyl collection",
-      "summary": "GTA 6 features original tracks from Travis Scott, Rauw Alejandro, Keith Richards, Morgan Wallen, and more",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/you-cant-get-a-physical-copy-of-gta-6-but-you-can-get-the-soundtrack-on-cd-or-a-usd125-deluxe-vinyl-collection/",
-      "date": "2026-09-17T15:15:18.000Z"
     },
     {
       "lead": false,
@@ -140,35 +140,11 @@
     },
     {
       "lead": false,
-      "src": "IGN",
-      "title": "Valor Mortis Costs $40 Because of 'The Craziest Fall in the History of This Business'",
-      "summary": "Promising first-person action soulslike Valor Mortis has a confirmed $40 price point, which was settled upon by its publisher because of the fall crush fueled by GTA 6.",
-      "url": "https://www.ign.com/articles/valor-mortis-costs-40-because-of-the-craziest-fall-in-the-history-of-this-business",
-      "date": "2026-09-17T14:14:53.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "GTA 6 on PC sounds even more inevitable in Take-Two CEO's latest comments",
-      "summary": "Strauss Zelnick suggests Grand Theft Auto will target platforms with \"a meaningful audience\"",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-on-pc-sounds-even-more-inevitable-in-take-two-ceos-latest-comments/",
-      "date": "2026-09-17T14:08:35.000Z"
-    },
-    {
-      "lead": false,
       "src": "GameSpot",
       "title": "GTA Is Like Barbie, Take-Two Boss Says",
       "summary": "Rockstar's Grand Theft Auto 6 is one of the most-anticipated game releases ever, and despite the enormous hype, Rockstar and owner Take-Two are going to market the game aggressively. Why does the game even need a marketing push? According to Take-Two boss Strauss Zelnick, just because a franchise is popular and well…",
       "url": "https://www.gamespot.com/articles/gta-is-like-barbie-take-two-boss-says/",
       "date": "2026-09-17T13:59:47.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Kotaku",
-      "title": "GTA 6 Won’t Have A Game Disc But It Is Getting A Vinyl And CD Soundtrack",
-      "summary": "That’s something for the physical media lovers, I suppose",
-      "url": "https://kotaku.com/grand-theft-auto-6-gta6-soundtrack-vinyl-cd-pre-order-2000735270",
-      "date": "2026-09-17T13:18:33.000Z"
     },
     {
       "lead": false,
@@ -193,6 +169,30 @@
       "summary": "Rockstar Games hasn't said much about who's voicing the GTA 6 cast, but we now know at least one big-name actor attached to the upcoming crime epic: Stephen Root. Read more",
       "url": "https://www.eurogamer.net/gta-6-confirmed-actor-king-of-the-hill-stephen-root",
       "date": "2026-09-14T19:04:43.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Eurogamer",
+      "title": "'It would have been insanity to take no action' - Fiery opening statements reveal Rockstar's culture of secrecy as tribunal over sacked GTA 6 employees begins",
+      "summary": "Rockstar Games and the Independent Workers Union of Great Britain (IWGB) have traded blows in fiery opening statements during the final employment tribunal hearing, relating to the sudden firing of 31 Rockstar North employees nearly a year ago . Read more",
+      "url": "https://www.eurogamer.net/rockstar-gta-6-fired-employees-tribunal-statements",
+      "date": "2026-09-11T14:16:10.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Eurogamer",
+      "title": "\"I don't think it's worth any amount of money\" - Controversial real-life GTA 6 advertising campaign passed by City of Miami, but brand can only appear \"discreetly\"",
+      "summary": "The City of Miami Beach has approved negotiations with Rockstar Games for an upcoming marketing campaign. This would bring advertisements for Grand Theft Auto 6 to the seaside city in exchange for millions of dollars. Read more",
+      "url": "https://www.eurogamer.net/gta-6-miami-beach-marketing-campagin-negotiations-approved",
+      "date": "2026-09-11T08:56:27.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Eurogamer",
+      "title": "\"Today, we are fighting fear\" - Final hearing in Rockstar Games vs. fired GTA 6 developers tribunal begins",
+      "summary": "The final hearing in the Rockstar Games versus the 31 fired GTA 6 developers employment tribunal has begun in Scotland, and it's opened to rallies and rousing speeches from the people unceremoniously marched out of the company's offices last October. Read more",
+      "url": "https://www.eurogamer.net/rockstar-employment-tribunal-fired-gta-6-employees-iwgb",
+      "date": "2026-09-10T12:25:25.000Z"
     }
   ]
 }
