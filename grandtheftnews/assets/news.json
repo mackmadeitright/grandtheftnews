@@ -1,9 +1,17 @@
 {
-  "updated": "2026-09-17T21:13:41.046Z",
+  "updated": "2026-09-18T04:24:59.661Z",
   "count": 24,
   "items": [
     {
       "lead": true,
+      "src": "PC Gamer",
+      "title": "GTA 6 has turned October into a new release bloodbath, but AA first-person soulslike Valor Mortis is hellbent on entering the fray",
+      "summary": "Going with a $40 price point will make it an \"and game\".",
+      "url": "https://www.pcgamer.com/gaming-industry/gta-6-has-turned-october-into-a-new-release-bloodbath-but-aa-first-person-soulslike-valor-mortis-is-hellbent-on-entering-the-fray/",
+      "date": "2026-09-18T01:19:18.000Z"
+    },
+    {
+      "lead": false,
       "src": "GameSpot",
       "title": "GTA 6 Will Feature The “Next Evolution Of In-Game Radio,” Rockstar Says",
       "summary": "Tucked away at the bottom of Rockstar's blog post today announcing GTA 6: The Album was a line about other updates to come for the game regarding its sound and music. Rockstar said fans should \"stay tuned for more details about the music of GTA 6,\" and specifically the game's \"dynamic score.\" Additionally, Rockstar…",
@@ -164,14 +172,6 @@
     },
     {
       "lead": false,
-      "src": "IGN",
-      "title": "Twitch Boss Says Game Companies Are Right to Avoid Competing With GTA 6 for Attention — Expects GTA Online 2 Next Year",
-      "summary": "Twitch boss Dan Clancy has said he expects an enormous launch for GTA 6 this November, one video game companies are right to avoid like the plague. But he also expects GTA 6 to continue to hoover up the internet’s attention when GTA Online 2 — or whatever GTA 6’s multiplayer mode is called — launches next year.",
-      "url": "https://www.ign.com/articles/twitch-boss-says-game-companies-are-right-to-avoid-competing-with-gta-6-for-attention-expects-gta-online-2-next-year",
-      "date": "2026-09-17T11:56:47.000Z"
-    },
-    {
-      "lead": false,
       "src": "GamesRadar",
       "title": "13 years in and on its third console generation, how does GTA 5 hold up for a return visit?",
       "summary": "Time Capsule | Revisiting Los Santos on the cusp of GTA 6",
@@ -180,19 +180,19 @@
     },
     {
       "lead": false,
-      "src": "GamesRadar",
-      "title": "GTA 6 still needs marketing even if everyone's heard of it, Take-Two boss says: \"Take awareness and turn it into excitement\"",
-      "summary": "Strauss Zelnick says \"awareness is one thing; enthusiasm is another thing\"",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-still-needs-marketing-even-if-everyones-heard-of-it-take-two-boss-says-take-awareness-and-turn-it-into-excitement/",
-      "date": "2026-09-17T09:48:40.000Z"
-    },
-    {
-      "lead": false,
       "src": "Eurogamer",
       "title": "GTA 6's first confirmed actor is King of the Hill's Stephen Root: \"It's an amazing thing to look at\"",
       "summary": "Rockstar Games hasn't said much about who's voicing the GTA 6 cast, but we now know at least one big-name actor attached to the upcoming crime epic: Stephen Root. Read more",
       "url": "https://www.eurogamer.net/gta-6-confirmed-actor-king-of-the-hill-stephen-root",
       "date": "2026-09-14T19:04:43.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Eurogamer",
+      "title": "'It would have been insanity to take no action' - Fiery opening statements reveal Rockstar's culture of secrecy as tribunal over sacked GTA 6 employees begins",
+      "summary": "Rockstar Games and the Independent Workers Union of Great Britain (IWGB) have traded blows in fiery opening statements during the final employment tribunal hearing, relating to the sudden firing of 31 Rockstar North employees nearly a year ago . Read more",
+      "url": "https://www.eurogamer.net/rockstar-gta-6-fired-employees-tribunal-statements",
+      "date": "2026-09-11T14:16:10.000Z"
     }
   ]
 }
