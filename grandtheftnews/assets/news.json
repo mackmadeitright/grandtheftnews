@@ -1,9 +1,25 @@
 {
-  "updated": "2026-09-19T15:46:58.627Z",
-  "count": 23,
+  "updated": "2026-09-19T20:28:41.242Z",
+  "count": 24,
   "items": [
     {
       "lead": true,
+      "src": "PC Gamer",
+      "title": "Evidence of canceled Grand Theft Auto 5 Liberty City and 'Agent Trevor' DLC, plus early version of GTA6's map surface online",
+      "summary": "Their exact provenance is unclear, but they seem to have come from the big 2023 hack.",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/evidence-of-canceled-grand-theft-auto-5-liberty-city-and-agent-trevor-dlc-plus-early-version-of-gta6s-map-surface-online/",
+      "date": "2026-09-19T19:47:25.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Kotaku",
+      "title": "Grand Theft Auto 6 T-Shirts And More Cause Scalper-Fueled Chaos at Tokyo Game Show",
+      "summary": "Not even Japan is immune to scalpers ruining the fun for everyone",
+      "url": "https://kotaku.com/grand-theft-auto-6-t-shirts-and-more-cause-scalper-fueled-chaos-at-tokyo-game-show-2000735854",
+      "date": "2026-09-19T17:30:31.000Z"
+    },
+    {
+      "lead": false,
       "src": "Kotaku",
       "title": "GTA 6 Boss Seems A Bit Grumpy And Defensive While Answering An Investor’s Question About Frequent Delays",
       "summary": "During a recent stockholder meeting, Take-Two CEO Strauss Zelnick quibbled about a question",
@@ -49,14 +65,6 @@
       "summary": "BambooHR , a human resources company that provides software-as-a-service for more than 30,000 companies, has released data that suggests people are taking time off to play GTA 6 this November. You might have seen anecdotes online, or even stories from people you know in real life, about skipping work on November 19…",
       "url": "https://www.gamespot.com/articles/a-lot-of-people-are-seemingly-taking-time-off-work-to-play-gta-6-are-you/",
       "date": "2026-09-18T16:01:31.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Kotaku",
-      "title": "GTA 5‘s Canceled Liberty City Expansion And Super Early Looks At GTA 6 Revealed Via Another Big Leak",
-      "summary": "An older 190GB leak from 2022 seems to have finally been dumped online for everyone to dig into",
-      "url": "https://kotaku.com/gta-5s-canceled-liberty-city-expansion-and-super-early-looks-at-gta-6-revealed-via-another-big-leak-2000735593",
-      "date": "2026-09-18T15:32:38.000Z"
     },
     {
       "lead": false,
