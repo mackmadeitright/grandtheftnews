@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-18T23:10:58.762Z",
+  "updated": "2026-09-19T04:22:23.997Z",
   "count": 24,
   "items": [
     {
@@ -57,14 +57,6 @@
       "summary": "An older 190GB leak from 2022 seems to have finally been dumped online for everyone to dig into",
       "url": "https://kotaku.com/gta-5s-canceled-liberty-city-expansion-and-super-early-looks-at-gta-6-revealed-via-another-big-leak-2000735593",
       "date": "2026-09-18T15:32:38.000Z"
-    },
-    {
-      "lead": false,
-      "src": "IGN",
-      "title": "New GTA 5 Leak Suggests Rockstar Had Ambitious, City-Sized DLC Plans That Were Ultimately Scrapped",
-      "summary": "GTA 5 has suffered a new leak that suggests Rockstar Games had ambitious, city-sized DLC plans for the game.",
-      "url": "https://www.ign.com/articles/new-gta-5-leak-suggests-rockstar-had-ambitious-city-sized-dlc-plans-that-were-ultimately-scrapped",
-      "date": "2026-09-18T11:34:29.000Z"
     },
     {
       "lead": false,
@@ -193,6 +185,14 @@
       "summary": "Rockstar Games and the Independent Workers Union of Great Britain (IWGB) have traded blows in fiery opening statements during the final employment tribunal hearing, relating to the sudden firing of 31 Rockstar North employees nearly a year ago . Read more",
       "url": "https://www.eurogamer.net/rockstar-gta-6-fired-employees-tribunal-statements",
       "date": "2026-09-11T14:16:10.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Eurogamer",
+      "title": "\"I don't think it's worth any amount of money\" - Controversial real-life GTA 6 advertising campaign passed by City of Miami, but brand can only appear \"discreetly\"",
+      "summary": "The City of Miami Beach has approved negotiations with Rockstar Games for an upcoming marketing campaign. This would bring advertisements for Grand Theft Auto 6 to the seaside city in exchange for millions of dollars. Read more",
+      "url": "https://www.eurogamer.net/gta-6-miami-beach-marketing-campagin-negotiations-approved",
+      "date": "2026-09-11T08:56:27.000Z"
     }
   ]
 }
