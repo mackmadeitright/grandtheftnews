@@ -1,9 +1,17 @@
 {
-  "updated": "2026-09-20T04:40:40.320Z",
-  "count": 23,
+  "updated": "2026-09-20T11:08:23.255Z",
+  "count": 24,
   "items": [
     {
       "lead": true,
+      "src": "Polygon",
+      "title": "The GTA Timeline Is Completely Irrelevant",
+      "summary": "Rockstar's Grand Theft Auto games are loosely connected, but they all stand alone for a reason",
+      "url": "https://www.polygon.com/gta-timeline-doesnt-matter/",
+      "date": "2026-09-20T08:30:14.000Z"
+    },
+    {
+      "lead": false,
       "src": "PC Gamer",
       "title": "Evidence of canceled Grand Theft Auto 5 Liberty City and 'Agent Trevor' DLC, plus early version of GTA6's map surface online",
       "summary": "Their exact provenance is unclear, but they seem to have come from the big 2023 hack.",
