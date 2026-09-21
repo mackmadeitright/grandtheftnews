@@ -1,9 +1,25 @@
 {
-  "updated": "2026-09-21T19:56:08.017Z",
-  "count": 16,
+  "updated": "2026-09-21T23:59:26.585Z",
+  "count": 17,
   "items": [
     {
       "lead": true,
+      "src": "IGN",
+      "title": "Rockstar Games Is Taking Down Footage and Images of Scrapped GTA 5 DLC And Early Version of Leaked GTA 6 Map",
+      "summary": "Take-Two Interactive, the parent company of Rockstar Games, has begun taking down videos and posts about leaked GTA 5 and GTA 6 content.",
+      "url": "https://www.ign.com/articles/rockstar-games-is-taking-down-footage-and-images-of-scrapped-gta-5-dlc-and-early-version-of-leaked-gta-6-map",
+      "date": "2026-09-21T21:48:48.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "Former Valve writer says \"giant teams just don't work\" in video game development, unless you're making GTA 6",
+      "summary": "Chet Faliszek doesn't think Valve needs to get any bigger",
+      "url": "https://www.gamesradar.com/games/former-valve-writer-says-giant-teams-just-dont-work-in-video-game-development-unless-youre-making-gta-6/",
+      "date": "2026-09-21T20:59:51.000Z"
+    },
+    {
+      "lead": false,
       "src": "Eurogamer",
       "title": "Weeks before GTA 6, Rockstar Games imposes new guidelines that restrict mods for missions, maps, updated storylines, and third-party IP",
       "summary": "Ahead of the bottomless GTA 6 mods we'll surely get whenever the crime epic finally comes to PC, Rockstar Games has imposed new restrictions on the modding community and, boy, they are tight. Read more",
@@ -81,14 +97,6 @@
       "summary": "Tucked away at the bottom of Rockstar's blog post today announcing GTA 6: The Album was a line about other updates to come for the game regarding its sound and music. Rockstar said fans should \"stay tuned for more details about the music of GTA 6,\" and specifically the game's \"dynamic score.\" Additionally, Rockstar…",
       "url": "https://www.gamespot.com/articles/gta-6-will-feature-the-next-evolution-of-in-game-radio-rockstar-says/",
       "date": "2026-09-17T19:17:49.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GameSpot",
-      "title": "Scientists Discovered A New Cat Before Rockstar Could Finish GTA 6",
-      "summary": "Rockstar's Grand Theft Auto 6 has been in development since 2015 , and a lot of things have happened since then, including the recent discovery a new species of cat. The scientific journal Current Biology disclosed the discovery of Leopardus tilcayo--known as the tilcayo tiger cat--this week. The adorable little cre…",
-      "url": "https://www.gamespot.com/articles/scientists-discovered-a-new-cat-before-rockstar-could-finish-gta-6/",
-      "date": "2026-09-17T18:53:17.000Z"
     },
     {
       "lead": false,
