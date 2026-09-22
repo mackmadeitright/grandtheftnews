@@ -1,9 +1,25 @@
 {
-  "updated": "2026-09-22T16:46:02.306Z",
-  "count": 12,
+  "updated": "2026-09-22T21:10:45.605Z",
+  "count": 13,
   "items": [
     {
       "lead": true,
+      "src": "IGN",
+      "title": "Grand Theft Auto 6's Miami Takeover Begins as Rockstar Spends Nearly $1 Million on 'Welcome to Vice City' Signage",
+      "summary": "Rockstar Games has reportedly spent $1 million to install a \"Welcome to Vice City\" sign in Miami as part of Grand Theft Auto 6's marketing push.",
+      "url": "https://www.ign.com/articles/grand-theft-auto-6s-miami-takeover-begins-as-rockstar-spends-nearly-1-million-on-welcome-to-vice-city-signage",
+      "date": "2026-09-22T20:26:52.000Z"
+    },
+    {
+      "lead": false,
+      "src": "IGN",
+      "title": "'You're Going to Take a Hit': Rainbow Six Siege Director Bracing for GTA 6 Launch Impact, Promises Players Who Stick Around Will Be Served 'Like Kings and Queens'",
+      "summary": "Ubisoft has discussed how it is bracing for the launch of Grand Theft Auto 6, and plans to reward Rainbow Six Siege players who stick around \"like kings and queens.\"",
+      "url": "https://www.ign.com/articles/youre-going-to-take-a-hit-rainbow-six-siege-director-bracing-for-gta-6-launch-impact-promises-players-who-stick-around-will-be-served-like-kings-and-queens",
+      "date": "2026-09-22T16:04:32.000Z"
+    },
+    {
+      "lead": false,
       "src": "GamesRadar",
       "title": "Modding GTA 6 sounds illegal in Rockstar's guidelines, but that's never stopped modders before",
       "summary": "The community has spoken, and it's pretty unfazed",
@@ -33,14 +49,6 @@
       "summary": "Ahead of Grand Theft Auto 6 , Rockstar tries to remind modders what it's not okay with",
       "url": "https://kotaku.com/rockstar-asks-fans-to-respect-their-games-as-it-updates-strict-modding-guidelines-2000736306",
       "date": "2026-09-22T12:32:51.000Z"
-    },
-    {
-      "lead": false,
-      "src": "IGN",
-      "title": "Rockstar Games Is Taking Down Footage and Images of Scrapped GTA 5 DLC And Early Version of Leaked GTA 6 Map",
-      "summary": "Take-Two Interactive, the parent company of Rockstar Games, has begun taking down videos and posts about leaked GTA 5 and GTA 6 content.",
-      "url": "https://www.ign.com/articles/rockstar-games-is-taking-down-footage-and-images-of-scrapped-gta-5-dlc-and-early-version-of-leaked-gta-6-map",
-      "date": "2026-09-21T21:48:48.000Z"
     },
     {
       "lead": false,
