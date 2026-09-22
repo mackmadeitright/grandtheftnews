@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-22T04:44:40.352Z",
-  "count": 17,
+  "updated": "2026-09-22T11:23:59.108Z",
+  "count": 14,
   "items": [
     {
       "lead": true,
@@ -52,14 +52,6 @@
     },
     {
       "lead": false,
-      "src": "GamesRadar",
-      "title": "Ahead of GTA 6, Rockstar releases modding guidelines that axe new missions, maps, ports, and more: \"Respect our games\"",
-      "summary": "\"No fun allowed basically,\" as fans say",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/ahead-of-gta-6-rockstar-releases-modding-guidelines-that-axe-new-missions-maps-ports-and-more-respect-our-games/",
-      "date": "2026-09-21T10:11:49.000Z"
-    },
-    {
-      "lead": false,
       "src": "Eurogamer",
       "title": "New 200GB GTA 5 leak suggests Rockstar Games scrapped a massive Liberty City DLC, and reportedly includes very early GTA 6 work",
       "summary": "Rockstar Games ' latest leak seemingly includes a nearly 200GB version of GTA 5 's source code, suggesting the developer started and then scrapped plans for a Liberty City DLC, alongside very early files related to GTA 6 . Read more",
@@ -92,14 +84,6 @@
     },
     {
       "lead": false,
-      "src": "GameSpot",
-      "title": "GTA 6 Will Feature The “Next Evolution Of In-Game Radio,” Rockstar Says",
-      "summary": "Tucked away at the bottom of Rockstar's blog post today announcing GTA 6: The Album was a line about other updates to come for the game regarding its sound and music. Rockstar said fans should \"stay tuned for more details about the music of GTA 6,\" and specifically the game's \"dynamic score.\" Additionally, Rockstar…",
-      "url": "https://www.gamespot.com/articles/gta-6-will-feature-the-next-evolution-of-in-game-radio-rockstar-says/",
-      "date": "2026-09-17T19:17:49.000Z"
-    },
-    {
-      "lead": false,
       "src": "Eurogamer",
       "title": "GTA 6 is getting a 34-song original soundtrack, with music from multiple real-world artists - and you can stream six tracks today",
       "summary": "Grand Theft Auto 6 's original soundtrack was partially revealed today. The full album contains 34 original tracks made for the upcoming open-world crime game. Read more",
@@ -129,14 +113,6 @@
       "summary": "The City of Miami Beach has approved negotiations with Rockstar Games for an upcoming marketing campaign. This would bring advertisements for Grand Theft Auto 6 to the seaside city in exchange for millions of dollars. Read more",
       "url": "https://www.eurogamer.net/gta-6-miami-beach-marketing-campagin-negotiations-approved",
       "date": "2026-09-11T08:56:27.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Eurogamer",
-      "title": "\"Today, we are fighting fear\" - Final hearing in Rockstar Games vs. fired GTA 6 developers tribunal begins",
-      "summary": "The final hearing in the Rockstar Games versus the 31 fired GTA 6 developers employment tribunal has begun in Scotland, and it's opened to rallies and rousing speeches from the people unceremoniously marched out of the company's offices last October. Read more",
-      "url": "https://www.eurogamer.net/rockstar-employment-tribunal-fired-gta-6-employees-iwgb",
-      "date": "2026-09-10T12:25:25.000Z"
     }
   ]
 }
