@@ -1,9 +1,33 @@
 {
-  "updated": "2026-09-23T11:20:53.294Z",
-  "count": 15,
+  "updated": "2026-09-23T16:42:49.637Z",
+  "count": 13,
   "items": [
     {
       "lead": true,
+      "src": "GamesRadar",
+      "title": "NBA star warns GTA 6 will ruin November sports because players and coaches will be too busy playing to train",
+      "summary": "\"Look at all the leagues and watch them plummet,\" says Steven Adams",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/nba-star-warns-gta-6-will-ruin-november-sports-because-players-and-coaches-will-be-too-busy-playing-to-train/",
+      "date": "2026-09-23T16:03:28.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GameSpot",
+      "title": "GTA 6 Will Make Pro Athletes Perform Worse, NBA Star Says",
+      "summary": "Steven Adams of the NBA's Houston Rockets has predicted that all the major professional sports leagues will experience a dip in quality this November because top athletes will be too focused on GTA 6. Speaking to press, Adams said, \"Look at the NFL, look at all the leagues, and watch them plummet. Just for the month…",
+      "url": "https://www.gamespot.com/articles/gta-6-will-make-pro-athletes-perform-worse-nba-star-says/",
+      "date": "2026-09-23T14:57:50.000Z"
+    },
+    {
+      "lead": false,
+      "src": "IGN",
+      "title": "‘Vice City’ Trademark Abandoned by WWE ahead of GTA 6 launch",
+      "summary": "With GTA 6 imminent, it appears that WWE was trying to trademark the term ‘Vice City,’ before abandoning plans to do so.",
+      "url": "https://www.ign.com/articles/vice-city-trademark-abandoned-by-wwe-ahead-of-gta-6-launch",
+      "date": "2026-09-23T11:33:38.000Z"
+    },
+    {
+      "lead": false,
       "src": "IGN",
       "title": "NBA Star Steven Adams Says GTA 6's Launch Will Lead to a 'League-Wide' Drop in Performance for Athletes and Coaches",
       "summary": "NBA athlete Steven Adams has warned that fans should expect a \"league-wide\" drop in performance for athletes across all sports in November due to GTA 6's release.",
@@ -20,43 +44,11 @@
     },
     {
       "lead": false,
-      "src": "Polygon",
-      "title": "Game Awards 2026: All Game of the Year Front-Runners and Predictions",
-      "summary": "We rank the contenders for GOTY 2026 at TGAs, including Resident Evil Requiem and Grand Theft Auto 6",
-      "url": "https://www.polygon.com/game-of-the-year-goty-game-awards-2026-frontrunners/",
-      "date": "2026-09-22T21:42:06.000Z"
-    },
-    {
-      "lead": false,
       "src": "IGN",
       "title": "Grand Theft Auto 6's Miami Takeover Begins as Rockstar Spends Nearly $1 Million on 'Welcome to Vice City' Signage",
       "summary": "Rockstar Games has reportedly spent $1 million to install a \"Welcome to Vice City\" sign in Miami as part of Grand Theft Auto 6's marketing push.",
       "url": "https://www.ign.com/articles/grand-theft-auto-6s-miami-takeover-begins-as-rockstar-spends-nearly-1-million-on-welcome-to-vice-city-signage",
       "date": "2026-09-22T20:26:52.000Z"
-    },
-    {
-      "lead": false,
-      "src": "IGN",
-      "title": "'You're Going to Take a Hit': Rainbow Six Siege Director Bracing for GTA 6 Launch Impact, Promises Players Who Stick Around Will Be Served 'Like Kings and Queens'",
-      "summary": "Ubisoft has discussed how it is bracing for the launch of Grand Theft Auto 6, and plans to reward Rainbow Six Siege players who stick around \"like kings and queens.\"",
-      "url": "https://www.ign.com/articles/youre-going-to-take-a-hit-rainbow-six-siege-director-bracing-for-gta-6-launch-impact-promises-players-who-stick-around-will-be-served-like-kings-and-queens",
-      "date": "2026-09-22T16:04:32.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "Modding GTA 6 sounds illegal in Rockstar's guidelines, but that's never stopped modders before",
-      "summary": "The community has spoken, and it's pretty unfazed",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/modding-gta-6-sounds-outright-illegal-under-rockstars-guidelines-but-thats-never-stopped-modders-before/",
-      "date": "2026-09-22T15:38:01.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "GTA 6 won't beat the GOTY record set by Baldur's Gate 3 and Clair Obscur: Expedition 33",
-      "summary": "GTA 6 isn't eligible for this year's Golden Joystick Awards",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-will-not-be-eligible-to-complete-baldurs-gate-3-and-clair-obscur-expedition-33s-big-5-goty-sweep-in-the-2026-7-season/",
-      "date": "2026-09-22T15:05:00.000Z"
     },
     {
       "lead": false,
@@ -81,14 +73,6 @@
       "summary": "Grand Theft Auto fans are known for a love of speculation and information sleuthing at this point, and this certainly hasn't changed since Rockstar released the extended gameplay preview for Grand Theft Auto 6 . The community's current fixation? Whether or not Key West will be in the game. Read more",
       "url": "https://www.eurogamer.net/grand-theft-auto-6-key-west-map",
       "date": "2026-09-21T15:48:09.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GameSpot",
-      "title": "Sony Turned The DualSense Into Live, Laugh, Love For Lisa’s New PS5 Controller",
-      "summary": "Last year, Sony announced that it was partnering with Blackpink member and actor Lisa to promote the PlayStation 5, and that collaboration has resulted in an interesting spin on the PS5 DualSense controller. While previous limited-edition controllers for games like Marvel's Wolverine, Marathon, and GTA 6 have used b…",
-      "url": "https://www.gamespot.com/articles/sony-turned-the-dualsense-into-live-laugh-love-for-lisas-new-ps5-controller/",
-      "date": "2026-09-21T13:03:48.000Z"
     },
     {
       "lead": false,
