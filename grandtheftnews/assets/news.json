@@ -1,9 +1,33 @@
 {
-  "updated": "2026-09-22T21:10:45.605Z",
-  "count": 13,
+  "updated": "2026-09-23T04:31:25.899Z",
+  "count": 15,
   "items": [
     {
       "lead": true,
+      "src": "IGN",
+      "title": "NBA Star Steven Adams Says GTA 6's Launch Will Lead to a 'League-Wide' Drop in Performance for Athletes and Coaches",
+      "summary": "NBA athlete Steven Adams has warned that fans should expect a \"league-wide\" drop in performance for athletes across all sports in November due to GTA 6's release.",
+      "url": "https://www.ign.com/articles/nba-star-steven-adams-says-gta-6s-launch-will-lead-to-a-league-wide-drop-in-performance-for-athletes-and-coaches",
+      "date": "2026-09-22T22:36:03.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "GTA 6's $1 million billboard goes up despite protests from local police",
+      "summary": "The Kaseya Center is the first location to host Rockstar's marketing",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6s-usd1-million-billboard-goes-up-despite-protests-from-local-police-as-rockstars-real-life-miami-takeover-gets-underway/",
+      "date": "2026-09-22T21:47:17.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Polygon",
+      "title": "Game Awards 2026: All Game of the Year Front-Runners and Predictions",
+      "summary": "We rank the contenders for GOTY 2026 at TGAs, including Resident Evil Requiem and Grand Theft Auto 6",
+      "url": "https://www.polygon.com/game-of-the-year-goty-game-awards-2026-frontrunners/",
+      "date": "2026-09-22T21:42:06.000Z"
+    },
+    {
+      "lead": false,
       "src": "IGN",
       "title": "Grand Theft Auto 6's Miami Takeover Begins as Rockstar Spends Nearly $1 Million on 'Welcome to Vice City' Signage",
       "summary": "Rockstar Games has reportedly spent $1 million to install a \"Welcome to Vice City\" sign in Miami as part of Grand Theft Auto 6's marketing push.",
@@ -41,14 +65,6 @@
       "summary": "Ahead of its release in November, the marketing for Grand Theft Auto 6 has begun to take over Miami's Kaseya Center. As part of the campaign, developer Rockstar Games and publisher Take-Two Interactive are decking out the stadium in giant GTA 6 letters that will spell out \"Welcome to Vice City\" once they're fully in…",
       "url": "https://www.gamespot.com/articles/gta-6-is-taking-over-miami-one-airlifted-letter-at-a-time/",
       "date": "2026-09-22T14:25:05.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Kotaku",
-      "title": "Rockstar Asks Fans To ‘Respect Our Games’ As It Updates Strict Modding Guidelines",
-      "summary": "Ahead of Grand Theft Auto 6 , Rockstar tries to remind modders what it's not okay with",
-      "url": "https://kotaku.com/rockstar-asks-fans-to-respect-their-games-as-it-updates-strict-modding-guidelines-2000736306",
-      "date": "2026-09-22T12:32:51.000Z"
     },
     {
       "lead": false,
