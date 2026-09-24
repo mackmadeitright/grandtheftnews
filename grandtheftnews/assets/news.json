@@ -1,11 +1,27 @@
 {
-  "updated": "2026-09-24T16:59:58.283Z",
-  "count": 17,
+  "updated": "2026-09-24T21:25:28.248Z",
+  "count": 18,
   "items": [
     {
       "lead": true,
+      "src": "IGN",
+      "title": "Xbox Says Its Share of GTA 6 Preorders Matches Its Share of the Console Market, Following PS5 Dominance Claim",
+      "summary": "Microsoft has stepped in to address a report that claimed GTA 6 preorders are “heavily skewed” toward PlayStation 5 over Xbox Series X and S.",
+      "url": "https://www.ign.com/articles/xbox-says-its-share-of-gta-6-preorders-matches-its-share-of-the-console-market-following-ps5-dominance-claim",
+      "date": "2026-09-24T20:55:34.000Z"
+    },
+    {
+      "lead": false,
+      "src": "IGN",
+      "title": "GTA 6 Fans Are Outraged by $400 Collector's Set and Are Comparing It to Red Dead Redemption 2's Version",
+      "summary": "GTA 6 fans aren't thrilled about a $400 collector's set that doesn't include the game, and they're even comparing it to previous Rockstar collector's editions.",
+      "url": "https://www.ign.com/articles/gta-6-fans-are-outraged-by-400-collectors-set-and-are-comparing-it-to-red-dead-redemption-2s-version",
+      "date": "2026-09-24T17:21:14.000Z"
+    },
+    {
+      "lead": false,
       "src": "Kotaku",
-      "title": "Fans Reacts To GTA 6‘s $400 Collector’s Box That Doesn’t Include The Game: ‘We Wanted Jason And Lucia, And We Got An Alligator Instead.’",
+      "title": "Fans React To GTA 6′s $400 Collector’s Box That Doesn’t Include The Game: ‘We Wanted Jason And Lucia, And We Got An Alligator Instead’",
       "summary": "For many fans, this isn't the big box of GTA stuff they wanted and the price isn't winning them over",
       "url": "https://kotaku.com/fans-reacts-to-gta-6s-400-collectors-box-that-doesnt-include-the-game-we-wanted-jason-and-lucia-and-we-got-an-alligator-instead-2000737007",
       "date": "2026-09-24T16:52:35.000Z"
@@ -17,14 +33,6 @@
       "summary": "Rockstar's been in the cutlery game for a minute",
       "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6s-usd400-collectible-spoon-is-actually-a-reference-to-another-far-more-expensive-gta-spoon-from-18-years-ago/",
       "date": "2026-09-24T16:42:28.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Polygon",
-      "title": "GTA 6 Collector’s Box Officially Revealed and It Doesn’t Include the Game",
-      "summary": "Rockstar's $400 GTA 6: The Goodtime State - Vice City Collection includes everything but the actual game",
-      "url": "https://www.polygon.com/gta-6-vice-city-collection-announced-price-features/",
-      "date": "2026-09-24T16:34:37.000Z"
     },
     {
       "lead": false,
