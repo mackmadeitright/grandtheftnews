@@ -1,9 +1,73 @@
 {
-  "updated": "2026-09-24T11:33:23.076Z",
-  "count": 13,
+  "updated": "2026-09-24T16:59:58.283Z",
+  "count": 17,
   "items": [
     {
       "lead": true,
+      "src": "Kotaku",
+      "title": "Fans Reacts To GTA 6‘s $400 Collector’s Box That Doesn’t Include The Game: ‘We Wanted Jason And Lucia, And We Got An Alligator Instead.’",
+      "summary": "For many fans, this isn't the big box of GTA stuff they wanted and the price isn't winning them over",
+      "url": "https://kotaku.com/fans-reacts-to-gta-6s-400-collectors-box-that-doesnt-include-the-game-we-wanted-jason-and-lucia-and-we-got-an-alligator-instead-2000737007",
+      "date": "2026-09-24T16:52:35.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "GTA 6's $400 collectible spoon is actually a reference to another, far more expensive GTA spoon",
+      "summary": "Rockstar's been in the cutlery game for a minute",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6s-usd400-collectible-spoon-is-actually-a-reference-to-another-far-more-expensive-gta-spoon-from-18-years-ago/",
+      "date": "2026-09-24T16:42:28.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Polygon",
+      "title": "GTA 6 Collector’s Box Officially Revealed and It Doesn’t Include the Game",
+      "summary": "Rockstar's $400 GTA 6: The Goodtime State - Vice City Collection includes everything but the actual game",
+      "url": "https://www.polygon.com/gta-6-vice-city-collection-announced-price-features/",
+      "date": "2026-09-24T16:34:37.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Eurogamer",
+      "title": "Rockstar reveals a £350 box of naughty GTA 6 collectables you definitely wouldn't get through airport security",
+      "summary": "Rockstar Games has announced a limited Goodtime State Vice City collection of goodies for Grand Theft Auto 6 that's ludicrously expensive - &pound;349 - doesn't include a copy of the game, and is pre-orderable now. Read more",
+      "url": "https://www.eurogamer.net/gta-6-collectible-suspicious-mirror-keychain-spoon",
+      "date": "2026-09-24T16:20:44.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "GTA 6 Collector's Box is $400 and doesn't have the game, but you do get a spoon, stickers, and more",
+      "summary": "Rockstar's even throwing in a pair of Oakleys",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-collectors-box-is-usd400-and-doesnt-include-the-game-but-you-do-get-a-spoon-stickers-and-more-needlessly-expensive-merch/",
+      "date": "2026-09-24T15:44:05.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GameSpot",
+      "title": "GTA 6 $400 Collector’s Edition Comes With Everything Except The Game",
+      "summary": "Rockstar Games has officially confirmed a $400 Grand Theft Auto 6 collector's edition, which doesn't include the game. The developer says The Goodtime State: Vice City Collection is inspired by Leonida’s hit TV show, Macca the Gator, and it's now available to preorder . It'll launch on November 19, the same day as G…",
+      "url": "https://www.gamespot.com/articles/gta-6-400-collectors-edition-comes-with-everything-except-the-game/",
+      "date": "2026-09-24T15:26:16.000Z"
+    },
+    {
+      "lead": false,
+      "src": "IGN",
+      "title": "GTA 6 Is Getting a $400 Collector's Set That Doesn't Include the Game",
+      "summary": "GTA 6 is getting a $400 collector's set filled with Vice City-themed goodies, but it won't include a copy of the game.",
+      "url": "https://www.ign.com/articles/gta-6-is-getting-a-400-collectors-set-that-doesnt-include-the-game",
+      "date": "2026-09-24T15:20:43.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Kotaku",
+      "title": "Rockstar Reveals $400 Grand Theft Auto 6 Box Of Stuff That Doesn’t Include The Game",
+      "summary": "This collection includes a ton of Vice City-inspired extras, like a statue, sunglasses, and crossbody bag",
+      "url": "https://kotaku.com/rockstar-reveals-400-special-edition-of-grand-theft-auto-6-2000736975",
+      "date": "2026-09-24T15:17:22.000Z"
+    },
+    {
+      "lead": false,
       "src": "GamesRadar",
       "title": "Wardogs boss says \"games need to cost more\" and GTA 6 should've been the game to make the change",
       "summary": "Joe Brammer says Rockstar \"had a chance to raise the bar and they didn't do it, so we'll keep going round\"",
@@ -20,43 +84,11 @@
     },
     {
       "lead": false,
-      "src": "IGN",
-      "title": "Game of Thrones Star Kit Harington Isn't a Gamer, but He's Excited for Grand Theft Auto 6",
-      "summary": "Game of Thrones star Kit Harington has confessed that he isn't much of a gamer, but wants to play Grand Theft Auto 6.",
-      "url": "https://www.ign.com/articles/game-of-thrones-star-kit-harington-isnt-a-gamer-but-hes-excited-for-grand-theft-auto-6",
-      "date": "2026-09-23T18:50:42.000Z"
-    },
-    {
-      "lead": false,
-      "src": "IGN",
-      "title": "GTA 6 Shirts Given Away for Free at Tokyo Game Show Are Being Resold Online for Hundreds of Dollars",
-      "summary": "GTA 6 shirts that were given away for free exclusively at Tokyo Game Show 2026 are already being resold online for hundreds of dollars.",
-      "url": "https://www.ign.com/articles/grand-theft-auto-6-shirts-given-away-for-free-at-tokyo-game-show-are-being-resold-online-for-hundreds-of-dollars",
-      "date": "2026-09-23T17:30:01.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "NBA star warns GTA 6 will ruin November sports because players and coaches will be too busy playing to train",
-      "summary": "\"Look at all the leagues and watch them plummet,\" says Steven Adams",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/nba-star-warns-gta-6-will-ruin-november-sports-because-players-and-coaches-will-be-too-busy-playing-to-train/",
-      "date": "2026-09-23T16:03:28.000Z"
-    },
-    {
-      "lead": false,
       "src": "GameSpot",
       "title": "GTA 6 Will Make Pro Athletes Perform Worse, NBA Star Says",
       "summary": "Steven Adams of the NBA's Houston Rockets has predicted that all the major professional sports leagues will experience a dip in quality this November because top athletes will be too focused on GTA 6. Speaking to press, Adams said, \"Look at the NFL, look at all the leagues, and watch them plummet. Just for the month…",
       "url": "https://www.gamespot.com/articles/gta-6-will-make-pro-athletes-perform-worse-nba-star-says/",
       "date": "2026-09-23T14:57:50.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GameSpot",
-      "title": "GTA 6 Is Taking Over Miami, One Airlifted Letter At A Time",
-      "summary": "Ahead of its release in November, the marketing for Grand Theft Auto 6 has begun to take over Miami's Kaseya Center. As part of the campaign, developer Rockstar Games and publisher Take-Two Interactive are decking out the stadium in giant GTA 6 letters that will spell out \"Welcome to Vice City\" once they're fully in…",
-      "url": "https://www.gamespot.com/articles/gta-6-is-taking-over-miami-one-airlifted-letter-at-a-time/",
-      "date": "2026-09-22T14:25:05.000Z"
     },
     {
       "lead": false,
