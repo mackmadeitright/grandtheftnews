@@ -1,9 +1,17 @@
 {
-  "updated": "2026-09-25T04:40:07.562Z",
+  "updated": "2026-09-25T11:39:46.005Z",
   "count": 17,
   "items": [
     {
       "lead": true,
+      "src": "GamesRadar",
+      "title": "Xbox is \"very happy with GTA 6 pre-orders,\" exec claims they match \"our share of the console market\"",
+      "summary": "Rockstar's upcoming blockbuster is apparently setting records for Microsoft",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/xbox-is-very-happy-with-gta-6-pre-orders-exec-says-claims-sales-match-our-share-of-the-console-market/",
+      "date": "2026-09-25T11:13:30.000Z"
+    },
+    {
+      "lead": false,
       "src": "IGN",
       "title": "Xbox Says Its Share of GTA 6 Preorders Matches Its Share of the Console Market, Following PS5 Dominance Claim",
       "summary": "Microsoft has stepped in to address a report that claimed GTA 6 preorders are “heavily skewed” toward PlayStation 5 over Xbox Series X and S.",
@@ -65,14 +73,6 @@
       "summary": "This collection includes a ton of Vice City-inspired extras, like a statue, sunglasses, and crossbody bag",
       "url": "https://kotaku.com/rockstar-reveals-400-special-edition-of-grand-theft-auto-6-2000736975",
       "date": "2026-09-24T15:17:22.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "Wardogs boss says \"games need to cost more\" and GTA 6 should've been the game to make the change",
-      "summary": "Joe Brammer says Rockstar \"had a chance to raise the bar and they didn't do it, so we'll keep going round\"",
-      "url": "https://www.gamesradar.com/games/fps/wardogs-boss-says-games-need-to-cost-more-and-gta-6-shouldve-been-the-game-to-make-the-change/",
-      "date": "2026-09-24T10:22:10.000Z"
     },
     {
       "lead": false,
