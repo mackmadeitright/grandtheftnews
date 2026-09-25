@@ -1,9 +1,33 @@
 {
-  "updated": "2026-09-25T17:02:03.347Z",
-  "count": 17,
+  "updated": "2026-09-25T21:26:19.614Z",
+  "count": 16,
   "items": [
     {
       "lead": true,
+      "src": "Polygon",
+      "title": "GTA 6 and Fire Emblem Have a Weird Connection No One Expected",
+      "summary": "Grand Theft Auto 6 and Fire Emblem: Fortune's Weave both prominently feature an uncommon type of sea mammal, and I love it",
+      "url": "https://www.polygon.com/gta-6-fire-emblem-manatees-sea-beast/",
+      "date": "2026-09-25T21:00:16.000Z"
+    },
+    {
+      "lead": false,
+      "src": "IGN",
+      "title": "GTA 6 Fans Are Already 3D Printing Items in the Game's $400 Collector's Edition",
+      "summary": "Fans of GTA 6 are already copying items in the game’s $400 collector’s edition and 3D-printing them for a far cheaper price.",
+      "url": "https://www.ign.com/articles/gta-6-fans-are-already-3d-printing-items-in-the-games-400-collectors-edition",
+      "date": "2026-09-25T19:44:29.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Polygon",
+      "title": "Xbox Downplays GTA 6's Massive PS5 Pre-Order Numbers",
+      "summary": "Xbox's executives respond to reports that GTA 6 on PS5 is vastly outselling the game on Microsoft's hardware platform.",
+      "url": "https://www.polygon.com/gta-6-preorders-xbox-ps5-sales-matthew-ball-response/",
+      "date": "2026-09-25T18:58:32.000Z"
+    },
+    {
+      "lead": false,
       "src": "PC Gamer",
       "title": "I made the hot dog vendors in GTA 5 work because Rockstar never did",
       "summary": "Higher body count than I was expecting.",
@@ -36,22 +60,6 @@
     },
     {
       "lead": false,
-      "src": "IGN",
-      "title": "Xbox Says Its Share of GTA 6 Preorders Matches Its Share of the Console Market, Following PS5 Dominance Claim",
-      "summary": "Microsoft has stepped in to address a report that claimed GTA 6 preorders are “heavily skewed” toward PlayStation 5 over Xbox Series X and S.",
-      "url": "https://www.ign.com/articles/xbox-says-its-share-of-gta-6-preorders-matches-its-share-of-the-console-market-following-ps5-dominance-claim",
-      "date": "2026-09-24T20:55:34.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Kotaku",
-      "title": "Fans React To GTA 6′s $400 Collector’s Box That Doesn’t Include The Game: ‘We Wanted Jason And Lucia, And We Got An Alligator Instead’",
-      "summary": "For many fans, this isn't the big box of GTA stuff they wanted and the price isn't winning them over",
-      "url": "https://kotaku.com/fans-reacts-to-gta-6s-400-collectors-box-that-doesnt-include-the-game-we-wanted-jason-and-lucia-and-we-got-an-alligator-instead-2000737007",
-      "date": "2026-09-24T16:52:35.000Z"
-    },
-    {
-      "lead": false,
       "src": "Eurogamer",
       "title": "Rockstar reveals a £350 box of naughty GTA 6 collectables you definitely wouldn't get through airport security",
       "summary": "Rockstar Games has announced a limited Goodtime State Vice City collection of goodies for Grand Theft Auto 6 that's ludicrously expensive - &pound;349 - doesn't include a copy of the game, and is pre-orderable now. Read more",
@@ -65,14 +73,6 @@
       "summary": "Rockstar Games has officially confirmed a $400 Grand Theft Auto 6 collector's edition, which doesn't include the game. The developer says The Goodtime State: Vice City Collection is inspired by Leonida’s hit TV show, Macca the Gator, and it's now available to preorder . It'll launch on November 19, the same day as G…",
       "url": "https://www.gamespot.com/articles/gta-6-400-collectors-edition-comes-with-everything-except-the-game/",
       "date": "2026-09-24T15:26:16.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Kotaku",
-      "title": "Rockstar Reveals $400 Grand Theft Auto 6 Box Of Stuff That Doesn’t Include The Game",
-      "summary": "This collection includes a ton of Vice City-inspired extras, like a statue, sunglasses, and crossbody bag",
-      "url": "https://kotaku.com/rockstar-reveals-400-special-edition-of-grand-theft-auto-6-2000736975",
-      "date": "2026-09-24T15:17:22.000Z"
     },
     {
       "lead": false,
@@ -129,14 +129,6 @@
       "summary": "Grand Theft Auto 6 's original soundtrack was partially revealed today. The full album contains 34 original tracks made for the upcoming open-world crime game. Read more",
       "url": "https://www.eurogamer.net/gta-6-original-soundtrack-six-track-preview",
       "date": "2026-09-17T12:57:37.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Eurogamer",
-      "title": "GTA 6's first confirmed actor is King of the Hill's Stephen Root: \"It's an amazing thing to look at\"",
-      "summary": "Rockstar Games hasn't said much about who's voicing the GTA 6 cast, but we now know at least one big-name actor attached to the upcoming crime epic: Stephen Root. Read more",
-      "url": "https://www.eurogamer.net/gta-6-confirmed-actor-king-of-the-hill-stephen-root",
-      "date": "2026-09-14T19:04:43.000Z"
     }
   ]
 }
