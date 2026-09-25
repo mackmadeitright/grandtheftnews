@@ -1,9 +1,33 @@
 {
-  "updated": "2026-09-25T11:39:46.005Z",
+  "updated": "2026-09-25T17:02:03.347Z",
   "count": 17,
   "items": [
     {
       "lead": true,
+      "src": "PC Gamer",
+      "title": "I made the hot dog vendors in GTA 5 work because Rockstar never did",
+      "summary": "Higher body count than I was expecting.",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/i-made-the-hot-dog-vendors-in-gta-5-work-because-rockstar-never-did/",
+      "date": "2026-09-25T17:00:00.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "GTA 6 on Nintendo Switch 2 \"doesn't make sense\" says former Rockstar dev",
+      "summary": "He doesn't completely discount the idea",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/bringing-gta-6-to-nintendo-switch-2-doesnt-make-sense-when-anyone-will-buy-a-ps5-to-get-your-game-says-former-rockstar-dev/",
+      "date": "2026-09-25T15:57:10.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "GTA 6 scalpers try to resell Rockstar's $400 Collector's Box for $1,500, but it's still in stock",
+      "summary": "Putting the \"Grand Theft\" in Grand Theft Auto 6",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-scalpers-are-already-trying-to-resell-rockstars-usd400-collectors-box-for-upwards-of-usd1-500-even-though-its-still-in-stock/",
+      "date": "2026-09-25T13:13:12.000Z"
+    },
+    {
+      "lead": false,
       "src": "GamesRadar",
       "title": "Xbox is \"very happy with GTA 6 pre-orders,\" exec claims they match \"our share of the console market\"",
       "summary": "Rockstar's upcoming blockbuster is apparently setting records for Microsoft",
@@ -20,14 +44,6 @@
     },
     {
       "lead": false,
-      "src": "IGN",
-      "title": "GTA 6 Fans Are Outraged by $400 Collector's Set and Are Comparing It to Red Dead Redemption 2's Version",
-      "summary": "GTA 6 fans aren't thrilled about a $400 collector's set that doesn't include the game, and they're even comparing it to previous Rockstar collector's editions.",
-      "url": "https://www.ign.com/articles/gta-6-fans-are-outraged-by-400-collectors-set-and-are-comparing-it-to-red-dead-redemption-2s-version",
-      "date": "2026-09-24T17:21:14.000Z"
-    },
-    {
-      "lead": false,
       "src": "Kotaku",
       "title": "Fans React To GTA 6′s $400 Collector’s Box That Doesn’t Include The Game: ‘We Wanted Jason And Lucia, And We Got An Alligator Instead’",
       "summary": "For many fans, this isn't the big box of GTA stuff they wanted and the price isn't winning them over",
@@ -36,27 +52,11 @@
     },
     {
       "lead": false,
-      "src": "GamesRadar",
-      "title": "GTA 6's $400 collectible spoon is actually a reference to another, far more expensive GTA spoon",
-      "summary": "Rockstar's been in the cutlery game for a minute",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6s-usd400-collectible-spoon-is-actually-a-reference-to-another-far-more-expensive-gta-spoon-from-18-years-ago/",
-      "date": "2026-09-24T16:42:28.000Z"
-    },
-    {
-      "lead": false,
       "src": "Eurogamer",
       "title": "Rockstar reveals a £350 box of naughty GTA 6 collectables you definitely wouldn't get through airport security",
       "summary": "Rockstar Games has announced a limited Goodtime State Vice City collection of goodies for Grand Theft Auto 6 that's ludicrously expensive - &pound;349 - doesn't include a copy of the game, and is pre-orderable now. Read more",
       "url": "https://www.eurogamer.net/gta-6-collectible-suspicious-mirror-keychain-spoon",
       "date": "2026-09-24T16:20:44.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "GTA 6 Collector's Box is $400 and doesn't have the game, but you do get a spoon, stickers, and more",
-      "summary": "Rockstar's even throwing in a pair of Oakleys",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-collectors-box-is-usd400-and-doesnt-include-the-game-but-you-do-get-a-spoon-stickers-and-more-needlessly-expensive-merch/",
-      "date": "2026-09-24T15:44:05.000Z"
     },
     {
       "lead": false,
