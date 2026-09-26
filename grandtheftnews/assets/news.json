@@ -1,9 +1,25 @@
 {
-  "updated": "2026-09-26T11:13:37.162Z",
-  "count": 14,
+  "updated": "2026-09-26T16:14:53.930Z",
+  "count": 16,
   "items": [
     {
       "lead": true,
+      "src": "GamesRadar",
+      "title": "Rockstar reportedly reminded GTA 6's voice cast they're still under NDA",
+      "summary": "Whoops",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/rockstar-reportedly-reminded-gta-6s-voice-cast-theyre-still-under-nda-after-actor-stephen-root-let-slip-hes-in-the-game/",
+      "date": "2026-09-26T14:55:48.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "Manor Lords publisher isn't worried about launching a game on GTA 6's release date",
+      "summary": "Blacksmith Master 1.0 launches on November 19",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/manor-lords-publisher-isnt-worried-about-launching-a-game-on-gta-6s-release-date-pc-players-looking-to-steal-cars-might-check-out-its-new-management-sim-instead/",
+      "date": "2026-09-26T12:40:12.000Z"
+    },
+    {
+      "lead": false,
       "src": "IGN",
       "title": "GTA 6 Fans Are Already 3D Printing Items in the Game's $400 Collector's Edition",
       "summary": "Fans of GTA 6 are already copying items in the game’s $400 collector’s edition and 3D-printing them for a far cheaper price.",
