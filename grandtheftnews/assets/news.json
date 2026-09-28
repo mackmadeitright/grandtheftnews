@@ -1,30 +1,46 @@
 {
-  "updated": "2026-09-28T13:38:47.328Z",
+  "updated": "2026-09-28T21:10:54.456Z",
   "count": 11,
   "items": [
     {
       "lead": true,
-      "src": "GamesRadar",
-      "title": "Rockstar reportedly reminded GTA 6's voice cast they're still under NDA",
-      "summary": "Whoops",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/rockstar-reportedly-reminded-gta-6s-voice-cast-theyre-still-under-nda-after-actor-stephen-root-let-slip-hes-in-the-game/",
-      "date": "2026-09-26T14:55:48.000Z"
+      "src": "Kotaku",
+      "title": "GTA 6′s Collector’s Box Gator Statue Can Now Be 3D Printed: ‘$400 And No Disc? F**k You Rockstar’",
+      "summary": "At least one person is so fed up with Rockstar that they modeled a cartoon gator in retaliation",
+      "url": "https://kotaku.com/gta-6s-collectors-box-gator-statue-can-now-be-3d-printed-400-an-no-disc-fk-you-rockstar-2000737999",
+      "date": "2026-09-28T18:20:17.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Eurogamer",
+      "title": "\"What if London existed in the Grand Theft Auto universe?\" One fan has answered with a GTA-style map of the city",
+      "summary": "\"What if London existed in the Grand Theft Auto universe? What if Rockstar created a GTA game set in London?\" Anyone sitting in the venn diagram centre of GTA fan and cartography sicko might be happy to learn that YouTuber CityEd has answered both of those questions with a GTA-style map. Read more",
+      "url": "https://www.eurogamer.net/london-gta-rockstar-map-city-rockstar",
+      "date": "2026-09-28T17:53:19.000Z"
+    },
+    {
+      "lead": false,
+      "src": "IGN",
+      "title": "GTA 6 Has an 'Advanced' Weather System, but How Will It Work?",
+      "summary": "GTA 6 is confirmed to have an \"advanced\" weather system, leading many to wonder if we're going to get tropical storms.",
+      "url": "https://www.ign.com/articles/gta-6-has-an-advanced-weather-system-but-how-will-it-work",
+      "date": "2026-09-28T16:33:45.000Z"
     },
     {
       "lead": false,
       "src": "GamesRadar",
-      "title": "Manor Lords publisher isn't worried about launching a game on GTA 6's release date",
-      "summary": "Blacksmith Master 1.0 launches on November 19",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/manor-lords-publisher-isnt-worried-about-launching-a-game-on-gta-6s-release-date-pc-players-looking-to-steal-cars-might-check-out-its-new-management-sim-instead/",
-      "date": "2026-09-26T12:40:12.000Z"
+      "title": "GTA 6 fans replicate the $400 Collector's Box statue, and you can now 3D print your own ugly gator at home",
+      "summary": "Despite all odds, the collector's box sold out",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-fans-replicate-the-usd400-collectors-box-statue-and-you-can-now-3d-print-your-own-ugly-gator-at-home/",
+      "date": "2026-09-28T16:33:13.000Z"
     },
     {
       "lead": false,
-      "src": "PC Gamer",
-      "title": "I made the hot dog vendors in GTA 5 work because Rockstar never did",
-      "summary": "Higher body count than I was expecting.",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/i-made-the-hot-dog-vendors-in-gta-5-work-because-rockstar-never-did/",
-      "date": "2026-09-25T17:00:00.000Z"
+      "src": "GamesRadar",
+      "title": "Forget Red Dead Redemption 3, Rockstar's next game is LA Noire 2 according to a GTA 6 leaker",
+      "summary": "Take-Two has managed to go through the studio's back catalog",
+      "url": "https://www.gamesradar.com/games/open-world/forget-red-dead-redemption-3-rockstars-next-game-is-apparently-la-noire-2-according-to-a-gta-6-leaker-but-dont-expect-to-play-it-until-at-least-2030/",
+      "date": "2026-09-28T15:35:04.000Z"
     },
     {
       "lead": false,
@@ -33,22 +49,6 @@
       "summary": "Rockstar Games has announced a limited Goodtime State Vice City collection of goodies for Grand Theft Auto 6 that's ludicrously expensive - &pound;349 - doesn't include a copy of the game, and is pre-orderable now. Read more",
       "url": "https://www.eurogamer.net/gta-6-collectible-suspicious-mirror-keychain-spoon",
       "date": "2026-09-24T16:20:44.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GameSpot",
-      "title": "GTA 6 $400 Collector’s Edition Comes With Everything Except The Game",
-      "summary": "Rockstar Games has officially confirmed a $400 Grand Theft Auto 6 collector's edition, which doesn't include the game. The developer says The Goodtime State: Vice City Collection is inspired by Leonida’s hit TV show, Macca the Gator, and it's now available to preorder . It'll launch on November 19, the same day as G…",
-      "url": "https://www.gamespot.com/articles/gta-6-400-collectors-edition-comes-with-everything-except-the-game/",
-      "date": "2026-09-24T15:26:16.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GameSpot",
-      "title": "Rainbow Six Siege Dev On Competing With GTA 6 And Why There Are No Plans For Siege 2",
-      "summary": "Rockstar's Grand Theft Auto 6 releases this November, and it's expected to take up a lot of time and attention, leading some to worry how other games may fare in its wake. Ubisoft's Joshua Mills, the creative director for Rainbow Six Siege, said it's unquestionable that \"you're going to take a hit when that drops.\"…",
-      "url": "https://www.gamespot.com/articles/rainbow-six-siege-dev-on-competing-with-gta-6-and-why-there-are-no-plans-for-siege-2/",
-      "date": "2026-09-23T18:57:43.000Z"
     },
     {
       "lead": false,
