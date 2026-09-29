@@ -1,9 +1,89 @@
 {
-  "updated": "2026-09-29T12:38:06.482Z",
-  "count": 11,
+  "updated": "2026-09-29T19:55:13.621Z",
+  "count": 16,
   "items": [
     {
       "lead": true,
+      "src": "GameSpot",
+      "title": "GTA 6 Won’t Spoof Disney World, And That’s Too Bad",
+      "summary": "GTA 6 will not include its own spoof on one of Florida's most iconic venues: Walt Disney World. I adore all things Disney, including the parks. But I also appreciate and enjoy Rockstar's penchant for sarcasm and making fun of things. And Disney World? There is a lot to poke fun at. So I am a bit bummed that Walt Dis…",
+      "url": "https://www.gamespot.com/articles/gta-6-wont-spoof-disney-world-and-thats-too-bad/",
+      "date": "2026-09-29T19:24:02.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "Rockstar flashes its wallet, says GTA 6 doesn't compromise on detail or scale",
+      "summary": "\"As the pressure for us on this project is huge, we dealt with that by doing our best to overdeliver,\" says co-studio head Aaron Garbut",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/rockstar-flashes-its-wallet-says-gta-6-doesnt-compromise-on-detail-or-scale-i-dont-think-we-have-ever-created-anything-close-to-this-before/",
+      "date": "2026-09-29T19:18:06.000Z"
+    },
+    {
+      "lead": false,
+      "src": "IGN",
+      "title": "GTA 6: All the Major New Details Revealed Today, Including Animal Species, Side Activities, and Fast Travel",
+      "summary": "We've rounded up all of the major GTA 6 details revealed in the latest Game Informer cover story.",
+      "url": "https://www.ign.com/articles/gta-6-all-the-new-details-revealed-today-including-animal-species-side-activities-and-fast-travel",
+      "date": "2026-09-29T18:32:03.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Kotaku",
+      "title": "Grand Theft Auto 6 Will Include Over 170 Species Of Animals As Well As Hurricanes: ‘Wind Will Blow Ripples Over The Water Surface’",
+      "summary": "You'll be able track legendary animals down in Rockstar's massive digital recreation of Florida",
+      "url": "https://kotaku.com/grand-theft-auto-6-will-include-over-170-species-of-animals-as-well-as-hurricanes-wind-will-blow-ripples-over-the-water-surface-2000738371",
+      "date": "2026-09-29T18:30:00.000Z"
+    },
+    {
+      "lead": false,
+      "src": "IGN",
+      "title": "Rockstar Confirms GTA 6 Simulates Tropical Storms and Hurricanes",
+      "summary": "It sounds like Grand Theft Auto 6 will take open world weather effects to another level, with simulated tropical storms and hurricanes.",
+      "url": "https://www.ign.com/articles/rockstar-confirms-gta-6-simulates-tropical-storms-and-hurricanes",
+      "date": "2026-09-29T18:15:41.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "GTA 6 devs spent years \"going to strip clubs\" and the beach to research Florida life",
+      "summary": "Rockstar is dedicated to realism",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-devs-spent-years-going-to-strip-clubs-spending-time-on-the-beach-and-riding-with-ex-cops-to-research-florida-life/",
+      "date": "2026-09-29T18:07:25.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Polygon",
+      "title": "'GTA 6' Fans Are Hammering the Game Informer App Into Oblivion Right Now",
+      "summary": "The gaming magazine's app can't seem to handle all the interest in its exclusive GTA 6 news and screenshots as users report issues and glitches",
+      "url": "https://www.polygon.com/gta-6-game-informer-app-article-something-went-wrong-screenshots/",
+      "date": "2026-09-29T17:28:01.000Z"
+    },
+    {
+      "lead": false,
+      "src": "IGN",
+      "title": "GTA 6 Reveal Crashes Game Informer App Amid Confusion Over Free Coverage",
+      "summary": "Game Informer's website and app crashed today amid the debut of its exclusive GTA 6 preview, creating chaos among fans.",
+      "url": "https://www.ign.com/articles/gta-6-reveal-crashes-game-informer-app-amid-confusion-over-free-coverage",
+      "date": "2026-09-29T16:34:04.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Kotaku",
+      "title": "GTA 5 Modder Cancels Nintendo Switch Port Just Days Before Launch After Previously Taunting Rockstar: ‘I Am Thankful For Take-Two’s Mercy’",
+      "summary": "The creator behind the planned port will not release any code or assets online in order to avoid a possible lawsuit",
+      "url": "https://kotaku.com/gta-5-modder-cancels-nintendo-switch-port-just-days-before-launch-after-previously-taunting-rockstar-i-am-thankful-for-take-twos-mercy-2000738284",
+      "date": "2026-09-29T15:00:05.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GameSpot",
+      "title": "GTA 5 For Switch Mod Project Shuts Down, Dev Thanks Take-Two For Its “Mercy”",
+      "summary": "The creator of a mod project that sought to bring Rockstar's Grand Theft Auto 5 to Switch is closing up shop, apparently at the request of rights owner Take-Two. This action comes in the same month that Rockstar published a new \"Mod Guidelines\" notice informing people they need to \"respect our games\" and are not all…",
+      "url": "https://www.gamespot.com/articles/gta-5-for-switch-mod-project-shuts-down-dev-thanks-take-two-for-its-mercy/",
+      "date": "2026-09-29T13:07:36.000Z"
+    },
+    {
+      "lead": false,
       "src": "GamesRadar",
       "title": "GTA 5 modder behind Switch 1 port says it's \"shutting down\" following action from the devs",
       "summary": "There's still GTA 6 to look forward to, I guess",
@@ -12,43 +92,11 @@
     },
     {
       "lead": false,
-      "src": "Kotaku",
-      "title": "GTA 6′s Collector’s Box Gator Statue Can Now Be 3D Printed: ‘$400 And No Disc? F**k You Rockstar’",
-      "summary": "At least one person is so fed up with Rockstar that they modeled a cartoon gator in retaliation",
-      "url": "https://kotaku.com/gta-6s-collectors-box-gator-statue-can-now-be-3d-printed-400-an-no-disc-fk-you-rockstar-2000737999",
-      "date": "2026-09-28T18:20:17.000Z"
-    },
-    {
-      "lead": false,
       "src": "Eurogamer",
       "title": "\"What if London existed in the Grand Theft Auto universe?\" One fan has answered with a GTA-style map of the city",
       "summary": "\"What if London existed in the Grand Theft Auto universe? What if Rockstar created a GTA game set in London?\" Anyone sitting in the venn diagram centre of GTA fan and cartography sicko might be happy to learn that YouTuber CityEd has answered both of those questions with a GTA-style map. Read more",
       "url": "https://www.eurogamer.net/london-gta-rockstar-map-city-rockstar",
       "date": "2026-09-28T17:53:19.000Z"
-    },
-    {
-      "lead": false,
-      "src": "IGN",
-      "title": "GTA 6 Has an 'Advanced' Weather System, but How Will It Work?",
-      "summary": "GTA 6 is confirmed to have an \"advanced\" weather system, leading many to wonder if we're going to get tropical storms.",
-      "url": "https://www.ign.com/articles/gta-6-has-an-advanced-weather-system-but-how-will-it-work",
-      "date": "2026-09-28T16:33:45.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "GTA 6 fans replicate the $400 Collector's Box statue, and you can now 3D print your own ugly gator at home",
-      "summary": "Despite all odds, the collector's box sold out",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-fans-replicate-the-usd400-collectors-box-statue-and-you-can-now-3d-print-your-own-ugly-gator-at-home/",
-      "date": "2026-09-28T16:33:13.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "Forget Red Dead Redemption 3, Rockstar's next game is LA Noire 2 according to a GTA 6 leaker",
-      "summary": "Take-Two has managed to go through the studio's back catalog",
-      "url": "https://www.gamesradar.com/games/open-world/forget-red-dead-redemption-3-rockstars-next-game-is-apparently-la-noire-2-according-to-a-gta-6-leaker-but-dont-expect-to-play-it-until-at-least-2030/",
-      "date": "2026-09-28T15:35:04.000Z"
     },
     {
       "lead": false,
@@ -81,14 +129,6 @@
       "summary": "Rockstar Games ' latest leak seemingly includes a nearly 200GB version of GTA 5 's source code, suggesting the developer started and then scrapped plans for a Liberty City DLC, alongside very early files related to GTA 6 . Read more",
       "url": "https://www.eurogamer.net/new-gta-5-leak-rockstar-liberty-city-dlc-early-gta-6",
       "date": "2026-09-18T18:19:10.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Eurogamer",
-      "title": "Rockstar hasn't said anything about a GTA 6 Online multiplayer mode just yet, but Twitch's CEO reckons it'll land next year",
-      "summary": "Rockstar has remained very tight-lipped about GTA 6 's multiplayer component, the potential successor to GTA 5 's incredibly popular Grand Theft Auto Online , not yet commenting on whether it will even launch one. All we know currently is that when Grand Theft Auto 6 arrives on 19th November , it'll only include the…",
-      "url": "https://www.eurogamer.net/gta-6-online-release-date-twitch-ceo",
-      "date": "2026-09-18T10:15:25.000Z"
     }
   ]
 }
