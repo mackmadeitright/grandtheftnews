@@ -1,9 +1,17 @@
 {
-  "updated": "2026-09-28T21:10:54.456Z",
-  "count": 11,
+  "updated": "2026-09-29T05:30:20.853Z",
+  "count": 12,
   "items": [
     {
       "lead": true,
+      "src": "Polygon",
+      "title": "GTA 6’s $400 Collector’s Edition Is the Latest Example of a Horrible Trend",
+      "summary": "A new Grand Theft Auto 6 collectors box is the latest example of the games industry prioritizing high-spending customers above all else",
+      "url": "https://www.polygon.com/gta-6-good-time-state-collectors-editions/",
+      "date": "2026-09-28T23:00:16.000Z"
+    },
+    {
+      "lead": false,
       "src": "Kotaku",
       "title": "GTA 6′s Collector’s Box Gator Statue Can Now Be 3D Printed: ‘$400 And No Disc? F**k You Rockstar’",
       "summary": "At least one person is so fed up with Rockstar that they modeled a cartoon gator in retaliation",
