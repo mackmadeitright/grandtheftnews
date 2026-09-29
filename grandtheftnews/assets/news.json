@@ -1,14 +1,14 @@
 {
-  "updated": "2026-09-29T05:30:20.853Z",
-  "count": 12,
+  "updated": "2026-09-29T12:38:06.482Z",
+  "count": 11,
   "items": [
     {
       "lead": true,
-      "src": "Polygon",
-      "title": "GTA 6’s $400 Collector’s Edition Is the Latest Example of a Horrible Trend",
-      "summary": "A new Grand Theft Auto 6 collectors box is the latest example of the games industry prioritizing high-spending customers above all else",
-      "url": "https://www.polygon.com/gta-6-good-time-state-collectors-editions/",
-      "date": "2026-09-28T23:00:16.000Z"
+      "src": "GamesRadar",
+      "title": "GTA 5 modder behind Switch 1 port says it's \"shutting down\" following action from the devs",
+      "summary": "There's still GTA 6 to look forward to, I guess",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-5-modder-behind-switch-1-port-using-rockstars-leaked-code-says-its-shutting-down-following-action-from-the-devs-i-am-thankful-for-take-twos-mercy/",
+      "date": "2026-09-29T10:36:53.000Z"
     },
     {
       "lead": false,
@@ -89,14 +89,6 @@
       "summary": "Rockstar has remained very tight-lipped about GTA 6 's multiplayer component, the potential successor to GTA 5 's incredibly popular Grand Theft Auto Online , not yet commenting on whether it will even launch one. All we know currently is that when Grand Theft Auto 6 arrives on 19th November , it'll only include the…",
       "url": "https://www.eurogamer.net/gta-6-online-release-date-twitch-ceo",
       "date": "2026-09-18T10:15:25.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Eurogamer",
-      "title": "GTA 6 is getting a 34-song original soundtrack, with music from multiple real-world artists - and you can stream six tracks today",
-      "summary": "Grand Theft Auto 6 's original soundtrack was partially revealed today. The full album contains 34 original tracks made for the upcoming open-world crime game. Read more",
-      "url": "https://www.eurogamer.net/gta-6-original-soundtrack-six-track-preview",
-      "date": "2026-09-17T12:57:37.000Z"
     }
   ]
 }
