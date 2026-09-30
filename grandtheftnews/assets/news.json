@@ -1,14 +1,22 @@
 {
-  "updated": "2026-09-30T17:56:10.780Z",
-  "count": 21,
+  "updated": "2026-09-30T22:09:14.712Z",
+  "count": 16,
   "items": [
     {
       "lead": true,
+      "src": "IGN",
+      "title": "GTA 5 Modder Taunts Rockstar With Unofficial Nintendo Switch Port, Gets Cease and Desist from Take-Two",
+      "summary": "A modder who was porting GTA 5 to Nintendo Switch taunted Rockstar Games and was immediately hit with a cease and desist.",
+      "url": "https://www.ign.com/articles/gta-5-modder-taunts-rockstar-with-unofficial-nintendo-switch-port-gets-cease-and-desist-from-take-two",
+      "date": "2026-09-30T20:27:04.000Z"
+    },
+    {
+      "lead": false,
       "src": "Polygon",
-      "title": "GTA 6’s Wildlife Gameplay Might Do Something Red Dead 2 Never Could",
-      "summary": "Grand Theft Auto 6 will feature more than 170 unique animals. Here’s hoping there are some friendly, gun-free ways to enjoy them all",
-      "url": "https://www.polygon.com/gta-6-wildlife-hunting-animals/",
-      "date": "2026-09-30T17:48:41.000Z"
+      "title": "10 Biggest GTA 6 Questions the Previews Haven't Answered Yet",
+      "summary": "Who's in the cast? What's happening with GTA Online? We have questions after Rockstar's Netflix Grand Theft Auto 6 extended look.",
+      "url": "https://www.polygon.com/gta-6-major-questions/",
+      "date": "2026-09-30T20:17:58.000Z"
     },
     {
       "lead": false,
@@ -76,59 +84,11 @@
     },
     {
       "lead": false,
-      "src": "IGN",
-      "title": "GTA 6: Rockstar Developers Visited Strip Clubs and Rode Around at Night With Ex-Cops to Get First-Hand Florida Experience",
-      "summary": "Rockstar Games has revealed the lengths it went to to gain first-hand experience of real-life Florida as part of research for GTA 6.",
-      "url": "https://www.ign.com/articles/gta-6-rockstar-developers-visited-strip-clubs-and-rode-around-at-night-with-ex-cops-to-get-first-hand-florida-experience",
-      "date": "2026-09-30T10:18:17.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Kotaku",
-      "title": "PS5 Pro Shortage Hits Japan As Sony Limits Console Purchases To Active Playstation Users Ahead Of GTA 6",
-      "summary": "A lottery system has been introduced in an effort to counter shortages while alleviating scalper concerns ahead of GTA 6",
-      "url": "https://kotaku.com/ps5-pro-shortage-hits-japan-as-sony-limits-console-purchases-to-active-playstation-users-ahead-of-gta-6-2000737444",
-      "date": "2026-09-30T02:32:22.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Kotaku",
-      "title": "It Sure Doesn’t Sound Like GTA 6 Will Include A Disney World Parody",
-      "summary": "But other parts of central Florida seem to be represented",
-      "url": "https://kotaku.com/it-sure-doesnt-sound-like-gta-6-will-include-a-disney-world-parody-2000738468",
-      "date": "2026-09-29T23:13:20.000Z"
-    },
-    {
-      "lead": false,
-      "src": "IGN",
-      "title": "GTA 6's Game of the Year Chances Have Been Called Into Question",
-      "summary": "GTA 6 may not even be eligible for Game of the Year at The Game Awards this year.",
-      "url": "https://www.ign.com/articles/gta-6s-game-of-the-year-chances-have-been-called-into-question",
-      "date": "2026-09-29T22:55:18.000Z"
-    },
-    {
-      "lead": false,
       "src": "GameSpot",
       "title": "GTA 6 Won’t Spoof Disney World, And That’s Too Bad",
       "summary": "GTA 6 will not include its own spoof on one of Florida's most iconic venues: Walt Disney World. I adore all things Disney, including the parks. But I also appreciate and enjoy Rockstar's penchant for sarcasm and making fun of things. And Disney World? There is a lot to poke fun at. So I am a bit bummed that Walt Dis…",
       "url": "https://www.gamespot.com/articles/gta-6-wont-spoof-disney-world-and-thats-too-bad/",
       "date": "2026-09-29T19:24:02.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "Rockstar flashes its wallet, says GTA 6 doesn't compromise on detail or scale",
-      "summary": "\"As the pressure for us on this project is huge, we dealt with that by doing our best to overdeliver,\" says co-studio head Aaron Garbut",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/rockstar-flashes-its-wallet-says-gta-6-doesnt-compromise-on-detail-or-scale-i-dont-think-we-have-ever-created-anything-close-to-this-before/",
-      "date": "2026-09-29T19:18:06.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "GTA 6 devs spent years \"going to strip clubs\" and the beach to research Florida life",
-      "summary": "Rockstar is dedicated to realism",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-devs-spent-years-going-to-strip-clubs-spending-time-on-the-beach-and-riding-with-ex-cops-to-research-florida-life/",
-      "date": "2026-09-29T18:07:25.000Z"
     },
     {
       "lead": false,
