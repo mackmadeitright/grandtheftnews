@@ -1,9 +1,17 @@
 {
-  "updated": "2026-09-30T00:17:10.676Z",
+  "updated": "2026-09-30T09:33:38.866Z",
   "count": 18,
   "items": [
     {
       "lead": true,
+      "src": "Kotaku",
+      "title": "PS5 Pro Shortage Hits Japan As Sony Limits Console Purchases To Active Playstation Users Ahead Of GTA 6",
+      "summary": "A lottery system has been introduced in an effort to counter shortages while alleviating scalper concerns ahead of GTA 6",
+      "url": "https://kotaku.com/ps5-pro-shortage-hits-japan-as-sony-limits-console-purchases-to-active-playstation-users-ahead-of-gta-6-2000737444",
+      "date": "2026-09-30T02:32:22.000Z"
+    },
+    {
+      "lead": false,
       "src": "Kotaku",
       "title": "It Sure Doesn’t Sound Like GTA 6 Will Include A Disney World Parody",
       "summary": "But other parts of central Florida seem to be represented",
@@ -17,14 +25,6 @@
       "summary": "GTA 6 may not even be eligible for Game of the Year at The Game Awards this year.",
       "url": "https://www.ign.com/articles/gta-6s-game-of-the-year-chances-have-been-called-into-question",
       "date": "2026-09-29T22:55:18.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Polygon",
-      "title": "Rockstar Officially Reveals 3 Big New 'GTA 6' Gameplay Features",
-      "summary": "Game Informer's cover story dishes on GTA 6's animals, the game's dynamic weather system, and Rockstar's intense approach to NPC generation",
-      "url": "https://www.polygon.com/gta-6-game-informer-weather-animals-npc-variety-gameplay-news/",
-      "date": "2026-09-29T20:08:59.000Z"
     },
     {
       "lead": false,
