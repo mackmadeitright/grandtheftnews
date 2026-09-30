@@ -1,9 +1,89 @@
 {
-  "updated": "2026-09-30T09:33:38.866Z",
-  "count": 18,
+  "updated": "2026-09-30T17:56:10.780Z",
+  "count": 21,
   "items": [
     {
       "lead": true,
+      "src": "Polygon",
+      "title": "GTA 6’s Wildlife Gameplay Might Do Something Red Dead 2 Never Could",
+      "summary": "Grand Theft Auto 6 will feature more than 170 unique animals. Here’s hoping there are some friendly, gun-free ways to enjoy them all",
+      "url": "https://www.polygon.com/gta-6-wildlife-hunting-animals/",
+      "date": "2026-09-30T17:48:41.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Eurogamer",
+      "title": "GTA 6 completely \"re-engineered\" Rockstar's weather systems to \"achieve a sense of scale we haven't felt before,\" adding hurricanes, rainbows and heavy rain",
+      "summary": "If you thought Red Dead Redemption 2 's heavy winds and even heavier rain looked impressive, you might be happy to learn that Rockstar Games went back and \"re-engineered our weather system\" for GTA 6 . Hurricanes, rainbows and \"vertiginous cumulonimbus clouds\" are all part of the upcoming open worlder. Read more",
+      "url": "https://www.eurogamer.net/gta6-rockstar-weather-systems-hurricanes-rainbows-rain",
+      "date": "2026-09-30T17:04:55.000Z"
+    },
+    {
+      "lead": false,
+      "src": "IGN",
+      "title": "GTA 6: Everything the New Screenshots Tell Us",
+      "summary": "The latest GTA 6 screenshots showcase a bunch of great new features, from tropical storms and hunting, to simulated citrus farms and beach-ready butts.",
+      "url": "https://www.ign.com/articles/gta-6-everything-the-new-screenshots-tell-us",
+      "date": "2026-09-30T16:15:00.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Kotaku",
+      "title": "Alleged Rockstar Games Hacker Arrested In Connection With Data Breach That Revealed GTA Online Profits",
+      "summary": "The FBI claims the arrested hacker was one of the leaders of prolific hacking group ShinyHunters",
+      "url": "https://kotaku.com/alleged-rockstar-games-hacker-arrested-in-connection-with-data-breach-that-revealed-gta-online-profits-2000738638",
+      "date": "2026-09-30T15:30:05.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "GTA 6 influencers sent mysterious merch that sure looks better than those $400 Collector's Boxes",
+      "summary": "Right now, Rockstar isn't selling this merch separately",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-influencers-sent-a-mysterious-package-that-fans-say-sure-looks-better-than-those-usd400-collectors-boxes/",
+      "date": "2026-09-30T13:28:34.000Z"
+    },
+    {
+      "lead": false,
+      "src": "IGN",
+      "title": "GTA 6: Every Animal Confirmed So Far",
+      "summary": "Here's every animal revealed for GTA 6 so far, now that Rockstar has confirmed the game features an incredible 170 species.",
+      "url": "https://www.ign.com/articles/gta-6-every-animal-confirmed-so-far",
+      "date": "2026-09-30T12:11:02.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "GTA 6's weather is completely re-done from Red Dead Redemption 2, has hurricanes, rainbows and more",
+      "summary": "Rockstar's going above and beyond once again",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6s-weather-is-completely-re-engineered-from-red-dead-redemption-2-and-it-has-hurricanes-rainbows-proper-cloud-formations-and-more/",
+      "date": "2026-09-30T12:01:23.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GameSpot",
+      "title": "The Biggest New Game Releases Of October 2026",
+      "summary": "If you thought September was a big month for new releases, then you ain't seen nothing yet. As the days tick down to the November launch of Grand Theft Auto 6, numerous games are looking to avoid being caught in the blast radius of the year's biggest release, which has led to an absolutely stacked October. Between o…",
+      "url": "https://www.gamespot.com/articles/the-biggest-new-game-releases-of-october-2026/",
+      "date": "2026-09-30T12:00:00.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "Police arrest \"one of the alleged leaders\" behind Rockstar hack that revealed how much money GTA Online makes",
+      "summary": "Rockstar previously said the incident in April saw a \"limited amount of non-material company information\" accessed",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/police-arrest-one-of-the-alleged-leaders-of-group-behind-rockstar-hack-that-apparently-revealed-how-much-money-gta-online-makes-fbi-warns-we-know-how-to-find-you/",
+      "date": "2026-09-30T10:39:14.000Z"
+    },
+    {
+      "lead": false,
+      "src": "IGN",
+      "title": "GTA 6: Rockstar Developers Visited Strip Clubs and Rode Around at Night With Ex-Cops to Get First-Hand Florida Experience",
+      "summary": "Rockstar Games has revealed the lengths it went to to gain first-hand experience of real-life Florida as part of research for GTA 6.",
+      "url": "https://www.ign.com/articles/gta-6-rockstar-developers-visited-strip-clubs-and-rode-around-at-night-with-ex-cops-to-get-first-hand-florida-experience",
+      "date": "2026-09-30T10:18:17.000Z"
+    },
+    {
+      "lead": false,
       "src": "Kotaku",
       "title": "PS5 Pro Shortage Hits Japan As Sony Limits Console Purchases To Active Playstation Users Ahead Of GTA 6",
       "summary": "A lottery system has been introduced in an effort to counter shortages while alleviating scalper concerns ahead of GTA 6",
@@ -44,30 +124,6 @@
     },
     {
       "lead": false,
-      "src": "IGN",
-      "title": "GTA 6: All the Major New Details Revealed Today, Including Animal Species, Side Activities, and Fast Travel",
-      "summary": "We've rounded up all of the major GTA 6 details revealed in the latest Game Informer cover story.",
-      "url": "https://www.ign.com/articles/gta-6-all-the-new-details-revealed-today-including-animal-species-side-activities-and-fast-travel",
-      "date": "2026-09-29T18:32:03.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Kotaku",
-      "title": "Grand Theft Auto 6 Will Include Over 170 Species Of Animals As Well As Hurricanes: ‘Wind Will Blow Ripples Over The Water Surface’",
-      "summary": "You'll be able track legendary animals down in Rockstar's massive digital recreation of Florida",
-      "url": "https://kotaku.com/grand-theft-auto-6-will-include-over-170-species-of-animals-as-well-as-hurricanes-wind-will-blow-ripples-over-the-water-surface-2000738371",
-      "date": "2026-09-29T18:30:00.000Z"
-    },
-    {
-      "lead": false,
-      "src": "IGN",
-      "title": "Rockstar Confirms GTA 6 Simulates Tropical Storms and Hurricanes",
-      "summary": "It sounds like Grand Theft Auto 6 will take open world weather effects to another level, with simulated tropical storms and hurricanes.",
-      "url": "https://www.ign.com/articles/rockstar-confirms-gta-6-simulates-tropical-storms-and-hurricanes",
-      "date": "2026-09-29T18:15:41.000Z"
-    },
-    {
-      "lead": false,
       "src": "GamesRadar",
       "title": "GTA 6 devs spent years \"going to strip clubs\" and the beach to research Florida life",
       "summary": "Rockstar is dedicated to realism",
@@ -76,35 +132,11 @@
     },
     {
       "lead": false,
-      "src": "IGN",
-      "title": "GTA 6 Reveal Crashes Game Informer App Amid Confusion Over Free Coverage",
-      "summary": "Game Informer's website and app crashed today amid the debut of its exclusive GTA 6 preview, creating chaos among fans.",
-      "url": "https://www.ign.com/articles/gta-6-reveal-crashes-game-informer-app-amid-confusion-over-free-coverage",
-      "date": "2026-09-29T16:34:04.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Kotaku",
-      "title": "GTA 5 Modder Cancels Nintendo Switch Port Just Days Before Launch After Previously Taunting Rockstar: ‘I Am Thankful For Take-Two’s Mercy’",
-      "summary": "The creator behind the planned port will not release any code or assets online in order to avoid a possible lawsuit",
-      "url": "https://kotaku.com/gta-5-modder-cancels-nintendo-switch-port-just-days-before-launch-after-previously-taunting-rockstar-i-am-thankful-for-take-twos-mercy-2000738284",
-      "date": "2026-09-29T15:00:05.000Z"
-    },
-    {
-      "lead": false,
       "src": "GameSpot",
       "title": "GTA 5 For Switch Mod Project Shuts Down, Dev Thanks Take-Two For Its “Mercy”",
       "summary": "The creator of a mod project that sought to bring Rockstar's Grand Theft Auto 5 to Switch is closing up shop, apparently at the request of rights owner Take-Two. This action comes in the same month that Rockstar published a new \"Mod Guidelines\" notice informing people they need to \"respect our games\" and are not all…",
       "url": "https://www.gamespot.com/articles/gta-5-for-switch-mod-project-shuts-down-dev-thanks-take-two-for-its-mercy/",
       "date": "2026-09-29T13:07:36.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "GTA 5 modder behind Switch 1 port says it's \"shutting down\" following action from the devs",
-      "summary": "There's still GTA 6 to look forward to, I guess",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-5-modder-behind-switch-1-port-using-rockstars-leaked-code-says-its-shutting-down-following-action-from-the-devs-i-am-thankful-for-take-twos-mercy/",
-      "date": "2026-09-29T10:36:53.000Z"
     },
     {
       "lead": false,
@@ -137,14 +169,6 @@
       "summary": "Grand Theft Auto fans are known for a love of speculation and information sleuthing at this point, and this certainly hasn't changed since Rockstar released the extended gameplay preview for Grand Theft Auto 6 . The community's current fixation? Whether or not Key West will be in the game. Read more",
       "url": "https://www.eurogamer.net/grand-theft-auto-6-key-west-map",
       "date": "2026-09-21T15:48:09.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Eurogamer",
-      "title": "New 200GB GTA 5 leak suggests Rockstar Games scrapped a massive Liberty City DLC, and reportedly includes very early GTA 6 work",
-      "summary": "Rockstar Games ' latest leak seemingly includes a nearly 200GB version of GTA 5 's source code, suggesting the developer started and then scrapped plans for a Liberty City DLC, alongside very early files related to GTA 6 . Read more",
-      "url": "https://www.eurogamer.net/new-gta-5-leak-rockstar-liberty-city-dlc-early-gta-6",
-      "date": "2026-09-18T18:19:10.000Z"
     }
   ]
 }
