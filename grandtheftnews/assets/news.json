@@ -1,9 +1,33 @@
 {
-  "updated": "2026-09-29T19:55:13.621Z",
-  "count": 16,
+  "updated": "2026-09-30T00:17:10.676Z",
+  "count": 18,
   "items": [
     {
       "lead": true,
+      "src": "Kotaku",
+      "title": "It Sure Doesn’t Sound Like GTA 6 Will Include A Disney World Parody",
+      "summary": "But other parts of central Florida seem to be represented",
+      "url": "https://kotaku.com/it-sure-doesnt-sound-like-gta-6-will-include-a-disney-world-parody-2000738468",
+      "date": "2026-09-29T23:13:20.000Z"
+    },
+    {
+      "lead": false,
+      "src": "IGN",
+      "title": "GTA 6's Game of the Year Chances Have Been Called Into Question",
+      "summary": "GTA 6 may not even be eligible for Game of the Year at The Game Awards this year.",
+      "url": "https://www.ign.com/articles/gta-6s-game-of-the-year-chances-have-been-called-into-question",
+      "date": "2026-09-29T22:55:18.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Polygon",
+      "title": "Rockstar Officially Reveals 3 Big New 'GTA 6' Gameplay Features",
+      "summary": "Game Informer's cover story dishes on GTA 6's animals, the game's dynamic weather system, and Rockstar's intense approach to NPC generation",
+      "url": "https://www.polygon.com/gta-6-game-informer-weather-animals-npc-variety-gameplay-news/",
+      "date": "2026-09-29T20:08:59.000Z"
+    },
+    {
+      "lead": false,
       "src": "GameSpot",
       "title": "GTA 6 Won’t Spoof Disney World, And That’s Too Bad",
       "summary": "GTA 6 will not include its own spoof on one of Florida's most iconic venues: Walt Disney World. I adore all things Disney, including the parks. But I also appreciate and enjoy Rockstar's penchant for sarcasm and making fun of things. And Disney World? There is a lot to poke fun at. So I am a bit bummed that Walt Dis…",
@@ -49,14 +73,6 @@
       "summary": "Rockstar is dedicated to realism",
       "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-devs-spent-years-going-to-strip-clubs-spending-time-on-the-beach-and-riding-with-ex-cops-to-research-florida-life/",
       "date": "2026-09-29T18:07:25.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Polygon",
-      "title": "'GTA 6' Fans Are Hammering the Game Informer App Into Oblivion Right Now",
-      "summary": "The gaming magazine's app can't seem to handle all the interest in its exclusive GTA 6 news and screenshots as users report issues and glitches",
-      "url": "https://www.polygon.com/gta-6-game-informer-app-article-something-went-wrong-screenshots/",
-      "date": "2026-09-29T17:28:01.000Z"
     },
     {
       "lead": false,
