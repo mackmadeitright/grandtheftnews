@@ -1,9 +1,17 @@
 {
-  "updated": "2026-09-30T22:09:14.712Z",
+  "updated": "2026-10-01T05:33:18.177Z",
   "count": 16,
   "items": [
     {
       "lead": true,
+      "src": "IGN",
+      "title": "Rockstar Suggests Disney World and SeaWorld Probably Won't Be in GTA 6",
+      "summary": "Rockstar has suggested that GTA 6 probably won't feature some key Florida attracts, such as Disney World and SeaWorld.",
+      "url": "https://www.ign.com/articles/rockstar-suggests-disney-world-and-seaworld-probably-wont-be-in-gta-6",
+      "date": "2026-09-30T21:54:59.000Z"
+    },
+    {
+      "lead": false,
       "src": "IGN",
       "title": "GTA 5 Modder Taunts Rockstar With Unofficial Nintendo Switch Port, Gets Cease and Desist from Take-Two",
       "summary": "A modder who was porting GTA 5 to Nintendo Switch taunted Rockstar Games and was immediately hit with a cease and desist.",
@@ -49,14 +57,6 @@
       "summary": "Right now, Rockstar isn't selling this merch separately",
       "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-influencers-sent-a-mysterious-package-that-fans-say-sure-looks-better-than-those-usd400-collectors-boxes/",
       "date": "2026-09-30T13:28:34.000Z"
-    },
-    {
-      "lead": false,
-      "src": "IGN",
-      "title": "GTA 6: Every Animal Confirmed So Far",
-      "summary": "Here's every animal revealed for GTA 6 so far, now that Rockstar has confirmed the game features an incredible 170 species.",
-      "url": "https://www.ign.com/articles/gta-6-every-animal-confirmed-so-far",
-      "date": "2026-09-30T12:11:02.000Z"
     },
     {
       "lead": false,
