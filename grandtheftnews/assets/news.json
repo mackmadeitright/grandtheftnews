@@ -1,22 +1,62 @@
 {
-  "updated": "2026-10-01T12:58:27.380Z",
-  "count": 14,
+  "updated": "2026-10-01T20:17:38.255Z",
+  "count": 11,
   "items": [
     {
       "lead": true,
-      "src": "IGN",
-      "title": "Rockstar Suggests Disney World and SeaWorld Probably Won't Be in GTA 6",
-      "summary": "Rockstar has suggested that GTA 6 probably won't feature some key Florida attracts, such as Disney World and SeaWorld.",
-      "url": "https://www.ign.com/articles/rockstar-suggests-disney-world-and-seaworld-probably-wont-be-in-gta-6",
-      "date": "2026-09-30T21:54:59.000Z"
+      "src": "PC Gamer",
+      "title": "Kingdom Come: Deliverance studio co-founder hopes Grand Theft Auto 6 will 'blaze a trail' to higher game prices",
+      "summary": "Warhorse co-founder Martin Klima says games keep getting more expensive to make, and that money has to come from somewhere.",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/kingdom-come-deliverance-studio-co-founder-hopes-grand-theft-auto-6-will-blaze-a-trail-to-higher-game-prices/",
+      "date": "2026-10-01T20:13:04.000Z"
     },
     {
       "lead": false,
       "src": "IGN",
-      "title": "GTA 5 Modder Taunts Rockstar With Unofficial Nintendo Switch Port, Gets Cease and Desist from Take-Two",
-      "summary": "A modder who was porting GTA 5 to Nintendo Switch taunted Rockstar Games and was immediately hit with a cease and desist.",
-      "url": "https://www.ign.com/articles/gta-5-modder-taunts-rockstar-with-unofficial-nintendo-switch-port-gets-cease-and-desist-from-take-two",
-      "date": "2026-09-30T20:27:04.000Z"
+      "title": "How GTA 6's Jason and Lucia Have Evolved Since 2023 in Pictures",
+      "summary": "GTA 6 officially releases next month, so we're taking a look at how the game's two protagonists, Jason and Lucia, have evolved since their 2023 reveal.",
+      "url": "https://www.ign.com/articles/how-gta-6s-jason-and-lucia-have-evolved-since-2023-in-pictures",
+      "date": "2026-10-01T19:09:58.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GameSpot",
+      "title": "GTA 6’s Weather System Sounds Like A Big Step Up",
+      "summary": "Rockstar's Grand Theft Auto 6 includes a number of updates and improvements over the developer's past games, and that includes new weather systems. Rockstar's vice president of art for lighting and rendering at Rockstar, Owen Shepherd, told Game Informer that the studio has \"re-engineered\" the studio's weather syste…",
+      "url": "https://www.gamespot.com/articles/gta-6s-weather-system-sounds-like-a-big-step-up/",
+      "date": "2026-10-01T18:30:55.000Z"
+    },
+    {
+      "lead": false,
+      "src": "IGN",
+      "title": "GTA 6 Gets Official ESRB Rating and It's as Mature as You'd Expect",
+      "summary": "In the most obvious turn of events, GTA 6 has officially been rated M for Mature by the ESRB, and it will of course include nudity.",
+      "url": "https://www.ign.com/articles/gta-6-gets-official-esrb-rating-and-its-as-mature-as-youd-expect",
+      "date": "2026-10-01T16:18:59.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GameSpot",
+      "title": "GTA 6 Doesn’t Compromise Scale For Detail, Rockstar Says",
+      "summary": "Rockstar's games are known for their impressive attention to detail, along with their massive scopes, and GTA 6 is seemingly going to up the ante in that regard. Rockstar boss Aaron Garbut said in an interview that a developer might compromise scale for detail or detail for interaction \"but not with this project.\" \"…",
+      "url": "https://www.gamespot.com/articles/gta-6-doesnt-compromise-scale-for-detail-rockstar-says/",
+      "date": "2026-10-01T15:38:13.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "GTA 6's hype will be matched eventually, ex-PlayStation boss says, but it might be up to Rockstar",
+      "summary": "Shuhei Yoshida says other companies might try to compete in the gap after GTA 6, too",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-hype-and-impact-will-eventually-be-matched-by-another-game-ex-playstation-boss-says-but-it-might-be-up-to-rockstar-to-make-it-after-15-years-maybe-gta-7/",
+      "date": "2026-10-01T15:11:25.000Z"
+    },
+    {
+      "lead": false,
+      "src": "IGN",
+      "title": "GTA 6 Lights Up Miami's Kaseya Center",
+      "summary": "GTA 6 has taken over Miami's Kaseya Center in the latest marketing stunt for Rockstar's behemoth open-world sequel.",
+      "url": "https://www.ign.com/articles/gta-6-kaseya-center",
+      "date": "2026-10-01T13:42:15.000Z"
     },
     {
       "lead": false,
@@ -25,62 +65,6 @@
       "summary": "If you thought Red Dead Redemption 2 's heavy winds and even heavier rain looked impressive, you might be happy to learn that Rockstar Games went back and \"re-engineered our weather system\" for GTA 6 . Hurricanes, rainbows and \"vertiginous cumulonimbus clouds\" are all part of the upcoming open worlder. Read more",
       "url": "https://www.eurogamer.net/gta6-rockstar-weather-systems-hurricanes-rainbows-rain",
       "date": "2026-09-30T17:04:55.000Z"
-    },
-    {
-      "lead": false,
-      "src": "IGN",
-      "title": "GTA 6: Everything the New Screenshots Tell Us",
-      "summary": "The latest GTA 6 screenshots showcase a bunch of great new features, from tropical storms and hunting, to simulated citrus farms and beach-ready butts.",
-      "url": "https://www.ign.com/articles/gta-6-everything-the-new-screenshots-tell-us",
-      "date": "2026-09-30T16:15:00.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Kotaku",
-      "title": "Alleged Rockstar Games Hacker Arrested In Connection With Data Breach That Revealed GTA Online Profits",
-      "summary": "The FBI claims the arrested hacker was one of the leaders of prolific hacking group ShinyHunters",
-      "url": "https://kotaku.com/alleged-rockstar-games-hacker-arrested-in-connection-with-data-breach-that-revealed-gta-online-profits-2000738638",
-      "date": "2026-09-30T15:30:05.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "GTA 6 influencers sent mysterious merch that sure looks better than those $400 Collector's Boxes",
-      "summary": "Right now, Rockstar isn't selling this merch separately",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-influencers-sent-a-mysterious-package-that-fans-say-sure-looks-better-than-those-usd400-collectors-boxes/",
-      "date": "2026-09-30T13:28:34.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "GTA 6's weather is completely re-done from Red Dead Redemption 2, has hurricanes, rainbows and more",
-      "summary": "Rockstar's going above and beyond once again",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6s-weather-is-completely-re-engineered-from-red-dead-redemption-2-and-it-has-hurricanes-rainbows-proper-cloud-formations-and-more/",
-      "date": "2026-09-30T12:01:23.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GameSpot",
-      "title": "The Biggest New Game Releases Of October 2026",
-      "summary": "If you thought September was a big month for new releases, then you ain't seen nothing yet. As the days tick down to the November launch of Grand Theft Auto 6, numerous games are looking to avoid being caught in the blast radius of the year's biggest release, which has led to an absolutely stacked October. Between o…",
-      "url": "https://www.gamespot.com/articles/the-biggest-new-game-releases-of-october-2026/",
-      "date": "2026-09-30T12:00:00.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GameSpot",
-      "title": "GTA 6 Won’t Spoof Disney World, And That’s Too Bad",
-      "summary": "GTA 6 will not include its own spoof on one of Florida's most iconic venues: Walt Disney World. I adore all things Disney, including the parks. But I also appreciate and enjoy Rockstar's penchant for sarcasm and making fun of things. And Disney World? There is a lot to poke fun at. So I am a bit bummed that Walt Dis…",
-      "url": "https://www.gamespot.com/articles/gta-6-wont-spoof-disney-world-and-thats-too-bad/",
-      "date": "2026-09-29T19:24:02.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GameSpot",
-      "title": "GTA 5 For Switch Mod Project Shuts Down, Dev Thanks Take-Two For Its “Mercy”",
-      "summary": "The creator of a mod project that sought to bring Rockstar's Grand Theft Auto 5 to Switch is closing up shop, apparently at the request of rights owner Take-Two. This action comes in the same month that Rockstar published a new \"Mod Guidelines\" notice informing people they need to \"respect our games\" and are not all…",
-      "url": "https://www.gamespot.com/articles/gta-5-for-switch-mod-project-shuts-down-dev-thanks-take-two-for-its-mercy/",
-      "date": "2026-09-29T13:07:36.000Z"
     },
     {
       "lead": false,
@@ -105,14 +89,6 @@
       "summary": "Ahead of the bottomless GTA 6 mods we'll surely get whenever the crime epic finally comes to PC, Rockstar Games has imposed new restrictions on the modding community and, boy, they are tight. Read more",
       "url": "https://www.eurogamer.net/gta-6-rockstar-games-mod-guidelines-restrictions",
       "date": "2026-09-21T19:23:49.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Eurogamer",
-      "title": "Grand Theft Auto 6 sleuths are torn on whether a famous Florida locale is in the game or not",
-      "summary": "Grand Theft Auto fans are known for a love of speculation and information sleuthing at this point, and this certainly hasn't changed since Rockstar released the extended gameplay preview for Grand Theft Auto 6 . The community's current fixation? Whether or not Key West will be in the game. Read more",
-      "url": "https://www.eurogamer.net/grand-theft-auto-6-key-west-map",
-      "date": "2026-09-21T15:48:09.000Z"
     }
   ]
 }
