@@ -1,9 +1,57 @@
 {
-  "updated": "2026-10-02T17:47:02.623Z",
+  "updated": "2026-10-02T22:04:45.516Z",
   "count": 24,
   "items": [
     {
       "lead": true,
+      "src": "GameSpot",
+      "title": "GTA 6 Screenshot Suggests It Won’t Be Shy About Movie References",
+      "summary": "A new screenshot from Grand Theft Auto 6 has arrived, and fans immediately noticed that it appears to be referencing the iconic opening scene from Quentin Tarantino's 1994 crime movie Pulp Fiction. The image was shared by Love magazine on Instagram . The GTA 6 Countdown social media account put it next to the diner…",
+      "url": "https://www.gamespot.com/articles/gta-6-screenshot-suggests-it-wont-be-shy-about-movie-references/",
+      "date": "2026-10-02T19:41:02.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Eurogamer",
+      "title": "GTA 6's 18+ age rating reveals Lucia and Jason can partake in drug use \"directly from their inventory\" and \"at any time\"",
+      "summary": "GTA 6 is seemingly adding another naughty pastime to the series' already mammoth collection of naughty pastimes. Joining the strip clubs and violent car-jackings and carefree murder is \"frequent and prominent\" drug use that you can try \"at any time,\" according to a new age rating. Read more",
+      "url": "https://www.eurogamer.net/gta6-age-rating-pegi-lucia-jason-drug-use",
+      "date": "2026-10-02T19:08:59.000Z"
+    },
+    {
+      "lead": false,
+      "src": "IGN",
+      "title": "Ex-Rockstar Boss Dan Houser Doesn't Play a Lot of Open-World Games – and Doesn't Plan to Play GTA 6",
+      "summary": "Dan Houser, the former co-boss of Rockstar Games and former creative director on the Grand Theft Auto series, doesn't play a lot of open-world games. And he doesn't plan on playing GTA 6 either. But it's for a good creative reason: he doesn't want to be influenced by them as he works on his two new game projects at…",
+      "url": "https://www.ign.com/articles/ex-rockstar-boss-dan-houser-doesnt-play-a-lot-of-open-world-games-and-doesnt-plan-to-play-gta-6",
+      "date": "2026-10-02T18:10:29.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Kotaku",
+      "title": "Rockstar Co-Founder Dan Houser Says He Still Hasn’t Watched The Big GTA 6 Netflix Reveal",
+      "summary": "The longtime Grand Theft Auto writer said it would 'distract' or 'disrupt' him creatively",
+      "url": "https://kotaku.com/rockstar-cofounder-dan-houser-says-he-still-hasnt-watched-the-big-gta-6-netflix-reveal-2000739350",
+      "date": "2026-10-02T18:06:33.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "GTA 6 has \"detailed decapitation\" and cocaine can be \"snorted directly,\" says UK ratings board",
+      "summary": "Surprise, GTA 6 is for \"adults only\"",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-has-detailed-decapitation-and-cocaine-can-be-snorted-directly-from-your-hand-says-uk-ratings-board/",
+      "date": "2026-10-02T18:06:14.000Z"
+    },
+    {
+      "lead": false,
+      "src": "IGN",
+      "title": "GTA 6 Age Rating Confirms New Details on Sex, Drug Use, Decapitation, and More",
+      "summary": "GTA 6 has received a rating of PEGI 18, revealing mentions of \"decapitation,\" the ability for players to snort cocaine at any time, \"scenes of sexual fetishes,\" and much more.",
+      "url": "https://www.ign.com/articles/gta-6-age-rating-confirms-new-details-on-sex-drug-use-decapitation-and-more",
+      "date": "2026-10-02T17:37:32.000Z"
+    },
+    {
+      "lead": false,
       "src": "GameSpot",
       "title": "GTA 6 Should “Blaze A Trail” To More Expensive Games, Dev Says",
       "summary": "Rockstar's GTA 6 is priced at $80 for its standard edition. Another voice has come forward to say they hope other teams follow suit and charge more for new games to help the industry at a time when developers are closing up shop, cancelling games, and laying off developers on a regular basis. Martin Klima, the co-fo…",
@@ -57,14 +105,6 @@
       "summary": "Rockstar is going for a three-pointer here",
       "url": "https://www.gamesradar.com/games/grand-theft-auto/the-power-of-gta-6-marketing-turns-nba-goliath-miami-heat-into-the-vice-city-heat-for-one-game-involving-an-arena-makeover-new-kits-and-naturally-merch/",
       "date": "2026-10-02T15:47:18.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Polygon",
-      "title": "GTA 6’s Next Wild Crossover Is With the Miami Heat",
-      "summary": "The NBA's Miami Heat will play as Vice City to celebrate GTA 6's release this November, and yes, there's merch",
-      "url": "https://www.polygon.com/gta-6-vice-city-miami-heat-nba-collaboration-merch/",
-      "date": "2026-10-02T15:17:08.000Z"
     },
     {
       "lead": false,
@@ -124,27 +164,11 @@
     },
     {
       "lead": false,
-      "src": "IGN",
-      "title": "New GTA 6 Age Rating Confirms Game Will Feature Sex Scenes",
-      "summary": "GTA 6 will have sex scenes, according to a new listing from international ratings boards.",
-      "url": "https://www.ign.com/articles/new-gta-6-age-rating-confirms-game-will-feature-sex-scenes",
-      "date": "2026-10-01T22:14:08.000Z"
-    },
-    {
-      "lead": false,
       "src": "PC Gamer",
       "title": "Kingdom Come: Deliverance studio co-founder hopes Grand Theft Auto 6 will 'blaze a trail' to higher game prices",
       "summary": "Warhorse co-founder Martin Klima says games keep getting more expensive to make, and that money has to come from somewhere.",
       "url": "https://www.pcgamer.com/games/grand-theft-auto/kingdom-come-deliverance-studio-co-founder-hopes-grand-theft-auto-6-will-blaze-a-trail-to-higher-game-prices/",
       "date": "2026-10-01T20:13:04.000Z"
-    },
-    {
-      "lead": false,
-      "src": "IGN",
-      "title": "How GTA 6's Jason and Lucia Have Evolved Since 2023 in Pictures",
-      "summary": "GTA 6 officially releases next month, so we're taking a look at how the game's two protagonists, Jason and Lucia, have evolved since their 2023 reveal.",
-      "url": "https://www.ign.com/articles/how-gta-6s-jason-and-lucia-have-evolved-since-2023-in-pictures",
-      "date": "2026-10-01T19:09:58.000Z"
     },
     {
       "lead": false,
@@ -164,35 +188,11 @@
     },
     {
       "lead": false,
-      "src": "GamesRadar",
-      "title": "GTA 6's hype will be matched eventually, ex-PlayStation boss says, but it might be up to Rockstar",
-      "summary": "Shuhei Yoshida says other companies might try to compete in the gap after GTA 6, too",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-hype-and-impact-will-eventually-be-matched-by-another-game-ex-playstation-boss-says-but-it-might-be-up-to-rockstar-to-make-it-after-15-years-maybe-gta-7/",
-      "date": "2026-10-01T15:11:25.000Z"
-    },
-    {
-      "lead": false,
       "src": "Eurogamer",
       "title": "GTA 6 completely \"re-engineered\" Rockstar's weather systems to \"achieve a sense of scale we haven't felt before,\" adding hurricanes, rainbows and heavy rain",
       "summary": "If you thought Red Dead Redemption 2 's heavy winds and even heavier rain looked impressive, you might be happy to learn that Rockstar Games went back and \"re-engineered our weather system\" for GTA 6 . Hurricanes, rainbows and \"vertiginous cumulonimbus clouds\" are all part of the upcoming open worlder. Read more",
       "url": "https://www.eurogamer.net/gta6-rockstar-weather-systems-hurricanes-rainbows-rain",
       "date": "2026-09-30T17:04:55.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Eurogamer",
-      "title": "\"What if London existed in the Grand Theft Auto universe?\" One fan has answered with a GTA-style map of the city",
-      "summary": "\"What if London existed in the Grand Theft Auto universe? What if Rockstar created a GTA game set in London?\" Anyone sitting in the venn diagram centre of GTA fan and cartography sicko might be happy to learn that YouTuber CityEd has answered both of those questions with a GTA-style map. Read more",
-      "url": "https://www.eurogamer.net/london-gta-rockstar-map-city-rockstar",
-      "date": "2026-09-28T17:53:19.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Eurogamer",
-      "title": "Rockstar reveals a £350 box of naughty GTA 6 collectables you definitely wouldn't get through airport security",
-      "summary": "Rockstar Games has announced a limited Goodtime State Vice City collection of goodies for Grand Theft Auto 6 that's ludicrously expensive - &pound;349 - doesn't include a copy of the game, and is pre-orderable now. Read more",
-      "url": "https://www.eurogamer.net/gta-6-collectible-suspicious-mirror-keychain-spoon",
-      "date": "2026-09-24T16:20:44.000Z"
     }
   ]
 }
