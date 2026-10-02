@@ -1,9 +1,17 @@
 {
-  "updated": "2026-10-01T20:17:38.255Z",
-  "count": 11,
+  "updated": "2026-10-02T00:38:36.902Z",
+  "count": 12,
   "items": [
     {
       "lead": true,
+      "src": "IGN",
+      "title": "New GTA 6 Age Rating Confirms Game Will Feature Sex Scenes",
+      "summary": "GTA 6 will have sex scenes, according to a new listing from international ratings boards.",
+      "url": "https://www.ign.com/articles/new-gta-6-age-rating-confirms-game-will-feature-sex-scenes",
+      "date": "2026-10-01T22:14:08.000Z"
+    },
+    {
+      "lead": false,
       "src": "PC Gamer",
       "title": "Kingdom Come: Deliverance studio co-founder hopes Grand Theft Auto 6 will 'blaze a trail' to higher game prices",
       "summary": "Warhorse co-founder Martin Klima says games keep getting more expensive to make, and that money has to come from somewhere.",
