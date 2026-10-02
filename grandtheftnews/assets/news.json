@@ -1,9 +1,129 @@
 {
-  "updated": "2026-10-02T09:36:32.768Z",
-  "count": 12,
+  "updated": "2026-10-02T17:47:02.623Z",
+  "count": 24,
   "items": [
     {
       "lead": true,
+      "src": "GameSpot",
+      "title": "GTA 6 Should “Blaze A Trail” To More Expensive Games, Dev Says",
+      "summary": "Rockstar's GTA 6 is priced at $80 for its standard edition. Another voice has come forward to say they hope other teams follow suit and charge more for new games to help the industry at a time when developers are closing up shop, cancelling games, and laying off developers on a regular basis. Martin Klima, the co-fo…",
+      "url": "https://www.gamespot.com/articles/gta-6-should-blaze-a-trail-to-more-expensive-games-dev-says/",
+      "date": "2026-10-02T17:17:15.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GameSpot",
+      "title": "GTA 6 Takes The Ridiculous World We Live In And Turns It Up To 11",
+      "summary": "Video games are usually a few steps removed from reality, but with Grand Theft Auto 6 , developer Rockstar Games aims to reflect and amplify the current state of the world with an \"over the top\" experience. As seen in the trailers and gameplay previews so far, GTA 6 is a contemporary game about doing whatever it tak…",
+      "url": "https://www.gamespot.com/articles/gta-6-takes-the-ridiculous-world-we-live-in-and-turns-it-up-to-11/",
+      "date": "2026-10-02T17:14:39.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Kotaku",
+      "title": "Kingdom Come: Deliverance Boss Hopes GTA 6 Is Big Hit So Studios And Publishers Feel More Confident Charging More",
+      "summary": "Warhorse co-founder says higher game prices are 'necessary for this business to survive'",
+      "url": "https://kotaku.com/kingdom-come-deliverance-boss-hopes-gta-6-is-big-hit-so-studios-and-publishers-feel-more-confident-charging-more-2000739328",
+      "date": "2026-10-02T17:00:21.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Eurogamer",
+      "title": "Kingdom Come: Deliverance 2 boss hopes GTA 6 pushes game prices up because it's \"long overdue and also necessary for this business to survive\"",
+      "summary": "Warhorse Studios co-founder Martin Klima - the developer behind last year's historical RPG Kingdom Come: Deliverance 2 - is crossing his fingers for higher game prices, and he thinks GTA 6 might be the one to usher in a new normal. Read more",
+      "url": "https://www.eurogamer.net/kingdom-come-deliverance-gta6-higher-game-prices",
+      "date": "2026-10-02T16:52:25.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "Here's everything new we learned about GTA 6 this week | GTA 6 O'clock",
+      "summary": "On this week’s GTA 6 O’clock, James Jarvis and Dan Dawkins break down a huge batch of new GTA 6 details, including fresh information from Rob Nelson",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/heres-everything-new-we-learned-about-gta-6-this-week-after-rockstar-revealed-new-details-on-the-animals-activities-and-weather-in-its-sprawling-open-world-sandbox/",
+      "date": "2026-10-02T16:04:20.000Z"
+    },
+    {
+      "lead": false,
+      "src": "IGN",
+      "title": "Brand New GTA 6 Screenshots Focus on Lucia and Jason's Relationship",
+      "summary": "Rockstar has further ramped up its GTA 6 marketing today with the launch of several new screenshots focusing on protagonists Lucia and Jason.",
+      "url": "https://www.ign.com/articles/brand-new-gta-6-screenshots-focus-on-lucia-and-jasons-relationship",
+      "date": "2026-10-02T15:50:46.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "GTA 6 marketing turns NBA goliath Miami Heat into the Vice City Heat for one game",
+      "summary": "Rockstar is going for a three-pointer here",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/the-power-of-gta-6-marketing-turns-nba-goliath-miami-heat-into-the-vice-city-heat-for-one-game-involving-an-arena-makeover-new-kits-and-naturally-merch/",
+      "date": "2026-10-02T15:47:18.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Polygon",
+      "title": "GTA 6’s Next Wild Crossover Is With the Miami Heat",
+      "summary": "The NBA's Miami Heat will play as Vice City to celebrate GTA 6's release this November, and yes, there's merch",
+      "url": "https://www.polygon.com/gta-6-vice-city-miami-heat-nba-collaboration-merch/",
+      "date": "2026-10-02T15:17:08.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Kotaku",
+      "title": "GTA 6 Marketing Ramps Up As Miami Heat Announce Vice City Night That Sounds Very Expensive",
+      "summary": "The one night take over happens right before the game launches on November 19",
+      "url": "https://kotaku.com/gta-6-marketing-ramps-up-as-miami-heat-announce-vice-city-night-that-sounds-very-expensive-2000739310",
+      "date": "2026-10-02T14:13:45.000Z"
+    },
+    {
+      "lead": false,
+      "src": "IGN",
+      "title": "The Miami Heat Will Wear GTA 6-Themed Uniforms in a November Match Against Milwaukee",
+      "summary": "The Miami Heat is heading to Vice City for its next NBA match against the Milwaukee Bucks.",
+      "url": "https://www.ign.com/articles/miami-heat-gta-6-uniform",
+      "date": "2026-10-02T14:11:47.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Eurogamer",
+      "title": "Grand Theft Auto 6 may be the first GTA to have full-on \"sex scenes\", Hot Coffee not included",
+      "summary": "Grand Theft Auto 6 may feature actual sex scenes. The suggestion comes from an age-rating description for GTA 6 on the PlayStation Store, which states - if viewing the New Zealand or Australian versions of the Store - there are \"sex scenes\" in the game. Read more",
+      "url": "https://www.eurogamer.net/gta-6-sex-scenes-pegi-esrb-ratings-boards",
+      "date": "2026-10-02T13:59:39.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GameSpot",
+      "title": "NBA’s Miami Heat Will Wear GTA 6 Jerseys And Play On A Branded Court The Day Before Release",
+      "summary": "The NBA's Miami Heat have announced that they will wear GTA 6 -inspired jerseys when they host the Milwaukee Bucks on November 18, a day before the game releases. Additionally, the game will take place on a \"never-before-seen court,\" and it'll be inspired by GTA 6 and Vice City. The Heat play at the Kaseya Center in…",
+      "url": "https://www.gamespot.com/articles/nbas-miami-heat-will-wear-gta-6-jerseys-and-play-on-a-branded-court-the-day-before-release/",
+      "date": "2026-10-02T13:38:28.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "GTA 6 age rating suggests a more explicit game than GTA 5, singling out \"sex scenes\"",
+      "summary": "The only surprising bit is that GTA 5's rating didn't also say this",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-age-rating-suggests-a-more-explicit-game-than-gta-5-singling-out-sex-scenes-in-a-step-up-from-rockstars-last-installment/",
+      "date": "2026-10-02T13:36:54.000Z"
+    },
+    {
+      "lead": false,
+      "src": "IGN",
+      "title": "Kingdom Come: Deliverance Dev Hopes GTA 6 Will Encourage Studios to Charge More for Their Games",
+      "summary": "Warhorse co-founder Martin Klima wants GTA 6 to “blaze a trail” for higher game prices.",
+      "url": "https://www.ign.com/articles/kingdom-come-deliverance-co-founder-gta-6-price",
+      "date": "2026-10-02T12:27:28.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "Kingdom Come: Deliverance 2 lead wants GTA 6 to open the door to charging more for games",
+      "summary": "Martin Klíma says Rockstar is the only developer \"who can afford, or who can dare, to increase the price of games\"",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/kingdom-come-deliverance-2-lead-wants-gta-6-to-open-the-door-to-charging-more-for-games-even-though-the-popularity-of-rockstars-series-beats-me/",
+      "date": "2026-10-02T10:34:09.000Z"
+    },
+    {
+      "lead": false,
       "src": "IGN",
       "title": "New GTA 6 Age Rating Confirms Game Will Feature Sex Scenes",
       "summary": "GTA 6 will have sex scenes, according to a new listing from international ratings boards.",
@@ -36,14 +156,6 @@
     },
     {
       "lead": false,
-      "src": "IGN",
-      "title": "GTA 6 Gets Official ESRB Rating and It's as Mature as You'd Expect",
-      "summary": "In the most obvious turn of events, GTA 6 has officially been rated M for Mature by the ESRB, and it will of course include nudity.",
-      "url": "https://www.ign.com/articles/gta-6-gets-official-esrb-rating-and-its-as-mature-as-youd-expect",
-      "date": "2026-10-01T16:18:59.000Z"
-    },
-    {
-      "lead": false,
       "src": "GameSpot",
       "title": "GTA 6 Doesn’t Compromise Scale For Detail, Rockstar Says",
       "summary": "Rockstar's games are known for their impressive attention to detail, along with their massive scopes, and GTA 6 is seemingly going to up the ante in that regard. Rockstar boss Aaron Garbut said in an interview that a developer might compromise scale for detail or detail for interaction \"but not with this project.\" \"…",
@@ -57,14 +169,6 @@
       "summary": "Shuhei Yoshida says other companies might try to compete in the gap after GTA 6, too",
       "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-hype-and-impact-will-eventually-be-matched-by-another-game-ex-playstation-boss-says-but-it-might-be-up-to-rockstar-to-make-it-after-15-years-maybe-gta-7/",
       "date": "2026-10-01T15:11:25.000Z"
-    },
-    {
-      "lead": false,
-      "src": "IGN",
-      "title": "GTA 6 Lights Up Miami's Kaseya Center",
-      "summary": "GTA 6 has taken over Miami's Kaseya Center in the latest marketing stunt for Rockstar's behemoth open-world sequel.",
-      "url": "https://www.ign.com/articles/gta-6-kaseya-center",
-      "date": "2026-10-01T13:42:15.000Z"
     },
     {
       "lead": false,
@@ -89,14 +193,6 @@
       "summary": "Rockstar Games has announced a limited Goodtime State Vice City collection of goodies for Grand Theft Auto 6 that's ludicrously expensive - &pound;349 - doesn't include a copy of the game, and is pre-orderable now. Read more",
       "url": "https://www.eurogamer.net/gta-6-collectible-suspicious-mirror-keychain-spoon",
       "date": "2026-09-24T16:20:44.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Eurogamer",
-      "title": "Weeks before GTA 6, Rockstar Games imposes new guidelines that restrict mods for missions, maps, updated storylines, and third-party IP",
-      "summary": "Ahead of the bottomless GTA 6 mods we'll surely get whenever the crime epic finally comes to PC, Rockstar Games has imposed new restrictions on the modding community and, boy, they are tight. Read more",
-      "url": "https://www.eurogamer.net/gta-6-rockstar-games-mod-guidelines-restrictions",
-      "date": "2026-09-21T19:23:49.000Z"
     }
   ]
 }
