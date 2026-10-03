@@ -1,9 +1,25 @@
 {
-  "updated": "2026-10-03T11:30:45.883Z",
+  "updated": "2026-10-03T16:06:45.134Z",
   "count": 24,
   "items": [
     {
       "lead": true,
+      "src": "Polygon",
+      "title": "GTA Creator Has Avoided GTA 6 While Making New Open-World Games",
+      "summary": "Rockstar founder Dan Houser is avoiding GTA 6's gameplay reveal while working on a new open-world game at Absurd Ventures, his new company",
+      "url": "https://www.polygon.com/dan-houser-absured-ventures-open-world-game/",
+      "date": "2026-10-03T15:50:02.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "Rockstar co-founder Dan Houser is avoiding GTA 6 so it doesn't \"distract or disrupt\" his new games",
+      "summary": "\"I will try and avoid it\"",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/rockstar-co-founder-dan-houser-is-avoiding-gta-6-so-it-doesnt-distract-or-disrupt-his-new-games-including-another-open-world-comedy/",
+      "date": "2026-10-03T15:23:51.000Z"
+    },
+    {
+      "lead": false,
       "src": "Kotaku",
       "title": "GTA 6 Had A Really Busy Week",
       "summary": "We are less than 50 days away from the release of Grand Theft Auto 6 and marketing is kicking into high gear",
@@ -177,22 +193,6 @@
       "summary": "Martin Klíma says Rockstar is the only developer \"who can afford, or who can dare, to increase the price of games\"",
       "url": "https://www.gamesradar.com/games/grand-theft-auto/kingdom-come-deliverance-2-lead-wants-gta-6-to-open-the-door-to-charging-more-for-games-even-though-the-popularity-of-rockstars-series-beats-me/",
       "date": "2026-10-02T10:34:09.000Z"
-    },
-    {
-      "lead": false,
-      "src": "PC Gamer",
-      "title": "Kingdom Come: Deliverance studio co-founder hopes Grand Theft Auto 6 will 'blaze a trail' to higher game prices",
-      "summary": "Warhorse co-founder Martin Klima says games keep getting more expensive to make, and that money has to come from somewhere.",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/kingdom-come-deliverance-studio-co-founder-hopes-grand-theft-auto-6-will-blaze-a-trail-to-higher-game-prices/",
-      "date": "2026-10-01T20:13:04.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GameSpot",
-      "title": "GTA 6’s Weather System Sounds Like A Big Step Up",
-      "summary": "Rockstar's Grand Theft Auto 6 includes a number of updates and improvements over the developer's past games, and that includes new weather systems. Rockstar's vice president of art for lighting and rendering at Rockstar, Owen Shepherd, told Game Informer that the studio has \"re-engineered\" the studio's weather syste…",
-      "url": "https://www.gamespot.com/articles/gta-6s-weather-system-sounds-like-a-big-step-up/",
-      "date": "2026-10-01T18:30:55.000Z"
     }
   ]
 }
