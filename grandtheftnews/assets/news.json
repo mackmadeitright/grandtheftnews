@@ -1,17 +1,9 @@
 {
-  "updated": "2026-10-03T16:06:45.134Z",
+  "updated": "2026-10-03T20:56:48.688Z",
   "count": 24,
   "items": [
     {
       "lead": true,
-      "src": "Polygon",
-      "title": "GTA Creator Has Avoided GTA 6 While Making New Open-World Games",
-      "summary": "Rockstar founder Dan Houser is avoiding GTA 6's gameplay reveal while working on a new open-world game at Absurd Ventures, his new company",
-      "url": "https://www.polygon.com/dan-houser-absured-ventures-open-world-game/",
-      "date": "2026-10-03T15:50:02.000Z"
-    },
-    {
-      "lead": false,
       "src": "GamesRadar",
       "title": "Rockstar co-founder Dan Houser is avoiding GTA 6 so it doesn't \"distract or disrupt\" his new games",
       "summary": "\"I will try and avoid it\"",
@@ -140,22 +132,6 @@
     },
     {
       "lead": false,
-      "src": "Kotaku",
-      "title": "GTA 6 Marketing Ramps Up As Miami Heat Announce Vice City Night That Sounds Very Expensive",
-      "summary": "The one night take over happens right before the game launches on November 19",
-      "url": "https://kotaku.com/gta-6-marketing-ramps-up-as-miami-heat-announce-vice-city-night-that-sounds-very-expensive-2000739310",
-      "date": "2026-10-02T14:13:45.000Z"
-    },
-    {
-      "lead": false,
-      "src": "IGN",
-      "title": "The Miami Heat Will Wear GTA 6-Themed Uniforms in a November Match Against Milwaukee",
-      "summary": "The Miami Heat is heading to Vice City for its next NBA match against the Milwaukee Bucks.",
-      "url": "https://www.ign.com/articles/miami-heat-gta-6-uniform",
-      "date": "2026-10-02T14:11:47.000Z"
-    },
-    {
-      "lead": false,
       "src": "Eurogamer",
       "title": "Grand Theft Auto 6 may be the first GTA to have full-on \"sex scenes\", Hot Coffee not included",
       "summary": "Grand Theft Auto 6 may feature actual sex scenes. The suggestion comes from an age-rating description for GTA 6 on the PlayStation Store, which states - if viewing the New Zealand or Australian versions of the Store - there are \"sex scenes\" in the game. Read more",
@@ -180,19 +156,43 @@
     },
     {
       "lead": false,
-      "src": "IGN",
-      "title": "Kingdom Come: Deliverance Dev Hopes GTA 6 Will Encourage Studios to Charge More for Their Games",
-      "summary": "Warhorse co-founder Martin Klima wants GTA 6 to “blaze a trail” for higher game prices.",
-      "url": "https://www.ign.com/articles/kingdom-come-deliverance-co-founder-gta-6-price",
-      "date": "2026-10-02T12:27:28.000Z"
-    },
-    {
-      "lead": false,
       "src": "GamesRadar",
       "title": "Kingdom Come: Deliverance 2 lead wants GTA 6 to open the door to charging more for games",
       "summary": "Martin Klíma says Rockstar is the only developer \"who can afford, or who can dare, to increase the price of games\"",
       "url": "https://www.gamesradar.com/games/grand-theft-auto/kingdom-come-deliverance-2-lead-wants-gta-6-to-open-the-door-to-charging-more-for-games-even-though-the-popularity-of-rockstars-series-beats-me/",
       "date": "2026-10-02T10:34:09.000Z"
+    },
+    {
+      "lead": false,
+      "src": "PC Gamer",
+      "title": "Kingdom Come: Deliverance studio co-founder hopes Grand Theft Auto 6 will 'blaze a trail' to higher game prices",
+      "summary": "Warhorse co-founder Martin Klima says games keep getting more expensive to make, and that money has to come from somewhere.",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/kingdom-come-deliverance-studio-co-founder-hopes-grand-theft-auto-6-will-blaze-a-trail-to-higher-game-prices/",
+      "date": "2026-10-01T20:13:04.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GameSpot",
+      "title": "GTA 6’s Weather System Sounds Like A Big Step Up",
+      "summary": "Rockstar's Grand Theft Auto 6 includes a number of updates and improvements over the developer's past games, and that includes new weather systems. Rockstar's vice president of art for lighting and rendering at Rockstar, Owen Shepherd, told Game Informer that the studio has \"re-engineered\" the studio's weather syste…",
+      "url": "https://www.gamespot.com/articles/gta-6s-weather-system-sounds-like-a-big-step-up/",
+      "date": "2026-10-01T18:30:55.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GameSpot",
+      "title": "GTA 6 Doesn’t Compromise Scale For Detail, Rockstar Says",
+      "summary": "Rockstar's games are known for their impressive attention to detail, along with their massive scopes, and GTA 6 is seemingly going to up the ante in that regard. Rockstar boss Aaron Garbut said in an interview that a developer might compromise scale for detail or detail for interaction \"but not with this project.\" \"…",
+      "url": "https://www.gamespot.com/articles/gta-6-doesnt-compromise-scale-for-detail-rockstar-says/",
+      "date": "2026-10-01T15:38:13.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Eurogamer",
+      "title": "GTA 6 completely \"re-engineered\" Rockstar's weather systems to \"achieve a sense of scale we haven't felt before,\" adding hurricanes, rainbows and heavy rain",
+      "summary": "If you thought Red Dead Redemption 2 's heavy winds and even heavier rain looked impressive, you might be happy to learn that Rockstar Games went back and \"re-engineered our weather system\" for GTA 6 . Hurricanes, rainbows and \"vertiginous cumulonimbus clouds\" are all part of the upcoming open worlder. Read more",
+      "url": "https://www.eurogamer.net/gta6-rockstar-weather-systems-hurricanes-rainbows-rain",
+      "date": "2026-09-30T17:04:55.000Z"
     }
   ]
 }
