@@ -1,9 +1,25 @@
 {
-  "updated": "2026-10-02T22:04:45.516Z",
+  "updated": "2026-10-03T05:03:23.701Z",
   "count": 24,
   "items": [
     {
       "lead": true,
+      "src": "Kotaku",
+      "title": "GTA 6 Had A Really Busy Week",
+      "summary": "We are less than 50 days away from the release of Grand Theft Auto 6 and marketing is kicking into high gear",
+      "url": "https://kotaku.com/gta-6-had-a-really-busy-week-2000739409",
+      "date": "2026-10-02T23:00:55.000Z"
+    },
+    {
+      "lead": false,
+      "src": "PC Gamer",
+      "title": "GTA 6 marketing stunt reveals none of our UK editors have heard of the Miami Heat",
+      "summary": "I don't even know ball but I feel like I'm losing my mind.",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-marketing-stunt-reveals-none-of-our-uk-editors-have-heard-of-the-miami-heat/",
+      "date": "2026-10-02T22:49:09.000Z"
+    },
+    {
+      "lead": false,
       "src": "GameSpot",
       "title": "GTA 6 Screenshot Suggests It Won’t Be Shy About Movie References",
       "summary": "A new screenshot from Grand Theft Auto 6 has arrived, and fans immediately noticed that it appears to be referencing the iconic opening scene from Quentin Tarantino's 1994 crime movie Pulp Fiction. The image was shared by Love magazine on Instagram . The GTA 6 Countdown social media account put it next to the diner…",
@@ -177,22 +193,6 @@
       "summary": "Rockstar's Grand Theft Auto 6 includes a number of updates and improvements over the developer's past games, and that includes new weather systems. Rockstar's vice president of art for lighting and rendering at Rockstar, Owen Shepherd, told Game Informer that the studio has \"re-engineered\" the studio's weather syste…",
       "url": "https://www.gamespot.com/articles/gta-6s-weather-system-sounds-like-a-big-step-up/",
       "date": "2026-10-01T18:30:55.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GameSpot",
-      "title": "GTA 6 Doesn’t Compromise Scale For Detail, Rockstar Says",
-      "summary": "Rockstar's games are known for their impressive attention to detail, along with their massive scopes, and GTA 6 is seemingly going to up the ante in that regard. Rockstar boss Aaron Garbut said in an interview that a developer might compromise scale for detail or detail for interaction \"but not with this project.\" \"…",
-      "url": "https://www.gamespot.com/articles/gta-6-doesnt-compromise-scale-for-detail-rockstar-says/",
-      "date": "2026-10-01T15:38:13.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Eurogamer",
-      "title": "GTA 6 completely \"re-engineered\" Rockstar's weather systems to \"achieve a sense of scale we haven't felt before,\" adding hurricanes, rainbows and heavy rain",
-      "summary": "If you thought Red Dead Redemption 2 's heavy winds and even heavier rain looked impressive, you might be happy to learn that Rockstar Games went back and \"re-engineered our weather system\" for GTA 6 . Hurricanes, rainbows and \"vertiginous cumulonimbus clouds\" are all part of the upcoming open worlder. Read more",
-      "url": "https://www.eurogamer.net/gta6-rockstar-weather-systems-hurricanes-rainbows-rain",
-      "date": "2026-09-30T17:04:55.000Z"
     }
   ]
 }
