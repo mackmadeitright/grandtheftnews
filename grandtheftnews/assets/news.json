@@ -1,9 +1,17 @@
 {
-  "updated": "2026-10-03T23:43:49.121Z",
+  "updated": "2026-10-04T05:36:15.738Z",
   "count": 24,
   "items": [
     {
       "lead": true,
+      "src": "PC Gamer",
+      "title": "GTA 6 won't be letting up on the satire: 'If you are going to put all this effort into creating a version of today's world, it has to be more over the top, more insane, more in your face'",
+      "summary": "Lucia and Jason's appearance in a fashion magazine gives us a couple more titbits of GTA info.",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-wont-be-letting-up-on-the-satire-if-you-are-going-to-put-all-this-effort-into-creating-a-version-of-todays-world-it-has-to-be-more-over-the-top-more-insane-more-in-your-face/",
+      "date": "2026-10-04T03:14:41.000Z"
+    },
+    {
+      "lead": false,
       "src": "GamesRadar",
       "title": "Rockstar co-founder Dan Houser is avoiding GTA 6 so it doesn't \"distract or disrupt\" his new games",
       "summary": "\"I will try and avoid it\"",
@@ -161,14 +169,6 @@
       "summary": "Martin Klíma says Rockstar is the only developer \"who can afford, or who can dare, to increase the price of games\"",
       "url": "https://www.gamesradar.com/games/grand-theft-auto/kingdom-come-deliverance-2-lead-wants-gta-6-to-open-the-door-to-charging-more-for-games-even-though-the-popularity-of-rockstars-series-beats-me/",
       "date": "2026-10-02T10:34:09.000Z"
-    },
-    {
-      "lead": false,
-      "src": "PC Gamer",
-      "title": "Kingdom Come: Deliverance studio co-founder hopes Grand Theft Auto 6 will 'blaze a trail' to higher game prices",
-      "summary": "Warhorse co-founder Martin Klima says games keep getting more expensive to make, and that money has to come from somewhere.",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/kingdom-come-deliverance-studio-co-founder-hopes-grand-theft-auto-6-will-blaze-a-trail-to-higher-game-prices/",
-      "date": "2026-10-01T20:13:04.000Z"
     },
     {
       "lead": false,
