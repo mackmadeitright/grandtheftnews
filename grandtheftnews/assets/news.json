@@ -1,9 +1,41 @@
 {
-  "updated": "2026-10-04T12:11:48.237Z",
+  "updated": "2026-10-04T18:35:30.159Z",
   "count": 24,
   "items": [
     {
       "lead": true,
+      "src": "GamesRadar",
+      "title": "Former GTA lead says \"there's no greater compliment\" than being compared to his Rockstar classics",
+      "summary": "\"The work is the creative work, not what the market thinks of it\"",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/former-gta-lead-says-theres-no-greater-compliment-than-being-compared-to-his-rockstar-classics-but-he-hopes-his-new-game-is-successful-in-its-own-right/",
+      "date": "2026-10-04T16:09:49.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Polygon",
+      "title": "Link And GTA 6's Jason Get Into A Heated Debate In Hilarious SNL Weekend Update Bit",
+      "summary": "There are only two weeks between the launch of the Ocarina of Time remake and GTA 6, which led to a rivalry between the games' protagonists on SNL.",
+      "url": "https://www.polygon.com/saturday-night-live-zelda-vs-gta-6/",
+      "date": "2026-10-04T16:03:18.000Z"
+    },
+    {
+      "lead": false,
+      "src": "IGN",
+      "title": "SNL Weighs in on GTA 6 vs. The Legend of Zelda With Skit Featuring Jason and Link",
+      "summary": "SNL weighed in on GTA 6 vs. The Legend of Zelda: Ocarina of Time remake with a new Weekend Update skit featuring video game protagonists Jason Duval and Link.",
+      "url": "https://www.ign.com/articles/snl-weighs-in-on-gta-6-vs-the-legend-of-zelda-with-skit-featuring-jason-and-link",
+      "date": "2026-10-04T15:55:14.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Kotaku",
+      "title": "GTA VI’s Jason Duval And Link Make Their Final Pitch On Saturday Night Live",
+      "summary": "Wait Colin Jost is seriously still at the Weekend Update desk? Does he not have anywhere else to go?",
+      "url": "https://kotaku.com/gta-vis-jason-duval-and-link-make-their-final-pitch-on-saturday-night-live-2000739644",
+      "date": "2026-10-04T14:51:07.000Z"
+    },
+    {
+      "lead": false,
       "src": "PC Gamer",
       "title": "Grand Theft Auto 6 features 'detailed decapitation' and 'frequent and prominent' drug use, according to hastily deleted PEGI rating",
       "summary": "Jason and Lucia can also snort cocaine \"directly from their hand at any time.\"",
@@ -68,14 +100,6 @@
     },
     {
       "lead": false,
-      "src": "Kotaku",
-      "title": "Rockstar Co-Founder Dan Houser Says He Still Hasn’t Watched The Big GTA 6 Netflix Reveal",
-      "summary": "The longtime Grand Theft Auto writer said it would 'distract' or 'disrupt' him creatively",
-      "url": "https://kotaku.com/rockstar-cofounder-dan-houser-says-he-still-hasnt-watched-the-big-gta-6-netflix-reveal-2000739350",
-      "date": "2026-10-02T18:06:33.000Z"
-    },
-    {
-      "lead": false,
       "src": "GamesRadar",
       "title": "GTA 6 has \"detailed decapitation\" and cocaine can be \"snorted directly,\" says UK ratings board",
       "summary": "Surprise, GTA 6 is for \"adults only\"",
@@ -105,14 +129,6 @@
       "summary": "Video games are usually a few steps removed from reality, but with Grand Theft Auto 6 , developer Rockstar Games aims to reflect and amplify the current state of the world with an \"over the top\" experience. As seen in the trailers and gameplay previews so far, GTA 6 is a contemporary game about doing whatever it tak…",
       "url": "https://www.gamespot.com/articles/gta-6-takes-the-ridiculous-world-we-live-in-and-turns-it-up-to-11/",
       "date": "2026-10-02T17:14:39.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Kotaku",
-      "title": "Kingdom Come: Deliverance Boss Hopes GTA 6 Is Big Hit So Studios And Publishers Feel More Confident Charging More",
-      "summary": "Warhorse co-founder says higher game prices are 'necessary for this business to survive'",
-      "url": "https://kotaku.com/kingdom-come-deliverance-boss-hopes-gta-6-is-big-hit-so-studios-and-publishers-feel-more-confident-charging-more-2000739328",
-      "date": "2026-10-02T17:00:21.000Z"
     },
     {
       "lead": false,
@@ -177,22 +193,6 @@
       "summary": "Martin Klíma says Rockstar is the only developer \"who can afford, or who can dare, to increase the price of games\"",
       "url": "https://www.gamesradar.com/games/grand-theft-auto/kingdom-come-deliverance-2-lead-wants-gta-6-to-open-the-door-to-charging-more-for-games-even-though-the-popularity-of-rockstars-series-beats-me/",
       "date": "2026-10-02T10:34:09.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GameSpot",
-      "title": "GTA 6’s Weather System Sounds Like A Big Step Up",
-      "summary": "Rockstar's Grand Theft Auto 6 includes a number of updates and improvements over the developer's past games, and that includes new weather systems. Rockstar's vice president of art for lighting and rendering at Rockstar, Owen Shepherd, told Game Informer that the studio has \"re-engineered\" the studio's weather syste…",
-      "url": "https://www.gamespot.com/articles/gta-6s-weather-system-sounds-like-a-big-step-up/",
-      "date": "2026-10-01T18:30:55.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GameSpot",
-      "title": "GTA 6 Doesn’t Compromise Scale For Detail, Rockstar Says",
-      "summary": "Rockstar's games are known for their impressive attention to detail, along with their massive scopes, and GTA 6 is seemingly going to up the ante in that regard. Rockstar boss Aaron Garbut said in an interview that a developer might compromise scale for detail or detail for interaction \"but not with this project.\" \"…",
-      "url": "https://www.gamespot.com/articles/gta-6-doesnt-compromise-scale-for-detail-rockstar-says/",
-      "date": "2026-10-01T15:38:13.000Z"
     }
   ]
 }
