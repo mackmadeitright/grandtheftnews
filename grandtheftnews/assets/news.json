@@ -1,9 +1,41 @@
 {
-  "updated": "2026-10-05T05:19:54.278Z",
+  "updated": "2026-10-05T14:22:12.437Z",
   "count": 24,
   "items": [
     {
       "lead": true,
+      "src": "GamesRadar",
+      "title": "The GTA 6 guide to Prime Day: all the deals you need",
+      "summary": "There's lots of kit you need to pick up ahead of GTA 6's release, and Prime Day makes them all much cheaper.",
+      "url": "https://www.gamesradar.com/hardware/handhelds/the-gta-6-guide-to-prime-day-every-discounted-tv-controller-headset-and-gadget-you-need-when-you-visit-leonida/",
+      "date": "2026-10-05T13:48:49.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "GTA 6 boss says Rockstar has to \"forego realism\" for the sake of the players",
+      "summary": "\"Sometimes it's better to ignore or omit certain aspects of reality,\" says Rob Nelson",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-boss-says-rockstar-has-to-forego-realism-for-the-sake-of-the-players-realism-can-help-greatly-with-immersion-but-too-much-can-feel-tedious/",
+      "date": "2026-10-05T11:08:15.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Polygon",
+      "title": "GTA 6 Shows 'What the American Dream Looks Like Now' in a Game Without Background Characters",
+      "summary": "New interview reveals Grand Theft Auto 6 put hundreds of hours into NPC design and dialogue and tried its best to make an accurate-to-the-times GTA.",
+      "url": "https://www.polygon.com/grand-theft-auto-gta-6-love-magazine-interview-npc-details/",
+      "date": "2026-10-05T10:12:25.000Z"
+    },
+    {
+      "lead": false,
+      "src": "IGN",
+      "title": "Rockstar Traveled Across Florida With Gang Members and Cops for GTA 6 Research",
+      "summary": "Rockstar has discussed travelling across Florida with gang members and cops for GTA 6 research, and hovering in a helicopter above a Beyonce concert.",
+      "url": "https://www.ign.com/articles/gta-6-research-gang-members",
+      "date": "2026-10-05T08:29:00.000Z"
+    },
+    {
+      "lead": false,
       "src": "GamesRadar",
       "title": "Former GTA lead says \"there's no greater compliment\" than being compared to his Rockstar classics",
       "summary": "\"The work is the creative work, not what the market thinks of it\"",
@@ -100,14 +132,6 @@
     },
     {
       "lead": false,
-      "src": "IGN",
-      "title": "GTA 6 Age Rating Confirms New Details on Sex, Drug Use, Decapitation, and More",
-      "summary": "GTA 6 has received a rating of PEGI 18, revealing mentions of \"decapitation,\" the ability for players to snort cocaine at any time, \"scenes of sexual fetishes,\" and much more.",
-      "url": "https://www.ign.com/articles/gta-6-age-rating-confirms-new-details-on-sex-drug-use-decapitation-and-more",
-      "date": "2026-10-02T17:37:32.000Z"
-    },
-    {
-      "lead": false,
       "src": "GameSpot",
       "title": "GTA 6 Should “Blaze A Trail” To More Expensive Games, Dev Says",
       "summary": "Rockstar's GTA 6 is priced at $80 for its standard edition. Another voice has come forward to say they hope other teams follow suit and charge more for new games to help the industry at a time when developers are closing up shop, cancelling games, and laying off developers on a regular basis. Martin Klima, the co-fo…",
@@ -164,35 +188,11 @@
     },
     {
       "lead": false,
-      "src": "GamesRadar",
-      "title": "GTA 6 age rating suggests a more explicit game than GTA 5, singling out \"sex scenes\"",
-      "summary": "The only surprising bit is that GTA 5's rating didn't also say this",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-age-rating-suggests-a-more-explicit-game-than-gta-5-singling-out-sex-scenes-in-a-step-up-from-rockstars-last-installment/",
-      "date": "2026-10-02T13:36:54.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "Kingdom Come: Deliverance 2 lead wants GTA 6 to open the door to charging more for games",
-      "summary": "Martin Klíma says Rockstar is the only developer \"who can afford, or who can dare, to increase the price of games\"",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/kingdom-come-deliverance-2-lead-wants-gta-6-to-open-the-door-to-charging-more-for-games-even-though-the-popularity-of-rockstars-series-beats-me/",
-      "date": "2026-10-02T10:34:09.000Z"
-    },
-    {
-      "lead": false,
       "src": "GameSpot",
       "title": "GTA 6’s Weather System Sounds Like A Big Step Up",
       "summary": "Rockstar's Grand Theft Auto 6 includes a number of updates and improvements over the developer's past games, and that includes new weather systems. Rockstar's vice president of art for lighting and rendering at Rockstar, Owen Shepherd, told Game Informer that the studio has \"re-engineered\" the studio's weather syste…",
       "url": "https://www.gamespot.com/articles/gta-6s-weather-system-sounds-like-a-big-step-up/",
       "date": "2026-10-01T18:30:55.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GameSpot",
-      "title": "GTA 6 Doesn’t Compromise Scale For Detail, Rockstar Says",
-      "summary": "Rockstar's games are known for their impressive attention to detail, along with their massive scopes, and GTA 6 is seemingly going to up the ante in that regard. Rockstar boss Aaron Garbut said in an interview that a developer might compromise scale for detail or detail for interaction \"but not with this project.\" \"…",
-      "url": "https://www.gamespot.com/articles/gta-6-doesnt-compromise-scale-for-detail-rockstar-says/",
-      "date": "2026-10-01T15:38:13.000Z"
     }
   ]
 }
