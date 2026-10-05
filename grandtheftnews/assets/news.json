@@ -1,9 +1,73 @@
 {
-  "updated": "2026-10-05T14:22:12.437Z",
+  "updated": "2026-10-05T21:56:52.225Z",
   "count": 24,
   "items": [
     {
       "lead": true,
+      "src": "GamesRadar",
+      "title": "GTA 6 story lead says Rockstar didn't want to make a \"statement\" with Jason's ex-military background",
+      "summary": "A lot of Jason's actions are the result of his \"material circumstances,\" says Rupert Humphries",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-story-lead-insists-rockstar-didnt-want-to-make-any-kind-of-statement-with-jasons-ex-military-background/",
+      "date": "2026-10-05T21:00:00.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Eurogamer",
+      "title": "GTA 6 devs tried \"not to jump on the bandwagon\" of passing trends and instead created their \"own slanted, overblown versions\"",
+      "summary": "Creating a timely satire can be tough when development takes half a decade or more - it's the reason South Park's stuck with its crude art style for literal decades, but the developers of GTA 6 can't just replace their world-class tech with paper cutouts. Instead, the team simply tried to avoid trends that would bec…",
+      "url": "https://www.eurogamer.net/gta-6-devs-bandwagon-trends-created-slanted-versions",
+      "date": "2026-10-05T20:14:26.000Z"
+    },
+    {
+      "lead": false,
+      "src": "PC Gamer",
+      "title": "Despite calling Grand Theft Auto 'a videogame franchise built around criminal activity,' Miami-Dade sheriff isn't mad about the NBA's 'Vice City' transformation",
+      "summary": "Sheriff Rosie Cordero-Stutz says her strong stance against the GTA 6 promotional collaboration was only about \"publicly owned facilities and infrastructure.\"",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/despite-calling-grand-theft-auto-a-videogame-franchise-built-around-criminal-activity-miami-dade-sheriff-isnt-mad-about-the-nbas-vice-city-transformation/",
+      "date": "2026-10-05T19:42:34.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GameSpot",
+      "title": "Why GTA Studio Co-Founder Is Avoiding GTA 6–And All Open-World Games",
+      "summary": "Rockstar co-founder Dan Houser left the company in 2020 and now runs a new outfit called Absurd Ventures. Houser will be forever connected to the GTA franchise, and he's now weighed in on GTA 6 . He told Variety that he did not watch the \"Extended Look\" trailer and doesn't plan to. Why? He said he tries to avoid con…",
+      "url": "https://www.gamespot.com/articles/why-gta-studio-co-founder-is-avoiding-gta-6-and-all-open-world-games/",
+      "date": "2026-10-05T18:06:23.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GameSpot",
+      "title": "How Is A Game Like GTA 6 Actually Made? Here’s How Rockstar Gets It Done",
+      "summary": "Rockstar's Grand Theft Auto 6 is one of the most highly anticipated game releases this year, or ever. The franchise is known for its massive scope and impressive attention to detail, but how is a game like GTA 6 actually made? In a new interview with Love magazine ( via Kotaku ), Rockstar North boss Rob Nelson said…",
+      "url": "https://www.gamespot.com/articles/how-is-a-game-like-gta-6-actually-made-heres-how-rockstar-gets-it-done/",
+      "date": "2026-10-05T16:32:43.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Kotaku",
+      "title": "Rockstar Explains How It Actually Makes A Game Like GTA 6",
+      "summary": "Working on one chunk at a time, for years and years and years, apparently",
+      "url": "https://kotaku.com/rockstar-explains-how-it-actually-makes-a-game-like-gta-6-2000739955",
+      "date": "2026-10-05T15:33:13.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Eurogamer",
+      "title": "\"It has to be more over the top, more insane, more in your face\" - Rockstar explains why GTA 6 doesn't satirise real-world events",
+      "summary": "In a new interview, Rockstar has discussed its revered approach to crafting the satire the Grand Theft Auto series is famous for - particularly relating to GTA 6 and whether the game should include, and lampoon, real-world politics. Read more",
+      "url": "https://www.eurogamer.net/rockstar-gta-6-satire-politics-real-world-events",
+      "date": "2026-10-05T15:00:30.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GameSpot",
+      "title": "10 New Things We Just Learned About GTA 6",
+      "summary": "New information about Grand Theft Auto 6 continues to be revealed. Game Informer 's most recent issue included a number of new details, and we've rounded up some of the key things we learned below. Story Setup It seems like we'll start the game playing as Jason, since Lucia is still in prison. When Lucia gets out, t…",
+      "url": "https://www.gamespot.com/articles/10-new-things-we-just-learned-about-gta-6/",
+      "date": "2026-10-05T14:04:17.000Z"
+    },
+    {
+      "lead": false,
       "src": "GamesRadar",
       "title": "The GTA 6 guide to Prime Day: all the deals you need",
       "summary": "There's lots of kit you need to pick up ahead of GTA 6's release, and Prime Day makes them all much cheaper.",
@@ -17,14 +81,6 @@
       "summary": "\"Sometimes it's better to ignore or omit certain aspects of reality,\" says Rob Nelson",
       "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-boss-says-rockstar-has-to-forego-realism-for-the-sake-of-the-players-realism-can-help-greatly-with-immersion-but-too-much-can-feel-tedious/",
       "date": "2026-10-05T11:08:15.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Polygon",
-      "title": "GTA 6 Shows 'What the American Dream Looks Like Now' in a Game Without Background Characters",
-      "summary": "New interview reveals Grand Theft Auto 6 put hundreds of hours into NPC design and dialogue and tried its best to make an accurate-to-the-times GTA.",
-      "url": "https://www.polygon.com/grand-theft-auto-gta-6-love-magazine-interview-npc-details/",
-      "date": "2026-10-05T10:12:25.000Z"
     },
     {
       "lead": false,
@@ -44,22 +100,6 @@
     },
     {
       "lead": false,
-      "src": "IGN",
-      "title": "SNL Weighs in on GTA 6 vs. The Legend of Zelda With Skit Featuring Jason and Link",
-      "summary": "SNL weighed in on GTA 6 vs. The Legend of Zelda: Ocarina of Time remake with a new Weekend Update skit featuring video game protagonists Jason Duval and Link.",
-      "url": "https://www.ign.com/articles/snl-weighs-in-on-gta-6-vs-the-legend-of-zelda-with-skit-featuring-jason-and-link",
-      "date": "2026-10-04T15:55:14.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Kotaku",
-      "title": "GTA VI’s Jason Duval And Link Make Their Final Pitch On Saturday Night Live",
-      "summary": "Wait Colin Jost is seriously still at the Weekend Update desk? Does he not have anywhere else to go?",
-      "url": "https://kotaku.com/gta-vis-jason-duval-and-link-make-their-final-pitch-on-saturday-night-live-2000739644",
-      "date": "2026-10-04T14:51:07.000Z"
-    },
-    {
-      "lead": false,
       "src": "PC Gamer",
       "title": "Grand Theft Auto 6 features 'detailed decapitation' and 'frequent and prominent' drug use, according to hastily deleted PEGI rating",
       "summary": "Jason and Lucia can also snort cocaine \"directly from their hand at any time.\"",
@@ -73,22 +113,6 @@
       "summary": "Lucia and Jason's appearance in a fashion magazine gives us a couple more titbits of GTA info.",
       "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-wont-be-letting-up-on-the-satire-if-you-are-going-to-put-all-this-effort-into-creating-a-version-of-todays-world-it-has-to-be-more-over-the-top-more-insane-more-in-your-face/",
       "date": "2026-10-04T03:14:41.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "Rockstar co-founder Dan Houser is avoiding GTA 6 so it doesn't \"distract or disrupt\" his new games",
-      "summary": "\"I will try and avoid it\"",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/rockstar-co-founder-dan-houser-is-avoiding-gta-6-so-it-doesnt-distract-or-disrupt-his-new-games-including-another-open-world-comedy/",
-      "date": "2026-10-03T15:23:51.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Kotaku",
-      "title": "GTA 6 Had A Really Busy Week",
-      "summary": "We are less than 50 days away from the release of Grand Theft Auto 6 and marketing is kicking into high gear",
-      "url": "https://kotaku.com/gta-6-had-a-really-busy-week-2000739409",
-      "date": "2026-10-02T23:00:55.000Z"
     },
     {
       "lead": false,
@@ -116,22 +140,6 @@
     },
     {
       "lead": false,
-      "src": "IGN",
-      "title": "Ex-Rockstar Boss Dan Houser Doesn't Play a Lot of Open-World Games – and Doesn't Plan to Play GTA 6",
-      "summary": "Dan Houser, the former co-boss of Rockstar Games and former creative director on the Grand Theft Auto series, doesn't play a lot of open-world games. And he doesn't plan on playing GTA 6 either. But it's for a good creative reason: he doesn't want to be influenced by them as he works on his two new game projects at…",
-      "url": "https://www.ign.com/articles/ex-rockstar-boss-dan-houser-doesnt-play-a-lot-of-open-world-games-and-doesnt-plan-to-play-gta-6",
-      "date": "2026-10-02T18:10:29.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "GTA 6 has \"detailed decapitation\" and cocaine can be \"snorted directly,\" says UK ratings board",
-      "summary": "Surprise, GTA 6 is for \"adults only\"",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-has-detailed-decapitation-and-cocaine-can-be-snorted-directly-from-your-hand-says-uk-ratings-board/",
-      "date": "2026-10-02T18:06:14.000Z"
-    },
-    {
-      "lead": false,
       "src": "GameSpot",
       "title": "GTA 6 Should “Blaze A Trail” To More Expensive Games, Dev Says",
       "summary": "Rockstar's GTA 6 is priced at $80 for its standard edition. Another voice has come forward to say they hope other teams follow suit and charge more for new games to help the industry at a time when developers are closing up shop, cancelling games, and laying off developers on a regular basis. Martin Klima, the co-fo…",
@@ -156,22 +164,6 @@
     },
     {
       "lead": false,
-      "src": "GamesRadar",
-      "title": "Here's everything new we learned about GTA 6 this week | GTA 6 O'clock",
-      "summary": "On this week’s GTA 6 O’clock, James Jarvis and Dan Dawkins break down a huge batch of new GTA 6 details, including fresh information from Rob Nelson",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/heres-everything-new-we-learned-about-gta-6-this-week-after-rockstar-revealed-new-details-on-the-animals-activities-and-weather-in-its-sprawling-open-world-sandbox/",
-      "date": "2026-10-02T16:04:20.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "GTA 6 marketing turns NBA goliath Miami Heat into the Vice City Heat for one game",
-      "summary": "Rockstar is going for a three-pointer here",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/the-power-of-gta-6-marketing-turns-nba-goliath-miami-heat-into-the-vice-city-heat-for-one-game-involving-an-arena-makeover-new-kits-and-naturally-merch/",
-      "date": "2026-10-02T15:47:18.000Z"
-    },
-    {
-      "lead": false,
       "src": "Eurogamer",
       "title": "Grand Theft Auto 6 may be the first GTA to have full-on \"sex scenes\", Hot Coffee not included",
       "summary": "Grand Theft Auto 6 may feature actual sex scenes. The suggestion comes from an age-rating description for GTA 6 on the PlayStation Store, which states - if viewing the New Zealand or Australian versions of the Store - there are \"sex scenes\" in the game. Read more",
@@ -193,6 +185,14 @@
       "summary": "Rockstar's Grand Theft Auto 6 includes a number of updates and improvements over the developer's past games, and that includes new weather systems. Rockstar's vice president of art for lighting and rendering at Rockstar, Owen Shepherd, told Game Informer that the studio has \"re-engineered\" the studio's weather syste…",
       "url": "https://www.gamespot.com/articles/gta-6s-weather-system-sounds-like-a-big-step-up/",
       "date": "2026-10-01T18:30:55.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Eurogamer",
+      "title": "GTA 6 completely \"re-engineered\" Rockstar's weather systems to \"achieve a sense of scale we haven't felt before,\" adding hurricanes, rainbows and heavy rain",
+      "summary": "If you thought Red Dead Redemption 2 's heavy winds and even heavier rain looked impressive, you might be happy to learn that Rockstar Games went back and \"re-engineered our weather system\" for GTA 6 . Hurricanes, rainbows and \"vertiginous cumulonimbus clouds\" are all part of the upcoming open worlder. Read more",
+      "url": "https://www.eurogamer.net/gta6-rockstar-weather-systems-hurricanes-rainbows-rain",
+      "date": "2026-09-30T17:04:55.000Z"
     }
   ]
 }
