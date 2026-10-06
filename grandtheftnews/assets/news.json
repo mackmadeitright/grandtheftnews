@@ -1,9 +1,41 @@
 {
-  "updated": "2026-10-06T15:49:36.736Z",
-  "count": 24,
+  "updated": "2026-10-06T22:34:55.107Z",
+  "count": 23,
   "items": [
     {
       "lead": true,
+      "src": "Polygon",
+      "title": "12 Biggest GTA 6 Questions the Previews Haven't Answered Yet",
+      "summary": "Who's in the cast? What's happening with GTA Online? We have questions after Rockstar's Netflix Grand Theft Auto 6 extended look.",
+      "url": "https://www.polygon.com/gta-6-major-questions/",
+      "date": "2026-10-06T21:35:51.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "Long before GTA 6, Rockstar turned a Clair Obscur Expedition 33-sized budget into $600 million",
+      "summary": "Grand Theft Auto's Hot Coffee controversy impacted its sales, too",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-and-san-andreas-show-how-much-game-development-has-changed-in-the-00s-rockstar-turned-a-clair-obscur-expedition-33-sized-budget-into-usd600-million/",
+      "date": "2026-10-06T21:15:27.000Z"
+    },
+    {
+      "lead": false,
+      "src": "IGN",
+      "title": "GTA 6 Fans Theorize Jason May Be the Franchise's First Neurodivergent Protagonist",
+      "summary": "GTA 6 fans have begun to speculate over whether or not Jason is the franchise's first outwardly neurodivergent protagonist.",
+      "url": "https://www.ign.com/articles/gta-6-fans-theorize-jason-may-be-the-franchises-first-neurodivergent-protagonist",
+      "date": "2026-10-06T19:49:18.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "PlayStation Store credit deal brings GTA 6's $100 Ultimate Edition down to normal game price",
+      "summary": "PlayStation Store gift cards are available at a rare discount",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/for-5-days-this-playstation-store-credit-deal-brings-gta-6s-usd100-ultimate-edition-down-to-the-price-of-a-normal-game/",
+      "date": "2026-10-06T16:22:01.000Z"
+    },
+    {
+      "lead": false,
       "src": "GameSpot",
       "title": "Warhammer Survivors Is Launching Mere Days Before GTA 6, And I Respect The Audacity",
       "summary": "The next Survivors-like game--or Survivaton, as Vampire Survivors developer Poncle refers to them--is out soon, and it's threatening to cut into GTA 6 playtime. Warhammer Survivors launches November 10 on PC, consoles, and mobile devices, and you can also grab a new demo on PC via Steam right now. Set in the grim (a…",
@@ -28,27 +60,11 @@
     },
     {
       "lead": false,
-      "src": "IGN",
-      "title": "GTA 6 Won't Be 'Too Specific About Any Particular Person, Event, or Movement,' Rockstar Says GTA Has Never Focused on 'National Politics'",
-      "summary": "Rockstar apparently isn’t interested in making a political statement in GTA 6.",
-      "url": "https://www.ign.com/articles/gta-6-political-events",
-      "date": "2026-10-06T10:30:32.000Z"
-    },
-    {
-      "lead": false,
       "src": "GamesRadar",
       "title": "As GTA 6 battles Zelda: Ocarina of Time, expert says Nintendo is \"the only company\" that could try",
       "summary": "And the reaction from fans \"tells you how this ends\" already, he suggests",
       "url": "https://www.gamesradar.com/games/grand-theft-auto/as-gta-6-faces-off-against-zelda-ocarina-of-time-remake-expert-says-nintendo-is-the-only-company-in-the-industry-with-a-fanbase-loyal-enough-to-make-that-bet-against-rockstar/",
       "date": "2026-10-06T10:14:46.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "GTA 6 story lead says Rockstar didn't want to make a \"statement\" with Jason's ex-military background",
-      "summary": "A lot of Jason's actions are the result of his \"material circumstances,\" says Rupert Humphries",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-story-lead-insists-rockstar-didnt-want-to-make-any-kind-of-statement-with-jasons-ex-military-background/",
-      "date": "2026-10-05T21:00:00.000Z"
     },
     {
       "lead": false,
@@ -84,14 +100,6 @@
     },
     {
       "lead": false,
-      "src": "Kotaku",
-      "title": "Rockstar Explains How It Actually Makes A Game Like GTA 6",
-      "summary": "Working on one chunk at a time, for years and years and years, apparently",
-      "url": "https://kotaku.com/rockstar-explains-how-it-actually-makes-a-game-like-gta-6-2000739955",
-      "date": "2026-10-05T15:33:13.000Z"
-    },
-    {
-      "lead": false,
       "src": "Eurogamer",
       "title": "\"It has to be more over the top, more insane, more in your face\" - Rockstar explains why GTA 6 doesn't satirise real-world events",
       "summary": "In a new interview, Rockstar has discussed its revered approach to crafting the satire the Grand Theft Auto series is famous for - particularly relating to GTA 6 and whether the game should include, and lampoon, real-world politics. Read more",
@@ -124,14 +132,6 @@
     },
     {
       "lead": false,
-      "src": "PC Gamer",
-      "title": "GTA 6 marketing stunt reveals none of our UK editors have heard of the Miami Heat",
-      "summary": "I don't even know ball but I feel like I'm losing my mind.",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-marketing-stunt-reveals-none-of-our-uk-editors-have-heard-of-the-miami-heat/",
-      "date": "2026-10-02T22:49:09.000Z"
-    },
-    {
-      "lead": false,
       "src": "GameSpot",
       "title": "GTA 6 Screenshot Suggests It Won’t Be Shy About Movie References",
       "summary": "A new screenshot from Grand Theft Auto 6 has arrived, and fans immediately noticed that it appears to be referencing the iconic opening scene from Quentin Tarantino's 1994 crime movie Pulp Fiction. The image was shared by Love magazine on Instagram . The GTA 6 Countdown social media account put it next to the diner…",
@@ -156,14 +156,6 @@
     },
     {
       "lead": false,
-      "src": "GameSpot",
-      "title": "GTA 6 Takes The Ridiculous World We Live In And Turns It Up To 11",
-      "summary": "Video games are usually a few steps removed from reality, but with Grand Theft Auto 6 , developer Rockstar Games aims to reflect and amplify the current state of the world with an \"over the top\" experience. As seen in the trailers and gameplay previews so far, GTA 6 is a contemporary game about doing whatever it tak…",
-      "url": "https://www.gamespot.com/articles/gta-6-takes-the-ridiculous-world-we-live-in-and-turns-it-up-to-11/",
-      "date": "2026-10-02T17:14:39.000Z"
-    },
-    {
-      "lead": false,
       "src": "Eurogamer",
       "title": "Kingdom Come: Deliverance 2 boss hopes GTA 6 pushes game prices up because it's \"long overdue and also necessary for this business to survive\"",
       "summary": "Warhorse Studios co-founder Martin Klima - the developer behind last year's historical RPG Kingdom Come: Deliverance 2 - is crossing his fingers for higher game prices, and he thinks GTA 6 might be the one to usher in a new normal. Read more",
@@ -180,19 +172,19 @@
     },
     {
       "lead": false,
-      "src": "GameSpot",
-      "title": "NBA’s Miami Heat Will Wear GTA 6 Jerseys And Play On A Branded Court The Day Before Release",
-      "summary": "The NBA's Miami Heat have announced that they will wear GTA 6 -inspired jerseys when they host the Milwaukee Bucks on November 18, a day before the game releases. Additionally, the game will take place on a \"never-before-seen court,\" and it'll be inspired by GTA 6 and Vice City. The Heat play at the Kaseya Center in…",
-      "url": "https://www.gamespot.com/articles/nbas-miami-heat-will-wear-gta-6-jerseys-and-play-on-a-branded-court-the-day-before-release/",
-      "date": "2026-10-02T13:38:28.000Z"
-    },
-    {
-      "lead": false,
       "src": "Eurogamer",
       "title": "GTA 6 completely \"re-engineered\" Rockstar's weather systems to \"achieve a sense of scale we haven't felt before,\" adding hurricanes, rainbows and heavy rain",
       "summary": "If you thought Red Dead Redemption 2 's heavy winds and even heavier rain looked impressive, you might be happy to learn that Rockstar Games went back and \"re-engineered our weather system\" for GTA 6 . Hurricanes, rainbows and \"vertiginous cumulonimbus clouds\" are all part of the upcoming open worlder. Read more",
       "url": "https://www.eurogamer.net/gta6-rockstar-weather-systems-hurricanes-rainbows-rain",
       "date": "2026-09-30T17:04:55.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Eurogamer",
+      "title": "\"What if London existed in the Grand Theft Auto universe?\" One fan has answered with a GTA-style map of the city",
+      "summary": "\"What if London existed in the Grand Theft Auto universe? What if Rockstar created a GTA game set in London?\" Anyone sitting in the venn diagram centre of GTA fan and cartography sicko might be happy to learn that YouTuber CityEd has answered both of those questions with a GTA-style map. Read more",
+      "url": "https://www.eurogamer.net/london-gta-rockstar-map-city-rockstar",
+      "date": "2026-09-28T17:53:19.000Z"
     }
   ]
 }
