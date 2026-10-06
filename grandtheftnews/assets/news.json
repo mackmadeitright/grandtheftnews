@@ -1,9 +1,17 @@
 {
-  "updated": "2026-10-05T21:56:52.225Z",
+  "updated": "2026-10-06T06:03:21.234Z",
   "count": 24,
   "items": [
     {
       "lead": true,
+      "src": "Polygon",
+      "title": "GTA 6 Could Finally Fix Gaming's Huge Drug Problem",
+      "summary": "Europe’s PEGI ratings board revealed that GTA 6 will let players use cocaine at any time; here’s how that might affect gameplay.",
+      "url": "https://www.polygon.com/gta-6-cocaine-drugs-effects/",
+      "date": "2026-10-06T00:00:16.000Z"
+    },
+    {
+      "lead": false,
       "src": "GamesRadar",
       "title": "GTA 6 story lead says Rockstar didn't want to make a \"statement\" with Jason's ex-military background",
       "summary": "A lot of Jason's actions are the result of his \"material circumstances,\" says Rupert Humphries",
@@ -81,14 +89,6 @@
       "summary": "\"Sometimes it's better to ignore or omit certain aspects of reality,\" says Rob Nelson",
       "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-boss-says-rockstar-has-to-forego-realism-for-the-sake-of-the-players-realism-can-help-greatly-with-immersion-but-too-much-can-feel-tedious/",
       "date": "2026-10-05T11:08:15.000Z"
-    },
-    {
-      "lead": false,
-      "src": "IGN",
-      "title": "Rockstar Traveled Across Florida With Gang Members and Cops for GTA 6 Research",
-      "summary": "Rockstar has discussed travelling across Florida with gang members and cops for GTA 6 research, and hovering in a helicopter above a Beyonce concert.",
-      "url": "https://www.ign.com/articles/gta-6-research-gang-members",
-      "date": "2026-10-05T08:29:00.000Z"
     },
     {
       "lead": false,
