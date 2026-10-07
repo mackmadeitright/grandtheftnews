@@ -1,22 +1,78 @@
 {
-  "updated": "2026-10-07T13:08:26.234Z",
+  "updated": "2026-10-07T20:32:26.157Z",
   "count": 24,
   "items": [
     {
       "lead": true,
+      "src": "GameSpot",
+      "title": "GTA 6 Wants Losing Your Wanted Level To Feel Like A “Hit-And-Run”",
+      "summary": "Gamers hoping for GTA 6 to amp up the realism when it comes to losing their wanted level in the sunny state of Leonida are in luck, with Rockstar confirming in a recent interview that Jason and Lucia can do far more than escape a glowing red zone on the map to shake off the law. Speaking to IGN ahead of the Netflix…",
+      "url": "https://www.gamespot.com/articles/gta-6-wants-losing-your-wanted-level-to-feel-like-a-hit-and-run/",
+      "date": "2026-10-07T16:25:22.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "GTA 6 boss says \"we have made money matter more in this story\" than previous Grand Theft Auto games",
+      "summary": "Rob Nelson mentions that you'll \"need to make money to advance the mission flow\"",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-boss-says-we-have-made-money-matter-more-in-this-story-than-in-previous-grand-theft-auto-games/",
+      "date": "2026-10-07T16:25:04.000Z"
+    },
+    {
+      "lead": false,
+      "src": "PC Gamer",
+      "title": "For a moment it looked like Grand Theft Auto 6 might be playable on PC on launch day—then Xbox's chief strategy officer crashed the party",
+      "summary": "A report that GTA 6 would be streamable on PC turned out to be a bit off the mark.",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/for-a-moment-it-looked-like-grand-theft-auto-6-might-be-playable-on-pc-on-launch-day-then-xboxs-chief-strategy-officer-crashed-the-party/",
+      "date": "2026-10-07T16:05:02.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "Sony's digital future is good due to \"convenience\" and games like GTA 6 being \"too big,\" dev says",
+      "summary": "\"It's important to make that shift\"",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/rpg-creator-says-sonys-all-digital-future-is-good-for-devs-as-discs-cant-win-in-terms-of-convenience-and-games-like-gta-6-are-too-big-for-them-anyway/",
+      "date": "2026-10-07T16:03:46.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GameSpot",
+      "title": "New Details Revealed For GTA 6’s Jason And Lucia, Including “Physical Intimacy”",
+      "summary": "New information has come to light about GTA 6 , and specifically the partnership of its main characters, Jason and Lucia . In GTA 6, they are both partners in crime and lovers, and physical intimacy will be part of the experience, it seems. Rockstar North's Rob Nelson said in an interview with IGN that physical inti…",
+      "url": "https://www.gamespot.com/articles/new-details-revealed-for-gta-6s-jason-and-lucia-including-physical-intimacy/",
+      "date": "2026-10-07T16:02:29.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "With sex in GTA 6, studio boss suggests Rockstar doesn't want another Hot Coffee moment",
+      "summary": "Rob Nelson says Rockstar doesn't \"want to be so bad\" at portraying intimacy",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/with-sex-in-gta-6-studio-boss-suggests-rockstar-doesnt-want-another-hot-coffee-moment-it-has-to-be-done-right/",
+      "date": "2026-10-07T15:11:49.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GameSpot",
+      "title": "GTA 6 Won’t Make You “All-Powerful” Like GTA 5 Did",
+      "summary": "Rockstar boss Rob Nelson has stated that GTA 6 won't make players \"all-powerful\" like they were in GTA 5 and the games that came before it. For GTA 6, this means NPCs in the world will have impulses of their own, and could come after you. Speaking to IGN , Nelson said, \"The world will act upon you as well as you act…",
+      "url": "https://www.gamespot.com/articles/gta-6-wont-make-you-all-powerful-like-gta-5-did/",
+      "date": "2026-10-07T14:35:16.000Z"
+    },
+    {
+      "lead": false,
+      "src": "IGN",
+      "title": "GTA 6: The Big Interview",
+      "summary": "The in-depth interview with Rockstar North's Rob Nelson in full, as he played through 30 minutes of the game ahead of the Netflix reveal.",
+      "url": "https://www.ign.com/articles/gta-6-the-big-interview",
+      "date": "2026-10-07T12:30:00.000Z"
+    },
+    {
+      "lead": false,
       "src": "GamesRadar",
       "title": "GTA 6 won't be playable on PC via Xbox Cloud Gaming, exec clarifies",
       "summary": "Perhaps Amazon or Nvidia will have PC players covered",
       "url": "https://www.gamesradar.com/games/grand-theft-auto/no-gta-6-wont-be-playable-on-pc-via-xbox-cloud-gaming-and-microsoft-doesnt-have-exclusive-streaming-rights-either-exec-clarifies/",
       "date": "2026-10-07T10:37:26.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Polygon",
-      "title": "Xbox Official Clears Up Grand Theft Auto 6 PC Rumors",
-      "summary": "Following a report mix-up, an Xbox official has made a statement regarding GTA6's availability on PC via Xbox Cloud Gaming.",
-      "url": "https://www.polygon.com/grand-theft-auto-gta-6-xbox-pc-streaming-rights/",
-      "date": "2026-10-07T09:57:09.000Z"
     },
     {
       "lead": false,
@@ -44,35 +100,11 @@
     },
     {
       "lead": false,
-      "src": "IGN",
-      "title": "[UPDATE] Xbox Denies GTA 6 Streaming Exclusivity Report",
-      "summary": "\"While the excitement for GTA VI and Xbox is great to see, it has also led to some misreporting,\" states Xbox Chief Strategy Officer Matthew Ball.",
-      "url": "https://www.ign.com/articles/xbox-reportedly-secures-exclusive-cloud-streaming-rights-to-gta-6-could-make-game-playable-on-pc-at-launch",
-      "date": "2026-10-06T22:42:41.000Z"
-    },
-    {
-      "lead": false,
       "src": "GamesRadar",
       "title": "Long before GTA 6, Rockstar turned a Clair Obscur Expedition 33-sized budget into $600 million",
       "summary": "Grand Theft Auto's Hot Coffee controversy impacted its sales, too",
       "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-and-san-andreas-show-how-much-game-development-has-changed-in-the-00s-rockstar-turned-a-clair-obscur-expedition-33-sized-budget-into-usd600-million/",
       "date": "2026-10-06T21:15:27.000Z"
-    },
-    {
-      "lead": false,
-      "src": "IGN",
-      "title": "GTA 6 Fans Theorize Jason May Be the Franchise's First Neurodivergent Protagonist",
-      "summary": "GTA 6 fans have begun to speculate over whether or not Jason is the franchise's first outwardly neurodivergent protagonist.",
-      "url": "https://www.ign.com/articles/gta-6-fans-theorize-jason-may-be-the-franchises-first-neurodivergent-protagonist",
-      "date": "2026-10-06T19:49:18.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "PlayStation Store credit deal brings GTA 6's $100 Ultimate Edition down to normal game price",
-      "summary": "PlayStation Store gift cards are available at a rare discount",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/for-5-days-this-playstation-store-credit-deal-brings-gta-6s-usd100-ultimate-edition-down-to-the-price-of-a-normal-game/",
-      "date": "2026-10-06T16:22:01.000Z"
     },
     {
       "lead": false,
@@ -92,14 +124,6 @@
     },
     {
       "lead": false,
-      "src": "GamesRadar",
-      "title": "I'm building the ultimate GTA 6 setup this Prime Day, these are the gadgets in my cart",
-      "summary": "Get GTA 6 ready for less this Prime Day, here's everything I've found to upgrade your setup.",
-      "url": "https://www.gamesradar.com/hardware/news/live/prime-day-gta-6-ultimate-setup-oct-26/",
-      "date": "2026-10-06T13:32:28.000Z"
-    },
-    {
-      "lead": false,
       "src": "Eurogamer",
       "title": "GTA 6 devs tried \"not to jump on the bandwagon\" of passing trends and instead created their \"own slanted, overblown versions\"",
       "summary": "Creating a timely satire can be tough when development takes half a decade or more - it's the reason South Park's stuck with its crude art style for literal decades, but the developers of GTA 6 can't just replace their world-class tech with paper cutouts. Instead, the team simply tried to avoid trends that would bec…",
@@ -116,35 +140,11 @@
     },
     {
       "lead": false,
-      "src": "GameSpot",
-      "title": "Why GTA Studio Co-Founder Is Avoiding GTA 6–And All Open-World Games",
-      "summary": "Rockstar co-founder Dan Houser left the company in 2020 and now runs a new outfit called Absurd Ventures. Houser will be forever connected to the GTA franchise, and he's now weighed in on GTA 6 . He told Variety that he did not watch the \"Extended Look\" trailer and doesn't plan to. Why? He said he tries to avoid con…",
-      "url": "https://www.gamespot.com/articles/why-gta-studio-co-founder-is-avoiding-gta-6-and-all-open-world-games/",
-      "date": "2026-10-05T18:06:23.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GameSpot",
-      "title": "How Is A Game Like GTA 6 Actually Made? Here’s How Rockstar Gets It Done",
-      "summary": "Rockstar's Grand Theft Auto 6 is one of the most highly anticipated game releases this year, or ever. The franchise is known for its massive scope and impressive attention to detail, but how is a game like GTA 6 actually made? In a new interview with Love magazine ( via Kotaku ), Rockstar North boss Rob Nelson said…",
-      "url": "https://www.gamespot.com/articles/how-is-a-game-like-gta-6-actually-made-heres-how-rockstar-gets-it-done/",
-      "date": "2026-10-05T16:32:43.000Z"
-    },
-    {
-      "lead": false,
       "src": "Eurogamer",
       "title": "\"It has to be more over the top, more insane, more in your face\" - Rockstar explains why GTA 6 doesn't satirise real-world events",
       "summary": "In a new interview, Rockstar has discussed its revered approach to crafting the satire the Grand Theft Auto series is famous for - particularly relating to GTA 6 and whether the game should include, and lampoon, real-world politics. Read more",
       "url": "https://www.eurogamer.net/rockstar-gta-6-satire-politics-real-world-events",
       "date": "2026-10-05T15:00:30.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GameSpot",
-      "title": "10 New Things We Just Learned About GTA 6",
-      "summary": "New information about Grand Theft Auto 6 continues to be revealed. Game Informer 's most recent issue included a number of new details, and we've rounded up some of the key things we learned below. Story Setup It seems like we'll start the game playing as Jason, since Lucia is still in prison. When Lucia gets out, t…",
-      "url": "https://www.gamespot.com/articles/10-new-things-we-just-learned-about-gta-6/",
-      "date": "2026-10-05T14:04:17.000Z"
     },
     {
       "lead": false,
