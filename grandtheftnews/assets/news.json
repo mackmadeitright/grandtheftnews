@@ -1,9 +1,25 @@
 {
-  "updated": "2026-10-06T22:34:55.107Z",
-  "count": 23,
+  "updated": "2026-10-07T05:38:45.567Z",
+  "count": 24,
   "items": [
     {
       "lead": true,
+      "src": "Kotaku",
+      "title": "Update: Xbox Denies Report It Has Exclusive Streaming Rights For GTA 6 At Launch",
+      "summary": "A workaround for PC players",
+      "url": "https://kotaku.com/xbox-lands-exclusive-streaming-rights-for-gta-6-at-launch-2000741146",
+      "date": "2026-10-06T22:49:25.000Z"
+    },
+    {
+      "lead": false,
+      "src": "IGN",
+      "title": "Xbox Reportedly Secures Exclusive Cloud Streaming Rights to GTA 6, Could Make Game Playable on PC at Launch",
+      "summary": "\"While the excitement for GTA VI and Xbox is great to see, it has also led to some misreporting,\" states Xbox Chief Strategy Officer Matthew Ball.",
+      "url": "https://www.ign.com/articles/xbox-reportedly-secures-exclusive-cloud-streaming-rights-to-gta-6-could-make-game-playable-on-pc-at-launch",
+      "date": "2026-10-06T22:42:41.000Z"
+    },
+    {
+      "lead": false,
       "src": "Polygon",
       "title": "12 Biggest GTA 6 Questions the Previews Haven't Answered Yet",
       "summary": "Who's in the cast? What's happening with GTA Online? We have questions after Rockstar's Netflix Grand Theft Auto 6 extended look.",
@@ -177,14 +193,6 @@
       "summary": "If you thought Red Dead Redemption 2 's heavy winds and even heavier rain looked impressive, you might be happy to learn that Rockstar Games went back and \"re-engineered our weather system\" for GTA 6 . Hurricanes, rainbows and \"vertiginous cumulonimbus clouds\" are all part of the upcoming open worlder. Read more",
       "url": "https://www.eurogamer.net/gta6-rockstar-weather-systems-hurricanes-rainbows-rain",
       "date": "2026-09-30T17:04:55.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Eurogamer",
-      "title": "\"What if London existed in the Grand Theft Auto universe?\" One fan has answered with a GTA-style map of the city",
-      "summary": "\"What if London existed in the Grand Theft Auto universe? What if Rockstar created a GTA game set in London?\" Anyone sitting in the venn diagram centre of GTA fan and cartography sicko might be happy to learn that YouTuber CityEd has answered both of those questions with a GTA-style map. Read more",
-      "url": "https://www.eurogamer.net/london-gta-rockstar-map-city-rockstar",
-      "date": "2026-09-28T17:53:19.000Z"
     }
   ]
 }
