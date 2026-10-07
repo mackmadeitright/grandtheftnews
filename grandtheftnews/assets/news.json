@@ -1,9 +1,41 @@
 {
-  "updated": "2026-10-07T05:38:45.567Z",
+  "updated": "2026-10-07T13:08:26.234Z",
   "count": 24,
   "items": [
     {
       "lead": true,
+      "src": "GamesRadar",
+      "title": "GTA 6 won't be playable on PC via Xbox Cloud Gaming, exec clarifies",
+      "summary": "Perhaps Amazon or Nvidia will have PC players covered",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/no-gta-6-wont-be-playable-on-pc-via-xbox-cloud-gaming-and-microsoft-doesnt-have-exclusive-streaming-rights-either-exec-clarifies/",
+      "date": "2026-10-07T10:37:26.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Polygon",
+      "title": "Xbox Official Clears Up Grand Theft Auto 6 PC Rumors",
+      "summary": "Following a report mix-up, an Xbox official has made a statement regarding GTA6's availability on PC via Xbox Cloud Gaming.",
+      "url": "https://www.polygon.com/grand-theft-auto-gta-6-xbox-pc-streaming-rights/",
+      "date": "2026-10-07T09:57:09.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GameSpot",
+      "title": "GTA 6 Will Not Stream To PC Through Xbox, Despite Earlier Report",
+      "summary": "PC players hoping to find a way to play GTA 6 when it launches on consoles next month must be feeling pretty disappointed, as Microsoft has clarified that Grand Theft Auto 6 will not be available to stream to PC via Xbox Cloud Gaming. The news follows an earlier report claiming Xbox had secured exclusive streaming r…",
+      "url": "https://www.gamespot.com/articles/gta-6-will-not-stream-to-pc-through-xbox-despite-earlier-report/",
+      "date": "2026-10-07T09:03:51.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Eurogamer",
+      "title": "Xbox denies reports it's acquired exclusive GTA 6 game-streaming rights, deflating hopes of playing it on PC",
+      "summary": "Xbox has denied reports suggesting it obtained exclusive game-streaming rights for Grand Theft Auto 6 . The initial suggestion came from a report on The Verge , which cited an all-hands meeting in which CEO Asha Sharma allegedly told staff that Xbox plans to do something \"no other platform holder is doing\" around GT…",
+      "url": "https://www.eurogamer.net/xbox-cloud-gta-6-streaming-rights",
+      "date": "2026-10-07T08:31:39.000Z"
+    },
+    {
+      "lead": false,
       "src": "Kotaku",
       "title": "Update: Xbox Denies Report It Has Exclusive Streaming Rights For GTA 6 At Launch",
       "summary": "A workaround for PC players",
@@ -13,18 +45,10 @@
     {
       "lead": false,
       "src": "IGN",
-      "title": "Xbox Reportedly Secures Exclusive Cloud Streaming Rights to GTA 6, Could Make Game Playable on PC at Launch",
+      "title": "[UPDATE] Xbox Denies GTA 6 Streaming Exclusivity Report",
       "summary": "\"While the excitement for GTA VI and Xbox is great to see, it has also led to some misreporting,\" states Xbox Chief Strategy Officer Matthew Ball.",
       "url": "https://www.ign.com/articles/xbox-reportedly-secures-exclusive-cloud-streaming-rights-to-gta-6-could-make-game-playable-on-pc-at-launch",
       "date": "2026-10-06T22:42:41.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Polygon",
-      "title": "12 Biggest GTA 6 Questions the Previews Haven't Answered Yet",
-      "summary": "Who's in the cast? What's happening with GTA Online? We have questions after Rockstar's Netflix Grand Theft Auto 6 extended look.",
-      "url": "https://www.polygon.com/gta-6-major-questions/",
-      "date": "2026-10-06T21:35:51.000Z"
     },
     {
       "lead": false,
@@ -73,14 +97,6 @@
       "summary": "Get GTA 6 ready for less this Prime Day, here's everything I've found to upgrade your setup.",
       "url": "https://www.gamesradar.com/hardware/news/live/prime-day-gta-6-ultimate-setup-oct-26/",
       "date": "2026-10-06T13:32:28.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "As GTA 6 battles Zelda: Ocarina of Time, expert says Nintendo is \"the only company\" that could try",
-      "summary": "And the reaction from fans \"tells you how this ends\" already, he suggests",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/as-gta-6-faces-off-against-zelda-ocarina-of-time-remake-expert-says-nintendo-is-the-only-company-in-the-industry-with-a-fanbase-loyal-enough-to-make-that-bet-against-rockstar/",
-      "date": "2026-10-06T10:14:46.000Z"
     },
     {
       "lead": false,
@@ -148,27 +164,11 @@
     },
     {
       "lead": false,
-      "src": "GameSpot",
-      "title": "GTA 6 Screenshot Suggests It Won’t Be Shy About Movie References",
-      "summary": "A new screenshot from Grand Theft Auto 6 has arrived, and fans immediately noticed that it appears to be referencing the iconic opening scene from Quentin Tarantino's 1994 crime movie Pulp Fiction. The image was shared by Love magazine on Instagram . The GTA 6 Countdown social media account put it next to the diner…",
-      "url": "https://www.gamespot.com/articles/gta-6-screenshot-suggests-it-wont-be-shy-about-movie-references/",
-      "date": "2026-10-02T19:41:02.000Z"
-    },
-    {
-      "lead": false,
       "src": "Eurogamer",
       "title": "GTA 6's 18+ age rating reveals Lucia and Jason can partake in drug use \"directly from their inventory\" and \"at any time\"",
       "summary": "GTA 6 is seemingly adding another naughty pastime to the series' already mammoth collection of naughty pastimes. Joining the strip clubs and violent car-jackings and carefree murder is \"frequent and prominent\" drug use that you can try \"at any time,\" according to a new age rating. Read more",
       "url": "https://www.eurogamer.net/gta6-age-rating-pegi-lucia-jason-drug-use",
       "date": "2026-10-02T19:08:59.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GameSpot",
-      "title": "GTA 6 Should “Blaze A Trail” To More Expensive Games, Dev Says",
-      "summary": "Rockstar's GTA 6 is priced at $80 for its standard edition. Another voice has come forward to say they hope other teams follow suit and charge more for new games to help the industry at a time when developers are closing up shop, cancelling games, and laying off developers on a regular basis. Martin Klima, the co-fo…",
-      "url": "https://www.gamespot.com/articles/gta-6-should-blaze-a-trail-to-more-expensive-games-dev-says/",
-      "date": "2026-10-02T17:17:15.000Z"
     },
     {
       "lead": false,
