@@ -1,9 +1,137 @@
 {
-  "updated": "2026-10-08T10:21:28.275Z",
-  "count": 22,
+  "updated": "2026-10-08T18:46:17.259Z",
+  "count": 24,
   "items": [
     {
       "lead": true,
+      "src": "Kotaku",
+      "title": "GTA 6 Has Some Very Famous Musicians Hosting Its Radio Stations, Including Bad Bunny",
+      "summary": "Also, Lana Del Rey's husband is a 'roving reporter' for an outlaw country station",
+      "url": "https://kotaku.com/gta-6-has-some-very-famous-musicians-hosting-its-radio-stations-including-bad-bunny-2000742646",
+      "date": "2026-10-08T17:49:56.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GameSpot",
+      "title": "GTA 6 Merch Revealed, Including T-Shirt With Alligator Wearing Sunglasses And Drinking A Cocktail",
+      "summary": "Ahead of GTA 6 's release in November, Rockstar Games has announced an official merch collection for the game, and it includes some snazzy stuff like a t-shirt featuring an alligator wearing sunglasses and drinking a cocktail. The alligator's name is Macca the Gator, and he's the star of a fictional in-universe TV s…",
+      "url": "https://www.gamespot.com/articles/gta-6-merch-revealed-including-t-shirt-with-alligator-wearing-sunglasses-and-drinking-a-cocktail/",
+      "date": "2026-10-08T17:37:17.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Eurogamer",
+      "title": "For the first time in the series, Grand Theft Auto 6 lets you use headphones to listen to radio stations and podcasts",
+      "summary": "GTA 6 will let you listen to radio stations while not in a car, by wearing headphones and earbuds connected to smartphones. GTA 6 also introduces on-demand podcasts, so you can binge true crime while also doing true crime - something like that. Read more",
+      "url": "https://www.eurogamer.net/gta-6-headpones-earbuds-radio-podcasts",
+      "date": "2026-10-08T15:07:42.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "GTA 6 radio stations revealed alongside a series first: in-game podcasts",
+      "summary": "At last, Loretta Lynn, Pantera, and Charli XCX are all in the same game",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-radio-stations-revealed-rockstar-says-for-the-first-time-in-grand-theft-auto-history-there-are-also-in-game-podcasts/",
+      "date": "2026-10-08T15:05:11.000Z"
+    },
+    {
+      "lead": false,
+      "src": "IGN",
+      "title": "GTA 6: Rockstar Releases Brand New Official Screenshots Showing Off Stunning Reflections",
+      "summary": "Rockstar has released three brand new GTA 6 screenshots alongside its radio station reveal.",
+      "url": "https://www.ign.com/articles/gta-6-rockstar-releases-brand-new-official-screenshots-showing-off-stunning-reflections",
+      "date": "2026-10-08T14:49:11.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GameSpot",
+      "title": "GTA 6 Reveals 6 Radio Stations, Plus Podcasts You Can Listen To On Foot",
+      "summary": "Nothing enhances a crime spree better than a few needle-drop tracks, and in Grand Theft Auto 6 , you'll have plenty of music stations to listen to while touring Leonida. Developer Rockstar Games has revealed six of the radio stations and the disc jockeys attached to them, and in a series first, has also confirmed th…",
+      "url": "https://www.gamespot.com/articles/gta-6-reveals-6-radio-stations-plus-podcasts-you-can-listen-to-on-foot/",
+      "date": "2026-10-08T14:38:32.000Z"
+    },
+    {
+      "lead": false,
+      "src": "IGN",
+      "title": "GTA 6 Reveals a Handful of Radio Stations, DJs, and Songs Ahead of Release",
+      "summary": "Rockstar Games has launched a new website which allows you to listen to some of the radio stations and songs that will be featured in GTA 6.",
+      "url": "https://www.ign.com/articles/gta-6-reveals-a-handful-of-radio-stations-djs-and-songs-ahead-of-release",
+      "date": "2026-10-08T14:37:48.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Kotaku",
+      "title": "Rockstar Reveals Some Of The Radio Stations And Songs In GTA 6",
+      "summary": "The company also confirmed you'll be able to listen to music and podcasts while on foot via your phone",
+      "url": "https://kotaku.com/rockstar-reveals-some-of-the-radio-stations-and-songs-in-gta-6-2000742655",
+      "date": "2026-10-08T14:29:36.000Z"
+    },
+    {
+      "lead": false,
+      "src": "IGN",
+      "title": "No, I Have Not Seen Jason’s Penis in GTA 6",
+      "summary": "IGN cannot confirm or deny if GTA 6 will feature full-frontal nudity, but we can confirm that we have not seen Jason's penis.",
+      "url": "https://www.ign.com/articles/no-i-have-not-seen-jasons-penis-in-gta-6",
+      "date": "2026-10-08T13:46:57.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Eurogamer",
+      "title": "Full-frontal nudity, dirt-biking, and a dev menu: GTA 6's infamous leaker is back with the most X-rated look at the game yet",
+      "summary": "It looks like the GTA 6 leaker, 'CyberLeek' is back - and this time the infamous leaker has posted a 25-minute video of footage from Rockstar's upcoming game that even features nude scenes, including a fully naked Jason, and a topless Lucia. Eurogamer has seen the video, and it appears to be legitimate - and, as is…",
+      "url": "https://www.eurogamer.net/gta-6-frontal-nudity-dirt-biking-dev-menu-leak",
+      "date": "2026-10-08T12:09:17.000Z"
+    },
+    {
+      "lead": false,
+      "src": "IGN",
+      "title": "GTA 6 Leaker Returns With New 24-Minute Gameplay Video, Sparking Spoiler Concern",
+      "summary": "GTA 6 leaker Cyberleek has returned to publish a 24-minute gameplay video that has left fans scrambling to issue spoiler warnings across the internet.",
+      "url": "https://www.ign.com/articles/gta-6-leaker-returns-with-new-24-minute-gameplay-video-sparking-spoiler-concern",
+      "date": "2026-10-08T12:08:10.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "GTA 6 leaker Cyberleek returns with 25 minutes of new gameplay footage after over a month of silence",
+      "summary": "And a lot of naked Jason",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-leaker-cyberleek-returns-with-25-minutes-of-new-gameplay-after-over-a-month-of-silence-showing-first-person-footage-and-more/",
+      "date": "2026-10-08T11:59:00.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GameSpot",
+      "title": "GTA 6 Leaks Aren’t Over Yet, As New 25-Minute Gameplay Footage Appears",
+      "summary": "As the GTA 6 release date creeps ever closer, the now-notorious leaker Cyberleek doesn't seem to be finished showing off unreleased content just yet. Having been relatively quiet since August's wave of shorter GTA 6 leaks , Cyberleek has released a 25-minute video of new gameplay footage and cutscenes just weeks bef…",
+      "url": "https://www.gamespot.com/articles/gta-6-leaks-arent-over-yet-as-new-25-minute-gameplay-footage-appears/",
+      "date": "2026-10-08T11:54:16.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Kotaku",
+      "title": "Massive GTA 6 Leak Reveals Story Spoilers, Car Chases, And Jason’s Dong",
+      "summary": "The lengthy portion of the game features cutscenes, dirt bike racing, and...Jason's winky",
+      "url": "https://kotaku.com/gta-6-grand-theft-auto-vi-leak-cyberleek-nudity-jason-footage-2000742598",
+      "date": "2026-10-08T11:29:21.000Z"
+    },
+    {
+      "lead": false,
+      "src": "IGN",
+      "title": "The Australian Government Helps Workers Know Their Rights for Taking Time Off for GTA 6",
+      "summary": "Australia's workplace regulator, The Fair Work Ombudsman, has put out a helpful graphic for people who might want to take time off when GTA 6 comes out this November.",
+      "url": "https://www.ign.com/articles/australian-government-time-off-gta-6",
+      "date": "2026-10-08T11:20:38.000Z"
+    },
+    {
+      "lead": false,
+      "src": "IGN",
+      "title": "CBS News Amazed by Accuracy of GTA 6, Highlights Miami Similarities in New Report",
+      "summary": "CBS News has reported on the accuracy of GTA 6’s Vice City, a fictionalized recreation of The Magic City. The Miami office of CBS News looked at major locations and brings on experts to talk about how accurate Rockstar’s open world is, from PortMiami to South Beach, Wynwood to the Everglades.",
+      "url": "https://www.ign.com/articles/cbs-news-amazed-accuracy-gta-6",
+      "date": "2026-10-08T11:00:15.000Z"
+    },
+    {
+      "lead": false,
       "src": "GamesRadar",
       "title": "With GTA 6 missions, Rockstar has \"made a very conscious effort to open things up\"",
       "summary": "Rob Nelson says Rockstar wants to find the \"balance between freedom and storytelling\"",
@@ -20,27 +148,11 @@
     },
     {
       "lead": false,
-      "src": "Kotaku",
-      "title": "Rockstar, Does GTA 6’s Jason Show Full Hog Or Not?",
-      "summary": "I know I’ll see him naked, but just how naked?",
-      "url": "https://kotaku.com/grand-theft-auto-6-gta6-jason-naked-nude-shower-scene-2000742015",
-      "date": "2026-10-07T21:10:48.000Z"
-    },
-    {
-      "lead": false,
       "src": "GameSpot",
       "title": "GTA 6 Wants Losing Your Wanted Level To Feel Like A “Hit-And-Run”",
       "summary": "Gamers hoping for GTA 6 to amp up the realism when it comes to losing their wanted level in the sunny state of Leonida are in luck, with Rockstar confirming in a recent interview that Jason and Lucia can do far more than escape a glowing red zone on the map to shake off the law. Speaking to IGN ahead of the Netflix…",
       "url": "https://www.gamespot.com/articles/gta-6-wants-losing-your-wanted-level-to-feel-like-a-hit-and-run/",
       "date": "2026-10-07T16:25:22.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "GTA 6 boss says \"we have made money matter more in this story\" than previous Grand Theft Auto games",
-      "summary": "Rob Nelson mentions that you'll \"need to make money to advance the mission flow\"",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-boss-says-we-have-made-money-matter-more-in-this-story-than-in-previous-grand-theft-auto-games/",
-      "date": "2026-10-07T16:25:04.000Z"
     },
     {
       "lead": false,
@@ -52,43 +164,11 @@
     },
     {
       "lead": false,
-      "src": "GamesRadar",
-      "title": "Sony's digital future is good due to \"convenience\" and games like GTA 6 being \"too big,\" dev says",
-      "summary": "\"It's important to make that shift\"",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/rpg-creator-says-sonys-all-digital-future-is-good-for-devs-as-discs-cant-win-in-terms-of-convenience-and-games-like-gta-6-are-too-big-for-them-anyway/",
-      "date": "2026-10-07T16:03:46.000Z"
-    },
-    {
-      "lead": false,
       "src": "GameSpot",
       "title": "New Details Revealed For GTA 6’s Jason And Lucia, Including “Physical Intimacy”",
       "summary": "New information has come to light about GTA 6 , and specifically the partnership of its main characters, Jason and Lucia . In GTA 6, they are both partners in crime and lovers, and physical intimacy will be part of the experience, it seems. Rockstar North's Rob Nelson said in an interview with IGN that physical inti…",
       "url": "https://www.gamespot.com/articles/new-details-revealed-for-gta-6s-jason-and-lucia-including-physical-intimacy/",
       "date": "2026-10-07T16:02:29.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "With sex in GTA 6, studio boss suggests Rockstar doesn't want another Hot Coffee moment",
-      "summary": "Rob Nelson says Rockstar doesn't \"want to be so bad\" at portraying intimacy",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/with-sex-in-gta-6-studio-boss-suggests-rockstar-doesnt-want-another-hot-coffee-moment-it-has-to-be-done-right/",
-      "date": "2026-10-07T15:11:49.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GameSpot",
-      "title": "GTA 6 Won’t Make You “All-Powerful” Like GTA 5 Did",
-      "summary": "Rockstar boss Rob Nelson has stated that GTA 6 won't make players \"all-powerful\" like they were in GTA 5 and the games that came before it. For GTA 6, this means NPCs in the world will have impulses of their own, and could come after you. Speaking to IGN , Nelson said, \"The world will act upon you as well as you act…",
-      "url": "https://www.gamespot.com/articles/gta-6-wont-make-you-all-powerful-like-gta-5-did/",
-      "date": "2026-10-07T14:35:16.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GameSpot",
-      "title": "GTA 6 Will Not Stream To PC Through Xbox, Despite Earlier Report",
-      "summary": "PC players hoping to find a way to play GTA 6 when it launches on consoles next month must be feeling pretty disappointed, as Microsoft has clarified that Grand Theft Auto 6 will not be available to stream to PC via Xbox Cloud Gaming. The news follows an earlier report claiming Xbox had secured exclusive streaming r…",
-      "url": "https://www.gamespot.com/articles/gta-6-will-not-stream-to-pc-through-xbox-despite-earlier-report/",
-      "date": "2026-10-07T09:03:51.000Z"
     },
     {
       "lead": false,
@@ -100,22 +180,6 @@
     },
     {
       "lead": false,
-      "src": "GameSpot",
-      "title": "Warhammer Survivors Is Launching Mere Days Before GTA 6, And I Respect The Audacity",
-      "summary": "The next Survivors-like game--or Survivaton, as Vampire Survivors developer Poncle refers to them--is out soon, and it's threatening to cut into GTA 6 playtime. Warhammer Survivors launches November 10 on PC, consoles, and mobile devices, and you can also grab a new demo on PC via Steam right now. Set in the grim (a…",
-      "url": "https://www.gamespot.com/articles/warhammer-survivors-is-launching-mere-days-before-gta-6-and-i-respect-the-audacity/",
-      "date": "2026-10-06T15:16:46.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GameSpot",
-      "title": "How To Get GTA 6’s $100 Edition For $80 Right Now",
-      "summary": "If you're looking for GTA 6 's $100 Ultimate Edition but don't want to pay that much, there is a way to get it for $80--if you meet a few requirements. Costco has rolled out a nice new deal where you can get four $25 PlayStation Store gift cards for $80. Or you can buy two $75 gift cards for $120 . These offers are…",
-      "url": "https://www.gamespot.com/articles/how-to-get-gta-6-100-edition-for-80-right-now/",
-      "date": "2026-10-06T15:10:47.000Z"
-    },
-    {
-      "lead": false,
       "src": "Eurogamer",
       "title": "GTA 6 devs tried \"not to jump on the bandwagon\" of passing trends and instead created their \"own slanted, overblown versions\"",
       "summary": "Creating a timely satire can be tough when development takes half a decade or more - it's the reason South Park's stuck with its crude art style for literal decades, but the developers of GTA 6 can't just replace their world-class tech with paper cutouts. Instead, the team simply tried to avoid trends that would bec…",
@@ -124,59 +188,11 @@
     },
     {
       "lead": false,
-      "src": "PC Gamer",
-      "title": "Despite calling Grand Theft Auto 'a videogame franchise built around criminal activity,' Miami-Dade sheriff isn't mad about the NBA's 'Vice City' transformation",
-      "summary": "Sheriff Rosie Cordero-Stutz says her strong stance against the GTA 6 promotional collaboration was only about \"publicly owned facilities and infrastructure.\"",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/despite-calling-grand-theft-auto-a-videogame-franchise-built-around-criminal-activity-miami-dade-sheriff-isnt-mad-about-the-nbas-vice-city-transformation/",
-      "date": "2026-10-05T19:42:34.000Z"
-    },
-    {
-      "lead": false,
       "src": "Eurogamer",
       "title": "\"It has to be more over the top, more insane, more in your face\" - Rockstar explains why GTA 6 doesn't satirise real-world events",
       "summary": "In a new interview, Rockstar has discussed its revered approach to crafting the satire the Grand Theft Auto series is famous for - particularly relating to GTA 6 and whether the game should include, and lampoon, real-world politics. Read more",
       "url": "https://www.eurogamer.net/rockstar-gta-6-satire-politics-real-world-events",
       "date": "2026-10-05T15:00:30.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Eurogamer",
-      "title": "GTA 6's 18+ age rating reveals Lucia and Jason can partake in drug use \"directly from their inventory\" and \"at any time\"",
-      "summary": "GTA 6 is seemingly adding another naughty pastime to the series' already mammoth collection of naughty pastimes. Joining the strip clubs and violent car-jackings and carefree murder is \"frequent and prominent\" drug use that you can try \"at any time,\" according to a new age rating. Read more",
-      "url": "https://www.eurogamer.net/gta6-age-rating-pegi-lucia-jason-drug-use",
-      "date": "2026-10-02T19:08:59.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Eurogamer",
-      "title": "Kingdom Come: Deliverance 2 boss hopes GTA 6 pushes game prices up because it's \"long overdue and also necessary for this business to survive\"",
-      "summary": "Warhorse Studios co-founder Martin Klima - the developer behind last year's historical RPG Kingdom Come: Deliverance 2 - is crossing his fingers for higher game prices, and he thinks GTA 6 might be the one to usher in a new normal. Read more",
-      "url": "https://www.eurogamer.net/kingdom-come-deliverance-gta6-higher-game-prices",
-      "date": "2026-10-02T16:52:25.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Eurogamer",
-      "title": "Grand Theft Auto 6 may be the first GTA to have full-on \"sex scenes\", Hot Coffee not included",
-      "summary": "Grand Theft Auto 6 may feature actual sex scenes. The suggestion comes from an age-rating description for GTA 6 on the PlayStation Store, which states - if viewing the New Zealand or Australian versions of the Store - there are \"sex scenes\" in the game. Read more",
-      "url": "https://www.eurogamer.net/gta-6-sex-scenes-pegi-esrb-ratings-boards",
-      "date": "2026-10-02T13:59:39.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Eurogamer",
-      "title": "GTA 6 completely \"re-engineered\" Rockstar's weather systems to \"achieve a sense of scale we haven't felt before,\" adding hurricanes, rainbows and heavy rain",
-      "summary": "If you thought Red Dead Redemption 2 's heavy winds and even heavier rain looked impressive, you might be happy to learn that Rockstar Games went back and \"re-engineered our weather system\" for GTA 6 . Hurricanes, rainbows and \"vertiginous cumulonimbus clouds\" are all part of the upcoming open worlder. Read more",
-      "url": "https://www.eurogamer.net/gta6-rockstar-weather-systems-hurricanes-rainbows-rain",
-      "date": "2026-09-30T17:04:55.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Eurogamer",
-      "title": "\"What if London existed in the Grand Theft Auto universe?\" One fan has answered with a GTA-style map of the city",
-      "summary": "\"What if London existed in the Grand Theft Auto universe? What if Rockstar created a GTA game set in London?\" Anyone sitting in the venn diagram centre of GTA fan and cartography sicko might be happy to learn that YouTuber CityEd has answered both of those questions with a GTA-style map. Read more",
-      "url": "https://www.eurogamer.net/london-gta-rockstar-map-city-rockstar",
-      "date": "2026-09-28T17:53:19.000Z"
     }
   ]
 }
