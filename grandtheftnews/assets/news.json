@@ -1,9 +1,17 @@
 {
-  "updated": "2026-10-08T00:54:17.648Z",
+  "updated": "2026-10-08T10:21:28.275Z",
   "count": 22,
   "items": [
     {
       "lead": true,
+      "src": "GamesRadar",
+      "title": "With GTA 6 missions, Rockstar has \"made a very conscious effort to open things up\"",
+      "summary": "Rob Nelson says Rockstar wants to find the \"balance between freedom and storytelling\"",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/with-gta-6-missions-rockstar-has-made-a-very-conscious-effort-to-open-things-up/",
+      "date": "2026-10-08T10:05:51.000Z"
+    },
+    {
+      "lead": false,
       "src": "PC Gamer",
       "title": "With Grand Theft Auto 6 poised to take over the world, I reached out to Jack Thompson and it did not go well",
       "summary": "GTA is mainstream now, but the fiery activist who raged against violent videogames in the early 2000s has not softened.",
@@ -73,14 +81,6 @@
       "summary": "Rockstar boss Rob Nelson has stated that GTA 6 won't make players \"all-powerful\" like they were in GTA 5 and the games that came before it. For GTA 6, this means NPCs in the world will have impulses of their own, and could come after you. Speaking to IGN , Nelson said, \"The world will act upon you as well as you act…",
       "url": "https://www.gamespot.com/articles/gta-6-wont-make-you-all-powerful-like-gta-5-did/",
       "date": "2026-10-07T14:35:16.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "GTA 6 won't be playable on PC via Xbox Cloud Gaming, exec clarifies",
-      "summary": "Perhaps Amazon or Nvidia will have PC players covered",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/no-gta-6-wont-be-playable-on-pc-via-xbox-cloud-gaming-and-microsoft-doesnt-have-exclusive-streaming-rights-either-exec-clarifies/",
-      "date": "2026-10-07T10:37:26.000Z"
     },
     {
       "lead": false,
