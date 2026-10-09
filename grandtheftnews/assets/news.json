@@ -1,9 +1,25 @@
 {
-  "updated": "2026-10-08T18:46:17.259Z",
+  "updated": "2026-10-09T01:08:33.714Z",
   "count": 24,
   "items": [
     {
       "lead": true,
+      "src": "Kotaku",
+      "title": "Damn, This GTA 6 Screenshot Looks So Good People Don’t Believe It’s Real",
+      "summary": "But look closer and it's clear this isn't magic",
+      "url": "https://kotaku.com/damn-this-gta-6-screenshot-looks-so-good-people-dont-believe-its-real-2000742750",
+      "date": "2026-10-08T21:44:08.000Z"
+    },
+    {
+      "lead": false,
+      "src": "PC Gamer",
+      "title": "Jason may or may not appear fully nude in GTA 6, but either way we've now seen his dong",
+      "summary": "Cyberleek's back, this time with nude Jason riding a dirt bike.",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/jason-may-or-may-not-appear-fully-nude-in-gta-6-but-either-way-weve-now-seen-his-dong/",
+      "date": "2026-10-08T20:12:16.000Z"
+    },
+    {
+      "lead": false,
       "src": "Kotaku",
       "title": "GTA 6 Has Some Very Famous Musicians Hosting Its Radio Stations, Including Bad Bunny",
       "summary": "Also, Lana Del Rey's husband is a 'roving reporter' for an outlaw country station",
@@ -84,59 +100,11 @@
     },
     {
       "lead": false,
-      "src": "IGN",
-      "title": "GTA 6 Leaker Returns With New 24-Minute Gameplay Video, Sparking Spoiler Concern",
-      "summary": "GTA 6 leaker Cyberleek has returned to publish a 24-minute gameplay video that has left fans scrambling to issue spoiler warnings across the internet.",
-      "url": "https://www.ign.com/articles/gta-6-leaker-returns-with-new-24-minute-gameplay-video-sparking-spoiler-concern",
-      "date": "2026-10-08T12:08:10.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "GTA 6 leaker Cyberleek returns with 25 minutes of new gameplay footage after over a month of silence",
-      "summary": "And a lot of naked Jason",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-leaker-cyberleek-returns-with-25-minutes-of-new-gameplay-after-over-a-month-of-silence-showing-first-person-footage-and-more/",
-      "date": "2026-10-08T11:59:00.000Z"
-    },
-    {
-      "lead": false,
       "src": "GameSpot",
       "title": "GTA 6 Leaks Aren’t Over Yet, As New 25-Minute Gameplay Footage Appears",
       "summary": "As the GTA 6 release date creeps ever closer, the now-notorious leaker Cyberleek doesn't seem to be finished showing off unreleased content just yet. Having been relatively quiet since August's wave of shorter GTA 6 leaks , Cyberleek has released a 25-minute video of new gameplay footage and cutscenes just weeks bef…",
       "url": "https://www.gamespot.com/articles/gta-6-leaks-arent-over-yet-as-new-25-minute-gameplay-footage-appears/",
       "date": "2026-10-08T11:54:16.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Kotaku",
-      "title": "Massive GTA 6 Leak Reveals Story Spoilers, Car Chases, And Jason’s Dong",
-      "summary": "The lengthy portion of the game features cutscenes, dirt bike racing, and...Jason's winky",
-      "url": "https://kotaku.com/gta-6-grand-theft-auto-vi-leak-cyberleek-nudity-jason-footage-2000742598",
-      "date": "2026-10-08T11:29:21.000Z"
-    },
-    {
-      "lead": false,
-      "src": "IGN",
-      "title": "The Australian Government Helps Workers Know Their Rights for Taking Time Off for GTA 6",
-      "summary": "Australia's workplace regulator, The Fair Work Ombudsman, has put out a helpful graphic for people who might want to take time off when GTA 6 comes out this November.",
-      "url": "https://www.ign.com/articles/australian-government-time-off-gta-6",
-      "date": "2026-10-08T11:20:38.000Z"
-    },
-    {
-      "lead": false,
-      "src": "IGN",
-      "title": "CBS News Amazed by Accuracy of GTA 6, Highlights Miami Similarities in New Report",
-      "summary": "CBS News has reported on the accuracy of GTA 6’s Vice City, a fictionalized recreation of The Magic City. The Miami office of CBS News looked at major locations and brings on experts to talk about how accurate Rockstar’s open world is, from PortMiami to South Beach, Wynwood to the Everglades.",
-      "url": "https://www.ign.com/articles/cbs-news-amazed-accuracy-gta-6",
-      "date": "2026-10-08T11:00:15.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "With GTA 6 missions, Rockstar has \"made a very conscious effort to open things up\"",
-      "summary": "Rob Nelson says Rockstar wants to find the \"balance between freedom and storytelling\"",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/with-gta-6-missions-rockstar-has-made-a-very-conscious-effort-to-open-things-up/",
-      "date": "2026-10-08T10:05:51.000Z"
     },
     {
       "lead": false,
@@ -193,6 +161,38 @@
       "summary": "In a new interview, Rockstar has discussed its revered approach to crafting the satire the Grand Theft Auto series is famous for - particularly relating to GTA 6 and whether the game should include, and lampoon, real-world politics. Read more",
       "url": "https://www.eurogamer.net/rockstar-gta-6-satire-politics-real-world-events",
       "date": "2026-10-05T15:00:30.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Eurogamer",
+      "title": "GTA 6's 18+ age rating reveals Lucia and Jason can partake in drug use \"directly from their inventory\" and \"at any time\"",
+      "summary": "GTA 6 is seemingly adding another naughty pastime to the series' already mammoth collection of naughty pastimes. Joining the strip clubs and violent car-jackings and carefree murder is \"frequent and prominent\" drug use that you can try \"at any time,\" according to a new age rating. Read more",
+      "url": "https://www.eurogamer.net/gta6-age-rating-pegi-lucia-jason-drug-use",
+      "date": "2026-10-02T19:08:59.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Eurogamer",
+      "title": "Kingdom Come: Deliverance 2 boss hopes GTA 6 pushes game prices up because it's \"long overdue and also necessary for this business to survive\"",
+      "summary": "Warhorse Studios co-founder Martin Klima - the developer behind last year's historical RPG Kingdom Come: Deliverance 2 - is crossing his fingers for higher game prices, and he thinks GTA 6 might be the one to usher in a new normal. Read more",
+      "url": "https://www.eurogamer.net/kingdom-come-deliverance-gta6-higher-game-prices",
+      "date": "2026-10-02T16:52:25.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Eurogamer",
+      "title": "Grand Theft Auto 6 may be the first GTA to have full-on \"sex scenes\", Hot Coffee not included",
+      "summary": "Grand Theft Auto 6 may feature actual sex scenes. The suggestion comes from an age-rating description for GTA 6 on the PlayStation Store, which states - if viewing the New Zealand or Australian versions of the Store - there are \"sex scenes\" in the game. Read more",
+      "url": "https://www.eurogamer.net/gta-6-sex-scenes-pegi-esrb-ratings-boards",
+      "date": "2026-10-02T13:59:39.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Eurogamer",
+      "title": "GTA 6 completely \"re-engineered\" Rockstar's weather systems to \"achieve a sense of scale we haven't felt before,\" adding hurricanes, rainbows and heavy rain",
+      "summary": "If you thought Red Dead Redemption 2 's heavy winds and even heavier rain looked impressive, you might be happy to learn that Rockstar Games went back and \"re-engineered our weather system\" for GTA 6 . Hurricanes, rainbows and \"vertiginous cumulonimbus clouds\" are all part of the upcoming open worlder. Read more",
+      "url": "https://www.eurogamer.net/gta6-rockstar-weather-systems-hurricanes-rainbows-rain",
+      "date": "2026-09-30T17:04:55.000Z"
     }
   ]
 }
