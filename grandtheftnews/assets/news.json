@@ -1,9 +1,89 @@
 {
-  "updated": "2026-10-09T10:21:31.801Z",
-  "count": 23,
+  "updated": "2026-10-09T18:16:50.251Z",
+  "count": 24,
   "items": [
     {
       "lead": true,
+      "src": "Kotaku",
+      "title": "Rockstar HR Questioned Over Discord ‘Mole’ And Sudden Timing Of GTA 6 Dev Firings In Latest Labor Tribunal Hearing",
+      "summary": "A junior Rockstar employee was leaking trade union activity to management",
+      "url": "https://kotaku.com/rockstar-hr-questioned-over-discord-mole-and-sudden-timing-of-gta-6-dev-firings-in-latest-labor-tribunal-hearing-2000743272",
+      "date": "2026-10-09T18:05:18.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Polygon",
+      "title": "'GTA 6' Fandom Is Officially Shook After The Nude Jason Leak",
+      "summary": "A massive GTA 6 leak highlighting nudity sparks conspiracy theories about nude gameplay, cheats, and first-person mode",
+      "url": "https://www.polygon.com/gta-6-cyberleek-nude-jason-duvall-internet-archive-video-tank-cheat/",
+      "date": "2026-10-09T17:58:34.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Polygon",
+      "title": "FBI Arrests Suspect from Hacker Group that Targeted GTA and the FBI Itself",
+      "summary": "The FBI has arrested a member of the ShinyHunters hacking group, which previously targeted GTA developer Rockstar and the FBI itself.",
+      "url": "https://www.polygon.com/shinyhunters-hacker-arrested-gta-6-fbi-leak/",
+      "date": "2026-10-09T16:59:06.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Eurogamer",
+      "title": "Rockstar HR manager claims he had \"little interest\" in staff's union membership status as fired GTA dev union-busting trial heats up",
+      "summary": "One of the witnesses in the ongoing Rockstar Games vs Garland & Others case has said he had \"little interest\" in evidence of unionisation efforts he was sent by an anonymous employee, prior to the developer laying off a substantial number of union Discord members. Read more",
+      "url": "https://www.eurogamer.net/rockstar-employment-tribunal-hr-manager-little-interest-union",
+      "date": "2026-10-09T16:41:02.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "GTA 6 Wanted Levels and Heat system explained",
+      "summary": "Wanted Levels in GTA 6 go up to six stars and reflect different statuses, while Heat icons indicate what information the cops have",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-wanted-levels-heat/",
+      "date": "2026-10-09T16:16:58.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "GTA 6 shows Jason nude, and fans are wondering if Rockstar will go full Red Dead Redemption 2",
+      "summary": "All things are possible",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-shows-jason-nude-and-fans-are-wondering-if-rockstar-will-go-full-red-dead-redemption-2-those-horse-balls-physics-gotta-go-somewhere/",
+      "date": "2026-10-09T15:48:50.000Z"
+    },
+    {
+      "lead": false,
+      "src": "IGN",
+      "title": "'It's Every Motherf***er for Himself!' — The San Andreas Mission You Need to Play Before GTA 6",
+      "summary": "GTA San Andreas' Reuniting the Families mission has car chases, shootouts, and cops recreating Terminator 2. It's the level where Rockstar truly found its cinematic flair.",
+      "url": "https://www.ign.com/articles/the-san-andreas-mission-you-need-to-play-before-gta-6",
+      "date": "2026-10-09T15:30:00.000Z"
+    },
+    {
+      "lead": false,
+      "src": "IGN",
+      "title": "GTA 6 on Switch 2? 'That's a Conversation for Take-Two and Rockstar,' Nintendo Says",
+      "summary": "Will GTA 6 come out on Switch 2? The boss of Nintendo of America has responded.",
+      "url": "https://www.ign.com/articles/gta-6-switch-2-nintendo-president",
+      "date": "2026-10-09T15:04:06.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GameSpot",
+      "title": "Is GTA 6 Coming To Switch 2? Ask Rockstar, Nintendo Says",
+      "summary": "Rockstar's GTA 6 is the biggest game of 2026 and possibly ever, but it's not coming to Switch 2 ... or is it? Nintendo of America's new president, Devon Pritchard, was recently asked if GTA 6 is coming to Switch 2, and she didn't say yes or no. Instead, she said people should ask Rockstar and its owner, Take-Two. “T…",
+      "url": "https://www.gamespot.com/articles/is-gta-6-coming-to-switch-2-ask-rockstar-nintendo-says/",
+      "date": "2026-10-09T15:01:41.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GameSpot",
+      "title": "“Video Games” Singer Can’t Wait To Play New Video Game GTA 6",
+      "summary": "Rockstar Games recently announced GTA 6's in-game radio stations , and one of them is co-hosted by 11-time Grammy-nominated Lana Del Rey. The singer-songwriter had a connection to video games before this, as she recorded the song \"Video Games\" on her 2012 album Born to Die. Now, she's set to appear in the biggest vi…",
+      "url": "https://www.gamespot.com/articles/video-games-singer-cant-wait-to-play-new-video-game-gta-6/",
+      "date": "2026-10-09T13:15:08.000Z"
+    },
+    {
+      "lead": false,
       "src": "Kotaku",
       "title": "Damn, This GTA 6 Screenshot Looks So Good People Don’t Believe It’s Real",
       "summary": "But look closer and it's clear this isn't magic",
@@ -44,43 +124,11 @@
     },
     {
       "lead": false,
-      "src": "GamesRadar",
-      "title": "GTA 6 radio stations revealed alongside a series first: in-game podcasts",
-      "summary": "At last, Loretta Lynn, Pantera, and Charli XCX are all in the same game",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-radio-stations-revealed-rockstar-says-for-the-first-time-in-grand-theft-auto-history-there-are-also-in-game-podcasts/",
-      "date": "2026-10-08T15:05:11.000Z"
-    },
-    {
-      "lead": false,
-      "src": "IGN",
-      "title": "GTA 6: Rockstar Releases Brand New Official Screenshots Showing Off Stunning Reflections",
-      "summary": "Rockstar has released three brand new GTA 6 screenshots alongside its radio station reveal.",
-      "url": "https://www.ign.com/articles/gta-6-rockstar-releases-brand-new-official-screenshots-showing-off-stunning-reflections",
-      "date": "2026-10-08T14:49:11.000Z"
-    },
-    {
-      "lead": false,
       "src": "GameSpot",
       "title": "GTA 6 Reveals 6 Radio Stations, Plus Podcasts You Can Listen To On Foot",
       "summary": "Nothing enhances a crime spree better than a few needle-drop tracks, and in Grand Theft Auto 6 , you'll have plenty of music stations to listen to while touring Leonida. Developer Rockstar Games has revealed six of the radio stations and the disc jockeys attached to them, and in a series first, has also confirmed th…",
       "url": "https://www.gamespot.com/articles/gta-6-reveals-6-radio-stations-plus-podcasts-you-can-listen-to-on-foot/",
       "date": "2026-10-08T14:38:32.000Z"
-    },
-    {
-      "lead": false,
-      "src": "IGN",
-      "title": "GTA 6 Reveals a Handful of Radio Stations, DJs, and Songs Ahead of Release",
-      "summary": "Rockstar Games has launched a new website which allows you to listen to some of the radio stations and songs that will be featured in GTA 6.",
-      "url": "https://www.ign.com/articles/gta-6-reveals-a-handful-of-radio-stations-djs-and-songs-ahead-of-release",
-      "date": "2026-10-08T14:37:48.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Kotaku",
-      "title": "Rockstar Reveals Some Of The Radio Stations And Songs In GTA 6",
-      "summary": "The company also confirmed you'll be able to listen to music and podcasts while on foot via your phone",
-      "url": "https://kotaku.com/rockstar-reveals-some-of-the-radio-stations-and-songs-in-gta-6-2000742655",
-      "date": "2026-10-08T14:29:36.000Z"
     },
     {
       "lead": false,
@@ -105,30 +153,6 @@
       "summary": "GTA is mainstream now, but the fiery activist who raged against violent videogames in the early 2000s has not softened.",
       "url": "https://www.pcgamer.com/games/grand-theft-auto/with-grand-theft-auto-6-poised-to-take-over-the-world-i-reached-out-to-jack-thompson-and-it-did-not-go-well/",
       "date": "2026-10-07T22:41:23.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GameSpot",
-      "title": "GTA 6 Wants Losing Your Wanted Level To Feel Like A “Hit-And-Run”",
-      "summary": "Gamers hoping for GTA 6 to amp up the realism when it comes to losing their wanted level in the sunny state of Leonida are in luck, with Rockstar confirming in a recent interview that Jason and Lucia can do far more than escape a glowing red zone on the map to shake off the law. Speaking to IGN ahead of the Netflix…",
-      "url": "https://www.gamespot.com/articles/gta-6-wants-losing-your-wanted-level-to-feel-like-a-hit-and-run/",
-      "date": "2026-10-07T16:25:22.000Z"
-    },
-    {
-      "lead": false,
-      "src": "PC Gamer",
-      "title": "For a moment it looked like Grand Theft Auto 6 might be playable on PC on launch day—then Xbox's chief strategy officer crashed the party",
-      "summary": "A report that GTA 6 would be streamable on PC turned out to be a bit off the mark.",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/for-a-moment-it-looked-like-grand-theft-auto-6-might-be-playable-on-pc-on-launch-day-then-xboxs-chief-strategy-officer-crashed-the-party/",
-      "date": "2026-10-07T16:05:02.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GameSpot",
-      "title": "New Details Revealed For GTA 6’s Jason And Lucia, Including “Physical Intimacy”",
-      "summary": "New information has come to light about GTA 6 , and specifically the partnership of its main characters, Jason and Lucia . In GTA 6, they are both partners in crime and lovers, and physical intimacy will be part of the experience, it seems. Rockstar North's Rob Nelson said in an interview with IGN that physical inti…",
-      "url": "https://www.gamespot.com/articles/new-details-revealed-for-gta-6s-jason-and-lucia-including-physical-intimacy/",
-      "date": "2026-10-07T16:02:29.000Z"
     },
     {
       "lead": false,
@@ -169,22 +193,6 @@
       "summary": "Warhorse Studios co-founder Martin Klima - the developer behind last year's historical RPG Kingdom Come: Deliverance 2 - is crossing his fingers for higher game prices, and he thinks GTA 6 might be the one to usher in a new normal. Read more",
       "url": "https://www.eurogamer.net/kingdom-come-deliverance-gta6-higher-game-prices",
       "date": "2026-10-02T16:52:25.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Eurogamer",
-      "title": "Grand Theft Auto 6 may be the first GTA to have full-on \"sex scenes\", Hot Coffee not included",
-      "summary": "Grand Theft Auto 6 may feature actual sex scenes. The suggestion comes from an age-rating description for GTA 6 on the PlayStation Store, which states - if viewing the New Zealand or Australian versions of the Store - there are \"sex scenes\" in the game. Read more",
-      "url": "https://www.eurogamer.net/gta-6-sex-scenes-pegi-esrb-ratings-boards",
-      "date": "2026-10-02T13:59:39.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Eurogamer",
-      "title": "GTA 6 completely \"re-engineered\" Rockstar's weather systems to \"achieve a sense of scale we haven't felt before,\" adding hurricanes, rainbows and heavy rain",
-      "summary": "If you thought Red Dead Redemption 2 's heavy winds and even heavier rain looked impressive, you might be happy to learn that Rockstar Games went back and \"re-engineered our weather system\" for GTA 6 . Hurricanes, rainbows and \"vertiginous cumulonimbus clouds\" are all part of the upcoming open worlder. Read more",
-      "url": "https://www.eurogamer.net/gta6-rockstar-weather-systems-hurricanes-rainbows-rain",
-      "date": "2026-09-30T17:04:55.000Z"
     }
   ]
 }
