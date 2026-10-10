@@ -1,30 +1,54 @@
 {
-  "updated": "2026-10-09T18:16:50.251Z",
+  "updated": "2026-10-10T00:40:39.358Z",
   "count": 24,
   "items": [
     {
       "lead": true,
+      "src": "IGN",
+      "title": "GTA 6 Fan Says Rockstar Sent Them a Poster Just Because They Asked Nicely",
+      "summary": "A Grand Theft Auto 6 fan in Brazil said they politely asked the Rockstar Games team to send them a poster – and it looks like they actually followed through.",
+      "url": "https://www.ign.com/articles/gta-6-fan-says-rockstar-sent-them-a-poster-just-because-they-asked-nicely",
+      "date": "2026-10-09T23:56:23.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Polygon",
+      "title": "GTA 6's Nudity Sure Sounds Hopelessly Outdated",
+      "summary": "GTA 6's nude leaks suggest Rockstar isn't treating the crime game with the maturity and sense of realism that it promised",
+      "url": "https://www.polygon.com/gta-6-nudity-jason-lucia-sounds-hopelessly-outdated/",
+      "date": "2026-10-09T22:19:54.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Kotaku",
+      "title": "We Might Be Cooked, As These Vibe-Coded Web Browser Ports Of Halo, The Simpsons: Hit And Run, And GTA: Vice City Seem To Work Perfectly",
+      "summary": "Call of Duty: Black Ops , Halo: CE , Grand Theft Auto: Vice City , Skate 3 and many more titles have been decompiled and ported to web browsers overnight",
+      "url": "https://kotaku.com/we-might-be-cooked-as-these-vibe-coded-web-browser-ports-of-halo-the-simpsons-hit-and-run-and-gta-vice-city-seem-to-work-perfectly-2000743300",
+      "date": "2026-10-09T21:45:14.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Kotaku",
+      "title": "Will GTA 6 Ever Come To Switch 2? Nintendo Of America President Says Go Ask Rockstar",
+      "summary": "Never say never, I guess?",
+      "url": "https://kotaku.com/will-gta-6-ever-come-to-switch-2-nintendo-of-america-president-says-go-ask-rockstar-2000743283",
+      "date": "2026-10-09T19:09:44.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "US console market hasn't been this bad \"since the early 80s,\" analyst says",
+      "summary": "And even GTA 6 might not be able to save it",
+      "url": "https://www.gamesradar.com/hardware/us-console-market-hasnt-been-in-a-more-precarious-position-since-the-early-80s-analyst-says-as-ps5-and-xbox-series-x-price-soar-to-all-time-highs/",
+      "date": "2026-10-09T18:19:28.000Z"
+    },
+    {
+      "lead": false,
       "src": "Kotaku",
       "title": "Rockstar HR Questioned Over Discord ‘Mole’ And Sudden Timing Of GTA 6 Dev Firings In Latest Labor Tribunal Hearing",
       "summary": "A junior Rockstar employee was leaking trade union activity to management",
       "url": "https://kotaku.com/rockstar-hr-questioned-over-discord-mole-and-sudden-timing-of-gta-6-dev-firings-in-latest-labor-tribunal-hearing-2000743272",
       "date": "2026-10-09T18:05:18.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Polygon",
-      "title": "'GTA 6' Fandom Is Officially Shook After The Nude Jason Leak",
-      "summary": "A massive GTA 6 leak highlighting nudity sparks conspiracy theories about nude gameplay, cheats, and first-person mode",
-      "url": "https://www.polygon.com/gta-6-cyberleek-nude-jason-duvall-internet-archive-video-tank-cheat/",
-      "date": "2026-10-09T17:58:34.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Polygon",
-      "title": "FBI Arrests Suspect from Hacker Group that Targeted GTA and the FBI Itself",
-      "summary": "The FBI has arrested a member of the ShinyHunters hacking group, which previously targeted GTA developer Rockstar and the FBI itself.",
-      "url": "https://www.polygon.com/shinyhunters-hacker-arrested-gta-6-fbi-leak/",
-      "date": "2026-10-09T16:59:06.000Z"
     },
     {
       "lead": false,
@@ -100,14 +124,6 @@
     },
     {
       "lead": false,
-      "src": "Kotaku",
-      "title": "GTA 6 Has Some Very Famous Musicians Hosting Its Radio Stations, Including Bad Bunny",
-      "summary": "Also, Lana Del Rey's husband is a 'roving reporter' for an outlaw country station",
-      "url": "https://kotaku.com/gta-6-has-some-very-famous-musicians-hosting-its-radio-stations-including-bad-bunny-2000742646",
-      "date": "2026-10-08T17:49:56.000Z"
-    },
-    {
-      "lead": false,
       "src": "GameSpot",
       "title": "GTA 6 Merch Revealed, Including T-Shirt With Alligator Wearing Sunglasses And Drinking A Cocktail",
       "summary": "Ahead of GTA 6 's release in November, Rockstar Games has announced an official merch collection for the game, and it includes some snazzy stuff like a t-shirt featuring an alligator wearing sunglasses and drinking a cocktail. The alligator's name is Macca the Gator, and he's the star of a fictional in-universe TV s…",
@@ -177,22 +193,6 @@
       "summary": "In a new interview, Rockstar has discussed its revered approach to crafting the satire the Grand Theft Auto series is famous for - particularly relating to GTA 6 and whether the game should include, and lampoon, real-world politics. Read more",
       "url": "https://www.eurogamer.net/rockstar-gta-6-satire-politics-real-world-events",
       "date": "2026-10-05T15:00:30.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Eurogamer",
-      "title": "GTA 6's 18+ age rating reveals Lucia and Jason can partake in drug use \"directly from their inventory\" and \"at any time\"",
-      "summary": "GTA 6 is seemingly adding another naughty pastime to the series' already mammoth collection of naughty pastimes. Joining the strip clubs and violent car-jackings and carefree murder is \"frequent and prominent\" drug use that you can try \"at any time,\" according to a new age rating. Read more",
-      "url": "https://www.eurogamer.net/gta6-age-rating-pegi-lucia-jason-drug-use",
-      "date": "2026-10-02T19:08:59.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Eurogamer",
-      "title": "Kingdom Come: Deliverance 2 boss hopes GTA 6 pushes game prices up because it's \"long overdue and also necessary for this business to survive\"",
-      "summary": "Warhorse Studios co-founder Martin Klima - the developer behind last year's historical RPG Kingdom Come: Deliverance 2 - is crossing his fingers for higher game prices, and he thinks GTA 6 might be the one to usher in a new normal. Read more",
-      "url": "https://www.eurogamer.net/kingdom-come-deliverance-gta6-higher-game-prices",
-      "date": "2026-10-02T16:52:25.000Z"
     }
   ]
 }
