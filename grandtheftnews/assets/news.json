@@ -1,9 +1,17 @@
 {
-  "updated": "2026-10-10T17:15:45.725Z",
+  "updated": "2026-10-10T21:30:23.612Z",
   "count": 24,
   "items": [
     {
       "lead": true,
+      "src": "Eurogamer",
+      "title": "GTA 6 leaker CyberLeek is now reportedly threatening to release a full, playable build of the game",
+      "summary": "A GTA 6 leaker has reportedly threatened to put out a complete, playable build of the game, start to finish. Read more",
+      "url": "https://www.eurogamer.net/gta-6-leaker-cyberleek-threatens-playable-build-leak",
+      "date": "2026-10-10T19:42:21.000Z"
+    },
+    {
+      "lead": false,
       "src": "Kotaku",
       "title": "GTA 6 Leaker Threatens Rockstar With Doomsday Scenario If Meme Coin Hits $30 Million",
       "summary": "Cyberleeks is back and asking for more money",
@@ -17,14 +25,6 @@
       "summary": "The GTA 6 leaker has reportedly threatened to release a build of the game with the full story mode played to the end, as part of their heavily criticized crypto scheme.",
       "url": "https://www.ign.com/articles/gta-6-leaker-threatens-to-release-build-with-full-story-mode-played-to-the-end-ties-lucias-clothing-to-crypto-scheme",
       "date": "2026-10-10T16:23:47.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Polygon",
-      "title": "Grand Theft Ocarina Could Be Gaming's Barbenheimer",
-      "summary": "Nintendo's gamble on the November release date clash between GTA 6 and Zelda: Ocarina of Time for Switch 2 seems to be paying off",
-      "url": "https://www.polygon.com/switchboard-gta-6-zelda-grand-theft-ocarina-barbenheimer/",
-      "date": "2026-10-10T15:00:18.000Z"
     },
     {
       "lead": false,
@@ -116,14 +116,6 @@
     },
     {
       "lead": false,
-      "src": "Kotaku",
-      "title": "Damn, This GTA 6 Screenshot Looks So Good People Don’t Believe It’s Real",
-      "summary": "But look closer and it's clear this isn't magic",
-      "url": "https://kotaku.com/damn-this-gta-6-screenshot-looks-so-good-people-dont-believe-its-real-2000742750",
-      "date": "2026-10-08T21:44:08.000Z"
-    },
-    {
-      "lead": false,
       "src": "PC Gamer",
       "title": "Jason may or may not appear fully nude in GTA 6, but either way we've now seen his dong",
       "summary": "Cyberleek's back, this time with nude Jason riding a dirt bike.",
@@ -193,6 +185,14 @@
       "summary": "In a new interview, Rockstar has discussed its revered approach to crafting the satire the Grand Theft Auto series is famous for - particularly relating to GTA 6 and whether the game should include, and lampoon, real-world politics. Read more",
       "url": "https://www.eurogamer.net/rockstar-gta-6-satire-politics-real-world-events",
       "date": "2026-10-05T15:00:30.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Eurogamer",
+      "title": "GTA 6's 18+ age rating reveals Lucia and Jason can partake in drug use \"directly from their inventory\" and \"at any time\"",
+      "summary": "GTA 6 is seemingly adding another naughty pastime to the series' already mammoth collection of naughty pastimes. Joining the strip clubs and violent car-jackings and carefree murder is \"frequent and prominent\" drug use that you can try \"at any time,\" according to a new age rating. Read more",
+      "url": "https://www.eurogamer.net/gta6-age-rating-pegi-lucia-jason-drug-use",
+      "date": "2026-10-02T19:08:59.000Z"
     }
   ]
 }
