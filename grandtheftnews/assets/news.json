@@ -1,9 +1,41 @@
 {
-  "updated": "2026-10-10T09:41:17.639Z",
+  "updated": "2026-10-10T17:15:45.725Z",
   "count": 24,
   "items": [
     {
       "lead": true,
+      "src": "Kotaku",
+      "title": "GTA 6 Leaker Threatens Rockstar With Doomsday Scenario If Meme Coin Hits $30 Million",
+      "summary": "Cyberleeks is back and asking for more money",
+      "url": "https://kotaku.com/gta-6-leaker-threatens-rockstar-with-doomsday-scenario-if-meme-coin-hits-30-million-2000743779",
+      "date": "2026-10-10T17:12:53.000Z"
+    },
+    {
+      "lead": false,
+      "src": "IGN",
+      "title": "GTA 6 Leaker Threatens to Release Build With Full Story Mode Played to the End, Ties Lucia's Clothing to Crypto Scheme",
+      "summary": "The GTA 6 leaker has reportedly threatened to release a build of the game with the full story mode played to the end, as part of their heavily criticized crypto scheme.",
+      "url": "https://www.ign.com/articles/gta-6-leaker-threatens-to-release-build-with-full-story-mode-played-to-the-end-ties-lucias-clothing-to-crypto-scheme",
+      "date": "2026-10-10T16:23:47.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Polygon",
+      "title": "Grand Theft Ocarina Could Be Gaming's Barbenheimer",
+      "summary": "Nintendo's gamble on the November release date clash between GTA 6 and Zelda: Ocarina of Time for Switch 2 seems to be paying off",
+      "url": "https://www.polygon.com/switchboard-gta-6-zelda-grand-theft-ocarina-barbenheimer/",
+      "date": "2026-10-10T15:00:18.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "Former Last of Us dev says \"the idea of a monolithic GTA 6\" or Elder Scrolls 6 is \"intimidating\"",
+      "summary": "\"Even The Last of Us 2, I thought, was so long\"",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/former-last-of-us-and-uncharted-4-dev-says-the-idea-of-a-monolithic-gta-6-or-elder-scrolls-6-is-intimidating-wants-more-short-games-instead/",
+      "date": "2026-10-10T13:11:49.000Z"
+    },
+    {
+      "lead": false,
       "src": "IGN",
       "title": "GTA 6 Fan Says Rockstar Sent Them a Poster Just Because They Asked Nicely",
       "summary": "A Grand Theft Auto 6 fan in Brazil said they politely asked the Rockstar Games team to send them a poster – and it looks like they actually followed through.",
@@ -65,14 +97,6 @@
       "summary": "All things are possible",
       "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-shows-jason-nude-and-fans-are-wondering-if-rockstar-will-go-full-red-dead-redemption-2-those-horse-balls-physics-gotta-go-somewhere/",
       "date": "2026-10-09T15:48:50.000Z"
-    },
-    {
-      "lead": false,
-      "src": "IGN",
-      "title": "'It's Every Motherf***er for Himself!' — The San Andreas Mission You Need to Play Before GTA 6",
-      "summary": "GTA San Andreas' Reuniting the Families mission has car chases, shootouts, and cops recreating Terminator 2. It's the level where Rockstar truly found its cinematic flair.",
-      "url": "https://www.ign.com/articles/the-san-andreas-mission-you-need-to-play-before-gta-6",
-      "date": "2026-10-09T15:30:00.000Z"
     },
     {
       "lead": false,
@@ -148,14 +172,6 @@
     },
     {
       "lead": false,
-      "src": "PC Gamer",
-      "title": "With Grand Theft Auto 6 poised to take over the world, I reached out to Jack Thompson and it did not go well",
-      "summary": "GTA is mainstream now, but the fiery activist who raged against violent videogames in the early 2000s has not softened.",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/with-grand-theft-auto-6-poised-to-take-over-the-world-i-reached-out-to-jack-thompson-and-it-did-not-go-well/",
-      "date": "2026-10-07T22:41:23.000Z"
-    },
-    {
-      "lead": false,
       "src": "Eurogamer",
       "title": "Xbox denies reports it's acquired exclusive GTA 6 game-streaming rights, deflating hopes of playing it on PC",
       "summary": "Xbox has denied reports suggesting it obtained exclusive game-streaming rights for Grand Theft Auto 6 . The initial suggestion came from a report on The Verge , which cited an all-hands meeting in which CEO Asha Sharma allegedly told staff that Xbox plans to do something \"no other platform holder is doing\" around GT…",
@@ -177,22 +193,6 @@
       "summary": "In a new interview, Rockstar has discussed its revered approach to crafting the satire the Grand Theft Auto series is famous for - particularly relating to GTA 6 and whether the game should include, and lampoon, real-world politics. Read more",
       "url": "https://www.eurogamer.net/rockstar-gta-6-satire-politics-real-world-events",
       "date": "2026-10-05T15:00:30.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Eurogamer",
-      "title": "GTA 6's 18+ age rating reveals Lucia and Jason can partake in drug use \"directly from their inventory\" and \"at any time\"",
-      "summary": "GTA 6 is seemingly adding another naughty pastime to the series' already mammoth collection of naughty pastimes. Joining the strip clubs and violent car-jackings and carefree murder is \"frequent and prominent\" drug use that you can try \"at any time,\" according to a new age rating. Read more",
-      "url": "https://www.eurogamer.net/gta6-age-rating-pegi-lucia-jason-drug-use",
-      "date": "2026-10-02T19:08:59.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Eurogamer",
-      "title": "Kingdom Come: Deliverance 2 boss hopes GTA 6 pushes game prices up because it's \"long overdue and also necessary for this business to survive\"",
-      "summary": "Warhorse Studios co-founder Martin Klima - the developer behind last year's historical RPG Kingdom Come: Deliverance 2 - is crossing his fingers for higher game prices, and he thinks GTA 6 might be the one to usher in a new normal. Read more",
-      "url": "https://www.eurogamer.net/kingdom-come-deliverance-gta6-higher-game-prices",
-      "date": "2026-10-02T16:52:25.000Z"
     }
   ]
 }
