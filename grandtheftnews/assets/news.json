@@ -1,9 +1,33 @@
 {
-  "updated": "2026-10-11T12:36:08.789Z",
+  "updated": "2026-10-11T19:26:58.186Z",
   "count": 24,
   "items": [
     {
       "lead": true,
+      "src": "GamesRadar",
+      "title": "Rockstar has a whole team of GTA 6 writers for to pedestrian dialogue: \"There are no shortcuts\"",
+      "summary": "\"No one you meet is an extra\"",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/rockstar-has-a-whole-team-of-gta-6-writers-dedicated-to-pedestrian-dialogue-there-are-no-shortcuts-when-it-comes-to-building-a-world-like-this/",
+      "date": "2026-10-11T14:36:27.000Z"
+    },
+    {
+      "lead": false,
+      "src": "IGN",
+      "title": "‘I’m Shocked That People Are Still Playing’ – How GTA 5 Took Over the World",
+      "summary": "Could GTA 6 be as big as its predecessor? We take a look at how GTA 5 became one of the biggest games in history, selling over 230m copies and being played by millions of people every week for over a decade.",
+      "url": "https://www.ign.com/articles/im-shocked-that-people-are-still-playing-how-gta-5-took-over-the-world",
+      "date": "2026-10-11T14:30:00.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Polygon",
+      "title": "'GTA 6' Leaker Posts Nude Lucia Video With Threats of Releasing Game Early",
+      "summary": "Amid threats against Rockstar, Cyberleek is promising GTA 6 fans nude Lucia gameplay in 4k if the leaker's meme coin reaches a market cap milestone",
+      "url": "https://www.polygon.com/gta-6-unmoderated-lucia-naked-video-cyberleek-website-reddit-rockstar/",
+      "date": "2026-10-11T13:27:56.000Z"
+    },
+    {
+      "lead": false,
       "src": "Eurogamer",
       "title": "GTA 6 leaker CyberLeek is back with another video and this time, Lucia's naked",
       "summary": "GTA 6 leaker CyberLeek is back with another video, this time with a naked Lucia taking a parachute jump off a rooftop. Read more",
@@ -169,30 +193,6 @@
       "summary": "Nothing enhances a crime spree better than a few needle-drop tracks, and in Grand Theft Auto 6 , you'll have plenty of music stations to listen to while touring Leonida. Developer Rockstar Games has revealed six of the radio stations and the disc jockeys attached to them, and in a series first, has also confirmed th…",
       "url": "https://www.gamespot.com/articles/gta-6-reveals-6-radio-stations-plus-podcasts-you-can-listen-to-on-foot/",
       "date": "2026-10-08T14:38:32.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Eurogamer",
-      "title": "Full-frontal nudity, dirt-biking, and a dev menu: GTA 6's infamous leaker is back with the most X-rated look at the game yet",
-      "summary": "It looks like the GTA 6 leaker, 'CyberLeek' is back - and this time the infamous leaker has posted a 25-minute video of footage from Rockstar's upcoming game that even features nude scenes, including a fully naked Jason, and a topless Lucia. Eurogamer has seen the video, and it appears to be legitimate - and, as is…",
-      "url": "https://www.eurogamer.net/gta-6-frontal-nudity-dirt-biking-dev-menu-leak",
-      "date": "2026-10-08T12:09:17.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GameSpot",
-      "title": "GTA 6 Leaks Aren’t Over Yet, As New 25-Minute Gameplay Footage Appears",
-      "summary": "As the GTA 6 release date creeps ever closer, the now-notorious leaker Cyberleek doesn't seem to be finished showing off unreleased content just yet. Having been relatively quiet since August's wave of shorter GTA 6 leaks , Cyberleek has released a 25-minute video of new gameplay footage and cutscenes just weeks bef…",
-      "url": "https://www.gamespot.com/articles/gta-6-leaks-arent-over-yet-as-new-25-minute-gameplay-footage-appears/",
-      "date": "2026-10-08T11:54:16.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Eurogamer",
-      "title": "Xbox denies reports it's acquired exclusive GTA 6 game-streaming rights, deflating hopes of playing it on PC",
-      "summary": "Xbox has denied reports suggesting it obtained exclusive game-streaming rights for Grand Theft Auto 6 . The initial suggestion came from a report on The Verge , which cited an all-hands meeting in which CEO Asha Sharma allegedly told staff that Xbox plans to do something \"no other platform holder is doing\" around GT…",
-      "url": "https://www.eurogamer.net/xbox-cloud-gta-6-streaming-rights",
-      "date": "2026-10-07T08:31:39.000Z"
     }
   ]
 }
