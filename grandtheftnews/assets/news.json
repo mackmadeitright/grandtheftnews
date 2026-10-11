@@ -1,9 +1,25 @@
 {
-  "updated": "2026-10-11T05:30:10.908Z",
+  "updated": "2026-10-11T12:36:08.789Z",
   "count": 24,
   "items": [
     {
       "lead": true,
+      "src": "Eurogamer",
+      "title": "GTA 6 leaker CyberLeek is back with another video and this time, Lucia's naked",
+      "summary": "GTA 6 leaker CyberLeek is back with another video, this time with a naked Lucia taking a parachute jump off a rooftop. Read more",
+      "url": "https://www.eurogamer.net/gta-6-leaker-cyberleek-naked-lucia-parachute-video",
+      "date": "2026-10-11T12:27:09.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "GTA 6 leaker threatens to release a build of the entire game start to finish",
+      "summary": "Cyberleek makes new demands",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-leaker-threatens-to-release-a-build-of-the-entire-game-start-to-finish-but-gives-take-two-a-way-out-physical-disks-and-a-public-apology/",
+      "date": "2026-10-11T11:35:57.000Z"
+    },
+    {
+      "lead": false,
       "src": "PC Gamer",
       "title": "GTA 6 leaker threatens to upload a build with 'full story mode'",
       "summary": "\"Take-Two gets one way out: physical disks and a public apology.\"",
@@ -177,22 +193,6 @@
       "summary": "Xbox has denied reports suggesting it obtained exclusive game-streaming rights for Grand Theft Auto 6 . The initial suggestion came from a report on The Verge , which cited an all-hands meeting in which CEO Asha Sharma allegedly told staff that Xbox plans to do something \"no other platform holder is doing\" around GT…",
       "url": "https://www.eurogamer.net/xbox-cloud-gta-6-streaming-rights",
       "date": "2026-10-07T08:31:39.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Eurogamer",
-      "title": "GTA 6 devs tried \"not to jump on the bandwagon\" of passing trends and instead created their \"own slanted, overblown versions\"",
-      "summary": "Creating a timely satire can be tough when development takes half a decade or more - it's the reason South Park's stuck with its crude art style for literal decades, but the developers of GTA 6 can't just replace their world-class tech with paper cutouts. Instead, the team simply tried to avoid trends that would bec…",
-      "url": "https://www.eurogamer.net/gta-6-devs-bandwagon-trends-created-slanted-versions",
-      "date": "2026-10-05T20:14:26.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Eurogamer",
-      "title": "\"It has to be more over the top, more insane, more in your face\" - Rockstar explains why GTA 6 doesn't satirise real-world events",
-      "summary": "In a new interview, Rockstar has discussed its revered approach to crafting the satire the Grand Theft Auto series is famous for - particularly relating to GTA 6 and whether the game should include, and lampoon, real-world politics. Read more",
-      "url": "https://www.eurogamer.net/rockstar-gta-6-satire-politics-real-world-events",
-      "date": "2026-10-05T15:00:30.000Z"
     }
   ]
 }
