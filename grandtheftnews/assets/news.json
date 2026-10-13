@@ -1,9 +1,105 @@
 {
-  "updated": "2026-10-13T06:36:20.189Z",
-  "count": 22,
+  "updated": "2026-10-13T16:51:56.503Z",
+  "count": 24,
   "items": [
     {
       "lead": true,
+      "src": "Polygon",
+      "title": "'GTA 6' Fans Convinced Rockstar Has Quietly Already Spoiled An Ending",
+      "summary": "A single screenshot shared by Rockstar might tell GTA 6 fans more than they realize",
+      "url": "https://www.polygon.com/gta-6-ending-screenshot-lucia-jason-story-spoiler/",
+      "date": "2026-10-13T16:13:39.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Eurogamer",
+      "title": "\"That was not received well at Nintendo\" - as GTA 6 and Zelda are lampooned by Saturday Night Live, former employees recall Elon Musk Wario skit controversy",
+      "summary": "As American comedy series Saturday Night Live airs a sketch lampooning the November showdown between Grand Theft Auto 6 and The Legend of Zelda: Ocarina of Time remake, a pair of former Nintendo employees have recalled a more infamous SNL sketch from years earlier that did not go down well at all. Read more",
+      "url": "https://www.eurogamer.net/snl-elon-musk-wario-skit-zelda-gta-6",
+      "date": "2026-10-13T15:33:54.000Z"
+    },
+    {
+      "lead": false,
+      "src": "IGN",
+      "title": "Rockstar's Multi-Million Dollar Miami Takeover Continues to Expand Ahead of GTA 6 Launch, Despite Protests from Some Officials",
+      "summary": "Rockstar Games is continuing to ramp up GTA 6's massive marketing with a Vice City blimp, NFL promos, and much more, despite protests from Miami officials.",
+      "url": "https://www.ign.com/articles/rockstars-multi-million-dollar-miami-takeover-continues-to-expand-ahead-of-gta-6-launch-despite-protests-from-some-officials",
+      "date": "2026-10-13T15:04:37.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GameSpot",
+      "title": "GTA 6 Will Reportedly Come To PC Much Earlier Than Expected",
+      "summary": "The November launch of Grand Theft Auto 6 will leave PC gamers sitting out in the cold, but the wait for the yet-to-be-announced PC port might be surprisingly short this time. According to a new report, GTA 6 will launch on PC \"within the first three months\" of 2027. Speaking to GamesBeat , industry sources claim th…",
+      "url": "https://www.gamespot.com/articles/gta-6-will-reportedly-come-to-pc-much-earlier-than-expected/",
+      "date": "2026-10-13T14:24:07.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "GTA 6 is coming to PC in just a few months according to new report",
+      "summary": "Rumors say it could be out by the end of March 2027, which would be shockingly fast for Rockstar",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-is-coming-to-pc-in-just-a-few-months-according-to-new-report-with-rockstar-moving-much-faster-than-it-did-with-gta-5-and-red-dead-redemption-2/",
+      "date": "2026-10-13T14:19:09.000Z"
+    },
+    {
+      "lead": false,
+      "src": "IGN",
+      "title": "GTA 6 Reportedly Set for PC Q1 2027",
+      "summary": "GTA 6 will launch on PC just a few months after consoles, according to a new report.",
+      "url": "https://www.ign.com/articles/gta-6-reportedly-set-for-pc-q1-2027",
+      "date": "2026-10-13T14:01:10.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Kotaku",
+      "title": "Grand Theft Auto 6′s PC Port Reportedly Arriving Just A Few Months After Its Big Console Launch",
+      "summary": "The open-world crime drama is currently only announced for PS5 and Xbox Series X/S",
+      "url": "https://kotaku.com/grand-theft-auto-gta6-pc-port-release-date-rumor-report-2000745274",
+      "date": "2026-10-13T13:59:01.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Eurogamer",
+      "title": "GTA 6's PC release date is set for \"Q1 2027\", per a new report",
+      "summary": "A new report suggests that GTA 6 will release on PC in \"Q1 2027\". That, at least, is what GamesBeat is saying, citing \"sources familiar with the matter.\" Read more",
+      "url": "https://www.eurogamer.net/gta-6s-pc-release-date-is-set-for-q1-2027-per-a-new-report",
+      "date": "2026-10-13T13:57:07.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Eurogamer",
+      "title": "GTA 3's iconic box art was changed at the last minute because of 9/11, ex-Rockstar lead Dan Houser reveals",
+      "summary": "Dan Houser, one of Rockstar's co-founders that left the GTA 6 studio in 2020 , has given a wide-ranging new interview with IGN, covering topics including the tortured production of Bully , changes made to Grand Theft Auto 3's artwork post-9/11, the reaction to Red Dead Redemption's ending , and why he thinks Max Pay…",
+      "url": "https://www.eurogamer.net/dan-houser-gta-3-boxart-9-11",
+      "date": "2026-10-13T13:35:54.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GameSpot",
+      "title": "GTA 6 Fans Are Excited For Another Date In November, And It’s Not Release Day",
+      "summary": "Take-Two has announced the details for its next earnings briefing, and as you might expect, GTA 6 fans are circling the date on their calendars. The next Take-Two quarterly earnings report will be released on Monday, November 9, with management holding a call at 1:30 PM PT / 4:30 PM ET that day to discuss the result…",
+      "url": "https://www.gamespot.com/articles/gta-6-fans-are-excited-for-another-date-in-november-and-its-not-release-day/",
+      "date": "2026-10-13T13:18:16.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "Sony announces cheaper Midnight Black PS5 to launch alongside GTA 6, it's just a shame we won't be able to buy it",
+      "summary": "Sony has announced a Japan-only Midnight Black PS5, due to land on the same day as GTA 6.",
+      "url": "https://www.gamesradar.com/hardware/sony-announces-cheaper-midnight-black-ps5-to-launch-alongside-gta-6-its-just-a-shame-we-wont-be-able-to-buy-it/",
+      "date": "2026-10-13T11:25:19.000Z"
+    },
+    {
+      "lead": false,
+      "src": "IGN",
+      "title": "GTA 6 Fans Celebrate as Cyberleek Cryptocurrency Crashes Hard",
+      "summary": "GTA 6 fans are celebrating after the Cyberleek memecoin crashed hard yesterday, scuppering the leaker’s crypto scheme.",
+      "url": "https://www.ign.com/articles/gta-6-fans-celebrate-as-cyberleek-cryptocurrency-crashes-hard",
+      "date": "2026-10-13T09:56:22.000Z"
+    },
+    {
+      "lead": false,
       "src": "Kotaku",
       "title": "GTA 6 Leaker Promises Escalating Mayhem As Meme Coin Crashes",
       "summary": "Cyberleek is promoting escalating chaos in the month before launch",
@@ -28,51 +124,11 @@
     },
     {
       "lead": false,
-      "src": "GamesRadar",
-      "title": "\"So f****** peak\" - Fan who made incredible Lego GTA 6 set is at it again with the perfect PlayStation diorama",
-      "summary": "This Lego PlayStation fan upgrade is good I wish it was the official version",
-      "url": "https://www.gamesradar.com/toys-collectibles/so-f-peak-fan-who-made-incredible-lego-gta-6-set-is-at-it-again-with-the-perfect-playstation-diorama/",
-      "date": "2026-10-12T11:41:56.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "Despite new GTA 6 leaks, Cyberleek's cryptocurrency remains over $20 million short of goal",
-      "summary": "The leaker threatened to release it \"played to the end\"",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/despite-new-gta-6-leaks-cyberleeks-cryptocurrency-remains-over-usd20-million-short-of-its-goal-amid-threats-to-release-rockstars-next-game-early/",
-      "date": "2026-10-12T10:27:22.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Kotaku",
-      "title": "GTA 6 Leaker Posts Grainy Footage Of Lucia Skydiving Naked To Sell Crypto",
-      "summary": "Cyberleek is more Lucia 'nudes' if $Cyberleek coin keeps going up",
-      "url": "https://kotaku.com/gta-6-leaker-posts-lucia-skydiving-naked-to-sell-crypto-2000744175",
-      "date": "2026-10-11T21:30:59.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "Rockstar has a whole team of GTA 6 writers for to pedestrian dialogue: \"There are no shortcuts\"",
-      "summary": "\"No one you meet is an extra\"",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/rockstar-has-a-whole-team-of-gta-6-writers-dedicated-to-pedestrian-dialogue-there-are-no-shortcuts-when-it-comes-to-building-a-world-like-this/",
-      "date": "2026-10-11T14:36:27.000Z"
-    },
-    {
-      "lead": false,
       "src": "Eurogamer",
       "title": "GTA 6 leaker CyberLeek is back with another video and this time, Lucia's naked",
       "summary": "UPDATE 12TH OCTOBER: More naked footage of Lucia in Grand Theft Auto 6 has been posted. The video, which we won't link to, shows Lucia completely naked standing in the street. There are crass camera angles, wobbly buttocks, and the Cyberleek logo is overlaid over the footage. Be warned if you're browsing X because t…",
       "url": "https://www.eurogamer.net/gta-6-leaker-cyberleek-naked-lucia-parachute-video",
       "date": "2026-10-11T12:27:09.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "GTA 6 leaker threatens to release a build of the entire game start to finish",
-      "summary": "Cyberleek makes new demands",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-leaker-threatens-to-release-a-build-of-the-entire-game-start-to-finish-but-gives-take-two-a-way-out-physical-disks-and-a-public-apology/",
-      "date": "2026-10-11T11:35:57.000Z"
     },
     {
       "lead": false,
@@ -137,46 +193,6 @@
       "summary": "It looks like the GTA 6 leaker, 'CyberLeek' is back - and this time the infamous leaker has posted a 25-minute video of footage from Rockstar's upcoming game that even features nude scenes, including a fully naked Jason, and a topless Lucia. Eurogamer has seen the video, and it appears to be legitimate - and, as is…",
       "url": "https://www.eurogamer.net/gta-6-frontal-nudity-dirt-biking-dev-menu-leak",
       "date": "2026-10-08T12:09:17.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Eurogamer",
-      "title": "Xbox denies reports it's acquired exclusive GTA 6 game-streaming rights, deflating hopes of playing it on PC",
-      "summary": "Xbox has denied reports suggesting it obtained exclusive game-streaming rights for Grand Theft Auto 6 . The initial suggestion came from a report on The Verge , which cited an all-hands meeting in which CEO Asha Sharma allegedly told staff that Xbox plans to do something \"no other platform holder is doing\" around GT…",
-      "url": "https://www.eurogamer.net/xbox-cloud-gta-6-streaming-rights",
-      "date": "2026-10-07T08:31:39.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Eurogamer",
-      "title": "GTA 6 devs tried \"not to jump on the bandwagon\" of passing trends and instead created their \"own slanted, overblown versions\"",
-      "summary": "Creating a timely satire can be tough when development takes half a decade or more - it's the reason South Park's stuck with its crude art style for literal decades, but the developers of GTA 6 can't just replace their world-class tech with paper cutouts. Instead, the team simply tried to avoid trends that would bec…",
-      "url": "https://www.eurogamer.net/gta-6-devs-bandwagon-trends-created-slanted-versions",
-      "date": "2026-10-05T20:14:26.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Eurogamer",
-      "title": "\"It has to be more over the top, more insane, more in your face\" - Rockstar explains why GTA 6 doesn't satirise real-world events",
-      "summary": "In a new interview, Rockstar has discussed its revered approach to crafting the satire the Grand Theft Auto series is famous for - particularly relating to GTA 6 and whether the game should include, and lampoon, real-world politics. Read more",
-      "url": "https://www.eurogamer.net/rockstar-gta-6-satire-politics-real-world-events",
-      "date": "2026-10-05T15:00:30.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Eurogamer",
-      "title": "GTA 6's 18+ age rating reveals Lucia and Jason can partake in drug use \"directly from their inventory\" and \"at any time\"",
-      "summary": "GTA 6 is seemingly adding another naughty pastime to the series' already mammoth collection of naughty pastimes. Joining the strip clubs and violent car-jackings and carefree murder is \"frequent and prominent\" drug use that you can try \"at any time,\" according to a new age rating. Read more",
-      "url": "https://www.eurogamer.net/gta6-age-rating-pegi-lucia-jason-drug-use",
-      "date": "2026-10-02T19:08:59.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Eurogamer",
-      "title": "Kingdom Come: Deliverance 2 boss hopes GTA 6 pushes game prices up because it's \"long overdue and also necessary for this business to survive\"",
-      "summary": "Warhorse Studios co-founder Martin Klima - the developer behind last year's historical RPG Kingdom Come: Deliverance 2 - is crossing his fingers for higher game prices, and he thinks GTA 6 might be the one to usher in a new normal. Read more",
-      "url": "https://www.eurogamer.net/kingdom-come-deliverance-gta6-higher-game-prices",
-      "date": "2026-10-02T16:52:25.000Z"
     }
   ]
 }
