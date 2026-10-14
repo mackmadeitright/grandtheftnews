@@ -1,9 +1,65 @@
 {
-  "updated": "2026-10-14T17:00:12.198Z",
+  "updated": "2026-10-14T21:31:53.961Z",
   "count": 24,
   "items": [
     {
       "lead": true,
+      "src": "IGN",
+      "title": "GTA 6 Was Originally Meant to Release Much Sooner Than We Realized",
+      "summary": "Rockstar Games has revealed that it originally intended to develop GTA 6 alongside Red Dead Redemption 2, meaning it probably would've come out much sooner than we ever realized.",
+      "url": "https://www.ign.com/articles/gta-6-was-originally-meant-to-release-much-sooner-than-we-realized",
+      "date": "2026-10-14T20:15:09.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Polygon",
+      "title": "GTA 6 Leaks, Epic's AI Woes, No Man's Sky Mobile and the Best AAA of the Year...",
+      "summary": "This week on Point It Out! We discuss the unfolding news around the GTA 6 Cyberleek leaks, a gaming favorite going to mobile and the sneaky favorite for AAA game of the year.Plus, Polygon Editor-At-Large Giovanni Colantonio holds Simone and Patches hostage with a powerpoint they'll never forget.Point It Out! is a ga…",
+      "url": "https://www.polygon.com/video/gta-6-leaks-epic-s-ai-woes-no-man-s-sky-mobile-and-the-best-aaa-of-the-year/",
+      "date": "2026-10-14T20:01:39.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Kotaku",
+      "title": "GTA 5 Is Getting Yanked From PlayStation Plus Right Before GTA VI Launches",
+      "summary": "You've got a little more than a month to check it out before it's gone",
+      "url": "https://kotaku.com/gta-5-leaving-playstation-plus-gta-6-november-2000746022",
+      "date": "2026-10-14T20:00:48.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GameSpot",
+      "title": "GTA 6 Reviews: When They Could Be Released",
+      "summary": "Rockstar's Grand Theft Auto 6 releases on November 19, but when will you be able to read reviews? According to historical precedent and a new report, reviews for the open-world crime game should be available before launch. Insider Gaming reported that reviews for GTA 6 will be posted at some point before November 19…",
+      "url": "https://www.gamespot.com/articles/gta-6-reviews-when-they-could-be-released/",
+      "date": "2026-10-14T18:53:45.000Z"
+    },
+    {
+      "lead": false,
+      "src": "PC Gamer",
+      "title": "GTA 6 leaker threatens Take-Two with a 'dead man's switch'",
+      "summary": "Cyberleek promises not to reveal the ending of GTA 6, as long as Take-Two leaves them alone.",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-leaker-threatens-take-two-with-a-dead-mans-switch/",
+      "date": "2026-10-14T18:36:16.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "GTA 6 has a realistic sweat system that makes Jason and Lucia perspire based on how hard they dance",
+      "summary": "Sweat it out",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/as-if-you-needed-another-reminder-of-why-gta-6-took-so-long-it-has-a-realistic-sweat-system-that-makes-jason-and-lucia-perspire-based-on-how-hard-they-dance/",
+      "date": "2026-10-14T17:30:45.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Kotaku",
+      "title": "GTA 6 Lead Reacts To The Infamous 2022 Leak: ‘Like Somebody’s Wading Through Your Dirty Washing’",
+      "summary": "Rockstar also said it likely won't return to a work-from-home model as too many people want to 'steal' its games",
+      "url": "https://kotaku.com/gta-6-lead-reacts-to-the-infamous-2022-leak-like-somebodys-wading-through-your-dirty-washing-2000745968",
+      "date": "2026-10-14T17:00:52.000Z"
+    },
+    {
+      "lead": false,
       "src": "GamesRadar",
       "title": "First big GTA 6 leak was like having someone \"wading through your dirty washing,\" says Rockstar dev",
       "summary": "\"It's really weirdly invasive\"",
@@ -137,62 +193,6 @@
       "summary": "Rockstar Games has revealed the original codename for Grand Theft Auto 6 was Project Americas, and that its intention was for the game to cover large areas of land in both the north of the country and the south. Read more",
       "url": "https://www.eurogamer.net/gta-6-project-americas-rockstar-crunch-delays-leaks",
       "date": "2026-10-14T11:39:03.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "Rockstar vowed GTA 6 wouldn't be finished \"by crunching\" after Red Dead Redemption 2's development",
-      "summary": "Even so, \"it's not been perfect,\" admits Jennifer Kolbe",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/rockstar-vowed-gta-6-wouldnt-be-finished-by-crunching-after-red-dead-redemption-2s-tough-development-says-publishing-lead-i-think-we-did-things-differently-and-im-proud-of-that/",
-      "date": "2026-10-14T11:11:44.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GameSpot",
-      "title": "Rockstar Built An Entire Studio Just To Create GTA 6 NPCs",
-      "summary": "Rockstar Games reportedly established an entire studio in Los Angeles dedicated to creating NPCs for Grand Theft Auto 6 after realizing the game's ambitious world would need far more production resources than initially expected. Speaking to Bloomberg , Rockstar development lead Rob Nelson explained that the team had…",
-      "url": "https://www.gamespot.com/articles/rockstar-built-an-entire-studio-just-to-create-gta-6-npcs/",
-      "date": "2026-10-14T11:07:36.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GameSpot",
-      "title": "Rockstar’s GTA 6 Realism Experiment Started With Beer And Sandwiches",
-      "summary": "Compared to previous games in the series, Grand Theft Auto 6 is aiming to add new layers of realism to the franchise. As the criminal couple Jason Duval and Lucia Caminos, players will explore a city where actions have consequences , and it's not easy to shake the long arm of the law when you cause chaos. It continu…",
-      "url": "https://www.gamespot.com/articles/rockstars-gta-6-realism-experiment-started-with-beer-and-sandwiches/",
-      "date": "2026-10-14T11:02:14.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "\"Please tell me you're kidding\": GTA 6's two delays flabbergasted Take-Two CEO",
-      "summary": "\"A lot of people would say, ‘You’d just better figure out how to ship it.’",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/please-tell-me-youre-kidding-gta-6s-two-delays-flabbergasted-take-two-ceo-strauss-zelnick-but-he-was-reasonable-with-rockstar/",
-      "date": "2026-10-14T10:52:35.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "GTA 6 was delayed for years after Rockstar scaled back \"Project Americas\"",
-      "summary": "Development was put on hold to focus on Red Dead Redemption 2",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-was-delayed-for-years-after-rockstar-scaled-back-project-americas-which-would-have-been-set-across-north-and-south-america/",
-      "date": "2026-10-14T10:49:49.000Z"
-    },
-    {
-      "lead": false,
-      "src": "IGN",
-      "title": "GTA 6 Developer Rockstar Insists Its Next Game Won't Take Another 8 Years to Make",
-      "summary": "Rockstar has promised that its next game following GTA 6 won’t take as long to come out, although it failed to hint at what it might be.",
-      "url": "https://www.ign.com/articles/gta-6-developer-rockstar-insists-its-next-game-wont-take-another-8-years-to-make",
-      "date": "2026-10-14T10:48:41.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "GTA 6 took 13 years, but Rockstar says GTA 7 won't",
-      "summary": "No more waiting over a decade",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-took-13-years-but-gta-7-wont-rockstar-says-the-tools-and-the-team-weve-built-during-this-project-will-allow-us-to-do-things-more-quickly-in-the-future/",
-      "date": "2026-10-14T10:46:39.000Z"
     }
   ]
 }
