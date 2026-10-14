@@ -1,9 +1,145 @@
 {
-  "updated": "2026-10-14T11:38:12.294Z",
+  "updated": "2026-10-14T17:00:12.198Z",
   "count": 24,
   "items": [
     {
       "lead": true,
+      "src": "GamesRadar",
+      "title": "First big GTA 6 leak was like having someone \"wading through your dirty washing,\" says Rockstar dev",
+      "summary": "\"It's really weirdly invasive\"",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6s-first-major-leak-was-like-having-someone-wading-through-your-dirty-washing-says-rockstar-lead-its-like-theyre-inside-your-head/",
+      "date": "2026-10-14T16:26:10.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "Rockstar still won't reveal cost of GTA 6 development, but it's definitely not previously rumored $1.5 billion",
+      "summary": "I'd wager it's not far off though",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/rockstar-still-wont-reveal-the-cost-of-gta-6-development-but-its-definitely-not-the-previously-rumored-usd1-5-billion/",
+      "date": "2026-10-14T15:23:04.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Kotaku",
+      "title": "When Rockstar Needed To Delay GTA 6 Again, Take-Two’s CEO Replied: ‘Please Tell Me You’re Kidding’",
+      "summary": "Strauss Zelnick eventually understood why it needed more time and provided it",
+      "url": "https://kotaku.com/when-rockstar-needed-to-delay-gta-6-again-take-twos-ceo-replied-please-tell-me-youre-kidding-2000745938",
+      "date": "2026-10-14T15:10:02.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "Rockstar wins without doing anything as GTA 6 leaker Cyberleek retreats after meme coin crashes",
+      "summary": "Grand Theft Auto leak farce comes to an end once again",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/rockstar-wins-without-doing-anything-as-cyberleek-retreats-after-meme-coin-crashes-gta-6-leaker-says-the-leeks-stop-here-as-if-the-games-not-out-in-a-month/",
+      "date": "2026-10-14T15:00:39.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GameSpot",
+      "title": "GTA 6 Leaks Are Still Coming, Rockstar Labels The 2022 Hack “Weirdly Invasive”",
+      "summary": "Rockstar Games has reacted to the mass GTA 6 leaks, which began in 2022, with a top developer at the studio saying it \"feels like somebody's wading through your dirty washing.\" Bloomberg published these comments from Rockstar developers on the same day that GTA 6 leaker CyberLeek posted yet another gameplay leak, sa…",
+      "url": "https://www.gamespot.com/articles/gta-6-leaks-are-still-coming-rockstar-labels-the-2022-hack-weirdly-invasive/",
+      "date": "2026-10-14T14:57:53.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Kotaku",
+      "title": "GTA 6 Leaker Announces They Won’t Release The Full Game: ‘The Leeks Stop For Now’",
+      "summary": "Cyberleek seems done with leaks, but says there is a dead man's switch waiting if someone comes after them",
+      "url": "https://kotaku.com/gta-6-leaker-announces-they-wont-leak-the-full-game-the-leeks-stop-for-now-2000745917",
+      "date": "2026-10-14T14:17:10.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GameSpot",
+      "title": "GTA 6 Could Have Been Even Bigger And Released Years Sooner, But Then These Things Happened",
+      "summary": "A big new report revealed more details about Rockstar's long-awaited GTA 6 , including how the game's scope was originally much bigger and that the game could have released years sooner. Bloomberg reported that when a small team from Rockstar traveled to Miami in 2015 to begin planning GTA 6, they envisioned the gam…",
+      "url": "https://www.gamespot.com/articles/gta-6-could-have-been-even-bigger-and-released-years-sooner-but-then-these-things-happened/",
+      "date": "2026-10-14T14:02:52.000Z"
+    },
+    {
+      "lead": false,
+      "src": "PC Gamer",
+      "title": "GTA 6 was delayed partially because the amount of NPCs was 'horrifying' and required a dedicated studio full of writers to handle",
+      "summary": "\"We [could have] hit that schedule, but it won’t be the game we want to make.\"",
+      "url": "https://www.pcgamer.com/games/action/gta-6-was-delayed-partially-because-the-amount-of-npcs-was-horrifying-and-required-a-dedicated-studio-full-of-writers-to-handle/",
+      "date": "2026-10-14T13:23:57.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Kotaku",
+      "title": "Rockstar Swears You Won’t Have To Wait Nearly A Decade For Its Next Game After GTA6",
+      "summary": "The wait between Red Dead Redemption 2 and Grand Theft Auto 6 was just under a decade",
+      "url": "https://kotaku.com/rockstar-games-next-game-gta6-grand-theft-auto-6-rdr2-2000745886",
+      "date": "2026-10-14T13:14:44.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Eurogamer",
+      "title": "GTA 6 leaker's latest video allegedly shows scenes from the final mission, as they indicate the leaks may have come to an end",
+      "summary": "Cyberleek, the leaker who's been releasing footage from Grand Theft Auto 6 for weeks now, is seemingly done posting leaks. Cyberleek released a new - seemingly final - video today which supposedly shows parts of the game's ending. Read more",
+      "url": "https://www.eurogamer.net/gta-6-cyberleek-ending-crypto-coin-crash",
+      "date": "2026-10-14T13:06:10.000Z"
+    },
+    {
+      "lead": false,
+      "src": "IGN",
+      "title": "GTA 6 Leaker Releases New Gameplay Video Showing Snippets of the Final Missions, Declares 'The End of the Road' After Crypto Scheme Collapses",
+      "summary": "Cyberleek has released a new GTA 6 gameplay video showing snippets of the ending, and declared \"the end of the road\" after their crypto scheme collapsed.",
+      "url": "https://www.ign.com/articles/gta-6-leaker-releases-new-gameplay-video-showing-snippets-of-the-final-missions-declares-the-end-of-the-road-after-crypto-scheme-collapses",
+      "date": "2026-10-14T12:47:35.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GameSpot",
+      "title": "Take-Two CEO’s Response To Second GTA 6 Delay: “Please Tell Me You’re Kidding”",
+      "summary": "Rockstar's GTA 6 is finally coming out on November 19, but the game was originally set to release in 2025. When the development team informed head of publishing, Jennifer Kolbe, that a delay to May 2026 was necessary, she made a call to Take-Two CEO Strauss Zelnick to let him know. Months later, she had to make that…",
+      "url": "https://www.gamespot.com/articles/take-two-ceos-response-to-second-gta-6-delay-please-tell-me-youre-kidding/",
+      "date": "2026-10-14T12:44:12.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Eurogamer",
+      "title": "Conclusion of Rockstar's employment tribunal delayed into November, almost day and date with GTA 6's release",
+      "summary": "The ongoing employment tribunal between Grand Theft Auto 6 developer Rockstar Games and IWBG union members laid off from the studio has been extended into November.. Read more",
+      "url": "https://www.eurogamer.net/rockstar-iwgb-employment-tribunal-delay-november",
+      "date": "2026-10-14T12:40:59.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GameSpot",
+      "title": "GTA 6’s Nightclubs Have An Absurd Amount Of Detail, Right Down To The Lighting",
+      "summary": "How much detail is too much detail? In the case of Grand Theft Auto 6 , developer Rockstar Games put an obscene amount of work into making the fictional city of Leonida as realistic as possible, including the nightclubs that players can frequent in the game. Those locations couldn't be pulled from thin air, and Rock…",
+      "url": "https://www.gamespot.com/articles/gta-6-nightclubs-have-an-absurd-amount-of-detail-right-down-to-the-lighting/",
+      "date": "2026-10-14T12:28:16.000Z"
+    },
+    {
+      "lead": false,
+      "src": "IGN",
+      "title": "Rockstar Pushes Back on Rumor GTA 6 Cost More Than $1.5 Billion to Make, but It's Still Probably the Most Expensive Video Game of All Time",
+      "summary": "Rockstar has insisted GTA 6 did not cost more than $1.5 billion to make, countering an online rumor, but it’s still probably the most expensive video game of all time.",
+      "url": "https://www.ign.com/articles/rockstar-pushes-back-on-rumor-gta-6-cost-more-than-15-billion-to-make-but-its-still-probably-the-most-expensive-video-game-of-all-time",
+      "date": "2026-10-14T11:53:58.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GameSpot",
+      "title": "Rockstar Says GTA 6 Didn’t Cost $1.5 Billion To Make, But Won’t Reveal The Real Number",
+      "summary": "It's no secret that video game development is more expensive than ever before, and in a hit-driven industry, Grand Theft Auto VI is rumored to be the most expensive game ever made. Various numbers have been thrown around, with one report even claiming that $1.5 billion was spent--around the budget of Dubai's iconic…",
+      "url": "https://www.gamespot.com/articles/rockstar-says-gta-6-didnt-cost-1-5-billion-to-make-but-wont-reveal-the-real-number/",
+      "date": "2026-10-14T11:42:56.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Eurogamer",
+      "title": "GTA 6 was originally Project Americas and covered \"big swaths\" of country's north and south, Rockstar reveals, in interview tackling crunch, delays, and leaks",
+      "summary": "Rockstar Games has revealed the original codename for Grand Theft Auto 6 was Project Americas, and that its intention was for the game to cover large areas of land in both the north of the country and the south. Read more",
+      "url": "https://www.eurogamer.net/gta-6-project-americas-rockstar-crunch-delays-leaks",
+      "date": "2026-10-14T11:39:03.000Z"
+    },
+    {
+      "lead": false,
       "src": "GamesRadar",
       "title": "Rockstar vowed GTA 6 wouldn't be finished \"by crunching\" after Red Dead Redemption 2's development",
       "summary": "Even so, \"it's not been perfect,\" admits Jennifer Kolbe",
@@ -57,142 +193,6 @@
       "summary": "No more waiting over a decade",
       "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-took-13-years-but-gta-7-wont-rockstar-says-the-tools-and-the-team-weve-built-during-this-project-will-allow-us-to-do-things-more-quickly-in-the-future/",
       "date": "2026-10-14T10:46:39.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GameSpot",
-      "title": "Rockstar Says You Won’t Have To Wait Another 8 Years After GTA 6 For Its Next Game",
-      "summary": "Rockstar has spent more than eight years developing Grand Theft Auto 6 , but the studio hopes its next project will arrive considerably faster. Speaking to Bloomberg , Rockstar's head of development Phil Hooker explained how the company expanded its team and developed its technology for the hotly anticipated upcomin…",
-      "url": "https://www.gamespot.com/articles/rockstar-says-you-wont-have-to-wait-another-8-years-after-gta-6-for-its-next-game/",
-      "date": "2026-10-14T10:43:11.000Z"
-    },
-    {
-      "lead": false,
-      "src": "IGN",
-      "title": "Will You Be Taking Time Off Work or School for GTA 6's Release Next Month?",
-      "summary": "We are just a little over 30 days until the release of GTA 6, which begs the question: will you be taking time off of work or school to play it?",
-      "url": "https://www.ign.com/articles/will-you-be-taking-time-off-work-or-school-for-gta-6s-release-next-month",
-      "date": "2026-10-13T20:47:09.000Z"
-    },
-    {
-      "lead": false,
-      "src": "PC Gamer",
-      "title": "Grand Theft Auto 6 rumored to be launching on PC sooner than anyone expected, but I wouldn't get my hopes up too high",
-      "summary": "If the rumored release window is accurate, it means the new GTA will hit PC just a few months after consoles—something almost unheard of from Rockstar.",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/report-claims-grand-theft-auto-6-will-launch-on-pc-sooner-than-anyone-expected/",
-      "date": "2026-10-13T18:07:30.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Eurogamer",
-      "title": "\"That was not received well at Nintendo\" - as GTA 6 and Zelda are lampooned by Saturday Night Live, former employees recall Elon Musk Wario skit controversy",
-      "summary": "As American comedy series Saturday Night Live airs a sketch lampooning the November showdown between Grand Theft Auto 6 and The Legend of Zelda: Ocarina of Time remake, a pair of former Nintendo employees have recalled a more infamous SNL sketch from years earlier that did not go down well at all. Read more",
-      "url": "https://www.eurogamer.net/snl-elon-musk-wario-skit-zelda-gta-6",
-      "date": "2026-10-13T15:33:54.000Z"
-    },
-    {
-      "lead": false,
-      "src": "IGN",
-      "title": "Rockstar's Multi-Million Dollar Miami Takeover Continues to Expand Ahead of GTA 6 Launch, Despite Protests from Some Officials",
-      "summary": "Rockstar Games is continuing to ramp up GTA 6's massive marketing with a Vice City blimp, NFL promos, and much more, despite protests from Miami officials.",
-      "url": "https://www.ign.com/articles/rockstars-multi-million-dollar-miami-takeover-continues-to-expand-ahead-of-gta-6-launch-despite-protests-from-some-officials",
-      "date": "2026-10-13T15:04:37.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GameSpot",
-      "title": "GTA 6 Will Reportedly Come To PC Much Earlier Than Expected",
-      "summary": "The November launch of Grand Theft Auto 6 will leave PC gamers sitting out in the cold, but the wait for the yet-to-be-announced PC port might be surprisingly short this time. According to a new report, GTA 6 will launch on PC \"within the first three months\" of 2027. Speaking to GamesBeat , industry sources claim th…",
-      "url": "https://www.gamespot.com/articles/gta-6-will-reportedly-come-to-pc-much-earlier-than-expected/",
-      "date": "2026-10-13T14:24:07.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "GTA 6 is coming to PC in just a few months according to new report",
-      "summary": "Rumors say it could be out by the end of March 2027, which would be shockingly fast for Rockstar",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-is-coming-to-pc-in-just-a-few-months-according-to-new-report-with-rockstar-moving-much-faster-than-it-did-with-gta-5-and-red-dead-redemption-2/",
-      "date": "2026-10-13T14:19:09.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Kotaku",
-      "title": "Grand Theft Auto 6′s PC Port Reportedly Arriving Just A Few Months After Its Big Console Launch",
-      "summary": "The open-world crime drama is currently only announced for PS5 and Xbox Series X/S",
-      "url": "https://kotaku.com/grand-theft-auto-gta6-pc-port-release-date-rumor-report-2000745274",
-      "date": "2026-10-13T13:59:01.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Eurogamer",
-      "title": "GTA 6's PC release date is set for \"Q1 2027\", per a new report",
-      "summary": "A new report suggests that GTA 6 will release on PC in \"Q1 2027\". That, at least, is what GamesBeat is saying, citing \"sources familiar with the matter.\" Read more",
-      "url": "https://www.eurogamer.net/gta-6s-pc-release-date-is-set-for-q1-2027-per-a-new-report",
-      "date": "2026-10-13T13:57:07.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Eurogamer",
-      "title": "GTA 3's iconic box art was changed at the last minute because of 9/11, ex-Rockstar lead Dan Houser reveals",
-      "summary": "Dan Houser, one of Rockstar's co-founders that left the GTA 6 studio in 2020 , has given a wide-ranging new interview with IGN, covering topics including the tortured production of Bully , changes made to Grand Theft Auto 3's artwork post-9/11, the reaction to Red Dead Redemption's ending , and why he thinks Max Pay…",
-      "url": "https://www.eurogamer.net/dan-houser-gta-3-boxart-9-11",
-      "date": "2026-10-13T13:35:54.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GameSpot",
-      "title": "GTA 6 Fans Are Excited For Another Date In November, And It’s Not Release Day",
-      "summary": "Take-Two has announced the details for its next earnings briefing, and as you might expect, GTA 6 fans are circling the date on their calendars. The next Take-Two quarterly earnings report will be released on Monday, November 9, with management holding a call at 1:30 PM PT / 4:30 PM ET that day to discuss the result…",
-      "url": "https://www.gamespot.com/articles/gta-6-fans-are-excited-for-another-date-in-november-and-its-not-release-day/",
-      "date": "2026-10-13T13:18:16.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Eurogamer",
-      "title": "GTA 6 leaker CyberLeek is back with another video and this time, Lucia's naked",
-      "summary": "UPDATE 12TH OCTOBER: More naked footage of Lucia in Grand Theft Auto 6 has been posted. The video, which we won't link to, shows Lucia completely naked standing in the street. There are crass camera angles, wobbly buttocks, and the Cyberleek logo is overlaid over the footage. Be warned if you're browsing X because t…",
-      "url": "https://www.eurogamer.net/gta-6-leaker-cyberleek-naked-lucia-parachute-video",
-      "date": "2026-10-11T12:27:09.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Eurogamer",
-      "title": "GTA 6 leaker CyberLeek is now reportedly threatening to release a full, playable build of the game",
-      "summary": "A GTA 6 leaker has reportedly threatened to put out a complete, playable build of the game, start to finish. Read more",
-      "url": "https://www.eurogamer.net/gta-6-leaker-cyberleek-threatens-playable-build-leak",
-      "date": "2026-10-10T19:42:21.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Eurogamer",
-      "title": "Rockstar HR manager claims he had \"little interest\" in staff's union membership status as fired GTA dev union-busting trial heats up",
-      "summary": "One of the witnesses in the ongoing Rockstar Games vs Garland & Others case has said he had \"little interest\" in evidence of unionisation efforts he was sent by an anonymous employee, prior to the developer laying off a substantial number of union Discord members. Read more",
-      "url": "https://www.eurogamer.net/rockstar-employment-tribunal-hr-manager-little-interest-union",
-      "date": "2026-10-09T16:41:02.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GameSpot",
-      "title": "Is GTA 6 Coming To Switch 2? Ask Rockstar, Nintendo Says",
-      "summary": "Rockstar's GTA 6 is the biggest game of 2026 and possibly ever, but it's not coming to Switch 2 ... or is it? Nintendo of America's new president, Devon Pritchard, was recently asked if GTA 6 is coming to Switch 2, and she didn't say yes or no. Instead, she said people should ask Rockstar and its owner, Take-Two. “T…",
-      "url": "https://www.gamespot.com/articles/is-gta-6-coming-to-switch-2-ask-rockstar-nintendo-says/",
-      "date": "2026-10-09T15:01:41.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Eurogamer",
-      "title": "For the first time in the series, Grand Theft Auto 6 lets you use headphones to listen to radio stations and podcasts",
-      "summary": "GTA 6 will let you listen to radio stations while not in a car, by wearing headphones and earbuds connected to smartphones. GTA 6 also introduces on-demand podcasts, so you can binge true crime while also doing true crime - something like that. Read more",
-      "url": "https://www.eurogamer.net/gta-6-headpones-earbuds-radio-podcasts",
-      "date": "2026-10-08T15:07:42.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Eurogamer",
-      "title": "Full-frontal nudity, dirt-biking, and a dev menu: GTA 6's infamous leaker is back with the most X-rated look at the game yet",
-      "summary": "It looks like the GTA 6 leaker, 'CyberLeek' is back - and this time the infamous leaker has posted a 25-minute video of footage from Rockstar's upcoming game that even features nude scenes, including a fully naked Jason, and a topless Lucia. Eurogamer has seen the video, and it appears to be legitimate - and, as is…",
-      "url": "https://www.eurogamer.net/gta-6-frontal-nudity-dirt-biking-dev-menu-leak",
-      "date": "2026-10-08T12:09:17.000Z"
     }
   ]
 }
