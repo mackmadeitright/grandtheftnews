@@ -1,9 +1,73 @@
 {
-  "updated": "2026-10-14T04:37:40.683Z",
-  "count": 22,
+  "updated": "2026-10-14T11:38:12.294Z",
+  "count": 24,
   "items": [
     {
       "lead": true,
+      "src": "GamesRadar",
+      "title": "Rockstar vowed GTA 6 wouldn't be finished \"by crunching\" after Red Dead Redemption 2's development",
+      "summary": "Even so, \"it's not been perfect,\" admits Jennifer Kolbe",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/rockstar-vowed-gta-6-wouldnt-be-finished-by-crunching-after-red-dead-redemption-2s-tough-development-says-publishing-lead-i-think-we-did-things-differently-and-im-proud-of-that/",
+      "date": "2026-10-14T11:11:44.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GameSpot",
+      "title": "Rockstar Built An Entire Studio Just To Create GTA 6 NPCs",
+      "summary": "Rockstar Games reportedly established an entire studio in Los Angeles dedicated to creating NPCs for Grand Theft Auto 6 after realizing the game's ambitious world would need far more production resources than initially expected. Speaking to Bloomberg , Rockstar development lead Rob Nelson explained that the team had…",
+      "url": "https://www.gamespot.com/articles/rockstar-built-an-entire-studio-just-to-create-gta-6-npcs/",
+      "date": "2026-10-14T11:07:36.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GameSpot",
+      "title": "Rockstar’s GTA 6 Realism Experiment Started With Beer And Sandwiches",
+      "summary": "Compared to previous games in the series, Grand Theft Auto 6 is aiming to add new layers of realism to the franchise. As the criminal couple Jason Duval and Lucia Caminos, players will explore a city where actions have consequences , and it's not easy to shake the long arm of the law when you cause chaos. It continu…",
+      "url": "https://www.gamespot.com/articles/rockstars-gta-6-realism-experiment-started-with-beer-and-sandwiches/",
+      "date": "2026-10-14T11:02:14.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "\"Please tell me you're kidding\": GTA 6's two delays flabbergasted Take-Two CEO",
+      "summary": "\"A lot of people would say, ‘You’d just better figure out how to ship it.’",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/please-tell-me-youre-kidding-gta-6s-two-delays-flabbergasted-take-two-ceo-strauss-zelnick-but-he-was-reasonable-with-rockstar/",
+      "date": "2026-10-14T10:52:35.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "GTA 6 was delayed for years after Rockstar scaled back \"Project Americas\"",
+      "summary": "Development was put on hold to focus on Red Dead Redemption 2",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-was-delayed-for-years-after-rockstar-scaled-back-project-americas-which-would-have-been-set-across-north-and-south-america/",
+      "date": "2026-10-14T10:49:49.000Z"
+    },
+    {
+      "lead": false,
+      "src": "IGN",
+      "title": "GTA 6 Developer Rockstar Insists Its Next Game Won't Take Another 8 Years to Make",
+      "summary": "Rockstar has promised that its next game following GTA 6 won’t take as long to come out, although it failed to hint at what it might be.",
+      "url": "https://www.ign.com/articles/gta-6-developer-rockstar-insists-its-next-game-wont-take-another-8-years-to-make",
+      "date": "2026-10-14T10:48:41.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "GTA 6 took 13 years, but Rockstar says GTA 7 won't",
+      "summary": "No more waiting over a decade",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-took-13-years-but-gta-7-wont-rockstar-says-the-tools-and-the-team-weve-built-during-this-project-will-allow-us-to-do-things-more-quickly-in-the-future/",
+      "date": "2026-10-14T10:46:39.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GameSpot",
+      "title": "Rockstar Says You Won’t Have To Wait Another 8 Years After GTA 6 For Its Next Game",
+      "summary": "Rockstar has spent more than eight years developing Grand Theft Auto 6 , but the studio hopes its next project will arrive considerably faster. Speaking to Bloomberg , Rockstar's head of development Phil Hooker explained how the company expanded its team and developed its technology for the hotly anticipated upcomin…",
+      "url": "https://www.gamespot.com/articles/rockstar-says-you-wont-have-to-wait-another-8-years-after-gta-6-for-its-next-game/",
+      "date": "2026-10-14T10:43:11.000Z"
+    },
+    {
+      "lead": false,
       "src": "IGN",
       "title": "Will You Be Taking Time Off Work or School for GTA 6's Release Next Month?",
       "summary": "We are just a little over 30 days until the release of GTA 6, which begs the question: will you be taking time off of work or school to play it?",
@@ -52,14 +116,6 @@
     },
     {
       "lead": false,
-      "src": "IGN",
-      "title": "GTA 6 Reportedly Set for PC Q1 2027",
-      "summary": "GTA 6 will launch on PC just a few months after consoles, according to a new report.",
-      "url": "https://www.ign.com/articles/gta-6-reportedly-set-for-pc-q1-2027",
-      "date": "2026-10-13T14:01:10.000Z"
-    },
-    {
-      "lead": false,
       "src": "Kotaku",
       "title": "Grand Theft Auto 6′s PC Port Reportedly Arriving Just A Few Months After Its Big Console Launch",
       "summary": "The open-world crime drama is currently only announced for PS5 and Xbox Series X/S",
@@ -89,14 +145,6 @@
       "summary": "Take-Two has announced the details for its next earnings briefing, and as you might expect, GTA 6 fans are circling the date on their calendars. The next Take-Two quarterly earnings report will be released on Monday, November 9, with management holding a call at 1:30 PM PT / 4:30 PM ET that day to discuss the result…",
       "url": "https://www.gamespot.com/articles/gta-6-fans-are-excited-for-another-date-in-november-and-its-not-release-day/",
       "date": "2026-10-13T13:18:16.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "Sony announces cheaper Midnight Black PS5 to launch alongside GTA 6, it's just a shame we won't be able to buy it",
-      "summary": "Sony has announced a Japan-only Midnight Black PS5, due to land on the same day as GTA 6.",
-      "url": "https://www.gamesradar.com/hardware/sony-announces-cheaper-midnight-black-ps5-to-launch-alongside-gta-6-its-just-a-shame-we-wont-be-able-to-buy-it/",
-      "date": "2026-10-13T11:25:19.000Z"
     },
     {
       "lead": false,
@@ -132,14 +180,6 @@
     },
     {
       "lead": false,
-      "src": "GameSpot",
-      "title": "“Video Games” Singer Can’t Wait To Play New Video Game GTA 6",
-      "summary": "Rockstar Games recently announced GTA 6's in-game radio stations , and one of them is co-hosted by 11-time Grammy-nominated Lana Del Rey. The singer-songwriter had a connection to video games before this, as she recorded the song \"Video Games\" on her 2012 album Born to Die. Now, she's set to appear in the biggest vi…",
-      "url": "https://www.gamespot.com/articles/video-games-singer-cant-wait-to-play-new-video-game-gta-6/",
-      "date": "2026-10-09T13:15:08.000Z"
-    },
-    {
-      "lead": false,
       "src": "Eurogamer",
       "title": "For the first time in the series, Grand Theft Auto 6 lets you use headphones to listen to radio stations and podcasts",
       "summary": "GTA 6 will let you listen to radio stations while not in a car, by wearing headphones and earbuds connected to smartphones. GTA 6 also introduces on-demand podcasts, so you can binge true crime while also doing true crime - something like that. Read more",
@@ -153,30 +193,6 @@
       "summary": "It looks like the GTA 6 leaker, 'CyberLeek' is back - and this time the infamous leaker has posted a 25-minute video of footage from Rockstar's upcoming game that even features nude scenes, including a fully naked Jason, and a topless Lucia. Eurogamer has seen the video, and it appears to be legitimate - and, as is…",
       "url": "https://www.eurogamer.net/gta-6-frontal-nudity-dirt-biking-dev-menu-leak",
       "date": "2026-10-08T12:09:17.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Eurogamer",
-      "title": "Xbox denies reports it's acquired exclusive GTA 6 game-streaming rights, deflating hopes of playing it on PC",
-      "summary": "Xbox has denied reports suggesting it obtained exclusive game-streaming rights for Grand Theft Auto 6 . The initial suggestion came from a report on The Verge , which cited an all-hands meeting in which CEO Asha Sharma allegedly told staff that Xbox plans to do something \"no other platform holder is doing\" around GT…",
-      "url": "https://www.eurogamer.net/xbox-cloud-gta-6-streaming-rights",
-      "date": "2026-10-07T08:31:39.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Eurogamer",
-      "title": "GTA 6 devs tried \"not to jump on the bandwagon\" of passing trends and instead created their \"own slanted, overblown versions\"",
-      "summary": "Creating a timely satire can be tough when development takes half a decade or more - it's the reason South Park's stuck with its crude art style for literal decades, but the developers of GTA 6 can't just replace their world-class tech with paper cutouts. Instead, the team simply tried to avoid trends that would bec…",
-      "url": "https://www.eurogamer.net/gta-6-devs-bandwagon-trends-created-slanted-versions",
-      "date": "2026-10-05T20:14:26.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Eurogamer",
-      "title": "\"It has to be more over the top, more insane, more in your face\" - Rockstar explains why GTA 6 doesn't satirise real-world events",
-      "summary": "In a new interview, Rockstar has discussed its revered approach to crafting the satire the Grand Theft Auto series is famous for - particularly relating to GTA 6 and whether the game should include, and lampoon, real-world politics. Read more",
-      "url": "https://www.eurogamer.net/rockstar-gta-6-satire-politics-real-world-events",
-      "date": "2026-10-05T15:00:30.000Z"
     }
   ]
 }
