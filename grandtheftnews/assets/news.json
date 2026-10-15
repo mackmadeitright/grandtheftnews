@@ -1,198 +1,198 @@
 {
-  "updated": "2026-10-15T11:16:44.648Z",
+  "updated": "2026-10-15T16:47:59.665Z",
   "count": 24,
   "items": [
     {
       "lead": true,
+      "src": "Eurogamer",
+      "title": "GTA 6 squeaks into eligibility for The Game Awards 2026 by the smallest of margins - but can it break Clair Obscur: Expedition 33's record number of wins?",
+      "summary": "This generation's mega-game, Grand Theft Auto 6 , will be eligible for The Game Awards 2026 by a matter of one day. Read more",
+      "url": "https://www.eurogamer.net/gta-6-the-game-awards-eligibility-geoff-keighley",
+      "date": "2026-10-15T16:10:34.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Kotaku",
+      "title": "Hearing That Dude Say ‘Grand Theft Auto’ At The End Of The Latest GTA 6 Trailer Made Me Feel Like This",
+      "summary": "Hello old friend, its been a bit",
+      "url": "https://kotaku.com/hearing-that-dude-say-grand-theft-auto-at-the-end-of-the-latest-gta-6-trailer-made-me-feel-like-this-2000746376",
+      "date": "2026-10-15T15:45:54.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GameSpot",
+      "title": "GTA 6 Isn’t Showing Boobie In Promotional Material",
+      "summary": "The marketing machine for Grand Theft Auto 6 is at full steam, and while Rockstar Games is showcasing many of the characters players will be encountering in the open-world crime game, one character with a very distinct name has been largely absent from promos. Viewers of the GTA 6 extended look might have been snick…",
+      "url": "https://www.gamespot.com/?post_type=articles&p=1920591",
+      "date": "2026-10-15T15:38:29.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Kotaku",
+      "title": "GTA 6 Avoids A Very Awkward Situation By Officially Being Eligible For The 2026 Game Awards",
+      "summary": "Good luck to everyone else who released a game this year",
+      "url": "https://kotaku.com/gta-6-avoids-a-very-awkward-situation-by-officially-being-eligible-for-the-2026-game-awards-2000746320",
+      "date": "2026-10-15T15:30:29.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GameSpot",
+      "title": "GTA 5 Will Be Removed From PS Plus Just Before GTA 6 Releases, It Seems",
+      "summary": "One of the biggest games that PlayStation Plus subscribers can play as part of their membership is Rockstar's Grand Theft Auto 5. However, the game will reportedly get yanked from the service soon, just ahead of GTA 6 's release. People on Reddit say they have received a notification telling them that GTA 5 will be…",
+      "url": "https://www.gamespot.com/articles/gta-5-will-be-removed-from-ps-plus-just-before-gta-6-releases-it-seems/",
+      "date": "2026-10-15T15:25:21.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "GTA 6 will be eligible for 2026 GOTY at The Game Awards, but Rockstar is barely beating the buzzer",
+      "summary": "Getting in just before the deadline",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-will-be-eligible-for-2026-goty-at-the-game-awards-but-rockstar-is-barely-beating-the-buzzer/",
+      "date": "2026-10-15T15:20:54.000Z"
+    },
+    {
+      "lead": false,
+      "src": "IGN",
+      "title": "Over 30 New GTA 6 Screenshots From the Launch Trailer",
+      "summary": "We've put together over 30 screenshots from the GTA 6 launch trailer, showing off Rockstar's open-world in detail.",
+      "url": "https://www.ign.com/articles/over-30-new-gta-6-screenshots-from-the-launch-trailer",
+      "date": "2026-10-15T15:19:05.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Polygon",
+      "title": "‘Grand Theft Auto 6’ Is Officially Eligible for the 2026 Game Awards",
+      "summary": "The Game Awards' website confirms that 'Grand Theft Auto 6' will qualify for awards consideration.",
+      "url": "https://www.polygon.com/grand-theft-auto-6-the-game-awards/",
+      "date": "2026-10-15T15:07:44.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GameSpot",
+      "title": "GTA 6 Helps Modern Warfare 4, Actually, Activision Says",
+      "summary": "Rockstar's GTA 6 is releasing this November, and some believe it will blot out the sun when it comes to the impact it will have on the greater gaming market. The game could also help other titles, like Activision's Call of Duty: Modern Warfare 4. That's according to Activision chief marketing officer Tyle Bahl, who…",
+      "url": "https://www.gamespot.com/articles/gta-6-helps-modern-warfare-4-actually-activision-says/",
+      "date": "2026-10-15T14:50:27.000Z"
+    },
+    {
+      "lead": false,
+      "src": "IGN",
+      "title": "Activision Thinks GTA 6 Will Actually Help Modern Warfare 4: 'No Offense to Zelda, but [GTA and COD] Are the 2 Biggest Games of the Year'",
+      "summary": "Activision believes GTA 6 will benefit Call of Duty rather than hinder it, with the expectation that Modern Warfare 4 and Rockstar’s behemoth will end up the two biggest games of 2026.",
+      "url": "https://www.ign.com/articles/activision-thinks-gta-6-will-actually-help-modern-warfare-4-no-offense-to-zelda-but-gta-and-cod-are-the-2-biggest-games-of-the-year",
+      "date": "2026-10-15T14:39:50.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GameSpot",
+      "title": "10 Things We Noticed In The GTA 6 Launch Trailer",
+      "summary": "Rockstar is sticking to its trend of releasing some new GTA 6 news every Thursday it seems, and today's treat was the reveal of the launch trailer. After what feels like an eternity of waiting for anything , the launch trailer is the fourth official video look we've gotten at GTA 6, and the first since August's Exte…",
+      "url": "https://www.gamespot.com/articles/things-we-noticed-in-the-gta-6-launch-trailer/",
+      "date": "2026-10-15T14:12:57.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Kotaku",
+      "title": "The Sex Scene Is One Of The Best Parts Of Grand Theft Auto 6′s New Trailer",
+      "summary": "Jason and Lucia bare it all in the GTA6 launch trailer",
+      "url": "https://kotaku.com/grand-theft-auto-6-new-trailer-sex-scene-jason-lucia-2000746333",
+      "date": "2026-10-15T13:53:58.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GameSpot",
+      "title": "GTA 6 Is Getting An Original Score From Electronic Duo Justice",
+      "summary": "With a new (and steamy) launch trailer going live to remind you of its November 19 release date, Grand Theft Auto 6 is starting to look like a slick new chapter in the series. It's also sounding like a great sequel, and that's no accident as the game features an original soundtrack by French electronic music duo Jus…",
+      "url": "https://www.gamespot.com/articles/gta-6-is-getting-an-original-score-from-electronic-duo-justice/",
+      "date": "2026-10-15T13:45:40.000Z"
+    },
+    {
+      "lead": false,
+      "src": "PC Gamer",
+      "title": "The Grand Theft Auto 6 launch trailer is here",
+      "summary": "This one's got a very different vibe than what we've seen previously.",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/grand-theft-auto-6-launch-trailer/",
+      "date": "2026-10-15T13:43:12.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Eurogamer",
+      "title": "Grand Theft Auto 6 launch trailer suddenly drops, showing a saucy shower scene, a tense police chase, and high-flying heists",
+      "summary": "Rockstar Games has released the launch trailer for Grand Theft Auto 6 ahead of its 19th November release. Read more",
+      "url": "https://www.eurogamer.net/grand-theft-auto-6-launch-trailer",
+      "date": "2026-10-15T13:24:51.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "GTA 6 launch trailer shows a more intimate Jason and Lucia as fans struggle to believe it's real",
+      "summary": "New Grand Theft Auto 6 launch trailer really makes it feel real – we made it",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-launch-trailer/",
+      "date": "2026-10-15T13:23:46.000Z"
+    },
+    {
+      "lead": false,
+      "src": "IGN",
+      "title": "GTA 6 Launch Trailer Teases Jason's Troubled Past, a Steamy Shower Scene With Lucia, and Much More",
+      "summary": "Rockstar has released the launch trailer for GTA 6, which shows us brand new footage of Jason and Lucia as well as the open world.",
+      "url": "https://www.ign.com/articles/gta-6-launch-trailer-teases-jasons-troubled-past-a-steamy-shower-scene-with-lucia-and-much-more",
+      "date": "2026-10-15T13:11:11.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Kotaku",
+      "title": "Surprise, Here’s A New Grand Theft Auto 6 Trailer",
+      "summary": "Rockstar has dropped the launch trailer for its upcoming open-world game",
+      "url": "https://kotaku.com/surprise-heres-a-new-grand-theft-auto-6-trailer-2000746327",
+      "date": "2026-10-15T13:09:32.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GameSpot",
+      "title": "The GTA 6 Launch Trailer Shows Off Vice City And Steamy Scene With Lucia And Jason",
+      "summary": "Rockstar Games has published the launch trailer for GTA 6 , and it's pretty spectacular. The game has been in development for more than a decade, and it's finally set for release on November 19 for PS5 and Xbox Series X|S. The trailer features the new song, \"Flower in a Hurricane\" from Justice featuring Tame Impala,…",
+      "url": "https://www.gamespot.com/articles/gta-6-launch-trailer-is-here/",
+      "date": "2026-10-15T13:06:44.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GameSpot",
+      "title": "GTA 6’s Push For Realism Includes A Context-Specific Sweating System, For Real",
+      "summary": "Part of the reason why Rockstar has taken so long with GTA 6 comes down to the process of crafting the fine details, and that includes a new sweat system. Reporter Jason Schreier said on his YouTube page that Rockstar created a new system in GTA 6 that will make Lucia or Jason perspire different amounts \"depending o…",
+      "url": "https://www.gamespot.com/articles/gta-6s-push-for-realism-includes-a-context-specific-sweating-system-for-real/",
+      "date": "2026-10-15T13:01:30.000Z"
+    },
+    {
+      "lead": false,
+      "src": "IGN",
+      "title": "Sony Reminds PlayStation Plus Subscribers That GTA 5 Leaves the Library 2 Days Before GTA 6 Comes Out",
+      "summary": "PS5 and PS4 players taking advantage of PS Plus to play GTA 5 and GTA Online better get their hours in because their days are numbered. GTA 5 is being removed from the PS Plus catalogue just two days before GTA 6’s launch in November.",
+      "url": "https://www.ign.com/articles/playstation-plus-losing-gta-5-ahead-of-gta-6",
+      "date": "2026-10-15T12:19:51.000Z"
+    },
+    {
+      "lead": false,
+      "src": "IGN",
+      "title": "GTA 6 Will Make The Game Awards Cutoff Date for Eligibility by the Skin of Its Teeth, Confirming It Has a Chance at 2026 Game of the Year",
+      "summary": "GTA 6 is officially in with a chance of winning the 2026 Game of the Year award at this year’s The Game Awards, after the show confirmed the cutoff date for eligibility.",
+      "url": "https://www.ign.com/articles/gta-6-will-make-the-game-awards-cutoff-date-for-eligibility-by-the-skin-of-its-teeth-confirming-it-has-a-chance-at-2026-game-of-the-year",
+      "date": "2026-10-15T12:05:36.000Z"
+    },
+    {
+      "lead": false,
+      "src": "IGN",
+      "title": "GTA 6's Level of Detail Is So Extreme, Rockstar Built an Entire Scripted System Just for Sweat",
+      "summary": "Rockstar Games is of course known for its attention to detail, with previous Grand Theft Auto and Red Dead Redemption games raising the bar for realism. GTA 6, though, looks set to go further than any video game before it, with a dedicated system that determines how much the characters sweat.",
+      "url": "https://www.ign.com/articles/gta-6s-level-of-detail-is-so-extreme-rockstar-built-an-entire-scripted-system-just-for-sweat",
+      "date": "2026-10-15T11:32:24.000Z"
+    },
+    {
+      "lead": false,
       "src": "GamesRadar",
       "title": "After avoiding GTA 5 for 13 years, Trevor actor says he's excited for GTA 6 and might even stream it",
       "summary": "Steven Ogg is coming home",
       "url": "https://www.gamesradar.com/games/grand-theft-auto/after-avoiding-gta-5-for-13-years-trevor-actor-says-hes-excited-for-gta-6-and-might-even-stream-it/",
       "date": "2026-10-15T00:15:37.000Z"
-    },
-    {
-      "lead": false,
-      "src": "IGN",
-      "title": "GTA 6 Was Originally Meant to Release Much Sooner Than We Realized",
-      "summary": "Rockstar Games has revealed that it originally intended to develop GTA 6 alongside Red Dead Redemption 2, meaning it probably would've come out much sooner than we ever realized.",
-      "url": "https://www.ign.com/articles/gta-6-was-originally-meant-to-release-much-sooner-than-we-realized",
-      "date": "2026-10-14T20:15:09.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Kotaku",
-      "title": "GTA 5 Is Getting Yanked From PlayStation Plus Right Before GTA VI Launches",
-      "summary": "You've got a little more than a month to check it out before it's gone",
-      "url": "https://kotaku.com/gta-5-leaving-playstation-plus-gta-6-november-2000746022",
-      "date": "2026-10-14T20:00:48.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GameSpot",
-      "title": "GTA 6 Reviews: When They Could Be Released",
-      "summary": "Rockstar's Grand Theft Auto 6 releases on November 19, but when will you be able to read reviews? According to historical precedent and a new report, reviews for the open-world crime game should be available before launch. Insider Gaming reported that reviews for GTA 6 will be posted at some point before November 19…",
-      "url": "https://www.gamespot.com/articles/gta-6-reviews-when-they-could-be-released/",
-      "date": "2026-10-14T18:53:45.000Z"
-    },
-    {
-      "lead": false,
-      "src": "PC Gamer",
-      "title": "GTA 6 leaker threatens Take-Two with a 'dead man's switch'",
-      "summary": "Cyberleek promises not to reveal the ending of GTA 6, as long as Take-Two leaves them alone.",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-leaker-threatens-take-two-with-a-dead-mans-switch/",
-      "date": "2026-10-14T18:36:16.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "GTA 6 has a realistic sweat system that makes Jason and Lucia perspire based on how hard they dance",
-      "summary": "Sweat it out",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/as-if-you-needed-another-reminder-of-why-gta-6-took-so-long-it-has-a-realistic-sweat-system-that-makes-jason-and-lucia-perspire-based-on-how-hard-they-dance/",
-      "date": "2026-10-14T17:30:45.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Kotaku",
-      "title": "GTA 6 Lead Reacts To The Infamous 2022 Leak: ‘Like Somebody’s Wading Through Your Dirty Washing’",
-      "summary": "Rockstar also said it likely won't return to a work-from-home model as too many people want to 'steal' its games",
-      "url": "https://kotaku.com/gta-6-lead-reacts-to-the-infamous-2022-leak-like-somebodys-wading-through-your-dirty-washing-2000745968",
-      "date": "2026-10-14T17:00:52.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "First big GTA 6 leak was like having someone \"wading through your dirty washing,\" says Rockstar dev",
-      "summary": "\"It's really weirdly invasive\"",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6s-first-major-leak-was-like-having-someone-wading-through-your-dirty-washing-says-rockstar-lead-its-like-theyre-inside-your-head/",
-      "date": "2026-10-14T16:26:10.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "Rockstar still won't reveal cost of GTA 6 development, but it's definitely not previously rumored $1.5 billion",
-      "summary": "I'd wager it's not far off though",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/rockstar-still-wont-reveal-the-cost-of-gta-6-development-but-its-definitely-not-the-previously-rumored-usd1-5-billion/",
-      "date": "2026-10-14T15:23:04.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Kotaku",
-      "title": "When Rockstar Needed To Delay GTA 6 Again, Take-Two’s CEO Replied: ‘Please Tell Me You’re Kidding’",
-      "summary": "Strauss Zelnick eventually understood why it needed more time and provided it",
-      "url": "https://kotaku.com/when-rockstar-needed-to-delay-gta-6-again-take-twos-ceo-replied-please-tell-me-youre-kidding-2000745938",
-      "date": "2026-10-14T15:10:02.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "Rockstar wins without doing anything as GTA 6 leaker Cyberleek retreats after meme coin crashes",
-      "summary": "Grand Theft Auto leak farce comes to an end once again",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/rockstar-wins-without-doing-anything-as-cyberleek-retreats-after-meme-coin-crashes-gta-6-leaker-says-the-leeks-stop-here-as-if-the-games-not-out-in-a-month/",
-      "date": "2026-10-14T15:00:39.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GameSpot",
-      "title": "GTA 6 Leaks Are Still Coming, Rockstar Labels The 2022 Hack “Weirdly Invasive”",
-      "summary": "Rockstar Games has reacted to the mass GTA 6 leaks, which began in 2022, with a top developer at the studio saying it \"feels like somebody's wading through your dirty washing.\" Bloomberg published these comments from Rockstar developers on the same day that GTA 6 leaker CyberLeek posted yet another gameplay leak, sa…",
-      "url": "https://www.gamespot.com/articles/gta-6-leaks-are-still-coming-rockstar-labels-the-2022-hack-weirdly-invasive/",
-      "date": "2026-10-14T14:57:53.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Kotaku",
-      "title": "GTA 6 Leaker Announces They Won’t Release The Full Game: ‘The Leeks Stop For Now’",
-      "summary": "Cyberleek seems done with leaks, but says there is a dead man's switch waiting if someone comes after them",
-      "url": "https://kotaku.com/gta-6-leaker-announces-they-wont-leak-the-full-game-the-leeks-stop-for-now-2000745917",
-      "date": "2026-10-14T14:17:10.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GameSpot",
-      "title": "GTA 6 Could Have Been Even Bigger And Released Years Sooner, But Then These Things Happened",
-      "summary": "A big new report revealed more details about Rockstar's long-awaited GTA 6 , including how the game's scope was originally much bigger and that the game could have released years sooner. Bloomberg reported that when a small team from Rockstar traveled to Miami in 2015 to begin planning GTA 6, they envisioned the gam…",
-      "url": "https://www.gamespot.com/articles/gta-6-could-have-been-even-bigger-and-released-years-sooner-but-then-these-things-happened/",
-      "date": "2026-10-14T14:02:52.000Z"
-    },
-    {
-      "lead": false,
-      "src": "PC Gamer",
-      "title": "GTA 6 was delayed partially because the amount of NPCs was 'horrifying' and required a dedicated studio full of writers to handle",
-      "summary": "\"We [could have] hit that schedule, but it won’t be the game we want to make.\"",
-      "url": "https://www.pcgamer.com/games/action/gta-6-was-delayed-partially-because-the-amount-of-npcs-was-horrifying-and-required-a-dedicated-studio-full-of-writers-to-handle/",
-      "date": "2026-10-14T13:23:57.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Kotaku",
-      "title": "Rockstar Swears You Won’t Have To Wait Nearly A Decade For Its Next Game After GTA6",
-      "summary": "The wait between Red Dead Redemption 2 and Grand Theft Auto 6 was just under a decade",
-      "url": "https://kotaku.com/rockstar-games-next-game-gta6-grand-theft-auto-6-rdr2-2000745886",
-      "date": "2026-10-14T13:14:44.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Eurogamer",
-      "title": "GTA 6 leaker's latest video allegedly shows scenes from the final mission, as they indicate the leaks may have come to an end",
-      "summary": "Cyberleek, the leaker who's been releasing footage from Grand Theft Auto 6 for weeks now, is seemingly done posting leaks. Cyberleek released a new - seemingly final - video today which supposedly shows parts of the game's ending. Read more",
-      "url": "https://www.eurogamer.net/gta-6-cyberleek-ending-crypto-coin-crash",
-      "date": "2026-10-14T13:06:10.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GameSpot",
-      "title": "Take-Two CEO’s Response To Second GTA 6 Delay: “Please Tell Me You’re Kidding”",
-      "summary": "Rockstar's GTA 6 is finally coming out on November 19, but the game was originally set to release in 2025. When the development team informed head of publishing, Jennifer Kolbe, that a delay to May 2026 was necessary, she made a call to Take-Two CEO Strauss Zelnick to let him know. Months later, she had to make that…",
-      "url": "https://www.gamespot.com/articles/take-two-ceos-response-to-second-gta-6-delay-please-tell-me-youre-kidding/",
-      "date": "2026-10-14T12:44:12.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Eurogamer",
-      "title": "Conclusion of Rockstar's employment tribunal delayed into November, almost day and date with GTA 6's release",
-      "summary": "The ongoing employment tribunal between Grand Theft Auto 6 developer Rockstar Games and IWBG union members laid off from the studio has been extended into November.. Read more",
-      "url": "https://www.eurogamer.net/rockstar-iwgb-employment-tribunal-delay-november",
-      "date": "2026-10-14T12:40:59.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GameSpot",
-      "title": "GTA 6’s Nightclubs Have An Absurd Amount Of Detail, Right Down To The Lighting",
-      "summary": "How much detail is too much detail? In the case of Grand Theft Auto 6 , developer Rockstar Games put an obscene amount of work into making the fictional city of Leonida as realistic as possible, including the nightclubs that players can frequent in the game. Those locations couldn't be pulled from thin air, and Rock…",
-      "url": "https://www.gamespot.com/articles/gta-6-nightclubs-have-an-absurd-amount-of-detail-right-down-to-the-lighting/",
-      "date": "2026-10-14T12:28:16.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GameSpot",
-      "title": "Rockstar Says GTA 6 Didn’t Cost $1.5 Billion To Make, But Won’t Reveal The Real Number",
-      "summary": "It's no secret that video game development is more expensive than ever before, and in a hit-driven industry, Grand Theft Auto VI is rumored to be the most expensive game ever made. Various numbers have been thrown around, with one report even claiming that $1.5 billion was spent--around the budget of Dubai's iconic…",
-      "url": "https://www.gamespot.com/articles/rockstar-says-gta-6-didnt-cost-1-5-billion-to-make-but-wont-reveal-the-real-number/",
-      "date": "2026-10-14T11:42:56.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Eurogamer",
-      "title": "GTA 6 was originally Project Americas and covered \"big swaths\" of country's north and south, Rockstar reveals, in interview tackling crunch, delays, and leaks",
-      "summary": "Rockstar Games has revealed the original codename for Grand Theft Auto 6 was Project Americas, and that its intention was for the game to cover large areas of land in both the north of the country and the south. Read more",
-      "url": "https://www.eurogamer.net/gta-6-project-americas-rockstar-crunch-delays-leaks",
-      "date": "2026-10-14T11:39:03.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GameSpot",
-      "title": "Rockstar Built An Entire Studio Just To Create GTA 6 NPCs",
-      "summary": "Rockstar Games reportedly established an entire studio in Los Angeles dedicated to creating NPCs for Grand Theft Auto 6 after realizing the game's ambitious world would need far more production resources than initially expected. Speaking to Bloomberg , Rockstar development lead Rob Nelson explained that the team had…",
-      "url": "https://www.gamespot.com/articles/rockstar-built-an-entire-studio-just-to-create-gta-6-npcs/",
-      "date": "2026-10-14T11:07:36.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GameSpot",
-      "title": "Rockstar’s GTA 6 Realism Experiment Started With Beer And Sandwiches",
-      "summary": "Compared to previous games in the series, Grand Theft Auto 6 is aiming to add new layers of realism to the franchise. As the criminal couple Jason Duval and Lucia Caminos, players will explore a city where actions have consequences , and it's not easy to shake the long arm of the law when you cause chaos. It continu…",
-      "url": "https://www.gamespot.com/articles/rockstars-gta-6-realism-experiment-started-with-beer-and-sandwiches/",
-      "date": "2026-10-14T11:02:14.000Z"
     }
   ]
 }
