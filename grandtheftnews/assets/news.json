@@ -1,9 +1,17 @@
 {
-  "updated": "2026-10-14T21:31:53.961Z",
+  "updated": "2026-10-15T04:20:20.148Z",
   "count": 24,
   "items": [
     {
       "lead": true,
+      "src": "GamesRadar",
+      "title": "After avoiding GTA 5 for 13 years, Trevor actor says he's excited for GTA 6 and might even stream it",
+      "summary": "Steven Ogg is coming home",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/after-avoiding-gta-5-for-13-years-trevor-actor-says-hes-excited-for-gta-6-and-might-even-stream-it/",
+      "date": "2026-10-15T00:15:37.000Z"
+    },
+    {
+      "lead": false,
       "src": "IGN",
       "title": "GTA 6 Was Originally Meant to Release Much Sooner Than We Realized",
       "summary": "Rockstar Games has revealed that it originally intended to develop GTA 6 alongside Red Dead Redemption 2, meaning it probably would've come out much sooner than we ever realized.",
@@ -169,14 +177,6 @@
       "summary": "How much detail is too much detail? In the case of Grand Theft Auto 6 , developer Rockstar Games put an obscene amount of work into making the fictional city of Leonida as realistic as possible, including the nightclubs that players can frequent in the game. Those locations couldn't be pulled from thin air, and Rock…",
       "url": "https://www.gamespot.com/articles/gta-6-nightclubs-have-an-absurd-amount-of-detail-right-down-to-the-lighting/",
       "date": "2026-10-14T12:28:16.000Z"
-    },
-    {
-      "lead": false,
-      "src": "IGN",
-      "title": "Rockstar Pushes Back on Rumor GTA 6 Cost More Than $1.5 Billion to Make, but It's Still Probably the Most Expensive Video Game of All Time",
-      "summary": "Rockstar has insisted GTA 6 did not cost more than $1.5 billion to make, countering an online rumor, but it’s still probably the most expensive video game of all time.",
-      "url": "https://www.ign.com/articles/rockstar-pushes-back-on-rumor-gta-6-cost-more-than-15-billion-to-make-but-its-still-probably-the-most-expensive-video-game-of-all-time",
-      "date": "2026-10-14T11:53:58.000Z"
     },
     {
       "lead": false,
