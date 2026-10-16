@@ -1,9 +1,17 @@
 {
-  "updated": "2026-10-15T21:14:12.745Z",
+  "updated": "2026-10-16T04:15:41.335Z",
   "count": 24,
   "items": [
     {
       "lead": true,
+      "src": "Kotaku",
+      "title": "Massive GTA 6 Banner In Paris Censors All Of The Guns",
+      "summary": "Grand Theft Auto is a franchise that famously includes guns, but this big advertisement for it in Paris cut them out",
+      "url": "https://kotaku.com/massive-gta-6-banner-in-paris-features-some-silly-censorship-2000746458",
+      "date": "2026-10-15T22:00:10.000Z"
+    },
+    {
+      "lead": false,
       "src": "GameSpot",
       "title": "Why Rockstar Canceled Its PlayStation-Exclusive Follow-Up To GTA 4",
       "summary": "At E3 2009, Sony announced that it was partnering with Rockstar on a PlayStation-exclusive spy game called Agent , with Rockstar founders Sam and Dan Houser overseeing development. The game never materialized, though, and now Dan Houser has shared more details as to why. Speaking to IGN , Houser said Agent never com…",
@@ -185,14 +193,6 @@
       "summary": "Part of the reason why Rockstar has taken so long with GTA 6 comes down to the process of crafting the fine details, and that includes a new sweat system. Reporter Jason Schreier said on his YouTube page that Rockstar created a new system in GTA 6 that will make Lucia or Jason perspire different amounts \"depending o…",
       "url": "https://www.gamespot.com/articles/gta-6s-push-for-realism-includes-a-context-specific-sweating-system-for-real/",
       "date": "2026-10-15T13:01:30.000Z"
-    },
-    {
-      "lead": false,
-      "src": "IGN",
-      "title": "Sony Reminds PlayStation Plus Subscribers That GTA 5 Leaves the Library 2 Days Before GTA 6 Comes Out",
-      "summary": "PS5 and PS4 players taking advantage of PS Plus to play GTA 5 and GTA Online better get their hours in because their days are numbered. GTA 5 is being removed from the PS Plus catalogue just two days before GTA 6’s launch in November.",
-      "url": "https://www.ign.com/articles/playstation-plus-losing-gta-5-ahead-of-gta-6",
-      "date": "2026-10-15T12:19:51.000Z"
     }
   ]
 }
