@@ -1,9 +1,17 @@
 {
-  "updated": "2026-10-16T20:53:08.728Z",
+  "updated": "2026-10-16T23:25:33.450Z",
   "count": 24,
   "items": [
     {
       "lead": true,
+      "src": "Kotaku",
+      "title": "Fans Are Comparing Grand Theft Auto 6′s Latest Trailer To Its First And Complaining That It’s A Blurry ‘Downgrade’",
+      "summary": "God forbid someone in Rockstar Games' marketing department decided to add a little artistic flair to a trailer",
+      "url": "https://kotaku.com/fans-are-comparing-grand-theft-auto-6s-latest-trailer-to-its-first-and-complaining-that-its-a-blurry-downgrade-2000746855",
+      "date": "2026-10-16T21:30:28.000Z"
+    },
+    {
+      "lead": false,
       "src": "GameSpot",
       "title": "All The Records GTA 6 Will Break, We Think",
       "summary": "After years of development and perhaps more hype than for any game, GTA 6 is set for release on November 19 for PS5 and Xbox Series X|S. Predicting that it will be an enormous success commercially is perhaps one of the safest bets anyone could make. But just how big will the launch be? And what records could GTA 6 b…",
@@ -73,14 +81,6 @@
       "summary": "Rockstar’s wild marketing push for GTA 6 is well underway, with the latest seeing modded cars cruising around Miami.",
       "url": "https://www.ign.com/articles/rockstar-mods-real-life-vehicles-gta-6-cars-miami",
       "date": "2026-10-16T09:13:30.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Kotaku",
-      "title": "Massive GTA 6 Banner In Paris Censors All Of The Guns",
-      "summary": "Grand Theft Auto is a franchise that famously includes guns, but this big advertisement for it in Paris cut them out",
-      "url": "https://kotaku.com/massive-gta-6-banner-in-paris-features-some-silly-censorship-2000746458",
-      "date": "2026-10-15T22:00:10.000Z"
     },
     {
       "lead": false,
