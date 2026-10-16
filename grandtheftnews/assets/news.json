@@ -1,9 +1,25 @@
 {
-  "updated": "2026-10-16T04:15:41.335Z",
+  "updated": "2026-10-16T11:11:17.600Z",
   "count": 24,
   "items": [
     {
       "lead": true,
+      "src": "GamesRadar",
+      "title": "GTA 6 is still undergoing changes despite releasing next month, Rockstar boss says",
+      "summary": "There are a lot of moving parts",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-is-still-undergoing-changes-despite-releasing-next-month-rockstar-boss-says-the-game-is-never-completely-settled/",
+      "date": "2026-10-16T10:00:00.000Z"
+    },
+    {
+      "lead": false,
+      "src": "IGN",
+      "title": "Rockstar Mods Real Life Vehicles to Look Like GTA 6 Cars Before Driving Them Through Miami",
+      "summary": "Rockstar’s wild marketing push for GTA 6 is well underway, with the latest seeing modded cars cruising around Miami.",
+      "url": "https://www.ign.com/articles/rockstar-mods-real-life-vehicles-gta-6-cars-miami",
+      "date": "2026-10-16T09:13:30.000Z"
+    },
+    {
+      "lead": false,
       "src": "Kotaku",
       "title": "Massive GTA 6 Banner In Paris Censors All Of The Guns",
       "summary": "Grand Theft Auto is a franchise that famously includes guns, but this big advertisement for it in Paris cut them out",
@@ -177,22 +193,6 @@
       "summary": "Rockstar has dropped the launch trailer for its upcoming open-world game",
       "url": "https://kotaku.com/surprise-heres-a-new-grand-theft-auto-6-trailer-2000746327",
       "date": "2026-10-15T13:09:32.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GameSpot",
-      "title": "The GTA 6 Launch Trailer Shows Off Vice City And Steamy Scene With Lucia And Jason",
-      "summary": "Rockstar Games has published the launch trailer for GTA 6 , and it's pretty spectacular. The game has been in development for more than a decade, and it's finally set for release on November 19 for PS5 and Xbox Series X|S. The trailer features the new song, \"Flower in a Hurricane\" from Justice featuring Tame Impala,…",
-      "url": "https://www.gamespot.com/articles/gta-6-launch-trailer-is-here/",
-      "date": "2026-10-15T13:06:44.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GameSpot",
-      "title": "GTA 6’s Push For Realism Includes A Context-Specific Sweating System, For Real",
-      "summary": "Part of the reason why Rockstar has taken so long with GTA 6 comes down to the process of crafting the fine details, and that includes a new sweat system. Reporter Jason Schreier said on his YouTube page that Rockstar created a new system in GTA 6 that will make Lucia or Jason perspire different amounts \"depending o…",
-      "url": "https://www.gamespot.com/articles/gta-6s-push-for-realism-includes-a-context-specific-sweating-system-for-real/",
-      "date": "2026-10-15T13:01:30.000Z"
     }
   ]
 }
