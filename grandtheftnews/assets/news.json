@@ -1,9 +1,17 @@
 {
-  "updated": "2026-10-16T23:25:33.450Z",
+  "updated": "2026-10-17T04:06:02.341Z",
   "count": 24,
   "items": [
     {
       "lead": true,
+      "src": "Polygon",
+      "title": "Rockstar Officially Comments on GTA 6's Approach to Trump & COVID-19",
+      "summary": "GTA 6's real-world references won't include direct acknowledgement of Donald Trump and the 2020 pandemic, Rockstar Games says.",
+      "url": "https://www.polygon.com/gta-6-trump-rockstar-games/",
+      "date": "2026-10-17T00:43:17.000Z"
+    },
+    {
+      "lead": false,
       "src": "Kotaku",
       "title": "Fans Are Comparing Grand Theft Auto 6′s Latest Trailer To Its First And Complaining That It’s A Blurry ‘Downgrade’",
       "summary": "God forbid someone in Rockstar Games' marketing department decided to add a little artistic flair to a trailer",
@@ -17,14 +25,6 @@
       "summary": "After years of development and perhaps more hype than for any game, GTA 6 is set for release on November 19 for PS5 and Xbox Series X|S. Predicting that it will be an enormous success commercially is perhaps one of the safest bets anyone could make. But just how big will the launch be? And what records could GTA 6 b…",
       "url": "https://www.gamespot.com/articles/all-the-records-gta-6-will-break-we-think/",
       "date": "2026-10-16T20:27:22.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Polygon",
-      "title": "GTA 6 Recaptures What Made GTA’s Best DLC So Great",
-      "summary": "Vice City's lavish clubs, high-speed getaways, and over-the-top heists recall GTA's most extravagant era.",
-      "url": "https://www.polygon.com/gta-6-ballad-of-gay-tony/",
-      "date": "2026-10-16T18:00:18.000Z"
     },
     {
       "lead": false,
@@ -180,19 +180,19 @@
     },
     {
       "lead": false,
-      "src": "PC Gamer",
-      "title": "GTA 6 leaker threatens Take-Two with a 'dead man's switch'",
-      "summary": "Cyberleek promises not to reveal the ending of GTA 6, as long as Take-Two leaves them alone.",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-leaker-threatens-take-two-with-a-dead-mans-switch/",
-      "date": "2026-10-14T18:36:16.000Z"
-    },
-    {
-      "lead": false,
       "src": "Eurogamer",
       "title": "GTA 6 leaker's latest video allegedly shows scenes from the final mission, as they indicate the leaks may have come to an end",
       "summary": "Cyberleek, the leaker who's been releasing footage from Grand Theft Auto 6 for weeks now, is seemingly done posting leaks. Cyberleek released a new - seemingly final - video today which supposedly shows parts of the game's ending. Read more",
       "url": "https://www.eurogamer.net/gta-6-cyberleek-ending-crypto-coin-crash",
       "date": "2026-10-14T13:06:10.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Eurogamer",
+      "title": "Conclusion of Rockstar's employment tribunal delayed into November, almost day and date with GTA 6's release",
+      "summary": "The ongoing employment tribunal between Grand Theft Auto 6 developer Rockstar Games and IWBG union members laid off from the studio has been extended into November.. Read more",
+      "url": "https://www.eurogamer.net/rockstar-iwgb-employment-tribunal-delay-november",
+      "date": "2026-10-14T12:40:59.000Z"
     }
   ]
 }
