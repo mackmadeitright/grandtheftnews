@@ -1,14 +1,22 @@
 {
-  "updated": "2026-10-17T10:30:15.218Z",
+  "updated": "2026-10-17T15:24:22.242Z",
   "count": 24,
   "items": [
     {
       "lead": true,
       "src": "Polygon",
-      "title": "Rockstar Officially Comments on GTA 6's Approach to Trump & COVID-19",
-      "summary": "GTA 6's real-world references won't include direct acknowledgement of Donald Trump and the 2020 pandemic, Rockstar Games says.",
-      "url": "https://www.polygon.com/gta-6-trump-rockstar-games/",
-      "date": "2026-10-17T00:43:17.000Z"
+      "title": "Grand Theft Auto 4 Was Rockstar at Its Best: Unpredictable",
+      "summary": "GTA 4 is one of the best GTA games, as it's the only one where Rockstar took its satire and storytelling seriously",
+      "url": "https://www.polygon.com/grand-theft-auto-4-was-rockstar-at-its-best-unpredictable/",
+      "date": "2026-10-17T12:00:18.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "Ray Liotta saved GTA: Vice City's \"awful\" writing, Rockstar co-founder Dan Houser says",
+      "summary": "\"He brought a level of authenticity to Tommy\"",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-vice-citys-writing-was-awful-rockstar-co-founder-dan-houser-says-but-acting-icon-ray-liotta-made-it-sound-good/",
+      "date": "2026-10-17T11:31:21.000Z"
     },
     {
       "lead": false,
@@ -185,14 +193,6 @@
       "summary": "The ongoing employment tribunal between Grand Theft Auto 6 developer Rockstar Games and IWBG union members laid off from the studio has been extended into November.. Read more",
       "url": "https://www.eurogamer.net/rockstar-iwgb-employment-tribunal-delay-november",
       "date": "2026-10-14T12:40:59.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Eurogamer",
-      "title": "GTA 6 was originally Project Americas and covered \"big swaths\" of country's north and south, Rockstar reveals, in interview tackling crunch, delays, and leaks",
-      "summary": "Rockstar Games has revealed the original codename for Grand Theft Auto 6 was Project Americas, and that its intention was for the game to cover large areas of land in both the north of the country and the south. Read more",
-      "url": "https://www.eurogamer.net/gta-6-project-americas-rockstar-crunch-delays-leaks",
-      "date": "2026-10-14T11:39:03.000Z"
     }
   ]
 }
