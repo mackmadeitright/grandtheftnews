@@ -1,9 +1,17 @@
 {
-  "updated": "2026-10-17T22:59:22.909Z",
+  "updated": "2026-10-18T04:13:52.962Z",
   "count": 24,
   "items": [
     {
       "lead": true,
+      "src": "Polygon",
+      "title": "Every Major Game Releasing in November That Isn’t GTA 6",
+      "summary": "Grand Theft Auto 6 isn't the only game coming out in November. Here's what's daring to share space with Rockstar's latest.",
+      "url": "https://www.polygon.com/november-2026-game-releases/",
+      "date": "2026-10-18T04:00:23.000Z"
+    },
+    {
+      "lead": false,
       "src": "GamesRadar",
       "title": "Ray Liotta saved GTA: Vice City's \"awful\" writing, Rockstar co-founder Dan Houser says",
       "summary": "\"He brought a level of authenticity to Tommy\"",
@@ -185,14 +193,6 @@
       "summary": "Rockstar Games has revealed the original codename for Grand Theft Auto 6 was Project Americas, and that its intention was for the game to cover large areas of land in both the north of the country and the south. Read more",
       "url": "https://www.eurogamer.net/gta-6-project-americas-rockstar-crunch-delays-leaks",
       "date": "2026-10-14T11:39:03.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Eurogamer",
-      "title": "\"That was not received well at Nintendo\" - as GTA 6 and Zelda are lampooned by Saturday Night Live, former employees recall Elon Musk Wario skit controversy",
-      "summary": "As American comedy series Saturday Night Live airs a sketch lampooning the November showdown between Grand Theft Auto 6 and The Legend of Zelda: Ocarina of Time remake, a pair of former Nintendo employees have recalled a more infamous SNL sketch from years earlier that did not go down well at all. Read more",
-      "url": "https://www.eurogamer.net/snl-elon-musk-wario-skit-zelda-gta-6",
-      "date": "2026-10-13T15:33:54.000Z"
     }
   ]
 }
