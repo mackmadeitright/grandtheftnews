@@ -1,17 +1,9 @@
 {
-  "updated": "2026-10-18T15:45:13.261Z",
+  "updated": "2026-10-18T20:27:46.282Z",
   "count": 24,
   "items": [
     {
       "lead": true,
-      "src": "Polygon",
-      "title": "13 Years Ago, Rockstar Suffered a Leak Worse Than GTA 6",
-      "summary": "Before unauthorized clips of GTA 6 scandalized fans, GTA 5 made video game leak history for Rockstar and Sony",
-      "url": "https://www.polygon.com/gta-5-leak-gta-6-reddit-vine-reactions-ban-sony-rockstar-response/",
-      "date": "2026-10-18T11:00:18.000Z"
-    },
-    {
-      "lead": false,
       "src": "GamesRadar",
       "title": "Ray Liotta saved GTA: Vice City's \"awful\" writing, Rockstar co-founder Dan Houser says",
       "summary": "\"He brought a level of authenticity to Tommy\"",
@@ -132,14 +124,6 @@
     },
     {
       "lead": false,
-      "src": "PC Gamer",
-      "title": "The Grand Theft Auto 6 launch trailer is here",
-      "summary": "This one's got a very different vibe than what we've seen previously.",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/grand-theft-auto-6-launch-trailer/",
-      "date": "2026-10-15T13:43:12.000Z"
-    },
-    {
-      "lead": false,
       "src": "Eurogamer",
       "title": "Grand Theft Auto 6 launch trailer suddenly drops, showing a saucy shower scene, a tense police chase, and high-flying heists",
       "summary": "Rockstar Games has released the launch trailer for Grand Theft Auto 6 ahead of its 19th November release. Read more",
@@ -193,6 +177,22 @@
       "summary": "As American comedy series Saturday Night Live airs a sketch lampooning the November showdown between Grand Theft Auto 6 and The Legend of Zelda: Ocarina of Time remake, a pair of former Nintendo employees have recalled a more infamous SNL sketch from years earlier that did not go down well at all. Read more",
       "url": "https://www.eurogamer.net/snl-elon-musk-wario-skit-zelda-gta-6",
       "date": "2026-10-13T15:33:54.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Eurogamer",
+      "title": "GTA 6's PC release date is set for \"Q1 2027\", per a new report",
+      "summary": "A new report suggests that GTA 6 will release on PC in \"Q1 2027\". That, at least, is what GamesBeat is saying, citing \"sources familiar with the matter.\" Read more",
+      "url": "https://www.eurogamer.net/gta-6s-pc-release-date-is-set-for-q1-2027-per-a-new-report",
+      "date": "2026-10-13T13:57:07.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Eurogamer",
+      "title": "GTA 3's iconic box art was changed at the last minute because of 9/11, ex-Rockstar lead Dan Houser reveals",
+      "summary": "Dan Houser, one of Rockstar's co-founders that left the GTA 6 studio in 2020 , has given a wide-ranging new interview with IGN, covering topics including the tortured production of Bully , changes made to Grand Theft Auto 3's artwork post-9/11, the reaction to Red Dead Redemption's ending , and why he thinks Max Pay…",
+      "url": "https://www.eurogamer.net/dan-houser-gta-3-boxart-9-11",
+      "date": "2026-10-13T13:35:54.000Z"
     }
   ]
 }
