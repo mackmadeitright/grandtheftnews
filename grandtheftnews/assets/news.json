@@ -1,14 +1,14 @@
 {
-  "updated": "2026-10-18T10:50:32.091Z",
+  "updated": "2026-10-18T15:45:13.261Z",
   "count": 24,
   "items": [
     {
       "lead": true,
       "src": "Polygon",
-      "title": "Every Major Game Releasing in November That Isn’t GTA 6",
-      "summary": "Grand Theft Auto 6 isn't the only game coming out in November. Here's what's daring to share space with Rockstar's latest.",
-      "url": "https://www.polygon.com/november-2026-game-releases/",
-      "date": "2026-10-18T04:00:23.000Z"
+      "title": "13 Years Ago, Rockstar Suffered a Leak Worse Than GTA 6",
+      "summary": "Before unauthorized clips of GTA 6 scandalized fans, GTA 5 made video game leak history for Rockstar and Sony",
+      "url": "https://www.polygon.com/gta-5-leak-gta-6-reddit-vine-reactions-ban-sony-rockstar-response/",
+      "date": "2026-10-18T11:00:18.000Z"
     },
     {
       "lead": false,
@@ -164,14 +164,6 @@
     },
     {
       "lead": false,
-      "src": "GameSpot",
-      "title": "GTA 6’s Push For Realism Includes A Context-Specific Sweating System, For Real",
-      "summary": "Part of the reason why Rockstar has taken so long with GTA 6 comes down to the process of crafting the fine details, and that includes a new sweat system. Reporter Jason Schreier said on his YouTube page that Rockstar created a new system in GTA 6 that will make Lucia or Jason perspire different amounts \"depending o…",
-      "url": "https://www.gamespot.com/articles/gta-6s-push-for-realism-includes-a-context-specific-sweating-system-for-real/",
-      "date": "2026-10-15T13:01:30.000Z"
-    },
-    {
-      "lead": false,
       "src": "Eurogamer",
       "title": "GTA 6 leaker's latest video allegedly shows scenes from the final mission, as they indicate the leaks may have come to an end",
       "summary": "Cyberleek, the leaker who's been releasing footage from Grand Theft Auto 6 for weeks now, is seemingly done posting leaks. Cyberleek released a new - seemingly final - video today which supposedly shows parts of the game's ending. Read more",
@@ -193,6 +185,14 @@
       "summary": "Rockstar Games has revealed the original codename for Grand Theft Auto 6 was Project Americas, and that its intention was for the game to cover large areas of land in both the north of the country and the south. Read more",
       "url": "https://www.eurogamer.net/gta-6-project-americas-rockstar-crunch-delays-leaks",
       "date": "2026-10-14T11:39:03.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Eurogamer",
+      "title": "\"That was not received well at Nintendo\" - as GTA 6 and Zelda are lampooned by Saturday Night Live, former employees recall Elon Musk Wario skit controversy",
+      "summary": "As American comedy series Saturday Night Live airs a sketch lampooning the November showdown between Grand Theft Auto 6 and The Legend of Zelda: Ocarina of Time remake, a pair of former Nintendo employees have recalled a more infamous SNL sketch from years earlier that did not go down well at all. Read more",
+      "url": "https://www.eurogamer.net/snl-elon-musk-wario-skit-zelda-gta-6",
+      "date": "2026-10-13T15:33:54.000Z"
     }
   ]
 }
