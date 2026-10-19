@@ -1,9 +1,33 @@
 {
-  "updated": "2026-10-19T12:52:23.563Z",
-  "count": 24,
+  "updated": "2026-10-19T20:30:18.441Z",
+  "count": 21,
   "items": [
     {
       "lead": true,
+      "src": "Polygon",
+      "title": "Sounds Like GTA 6 Will Be Full of Details Like Red Dead's Infamous Horse Balls",
+      "summary": "After a decade of silence, Rockstar finally acknowledges a controversial RDR2 feature that could reappear in GTA 6 with some major upgrades",
+      "url": "https://www.polygon.com/gta-6-rdr2-horse-balls-confirmed-rockstar/",
+      "date": "2026-10-19T17:54:41.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "Roblox creator shares project with GTA 6 vibes onlookers \"can't believe\" comes from Roblox",
+      "summary": "\"...is this Roblox?\"",
+      "url": "https://www.gamesradar.com/games/roblox-creator-shares-project-with-gta-6-vibes-that-onlookers-cant-believe-comes-from-roblox-how-is-this-even-possible/",
+      "date": "2026-10-19T15:24:05.000Z"
+    },
+    {
+      "lead": false,
+      "src": "IGN",
+      "title": "With GTA 6's Dating System Incoming, a Surprising Percentage of Adults Think Investing in a Video Game Relationship Is Cheating",
+      "summary": "With GTA 6's Dating System Incoming, a Surprising Percentage of Adults Think Investing in a Video Game Relationship Is Cheating.",
+      "url": "https://www.ign.com/articles/gta-6-dating-system-cheating",
+      "date": "2026-10-19T15:16:54.000Z"
+    },
+    {
+      "lead": false,
       "src": "GamesRadar",
       "title": "Ray Liotta saved GTA: Vice City's \"awful\" writing, Rockstar co-founder Dan Houser says",
       "summary": "\"He brought a level of authenticity to Tommy\"",
@@ -12,35 +36,11 @@
     },
     {
       "lead": false,
-      "src": "Kotaku",
-      "title": "Fans Are Comparing Grand Theft Auto 6′s Latest Trailer To Its First And Complaining That It’s A Blurry ‘Downgrade’",
-      "summary": "God forbid someone in Rockstar Games' marketing department decided to add a little artistic flair to a trailer",
-      "url": "https://kotaku.com/fans-are-comparing-grand-theft-auto-6s-latest-trailer-to-its-first-and-complaining-that-its-a-blurry-downgrade-2000746855",
-      "date": "2026-10-16T21:30:28.000Z"
-    },
-    {
-      "lead": false,
       "src": "GameSpot",
       "title": "All The Records GTA 6 Will Break, We Think",
       "summary": "After years of development and perhaps more hype than for any game, GTA 6 is set for release on November 19 for PS5 and Xbox Series X|S. Predicting that it will be an enormous success commercially is perhaps one of the safest bets anyone could make. But just how big will the launch be? And what records could GTA 6 b…",
       "url": "https://www.gamespot.com/articles/all-the-records-gta-6-will-break-we-think/",
       "date": "2026-10-16T20:27:22.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "After 18 years, GTA 6 might finally fix a graphical bug that's plagued Rockstar's games since GTA 4",
-      "summary": "The RAGE engine might be getting a long-overdue upgrade",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/after-18-years-gta-6-might-finally-fix-a-graphical-bug-thats-plagued-rockstars-games-since-grand-theft-auto-4/",
-      "date": "2026-10-16T17:39:11.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "Rockstar's figured out the perfect GTA 6 advertisement – a bunch of supercars from Vice City in Miami",
-      "summary": "Because why not",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/rockstars-figured-out-the-perfect-gta-6-advertisement-a-bunch-of-supercars-from-vice-city-speeding-along-the-streets-of-miami/",
-      "date": "2026-10-16T16:26:44.000Z"
     },
     {
       "lead": false,
@@ -92,51 +92,11 @@
     },
     {
       "lead": false,
-      "src": "GameSpot",
-      "title": "GTA 5 Will Be Removed From PS Plus Just Before GTA 6 Releases, It Seems",
-      "summary": "One of the biggest games that PlayStation Plus subscribers can play as part of their membership is Rockstar's Grand Theft Auto 5. However, the game will reportedly get yanked from the service soon, just ahead of GTA 6 's release. People on Reddit say they have received a notification telling them that GTA 5 will be…",
-      "url": "https://www.gamespot.com/articles/gta-5-will-be-removed-from-ps-plus-just-before-gta-6-releases-it-seems/",
-      "date": "2026-10-15T15:25:21.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GameSpot",
-      "title": "GTA 6 Helps Modern Warfare 4, Actually, Activision Says",
-      "summary": "Rockstar's GTA 6 is releasing this November, and some believe it will blot out the sun when it comes to the impact it will have on the greater gaming market. The game could also help other titles, like Activision's Call of Duty: Modern Warfare 4. That's according to Activision chief marketing officer Tyler Bahl, who…",
-      "url": "https://www.gamespot.com/articles/gta-6-helps-modern-warfare-4-actually-activision-says/",
-      "date": "2026-10-15T14:50:27.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GameSpot",
-      "title": "10 Things We Noticed In The GTA 6 Launch Trailer",
-      "summary": "Rockstar is sticking to its trend of releasing some new GTA 6 news every Thursday it seems, and today's treat was the reveal of the launch trailer. After what feels like an eternity of waiting for anything , the launch trailer is the fourth official video look we've gotten at GTA 6, and the first since August's Exte…",
-      "url": "https://www.gamespot.com/articles/things-we-noticed-in-the-gta-6-launch-trailer/",
-      "date": "2026-10-15T14:12:57.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GameSpot",
-      "title": "GTA 6 Is Getting An Original Score From Electronic Duo Justice",
-      "summary": "With a new (and steamy) launch trailer going live to remind you of its November 19 release date, Grand Theft Auto 6 is starting to look like a slick new chapter in the series. It's also sounding like a great sequel, and that's no accident as the game features an original soundtrack by French electronic music duo Jus…",
-      "url": "https://www.gamespot.com/articles/gta-6-is-getting-an-original-score-from-electronic-duo-justice/",
-      "date": "2026-10-15T13:45:40.000Z"
-    },
-    {
-      "lead": false,
       "src": "Eurogamer",
       "title": "Grand Theft Auto 6 launch trailer suddenly drops, showing a saucy shower scene, a tense police chase, and high-flying heists",
       "summary": "Rockstar Games has released the launch trailer for Grand Theft Auto 6 ahead of its 19th November release. Read more",
       "url": "https://www.eurogamer.net/grand-theft-auto-6-launch-trailer",
       "date": "2026-10-15T13:24:51.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GameSpot",
-      "title": "Put Down Your Pitchforks, GTA 6 Was Always Eligible For The Game Awards This Year",
-      "summary": "As we inch ever closer to the tidal wave that is Grand Theft Auto VI approaching over the horizon, some minds are turning to awards season and how many awards Rockstar's next epic will catch in its wake. Some, like Insider Gaming, are beginning to report that--just barely-- GTA will be eligible for The Game Awards ,…",
-      "url": "https://www.gamespot.com/articles/put-down-your-pitchforks-gta-vi-was-always-eligible-for-the-game-awards-this-year/",
-      "date": "2026-10-15T13:09:58.000Z"
     },
     {
       "lead": false,
@@ -193,6 +153,22 @@
       "summary": "UPDATE 12TH OCTOBER: More naked footage of Lucia in Grand Theft Auto 6 has been posted. The video, which we won't link to, shows Lucia completely naked standing in the street. There are crass camera angles, wobbly buttocks, and the Cyberleek logo is overlaid over the footage. Be warned if you're browsing X because t…",
       "url": "https://www.eurogamer.net/gta-6-leaker-cyberleek-naked-lucia-parachute-video",
       "date": "2026-10-11T12:27:09.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Eurogamer",
+      "title": "GTA 6 leaker CyberLeek is now reportedly threatening to release a full, playable build of the game",
+      "summary": "A GTA 6 leaker has reportedly threatened to put out a complete, playable build of the game, start to finish. Read more",
+      "url": "https://www.eurogamer.net/gta-6-leaker-cyberleek-threatens-playable-build-leak",
+      "date": "2026-10-10T19:42:21.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Eurogamer",
+      "title": "Rockstar HR manager claims he had \"little interest\" in staff's union membership status as fired GTA dev union-busting trial heats up",
+      "summary": "One of the witnesses in the ongoing Rockstar Games vs Garland & Others case has said he had \"little interest\" in evidence of unionisation efforts he was sent by an anonymous employee, prior to the developer laying off a substantial number of union Discord members. Read more",
+      "url": "https://www.eurogamer.net/rockstar-employment-tribunal-hr-manager-little-interest-union",
+      "date": "2026-10-09T16:41:02.000Z"
     }
   ]
 }
