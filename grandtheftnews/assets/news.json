@@ -1,9 +1,33 @@
 {
-  "updated": "2026-10-20T19:07:09.577Z",
-  "count": 21,
+  "updated": "2026-10-20T23:45:37.887Z",
+  "count": 23,
   "items": [
     {
       "lead": true,
+      "src": "Polygon",
+      "title": "Shrek 2 Remastered Officially Announced With Must-See GTA 6-inspired Trailer",
+      "summary": "Shrek 2 Remastered launches in November 2026 with 4K visuals, online co-op and updated graphics, Aspyr confirms.",
+      "url": "https://www.polygon.com/shrek-2-remastered-release-date-trailer-online-co-op/",
+      "date": "2026-10-20T23:05:59.000Z"
+    },
+    {
+      "lead": false,
+      "src": "IGN",
+      "title": "GTA 6 Fans Think Rockstar Games Is Shooting an Elaborate and Expensive Live-Action Trailer in Miami",
+      "summary": "Eagle-eyed Rockstar fans have noticed camera crews recording convoys of flashy GTA-themed cars in Miami, creating speculation over a new live-action trailer.",
+      "url": "https://www.ign.com/articles/gta-6-fans-think-rockstar-games-is-shooting-an-elaborate-and-expensive-live-action-trailer-in-miami",
+      "date": "2026-10-20T22:48:37.000Z"
+    },
+    {
+      "lead": false,
+      "src": "IGN",
+      "title": "It Looks Like GTA 6's Beer Brands Are About to Become Real",
+      "summary": "It appears that Rockstar may be preparing to sell beer brands from GTA 6 in real life.",
+      "url": "https://www.ign.com/articles/it-looks-like-gta-6s-beer-brands-are-about-to-become-real",
+      "date": "2026-10-20T21:07:11.000Z"
+    },
+    {
+      "lead": false,
       "src": "IGN",
       "title": "Shrek 2 Remastered Reveal Trailer Parodies GTA 6, Sets November Release Date",
       "summary": "Shrek 2 Remastered is real, and its release date is less than a month away.",
@@ -65,14 +89,6 @@
       "summary": "Expect a lot of unhinged detailing in GTA 6 similar to Red Dead Redemption 2",
       "url": "https://www.gamesradar.com/games/grand-theft-auto/not-even-rockstar-heads-know-everything-thats-in-gta-6-because-devs-will-just-add-stuff-which-is-also-how-red-dead-redemption-2-got-its-absurd-horse-testicle-physics/",
       "date": "2026-10-19T20:31:40.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GameSpot",
-      "title": "All The Records GTA 6 Will Break, We Think",
-      "summary": "After years of development and perhaps more hype than for any game, GTA 6 is set for release on November 19 for PS5 and Xbox Series X|S. Predicting that it will be an enormous success commercially is perhaps one of the safest bets anyone could make. But just how big will the launch be? And what records could GTA 6 b…",
-      "url": "https://www.gamespot.com/articles/all-the-records-gta-6-will-break-we-think/",
-      "date": "2026-10-16T20:27:22.000Z"
     },
     {
       "lead": false,
