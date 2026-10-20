@@ -1,9 +1,33 @@
 {
-  "updated": "2026-10-20T08:23:42.008Z",
-  "count": 21,
+  "updated": "2026-10-20T14:14:12.789Z",
+  "count": 19,
   "items": [
     {
       "lead": true,
+      "src": "GameSpot",
+      "title": "GTA 6 Is 148% Ahead Of This Other Popular AAA Game So Far",
+      "summary": "GTA 6 launches in November, and everyone expects it to be a giant, record-breaking release . But just how big will the release be? Early signs are pointing to an enormous, unprecedented launch, and new data backs that up. Sensor Tower compiled preorder data for some of the biggest games released over the past six ye…",
+      "url": "https://www.gamespot.com/articles/gta-6-is-148-ahead-of-this-other-popular-aaa-game-so-far/",
+      "date": "2026-10-20T12:51:41.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "A Red Dead Redemption 2 system that greatly shaped GTA 6 almost wasn't pitched",
+      "summary": "\"This will revolutionize the way our games and our worlds work\"",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/a-fundamental-red-dead-redemption-2-system-provided-the-basis-for-how-gta-6s-npcs-work-but-it-was-nearly-cut-because-of-an-ambitious-rockstar-studio-head/",
+      "date": "2026-10-20T11:49:26.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Eurogamer",
+      "title": "GTA 6 is so detailed no single Rockstar employee knows it all - which is how we got shrinking horse testicles in Red Dead Redemption 2",
+      "summary": "Red Dead Redemption 2's infamous animated horse testicles , which are realistic enough to contract in cold weather and expand again in the warmth, were apparently not a feature mandated by Rockstar. As iconic as they've become - a symbol of extraordinary detail in the game - they didn't originate from a list of feat…",
+      "url": "https://www.eurogamer.net/red-dead-redemption-2-horse-testicles-staff-autonomy-gta-6",
+      "date": "2026-10-20T11:20:20.000Z"
+    },
+    {
+      "lead": false,
       "src": "IGN",
       "title": "'There's No One Person That Has This Whole Thing in Their Head' — GTA 6 Devs Had Freedom to Add Cool Features Just Like RDR2's Horse Balls",
       "summary": "Rockstar Games gave the GTA 6 developers so much freedom to add cool details that not even the studio's top executives are aware of everything in the game.",
@@ -28,14 +52,6 @@
     },
     {
       "lead": false,
-      "src": "IGN",
-      "title": "With GTA 6's Dating System Incoming, a Surprising Percentage of Adults Think Investing in a Video Game Relationship Is Cheating",
-      "summary": "With GTA 6's Dating System Incoming, a Surprising Percentage of Adults Think Investing in a Video Game Relationship Is Cheating.",
-      "url": "https://www.ign.com/articles/gta-6-dating-system-cheating",
-      "date": "2026-10-19T15:16:54.000Z"
-    },
-    {
-      "lead": false,
       "src": "GameSpot",
       "title": "All The Records GTA 6 Will Break, We Think",
       "summary": "After years of development and perhaps more hype than for any game, GTA 6 is set for release on November 19 for PS5 and Xbox Series X|S. Predicting that it will be an enormous success commercially is perhaps one of the safest bets anyone could make. But just how big will the launch be? And what records could GTA 6 b…",
@@ -57,30 +73,6 @@
       "summary": "You can smell it in the air can't you? The chill in your nostrils and the earthy whiff as leaves fall and the sun departs for another year. Yes, autumn is here, meaning we're teetering on the cavernous hole of near-nothingness as the entire games industry gives GTA 6 the widest berth imaginable. But that doesn't mea…",
       "url": "https://www.eurogamer.net/galaxies-showcase-2026-games-roundup",
       "date": "2026-10-16T15:04:58.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GameSpot",
-      "title": "GTA 6 Is Taking Over Miami Amid Pushback From Officials: “We’re Depicting Miami Like A Murder Capital”",
-      "summary": "GTA 6's takeover of real-life Miami is continuing, and in a big way, ahead of the open-world crime game's release in November. For anyone unaware, GTA 6 takes place in Vice City, which is a stand-in for Miami, and the game also takes players to surrounding areas of its version of Florida, known as Leonida. After the…",
-      "url": "https://www.gamespot.com/articles/gta-6-is-taking-over-miami-amid-pushback-from-officials-were-depicting-miami-like-a-murder-capital/",
-      "date": "2026-10-16T13:01:12.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GameSpot",
-      "title": "Why Rockstar Canceled Its PlayStation-Exclusive Follow-Up To GTA 4",
-      "summary": "At E3 2009, Sony announced that it was partnering with Rockstar on a PlayStation-exclusive spy game called Agent , with Rockstar founders Sam and Dan Houser overseeing development. The game never materialized, though, and now Dan Houser has shared more details as to why. Speaking to IGN , Houser said Agent never com…",
-      "url": "https://www.gamespot.com/articles/why-rockstar-canceled-its-playstation-exclusive-follow-up-to-gta-4/",
-      "date": "2026-10-15T19:23:16.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GameSpot",
-      "title": "GTA 6 Isn’t Showing Boobie In Promotional Material",
-      "summary": "The marketing machine for Grand Theft Auto 6 is at full steam, and while Rockstar Games is showcasing many of the characters players will be encountering in the open-world crime game, one character with a very distinct name has been largely absent from promos. Viewers of the GTA 6 Extended Look might have been snick…",
-      "url": "https://www.gamespot.com/articles/gta-6-isnt-showing-boobie-in-promotional-material/",
-      "date": "2026-10-15T17:31:32.000Z"
     },
     {
       "lead": false,
@@ -161,14 +153,6 @@
       "summary": "A GTA 6 leaker has reportedly threatened to put out a complete, playable build of the game, start to finish. Read more",
       "url": "https://www.eurogamer.net/gta-6-leaker-cyberleek-threatens-playable-build-leak",
       "date": "2026-10-10T19:42:21.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Eurogamer",
-      "title": "Rockstar HR manager claims he had \"little interest\" in staff's union membership status as fired GTA dev union-busting trial heats up",
-      "summary": "One of the witnesses in the ongoing Rockstar Games vs Garland & Others case has said he had \"little interest\" in evidence of unionisation efforts he was sent by an anonymous employee, prior to the developer laying off a substantial number of union Discord members. Read more",
-      "url": "https://www.eurogamer.net/rockstar-employment-tribunal-hr-manager-little-interest-union",
-      "date": "2026-10-09T16:41:02.000Z"
     }
   ]
 }
