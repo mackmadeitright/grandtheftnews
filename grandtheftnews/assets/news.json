@@ -1,9 +1,41 @@
 {
-  "updated": "2026-10-20T14:14:12.789Z",
-  "count": 19,
+  "updated": "2026-10-20T19:07:09.577Z",
+  "count": 21,
   "items": [
     {
       "lead": true,
+      "src": "IGN",
+      "title": "Shrek 2 Remastered Reveal Trailer Parodies GTA 6, Sets November Release Date",
+      "summary": "Shrek 2 Remastered is real, and its release date is less than a month away.",
+      "url": "https://www.ign.com/articles/shrek-2-remastered-reveal-trailer-parodies-gta-6-sets-november-release-date",
+      "date": "2026-10-20T18:24:07.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "Another PS5 jailbreak has seemingly arrived ahead of GTA 6",
+      "summary": "GTA 6 can't be pirated with the current exploits, but that possibility is getting closer with each passing day",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/another-ps5-jailbreak-has-seemingly-arrived-ahead-of-gta-6-and-sony-and-rockstars-worst-nightmare-could-be-on-the-horizon/",
+      "date": "2026-10-20T17:02:53.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "GTA 6 could beat Clair Obscur's record-breaking Game Awards haul - but I wouldn't bet on it",
+      "summary": "It's all to play for",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-could-beat-clair-obscur-expedition-33s-record-breaking-game-awards-haul-but-i-wouldnt-bet-on-it/",
+      "date": "2026-10-20T16:05:49.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GameSpot",
+      "title": "Justice Is Keeping The GTA 6 Hype At Arm’s Length While Making Its Soundtrack",
+      "summary": "Grand Theft Auto 6 doesn't just look visually impressive; it also has a killer sound thanks to French electronic music duo Justice. Composing the soundtrack for any game is no easy feat, but with GTA 6 generating an unprecedented amount of hype, the team of Gaspard Augé and Xavier de Rosnay are well aware of the exp…",
+      "url": "https://www.gamespot.com/articles/justice-is-keeping-the-gta-6-hype-at-arms-length-while-making-its-soundtrack/",
+      "date": "2026-10-20T14:19:30.000Z"
+    },
+    {
+      "lead": false,
       "src": "GameSpot",
       "title": "GTA 6 Is 148% Ahead Of This Other Popular AAA Game So Far",
       "summary": "GTA 6 launches in November, and everyone expects it to be a giant, record-breaking release . But just how big will the release be? Early signs are pointing to an enormous, unprecedented launch, and new data backs that up. Sensor Tower compiled preorder data for some of the biggest games released over the past six ye…",
@@ -28,27 +60,11 @@
     },
     {
       "lead": false,
-      "src": "IGN",
-      "title": "'There's No One Person That Has This Whole Thing in Their Head' — GTA 6 Devs Had Freedom to Add Cool Features Just Like RDR2's Horse Balls",
-      "summary": "Rockstar Games gave the GTA 6 developers so much freedom to add cool details that not even the studio's top executives are aware of everything in the game.",
-      "url": "https://www.ign.com/articles/theres-no-one-person-that-has-this-whole-thing-in-their-head-gta-6-devs-had-freedom-to-add-cool-features-just-like-rdr2s-horse-balls",
-      "date": "2026-10-19T21:06:17.000Z"
-    },
-    {
-      "lead": false,
       "src": "GamesRadar",
       "title": "Not even Rockstar heads know everything that's in GTA 6 because devs will just add stuff",
       "summary": "Expect a lot of unhinged detailing in GTA 6 similar to Red Dead Redemption 2",
       "url": "https://www.gamesradar.com/games/grand-theft-auto/not-even-rockstar-heads-know-everything-thats-in-gta-6-because-devs-will-just-add-stuff-which-is-also-how-red-dead-redemption-2-got-its-absurd-horse-testicle-physics/",
       "date": "2026-10-19T20:31:40.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "Roblox creator shares project with GTA 6 vibes onlookers \"can't believe\" comes from Roblox",
-      "summary": "\"...is this Roblox?\"",
-      "url": "https://www.gamesradar.com/games/roblox-creator-shares-project-with-gta-6-vibes-that-onlookers-cant-believe-comes-from-roblox-how-is-this-even-possible/",
-      "date": "2026-10-19T15:24:05.000Z"
     },
     {
       "lead": false,
@@ -61,10 +77,10 @@
     {
       "lead": false,
       "src": "GameSpot",
-      "title": "Next Red Dead Launching By 2027 Or 2028 “May Not Be Unreasonable,” Bank Says, But It Definitely Is",
-      "summary": "Citi, the investment bank and financial services company, has released a note about GTA 6 and Rockstar, and included in the brief is a line about what Rockstar could release next--a new Red Dead game. The company said in its memo that, if Rockstar is telling the truth that GTA 6 did not in fact cost $1.5 billion to…",
-      "url": "https://www.gamespot.com/articles/next-red-dead-launching-by-2027-or-2028-may-not-be-unreasonable-bank-says-but-it-definitely-is/",
-      "date": "2026-10-16T15:07:49.000Z"
+      "title": "Watch Out GTA 6, A Shrek 2 Remaster Was Just Announced",
+      "summary": "A remaster of 2004's Shrek 2: The Game is on the way, according to an Xbox.com listing that was published too soon. Following the leak, Aspyr officially announced the Shrek 2 remaster, and it's releasing on November 10. That's just 9 days before GTA 6, so this November it's a battle of Shrek vs. GTA. Shrek 2 Remaste…",
+      "url": "https://www.gamespot.com/articles/shrek-2-remaster-leaks-looks-amazing-and-i-need-it-now/",
+      "date": "2026-10-16T18:21:13.000Z"
     },
     {
       "lead": false,
