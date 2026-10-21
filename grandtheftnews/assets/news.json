@@ -1,14 +1,22 @@
 {
-  "updated": "2026-10-21T04:25:33.830Z",
-  "count": 22,
+  "updated": "2026-10-21T11:36:48.314Z",
+  "count": 21,
   "items": [
     {
       "lead": true,
-      "src": "Polygon",
-      "title": "Shrek 2 Remastered Officially Announced With Must-See GTA 6-inspired Trailer",
-      "summary": "Shrek 2 Remastered launches in November 2026 with 4K visuals, online co-op and updated graphics, Aspyr confirms.",
-      "url": "https://www.polygon.com/shrek-2-remastered-release-date-trailer-online-co-op/",
-      "date": "2026-10-20T23:05:59.000Z"
+      "src": "GamesRadar",
+      "title": "GTA 6 could cost the US economy $1 billion due to an estimated 1.5 million workers calling in sick, economist says",
+      "summary": "It's bad news for the technology sector",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-could-cost-the-us-economy-usd1-billion-due-to-an-estimated-1-5-million-workers-calling-in-sick-economist-says/",
+      "date": "2026-10-21T09:44:30.000Z"
+    },
+    {
+      "lead": false,
+      "src": "IGN",
+      "title": "Sony Issues New PS5 Firmware Update as Jailbreak Race Heats Up Ahead of GTA 6 Release",
+      "summary": "Sony has issued a new PlayStation 5 firmware update amid the homebrew community's ongoing effort to jailbreak the console.",
+      "url": "https://www.ign.com/articles/sony-issues-new-ps5-firmware-update-as-jailbreak-race-heats-up-ahead-of-gta-6-release",
+      "date": "2026-10-21T09:36:28.000Z"
     },
     {
       "lead": false,
@@ -161,22 +169,6 @@
       "summary": "Dan Houser, one of Rockstar's co-founders that left the GTA 6 studio in 2020 , has given a wide-ranging new interview with IGN, covering topics including the tortured production of Bully , changes made to Grand Theft Auto 3's artwork post-9/11, the reaction to Red Dead Redemption's ending , and why he thinks Max Pay…",
       "url": "https://www.eurogamer.net/dan-houser-gta-3-boxart-9-11",
       "date": "2026-10-13T13:35:54.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Eurogamer",
-      "title": "GTA 6 leaker CyberLeek is back with another video and this time, Lucia's naked",
-      "summary": "UPDATE 12TH OCTOBER: More naked footage of Lucia in Grand Theft Auto 6 has been posted. The video, which we won't link to, shows Lucia completely naked standing in the street. There are crass camera angles, wobbly buttocks, and the Cyberleek logo is overlaid over the footage. Be warned if you're browsing X because t…",
-      "url": "https://www.eurogamer.net/gta-6-leaker-cyberleek-naked-lucia-parachute-video",
-      "date": "2026-10-11T12:27:09.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Eurogamer",
-      "title": "GTA 6 leaker CyberLeek is now reportedly threatening to release a full, playable build of the game",
-      "summary": "A GTA 6 leaker has reportedly threatened to put out a complete, playable build of the game, start to finish. Read more",
-      "url": "https://www.eurogamer.net/gta-6-leaker-cyberleek-threatens-playable-build-leak",
-      "date": "2026-10-10T19:42:21.000Z"
     }
   ]
 }
