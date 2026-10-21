@@ -1,9 +1,49 @@
 {
-  "updated": "2026-10-21T11:36:48.314Z",
-  "count": 21,
+  "updated": "2026-10-21T17:02:39.521Z",
+  "count": 24,
   "items": [
     {
       "lead": true,
+      "src": "Kotaku",
+      "title": "Miami Man Who Posted Viral Video Of Vice City Ads Says He Was Fired: ‘GTA 6 Cost Me My Job’",
+      "summary": "He allegedly got in trouble for leaking beach chairs",
+      "url": "https://kotaku.com/miami-man-who-posted-viral-video-of-vice-city-ads-says-he-was-fired-gta-6-cost-me-my-job-2000748342",
+      "date": "2026-10-21T17:00:26.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GameSpot",
+      "title": "GTA 6 Will Feature Lots Of Small Details Like Red Dead’s Dynamic Horse Testicle Physics",
+      "summary": "New details about Rockstar's GTA 6 continue to come to light ahead of the highly anticipated crime game's release in November. Reporter Jason Schreier published a video recently in which he discussed some of the new things about GTA 6 that he learned when interviewing Rockstar, including how the game will feature th…",
+      "url": "https://www.gamespot.com/articles/gta-6-will-feature-lots-of-small-details-like-red-deads-dynamic-horse-testicle-physics/",
+      "date": "2026-10-21T16:16:36.000Z"
+    },
+    {
+      "lead": false,
+      "src": "PC Gamer",
+      "title": "US government leaks the best GTA 6 promo yet: Pißwasser is real",
+      "summary": "Rockstar appears to be teaming up with a Florida brewery to bring two of GTA's most famous beer brands to life.",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/us-government-leaks-the-best-gta-6-promo-yet-pisswasser-is-real/",
+      "date": "2026-10-21T16:12:33.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GameSpot",
+      "title": "GTA 6 Might Give America A Very Expensive Sick Day",
+      "summary": "Everyone wants to play Rockstar Games' upcoming heist-'em-up Grand Theft Auto 6 --so much so that some 1.5 million Americans are projected to call in sick to work on November 19 to play the game, which an economics professor estimates will set the country back roughly $1 billion. According to an International Busine…",
+      "url": "https://www.gamespot.com/articles/gta-6-might-give-america-a-very-expensive-sick-day/",
+      "date": "2026-10-21T16:02:00.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GameSpot",
+      "title": "New PS5 Update Is Out Now, And Sony May Be Tightening Security Before GTA 6",
+      "summary": "Another day, another PS5 update, as Sony tweaks its system with another minor upgrade. It looks like business as usual for PS5 Update Version: 26.07-14.20.00, with Sony focusing on overall usage and message readability, but there are murmurs that the patch could also be quietly plugging a few jailbreak holes. First,…",
+      "url": "https://www.gamespot.com/articles/new-ps5-update-is-out-now-and-sony-may-be-tightening-security-before-gta-6/",
+      "date": "2026-10-21T13:46:30.000Z"
+    },
+    {
+      "lead": false,
       "src": "GamesRadar",
       "title": "GTA 6 could cost the US economy $1 billion due to an estimated 1.5 million workers calling in sick, economist says",
       "summary": "It's bad news for the technology sector",
@@ -36,14 +76,6 @@
     },
     {
       "lead": false,
-      "src": "IGN",
-      "title": "Shrek 2 Remastered Reveal Trailer Parodies GTA 6, Sets November Release Date",
-      "summary": "Shrek 2 Remastered is real, and its release date is less than a month away.",
-      "url": "https://www.ign.com/articles/shrek-2-remastered-reveal-trailer-parodies-gta-6-sets-november-release-date",
-      "date": "2026-10-20T18:24:07.000Z"
-    },
-    {
-      "lead": false,
       "src": "GamesRadar",
       "title": "Another PS5 jailbreak has seemingly arrived ahead of GTA 6",
       "summary": "GTA 6 can't be pirated with the current exploits, but that possibility is getting closer with each passing day",
@@ -73,14 +105,6 @@
       "summary": "GTA 6 launches in November, and everyone expects it to be a giant, record-breaking release . But just how big will the release be? Early signs are pointing to an enormous, unprecedented launch, and new data backs that up. Sensor Tower compiled preorder data for some of the biggest games released over the past six ye…",
       "url": "https://www.gamespot.com/articles/gta-6-is-148-ahead-of-this-other-popular-aaa-game-so-far/",
       "date": "2026-10-20T12:51:41.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "A Red Dead Redemption 2 system that greatly shaped GTA 6 almost wasn't pitched",
-      "summary": "\"This will revolutionize the way our games and our worlds work\"",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/a-fundamental-red-dead-redemption-2-system-provided-the-basis-for-how-gta-6s-npcs-work-but-it-was-nearly-cut-because-of-an-ambitious-rockstar-studio-head/",
-      "date": "2026-10-20T11:49:26.000Z"
     },
     {
       "lead": false,
