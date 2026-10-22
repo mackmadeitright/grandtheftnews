@@ -1,9 +1,25 @@
 {
-  "updated": "2026-10-21T21:31:12.663Z",
-  "count": 19,
+  "updated": "2026-10-22T04:24:20.530Z",
+  "count": 21,
   "items": [
     {
       "lead": true,
+      "src": "Kotaku",
+      "title": "GTA 6‘s First TV Ad Cuts The Spicy Shower Scenes",
+      "summary": "But, we get a few extra milliseconds of new footage, so that's something",
+      "url": "https://kotaku.com/gta-6s-first-tv-ad-cuts-the-spicy-shower-scenes-2000748474",
+      "date": "2026-10-21T23:30:00.000Z"
+    },
+    {
+      "lead": false,
+      "src": "IGN",
+      "title": "GTA 6's Fast Food Restaurant, Burger Shot, Is Coming to Real Life in the Miami Heat's Arena",
+      "summary": "One of the most iconic fast food restaurants from the GTA universe is becoming real ahead of GTA 6's release.",
+      "url": "https://www.ign.com/articles/gta-6s-fast-food-restaurant-burger-shot-is-coming-to-real-life-in-the-miami-heats-arena",
+      "date": "2026-10-21T23:15:44.000Z"
+    },
+    {
+      "lead": false,
       "src": "IGN",
       "title": "You Can Save $11 Off GTA 6 Preorders, Today Only",
       "summary": "Follow three simple steps, and you can save $11 off Grand Theft Auto 6, today only.",
