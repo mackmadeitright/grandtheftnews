@@ -1,9 +1,33 @@
 {
-  "updated": "2026-10-22T11:36:32.518Z",
-  "count": 20,
+  "updated": "2026-10-22T17:01:35.004Z",
+  "count": 17,
   "items": [
     {
       "lead": true,
+      "src": "GamesRadar",
+      "title": "Cyberpunk 2077's new update just made it the anti-GTA 6",
+      "summary": "Night City over Vice City any day",
+      "url": "https://www.gamesradar.com/games/cyberpunk/cyberpunk-2077s-new-update-just-made-it-the-anti-gta-6/",
+      "date": "2026-10-22T15:30:00.000Z"
+    },
+    {
+      "lead": false,
+      "src": "IGN",
+      "title": "First GTA 6 TV Commercial Strips Out Steamy Shower Scenes, but Shows More of Lucia's Fancy Hair Tech",
+      "summary": "GTA 6 has its first TV commercial, and it's a little different than the launch trailer.",
+      "url": "https://www.ign.com/articles/gta-6-tv-commercial-strips-shower-scene-doesnt-mention-xbox",
+      "date": "2026-10-22T13:40:42.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GameSpot",
+      "title": "You Can Now Buy GTA 6 Burgers And Fried Chicken IRL, But It’s Not Cheap",
+      "summary": "Rockstar's marketing efforts for GTA 6 are ramping up, and this now includes burgers and fried chicken that you can buy in real life. Rockstar's partnership with Miami's Kaseya Center expanded this week with the introduction of the restaurants \"Burger Shot\" and \"Cluckin' Bell\" at Heat games. These are based on their…",
+      "url": "https://www.gamespot.com/articles/you-can-now-buy-gta-6-burgers-and-fried-chicken-irl-but-its-not-cheap/",
+      "date": "2026-10-22T13:26:08.000Z"
+    },
+    {
+      "lead": false,
       "src": "Kotaku",
       "title": "GTA 6‘s First TV Ad Cuts The Spicy Shower Scenes",
       "summary": "But, we get a few extra milliseconds of new footage, so that's something",
@@ -17,22 +41,6 @@
       "summary": "One of the most iconic fast food restaurants from the GTA universe is becoming real ahead of GTA 6's release.",
       "url": "https://www.ign.com/articles/gta-6s-fast-food-restaurant-burger-shot-is-coming-to-real-life-in-the-miami-heats-arena",
       "date": "2026-10-21T23:15:44.000Z"
-    },
-    {
-      "lead": false,
-      "src": "IGN",
-      "title": "You Can Save $11 Off GTA 6 Preorders, Today Only",
-      "summary": "Follow three simple steps, and you can save $11 off Grand Theft Auto 6, today only.",
-      "url": "https://www.ign.com/articles/you-can-save-11-off-gta-6-preorders-today-only",
-      "date": "2026-10-21T19:40:49.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Kotaku",
-      "title": "Miami Man Who Posted Viral Video Of Vice City Ads Says He Was Fired: ‘GTA 6 Cost Me My Job’",
-      "summary": "He allegedly got in trouble for leaking beach chairs",
-      "url": "https://kotaku.com/miami-man-who-posted-viral-video-of-vice-city-ads-says-he-was-fired-gta-6-cost-me-my-job-2000748342",
-      "date": "2026-10-21T17:00:26.000Z"
     },
     {
       "lead": false,
@@ -68,27 +76,11 @@
     },
     {
       "lead": false,
-      "src": "GameSpot",
-      "title": "Justice Is Keeping The GTA 6 Hype At Arm’s Length While Making Its Soundtrack",
-      "summary": "Grand Theft Auto 6 doesn't just look visually impressive; it also has a killer sound thanks to French electronic music duo Justice. Composing the soundtrack for any game is no easy feat, but with GTA 6 generating an unprecedented amount of hype, the team of Gaspard Augé and Xavier de Rosnay are well aware of the exp…",
-      "url": "https://www.gamespot.com/articles/justice-is-keeping-the-gta-6-hype-at-arms-length-while-making-its-soundtrack/",
-      "date": "2026-10-20T14:19:30.000Z"
-    },
-    {
-      "lead": false,
       "src": "Eurogamer",
       "title": "GTA 6 is so detailed no single Rockstar employee knows it all - which is how we got shrinking horse testicles in Red Dead Redemption 2",
       "summary": "Red Dead Redemption 2's infamous animated horse testicles , which are realistic enough to contract in cold weather and expand again in the warmth, were apparently not a feature mandated by Rockstar. As iconic as they've become - a symbol of extraordinary detail in the game - they didn't originate from a list of feat…",
       "url": "https://www.eurogamer.net/red-dead-redemption-2-horse-testicles-staff-autonomy-gta-6",
       "date": "2026-10-20T11:20:20.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GameSpot",
-      "title": "Watch Out GTA 6, A Shrek 2 Remaster Was Just Announced",
-      "summary": "A remaster of 2004's Shrek 2: The Game is on the way, according to an Xbox.com listing that was published too soon. Following the leak, Aspyr officially announced the Shrek 2 remaster, and it's releasing on November 10. That's just 9 days before GTA 6, so this November it's a battle of Shrek vs. GTA. Shrek 2 Remaste…",
-      "url": "https://www.gamespot.com/articles/shrek-2-remaster-leaks-looks-amazing-and-i-need-it-now/",
-      "date": "2026-10-16T18:21:13.000Z"
     },
     {
       "lead": false,
@@ -145,22 +137,6 @@
       "summary": "As American comedy series Saturday Night Live airs a sketch lampooning the November showdown between Grand Theft Auto 6 and The Legend of Zelda: Ocarina of Time remake, a pair of former Nintendo employees have recalled a more infamous SNL sketch from years earlier that did not go down well at all. Read more",
       "url": "https://www.eurogamer.net/snl-elon-musk-wario-skit-zelda-gta-6",
       "date": "2026-10-13T15:33:54.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Eurogamer",
-      "title": "GTA 6's PC release date is set for \"Q1 2027\", per a new report",
-      "summary": "A new report suggests that GTA 6 will release on PC in \"Q1 2027\". That, at least, is what GamesBeat is saying, citing \"sources familiar with the matter.\" Read more",
-      "url": "https://www.eurogamer.net/gta-6s-pc-release-date-is-set-for-q1-2027-per-a-new-report",
-      "date": "2026-10-13T13:57:07.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Eurogamer",
-      "title": "GTA 3's iconic box art was changed at the last minute because of 9/11, ex-Rockstar lead Dan Houser reveals",
-      "summary": "Dan Houser, one of Rockstar's co-founders that left the GTA 6 studio in 2020 , has given a wide-ranging new interview with IGN, covering topics including the tortured production of Bully , changes made to Grand Theft Auto 3's artwork post-9/11, the reaction to Red Dead Redemption's ending , and why he thinks Max Pay…",
-      "url": "https://www.eurogamer.net/dan-houser-gta-3-boxart-9-11",
-      "date": "2026-10-13T13:35:54.000Z"
     }
   ]
 }
