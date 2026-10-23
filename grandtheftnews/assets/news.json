@@ -1,9 +1,25 @@
 {
-  "updated": "2026-10-23T04:29:34.590Z",
-  "count": 15,
+  "updated": "2026-10-23T11:25:50.136Z",
+  "count": 17,
   "items": [
     {
       "lead": true,
+      "src": "Polygon",
+      "title": "25 Years Later, GTA 3 Is Still the Most Fascinating Open-World Experiment",
+      "summary": "Rockstar's 2001 GTA 3 changed the open-world game forever with its urban playground of Liberty City.",
+      "url": "https://www.polygon.com/gta-3-retrospective/",
+      "date": "2026-10-23T11:00:19.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Polygon",
+      "title": "Grand Theft Auto 6 Launch Trailer Was Changed for TV: Here Are All the Differences",
+      "summary": "Two versions of the Grand Theft Auto 6 launch trailer aired on TV, making slight changes to the original.",
+      "url": "https://www.polygon.com/grand-theft-auto-gta-6-launch-trailer-tv-commercial-changes/",
+      "date": "2026-10-23T09:42:37.000Z"
+    },
+    {
+      "lead": false,
       "src": "GameSpot",
       "title": "GTA 6’s New TV Trailer Is A Bit Different, See It For Yourself",
       "summary": "GTA 6 's marketing push is ramping up substantially, and that includes with TV commercials. Eagled-eyes fans have discovered that the new GTA 6 TV spots actually contain some extended sequences, but just barely. For starters, a 30-second TV spot cuts out the steamy shower scenes with Jason and Lucia from the launch…",
