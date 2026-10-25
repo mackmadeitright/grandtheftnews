@@ -1,9 +1,25 @@
 {
-  "updated": "2026-10-25T11:10:28.347Z",
-  "count": 13,
+  "updated": "2026-10-25T15:58:00.920Z",
+  "count": 14,
   "items": [
     {
       "lead": true,
+      "src": "IGN",
+      "title": "Rumored Lucia Actress Goes Viral After Dodging Swarm of GTA 6 Comments During Livestream",
+      "summary": "Manni L. Perez, the actress long rumored to be playing Lucia in GTA 6, has gone viral after dodging a swarm of comments from Grand Theft Auto fans during a recent livestream.",
+      "url": "https://www.ign.com/articles/rumored-lucia-actress-goes-viral-after-dodging-swarm-of-gta-6-comments-during-livestream",
+      "date": "2026-10-25T15:14:17.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Polygon",
+      "title": "GTA: San Andreas’ Most Frustrating MIssion Show How Far Rockstar Has Come in 22 Years",
+      "summary": "Grand Theft Auto: San Andreas is a classic game with interesting missions, but its annoying controls just feel worse after 22 years.",
+      "url": "https://www.polygon.com/gta-san-andreas-retrospective/",
+      "date": "2026-10-25T13:00:18.000Z"
+    },
+    {
+      "lead": false,
       "src": "GamesRadar",
       "title": "\"For most of development, GTA 3 was in a sorry state\": Rockstar veteran reflects ahead of GTA 6",
       "summary": "\"If they were fun, they were in. The story was secondary.\"",
@@ -97,14 +113,6 @@
       "summary": "Rockstar Games has released the launch trailer for Grand Theft Auto 6 ahead of its 19th November release. Read more",
       "url": "https://www.eurogamer.net/grand-theft-auto-6-launch-trailer",
       "date": "2026-10-15T13:24:51.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Eurogamer",
-      "title": "GTA 6 leaker's latest video allegedly shows scenes from the final mission, as they indicate the leaks may have come to an end",
-      "summary": "Cyberleek, the leaker who's been releasing footage from Grand Theft Auto 6 for weeks now, is seemingly done posting leaks. Cyberleek released a new - seemingly final - video today which supposedly shows parts of the game's ending. Read more",
-      "url": "https://www.eurogamer.net/gta-6-cyberleek-ending-crypto-coin-crash",
-      "date": "2026-10-14T13:06:10.000Z"
     }
   ]
 }
