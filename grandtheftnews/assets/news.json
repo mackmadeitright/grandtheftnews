@@ -1,30 +1,30 @@
 {
-  "updated": "2026-10-26T12:44:15.670Z",
-  "count": 10,
+  "updated": "2026-10-26T20:24:01.817Z",
+  "count": 8,
   "items": [
     {
       "lead": true,
+      "src": "Polygon",
+      "title": "GTA 6's Rumored Lucia Actor Breaks Silence With Rare Live Appearance",
+      "summary": "The apparent actress behind Grand Theft Auto 6's Lucia Caminos, Manni Perez, shut downs haters with a livestream",
+      "url": "https://www.polygon.com/gta-6-manni-perez-lucia-caminos-actor-who-is-instagram-live-money/",
+      "date": "2026-10-26T20:06:55.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GameSpot",
+      "title": "GTA 6 Coffee Is Here To Keep You Warm Until The Game Releases",
+      "summary": "While Rockstar's GTA 6 won't release until November 19, you can now buy officially licensed GTA 6 coffee from a local company in Miami. Vice City Bean has partnered with Rockstar Games for a new blend called Leonida, but it's not cheap. A 10oz bag of beans is going for $23 , and that's before shipping costs if you d…",
+      "url": "https://www.gamespot.com/articles/gta-6-coffee-is-here-to-keep-you-warm-until-the-game-releases/",
+      "date": "2026-10-26T13:54:17.000Z"
+    },
+    {
+      "lead": false,
       "src": "IGN",
       "title": "Rumored Lucia Actress Goes Viral After Dodging Swarm of GTA 6 Comments During Livestream",
       "summary": "Manni L. Perez, the actress long rumored to be playing Lucia in GTA 6, has gone viral after dodging a swarm of comments from Grand Theft Auto fans during a recent livestream.",
       "url": "https://www.ign.com/articles/rumored-lucia-actress-goes-viral-after-dodging-swarm-of-gta-6-comments-during-livestream",
       "date": "2026-10-25T15:14:17.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "\"For most of development, GTA 3 was in a sorry state\": Rockstar veteran reflects ahead of GTA 6",
-      "summary": "\"If they were fun, they were in. The story was secondary.\"",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/for-most-of-development-gta-3-was-in-a-sorry-state-rockstar-veteran-reflects-on-25-years-of-grand-theft-auto-ahead-of-gta-6-says-i-dont-remember-much-crunch/",
-      "date": "2026-10-23T17:36:52.000Z"
-    },
-    {
-      "lead": false,
-      "src": "IGN",
-      "title": "IGN Is Partnering with Best Buy for 3 Weeks of Giveaways Leading Up to GTA VI’s Release",
-      "summary": "Read the full story at the source.",
-      "url": "https://www.ign.com/articles/ign-is-partnering-with-best-buy-for-3-weeks-of-giveaways-leading-up-to-gta-vis-release",
-      "date": "2026-10-23T17:00:00.000Z"
     },
     {
       "lead": false,
@@ -65,22 +65,6 @@
       "summary": "You can smell it in the air can't you? The chill in your nostrils and the earthy whiff as leaves fall and the sun departs for another year. Yes, autumn is here, meaning we're teetering on the cavernous hole of near-nothingness as the entire games industry gives GTA 6 the widest berth imaginable. But that doesn't mea…",
       "url": "https://www.eurogamer.net/galaxies-showcase-2026-games-roundup",
       "date": "2026-10-16T15:04:58.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Eurogamer",
-      "title": "GTA 6 squeaks into eligibility for The Game Awards 2026 by the smallest of margins - but can it break Clair Obscur: Expedition 33's record number of wins?",
-      "summary": "This generation's mega-game, Grand Theft Auto 6 , will be eligible for The Game Awards 2026 by a matter of one day. Read more",
-      "url": "https://www.eurogamer.net/gta-6-the-game-awards-eligibility-geoff-keighley",
-      "date": "2026-10-15T16:10:34.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Eurogamer",
-      "title": "Grand Theft Auto 6 launch trailer suddenly drops, showing a saucy shower scene, a tense police chase, and high-flying heists",
-      "summary": "Rockstar Games has released the launch trailer for Grand Theft Auto 6 ahead of its 19th November release. Read more",
-      "url": "https://www.eurogamer.net/grand-theft-auto-6-launch-trailer",
-      "date": "2026-10-15T13:24:51.000Z"
     }
   ]
 }
