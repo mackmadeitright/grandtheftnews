@@ -1,9 +1,41 @@
 {
-  "updated": "2026-10-27T08:51:23.699Z",
-  "count": 10,
+  "updated": "2026-10-27T15:16:38.361Z",
+  "count": 12,
   "items": [
     {
       "lead": true,
+      "src": "GamesRadar",
+      "title": "GTA 6 exclusive leads Edge 430, includes a 16-page cover feature that has a Rockstar interview and more",
+      "summary": "You can even read that cover feature for free",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-exclusive-leads-edge-430-check-out-the-16-page-cover-feature-that-includes-interviews-with-rockstar-bespoke-screenshots-and-more-this-week/",
+      "date": "2026-10-27T15:02:26.000Z"
+    },
+    {
+      "lead": false,
+      "src": "PC Gamer",
+      "title": "Edge magazine went to Rockstar to see GTA 6, and will tell you all about in lavish detail this Thursday, October 29",
+      "summary": "I bet you can steal cars.",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/edge-magazine-went-to-rockstar-to-see-gta-6-and-will-tell-you-all-about-in-lavish-detail-this-thursday-october-29/",
+      "date": "2026-10-27T15:00:00.000Z"
+    },
+    {
+      "lead": false,
+      "src": "IGN",
+      "title": "Get GTA 6 Ultimate Edition on PS5 for Just $85 Using This Trick – Today Only",
+      "summary": "Today only, you can get a $100 PlayStation Store gift card for just $85 – and then use it to buy the Ultimate Edition of Grand Theft Auto 6 for PS5.",
+      "url": "https://www.ign.com/articles/get-gta-6-ultimate-edition-on-ps5-for-just-85-using-this-trick-today-only",
+      "date": "2026-10-27T14:00:19.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "Devs \"fear\" launching near GTA 6, but one analyst says they shouldn't",
+      "summary": "There's room for more than Rockstar's behemoth",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/devs-fear-launching-near-gta-6-but-one-analyst-says-they-shouldnt-a-lot-of-people-are-going-to-want-to-play-other-things/",
+      "date": "2026-10-27T11:18:12.000Z"
+    },
+    {
+      "lead": false,
       "src": "PC Gamer",
       "title": "One day before launch, ARPG Emberville gets delayed until 2027",
       "summary": "Don't blame this one on GTA 6: The developers say incorporating feedback on Emberville's demo is taking longer than they expected.",
@@ -60,27 +92,11 @@
     },
     {
       "lead": false,
-      "src": "GameSpot",
-      "title": "GTA 6’s New TV Trailer Is A Bit Different, See It For Yourself",
-      "summary": "GTA 6 's marketing push is ramping up substantially, and that includes with TV commercials. Eagled-eyes fans have discovered that the new GTA 6 TV spots actually contain some extended sequences, but just barely. For starters, a 30-second TV spot cuts out the steamy shower scenes with Jason and Lucia from the launch…",
-      "url": "https://www.gamespot.com/articles/gta-6s-new-tv-trailer-is-a-bit-different-see-it-for-yourself/",
-      "date": "2026-10-22T19:52:26.000Z"
-    },
-    {
-      "lead": false,
       "src": "Eurogamer",
       "title": "GTA 6 is so detailed no single Rockstar employee knows it all - which is how we got shrinking horse testicles in Red Dead Redemption 2",
       "summary": "Red Dead Redemption 2's infamous animated horse testicles , which are realistic enough to contract in cold weather and expand again in the warmth, were apparently not a feature mandated by Rockstar. As iconic as they've become - a symbol of extraordinary detail in the game - they didn't originate from a list of feat…",
       "url": "https://www.eurogamer.net/red-dead-redemption-2-horse-testicles-staff-autonomy-gta-6",
       "date": "2026-10-20T11:20:20.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Eurogamer",
-      "title": "11 games and announcements that got us excited in the latest Galaxies Showcase",
-      "summary": "You can smell it in the air can't you? The chill in your nostrils and the earthy whiff as leaves fall and the sun departs for another year. Yes, autumn is here, meaning we're teetering on the cavernous hole of near-nothingness as the entire games industry gives GTA 6 the widest berth imaginable. But that doesn't mea…",
-      "url": "https://www.eurogamer.net/galaxies-showcase-2026-games-roundup",
-      "date": "2026-10-16T15:04:58.000Z"
     }
   ]
 }
