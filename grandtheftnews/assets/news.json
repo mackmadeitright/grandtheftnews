@@ -1,9 +1,81 @@
 {
-  "updated": "2026-10-27T15:16:38.361Z",
-  "count": 12,
+  "updated": "2026-10-27T22:04:24.499Z",
+  "count": 16,
   "items": [
     {
       "lead": true,
+      "src": "Kotaku",
+      "title": "GTA 6′s Expectedly Massive File Size Has Been Revealed",
+      "summary": "Leonida needs its space",
+      "url": "https://kotaku.com/gta-6s-expectedly-massive-file-size-has-been-revealed-2000750298",
+      "date": "2026-10-27T22:00:13.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "The day GTA 6 pre-loading starts, unionizing Rockstar developers will vote on the studio's future",
+      "summary": "Rockstar union agreement covers \"pay and bonuses, overtime, redundancies, flexible working, and generative AI policies\"",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/the-day-gta-6-pre-loading-starts-unionizing-rockstar-developers-will-vote-on-the-future-of-the-legendary-studio-this-is-our-moment/",
+      "date": "2026-10-27T20:28:50.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GameSpot",
+      "title": "GTA 6 Developers Are About To Do Something Historic",
+      "summary": "Workers at GTA 6 developer Rockstar will soon get to vote on recognizing a union. The union, IWGB Union at Rockstar, is for Rockstar's UK-based developers. Rockstar North, based in Edinburgh, Scotland, is one of Rockstar's biggest outfits in the UK, and the lead developer on GTA 6. The negotiating process between th…",
+      "url": "https://www.gamespot.com/articles/gta-6-developers-are-about-to-do-something-historic/",
+      "date": "2026-10-27T19:43:21.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GameSpot",
+      "title": "This Company Is Paying You To Play GTA 6, But It’s A Long Shot",
+      "summary": "A company, Virgin Media, has announced a promotional campaign where one lucky person will get paid to play GTA 6 . The promotion, which is limited to Ireland, requires people to explain in 100-200 words on this contest site why they deserve to get paid to play GTA 6. Virgin Media will then select a winner, and if th…",
+      "url": "https://www.gamespot.com/articles/this-company-is-paying-you-to-play-gta-6-but-its-a-long-shot/",
+      "date": "2026-10-27T19:03:48.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Polygon",
+      "title": "GTA 6 Download Install Size Revealed on PS5",
+      "summary": "Grand Theft Auto 6 on PlayStation 5 will require more than 200 GB of storage space, according to a new report.",
+      "url": "https://www.polygon.com/gta-6-storage-size-install-ps5-xbox-series-x/",
+      "date": "2026-10-27T18:11:55.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Kotaku",
+      "title": "Rockstar Games Devs In The UK Will Hold A Union Vote During The Launch Of GTA 6",
+      "summary": "The voting period runs from November 12 through 26",
+      "url": "https://kotaku.com/rockstar-games-devs-in-the-uk-will-hold-a-union-vote-during-the-launch-of-gta-6-2000750216",
+      "date": "2026-10-27T18:05:51.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "GTA 6 is a 210GB download, says PlayStation Store sleuth",
+      "summary": "Another Grand Theft Auto pre-load beckons, prepare your drive",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-is-a-210gb-download-says-playstation-store-sleuth/",
+      "date": "2026-10-27T17:59:46.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GameSpot",
+      "title": "GTA 6 File Size Revealed, And It’s Massive",
+      "summary": "Ahead of the game's release in November, GTA 6' s file size has been revealed, and it is massive. PlayStation Game Size reports that the $80 standard edition will take up 210GB of storage capacity. Size details for the $100 Ultimate Edition--which includes a ton of content not in the regular version--were not made a…",
+      "url": "https://www.gamespot.com/articles/gta-6-file-size-revealed-and-its-massive/",
+      "date": "2026-10-27T17:48:21.000Z"
+    },
+    {
+      "lead": false,
+      "src": "IGN",
+      "title": "GTA 6 Sparks Unlikely Cliff Richard Resurgence, but the 86-Year-Old Singer Still Doesn't Know What It Is",
+      "summary": "British singer Cliff Richard is enjoying an unlikely resurgence at the age of 86 after one of his old songs featured in the GTA 6 Extended Look on Netflix, but it seems the whole Rockstar Games phenomenon has passed him by.",
+      "url": "https://www.ign.com/articles/devil-woman-singer-cliff-richard-didnt-know-gta-6",
+      "date": "2026-10-27T17:10:44.000Z"
+    },
+    {
+      "lead": false,
       "src": "GamesRadar",
       "title": "GTA 6 exclusive leads Edge 430, includes a 16-page cover feature that has a Rockstar interview and more",
       "summary": "You can even read that cover feature for free",
@@ -13,7 +85,7 @@
     {
       "lead": false,
       "src": "PC Gamer",
-      "title": "Edge magazine went to Rockstar to see GTA 6, and will tell you all about in lavish detail this Thursday, October 29",
+      "title": "Edge magazine went to Rockstar to see GTA 6, and will tell you all about it in lavish detail this Thursday, October 29",
       "summary": "I bet you can steal cars.",
       "url": "https://www.pcgamer.com/games/grand-theft-auto/edge-magazine-went-to-rockstar-to-see-gta-6-and-will-tell-you-all-about-in-lavish-detail-this-thursday-october-29/",
       "date": "2026-10-27T15:00:00.000Z"
@@ -44,51 +116,11 @@
     },
     {
       "lead": false,
-      "src": "IGN",
-      "title": "Hunger Games Director Hopes You Aren't Too Distracted With GTA 6 to See Sunrise on the Reaping",
-      "summary": "Francis Lawrence, director of Netflix’s BioShock movie, opened up to IGN about his favorite video games of all time, and we have to admit that he knows ball.",
-      "url": "https://www.ign.com/articles/hunger-games-director-hopes-you-arent-too-distracted-with-gta-6-to-see-sunrise-on-the-reaping",
-      "date": "2026-10-26T21:53:31.000Z"
-    },
-    {
-      "lead": false,
-      "src": "IGN",
-      "title": "GTA 6 Causes 17% Spike in Time Off Requests on Game's Release Date",
-      "summary": "GTA 6's release has led to as much as a 17% increase in time-off requests, according to a new report.",
-      "url": "https://www.ign.com/articles/gta-6-causes-17-spike-in-time-off-requests-on-games-release-date",
-      "date": "2026-10-26T21:42:48.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Kotaku",
-      "title": "AI Has Triggered A PS5 Homebrew Gold Rush, But It’s Also The Reason GTA 6 Can’t Be Pirated At Release",
-      "summary": "One hacker is being accused of ruining everyone's chances of pirating GTA 6 after reporting a massive hypervisor exploit to Sony",
-      "url": "https://kotaku.com/ai-has-triggered-a-ps5-homebrew-gold-rush-but-its-also-the-reason-gta-6-cant-be-pirated-at-release-2000749776",
-      "date": "2026-10-26T21:30:32.000Z"
-    },
-    {
-      "lead": false,
       "src": "GameSpot",
       "title": "GTA 6 Coffee Is Here To Keep You Warm Until The Game Releases",
       "summary": "While Rockstar's GTA 6 won't release until November 19, you can now buy officially licensed GTA 6 coffee from a local company in Miami. Vice City Bean has partnered with Rockstar Games for a new blend called Leonida, but it's not cheap. A 10oz bag of beans is going for $23 , and that's before shipping costs if you d…",
       "url": "https://www.gamespot.com/articles/gta-6-coffee-is-here-to-keep-you-warm-until-the-game-releases/",
       "date": "2026-10-26T13:54:17.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GameSpot",
-      "title": "Finger Out How To Prep For GTA 6 With These Exercises",
-      "summary": "We're just weeks away from Grand Theft Auto VI launching, and you might think you're set to spend hours upon hours in the open-world game right now. But PureGym asks if your body is actually ready like former Nintendo of America president Reggie Fils-Aime's --as well as your thumbs. With that in mind, the fitness co…",
-      "url": "https://www.gamespot.com/articles/finger-out-how-to-prep-for-gta-6-with-these-exercises/",
-      "date": "2026-10-23T15:39:56.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GameSpot",
-      "title": "GTA 6 Burgers Will Be Available In Florida Throughout The Year",
-      "summary": "Rockstar Games and the burger company Skinny Louie have announced a partnership to promote GTA 6 , during which its stores will convert to Burger Shots through the end of the year. Burger Shot is the Burger King parody in the world of GTA. People in South Florida can buy GTA 6 burgers at the Kaseya Center, and also…",
-      "url": "https://www.gamespot.com/articles/gta-6-burgers-will-be-available-in-florida-throughout-the-year/",
-      "date": "2026-10-23T15:13:13.000Z"
     },
     {
       "lead": false,
