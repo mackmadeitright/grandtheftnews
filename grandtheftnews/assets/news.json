@@ -1,9 +1,73 @@
 {
-  "updated": "2026-10-28T12:37:08.811Z",
-  "count": 18,
+  "updated": "2026-10-28T20:10:57.984Z",
+  "count": 23,
   "items": [
     {
       "lead": true,
+      "src": "GameSpot",
+      "title": "GTA 6 Online Could Be Released In Early 2027, Bank Says",
+      "summary": "Take-Two's biggest release ever, GTA 6 , is coming up in November, but the company's share price continues to drop. It's down 21% this year and has now dipped under $200 this week after reaching a 52-week high of $265. In short, the stock is struggling , but one big bank says it sees a lot of upside, in part because…",
+      "url": "https://www.gamespot.com/articles/gta-6-online-could-be-released-in-early-2027-bank-says/",
+      "date": "2026-10-28T19:05:50.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "Nearly 1 in 3 gamers plan to buy GTA 6 in US, analyst says: \"A rare cultural and commercial moment\"",
+      "summary": "\"Players have been waiting 13 years for a sequel to Grand Theft Auto 5\"",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/nearly-1-in-3-gamers-plan-to-buy-gta-6-in-the-us-analyst-confirms-a-rare-cultural-and-commercial-moment/",
+      "date": "2026-10-28T17:29:11.000Z"
+    },
+    {
+      "lead": false,
+      "src": "PC Gamer",
+      "title": "GTA 6's PS5 install size is so big you could store 3500 copies of Balatro inside",
+      "summary": "That's a lot of space to ask for in the midst of the memory crisis.",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6s-ps5-install-size-is-so-big-you-could-store-3500-copies-of-balatro-inside/",
+      "date": "2026-10-28T15:52:11.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GameSpot",
+      "title": "If GTA 6 Beats Football On Thanksgiving, That’s A Win, EA Founder Says",
+      "summary": "Rockstar's GTA 6 is expected to be a giant success commercially, but just how big does the game need to be to actually be successful following a decade of development and perhaps one of the biggest development budgets ever ? We don't know, because Take-Two doesn't disclose that kind of information, but EA founder Bi…",
+      "url": "https://www.gamespot.com/articles/if-gta-6-beats-football-on-thanksgiving-thats-a-win-ea-founder-says/",
+      "date": "2026-10-28T15:42:37.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GameSpot",
+      "title": "New Hunger Games Movie Comes Out The Day After GTA 6, But Is The Director Scared?",
+      "summary": "GTA 6 launches on November 19, and one day later, the new Hunger Games movie, Sunrise on the Reaping, comes to theaters. GTA 6 is expected to be an unprecedented hit that captures people's time and attention , especially right at launch. Will this impact Sunrise on the Reaping? That remains to be seen, but director…",
+      "url": "https://www.gamespot.com/articles/new-hunger-games-movie-comes-out-the-day-after-gta-6-but-is-the-director-scared/",
+      "date": "2026-10-28T14:36:28.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "Just in time for GTA 6, GameSir is launching two Vice City-inspired versions of the G7 Pro",
+      "summary": "GameSir is stealthily launching two GTA-inspired versions of its G7 Pro controller, but don't tell Rockstar because these definitely aren't official.",
+      "url": "https://www.gamesradar.com/hardware/gaming-controllers/dont-tell-rockstar-but-gamesir-is-launching-two-new-gta-6-inspired-colorways-of-its-g7-pro-controller/",
+      "date": "2026-10-28T13:42:05.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GameSpot",
+      "title": "GTA 6 Breaks A Record, And It’s Not Even Out Yet",
+      "summary": "Rockstar's GTA 6 is expected to be an enormous, unprecedented success when it releases on November 19, and new data only backs that up further. Circana has released new data that shows that GTA 6 holds 29% purchase intent among US console and PC gamers. That means nearly 1 in 3 console and PC gamers in the US plan t…",
+      "url": "https://www.gamespot.com/articles/gta-6-breaks-a-record-and-its-not-even-out-yet/",
+      "date": "2026-10-28T13:31:21.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "GTA 6 actors get advice from Grand Theft Auto veterans: \"Listen to Rockstar\" and \"get ready\"",
+      "summary": "\"They're going to lead you in the right direction\"",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-actors-get-advice-from-grand-theft-auto-veterans-listen-to-rockstar-and-get-ready/",
+      "date": "2026-10-28T13:10:22.000Z"
+    },
+    {
+      "lead": false,
       "src": "GamesRadar",
       "title": "GTA 6 file size revealed at 210GB, but SSD upgrades aren't the answer if you're already running out of space",
       "summary": "GTA 6's 210GB file size could topple your PS5's internal storage, but with the prices of SSDs these days I'd recommend checking out external hard drives instead.",
@@ -76,14 +140,6 @@
     },
     {
       "lead": false,
-      "src": "Kotaku",
-      "title": "Rockstar Games Devs In The UK Will Hold A Union Vote During The Launch Of GTA 6",
-      "summary": "The voting period runs from November 12 through 26",
-      "url": "https://kotaku.com/rockstar-games-devs-in-the-uk-will-hold-a-union-vote-during-the-launch-of-gta-6-2000750216",
-      "date": "2026-10-27T18:05:51.000Z"
-    },
-    {
-      "lead": false,
       "src": "GamesRadar",
       "title": "GTA 6 is a 210GB download, says PlayStation Store sleuth",
       "summary": "Another Grand Theft Auto pre-load beckons, prepare your drive",
@@ -93,26 +149,10 @@
     {
       "lead": false,
       "src": "GameSpot",
-      "title": "GTA 6 File Size Revealed, And It’s Massive",
+      "title": "GTA 6 File Size Revealed, And It’s Massive–See How It Compares To Other Huge Games",
       "summary": "Ahead of the game's release in November, GTA 6' s file size has been revealed, and it is massive. PlayStation Game Size reports that the $80 standard edition will take up 210GB of storage capacity. Size details for the $100 Ultimate Edition--which includes a ton of content not in the regular version--were not made a…",
       "url": "https://www.gamespot.com/articles/gta-6-file-size-revealed-and-its-massive/",
       "date": "2026-10-27T17:48:21.000Z"
-    },
-    {
-      "lead": false,
-      "src": "IGN",
-      "title": "GTA 6 Sparks Unlikely Cliff Richard Resurgence, but the 86-Year-Old Singer Still Doesn't Know What It Is",
-      "summary": "British singer Cliff Richard is enjoying an unlikely resurgence at the age of 86 after one of his old songs featured in the GTA 6 Extended Look on Netflix, but it seems the whole Rockstar Games phenomenon has passed him by.",
-      "url": "https://www.ign.com/articles/devil-woman-singer-cliff-richard-didnt-know-gta-6",
-      "date": "2026-10-27T17:10:44.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "GTA 6 exclusive leads Edge 430, includes a 16-page cover feature that has a Rockstar interview and more",
-      "summary": "You can even read that cover feature for free",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-exclusive-leads-edge-430-check-out-the-16-page-cover-feature-that-includes-interviews-with-rockstar-bespoke-screenshots-and-more-this-week/",
-      "date": "2026-10-27T15:02:26.000Z"
     },
     {
       "lead": false,
@@ -132,19 +172,19 @@
     },
     {
       "lead": false,
-      "src": "GameSpot",
-      "title": "GTA 6 Coffee Is Here To Keep You Warm Until The Game Releases",
-      "summary": "While Rockstar's GTA 6 won't release until November 19, you can now buy officially licensed GTA 6 coffee from a local company in Miami. Vice City Bean has partnered with Rockstar Games for a new blend called Leonida, but it's not cheap. A 10oz bag of beans is going for $23 , and that's before shipping costs if you d…",
-      "url": "https://www.gamespot.com/articles/gta-6-coffee-is-here-to-keep-you-warm-until-the-game-releases/",
-      "date": "2026-10-26T13:54:17.000Z"
-    },
-    {
-      "lead": false,
       "src": "Eurogamer",
       "title": "GTA 6 is so detailed no single Rockstar employee knows it all - which is how we got shrinking horse testicles in Red Dead Redemption 2",
       "summary": "Red Dead Redemption 2's infamous animated horse testicles , which are realistic enough to contract in cold weather and expand again in the warmth, were apparently not a feature mandated by Rockstar. As iconic as they've become - a symbol of extraordinary detail in the game - they didn't originate from a list of feat…",
       "url": "https://www.eurogamer.net/red-dead-redemption-2-horse-testicles-staff-autonomy-gta-6",
       "date": "2026-10-20T11:20:20.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GameSpot",
+      "title": "GTA 6 Reviews: Here’s When The Scores Might Come In",
+      "summary": "Rockstar's Grand Theft Auto 6 releases on November 19, but when will you be able to read reviews? According to historical precedent and a new report, reviews for the open-world crime game should be available before launch. Insider Gaming reported that reviews for GTA 6 will be posted at some point before November 19…",
+      "url": "https://www.gamespot.com/articles/gta-6-reviews-when-they-could-be-released/",
+      "date": "2026-10-14T18:53:45.000Z"
     }
   ]
 }
