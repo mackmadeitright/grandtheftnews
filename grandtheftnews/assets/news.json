@@ -1,30 +1,134 @@
 {
-  "updated": "2026-10-29T09:45:15.424Z",
+  "updated": "2026-10-29T18:21:43.960Z",
   "count": 24,
   "items": [
     {
       "lead": true,
-      "src": "Polygon",
-      "title": "Game Awards 2026: All Game of the Year Front-Runners and Predictions",
-      "summary": "We rank the contenders for GOTY 2026 at TGAs, including Resident Evil Requiem and Grand Theft Auto 6",
-      "url": "https://www.polygon.com/game-of-the-year-goty-game-awards-2026-frontrunners/",
-      "date": "2026-10-29T03:40:06.000Z"
+      "src": "IGN",
+      "title": "Original GTA Artist Says He's 'Flattered' to See His Influence Continue in GTA 6 Cover Art",
+      "summary": "Stephen Bliss, the former Rockstar Games artist who helped establish Grand Theft Auto's iconic visual style, has said he's flattered to see elements of his original designs continue to appear in the cover art for GTA 6.",
+      "url": "https://www.ign.com/articles/original-gta-artist-says-hes-flattered-to-see-his-influence-continue-in-gta-6-cover-art",
+      "date": "2026-10-29T16:41:56.000Z"
+    },
+    {
+      "lead": false,
+      "src": "PC Gamer",
+      "title": "I'm calling it: GTA 6 is officially an immersive sim, based on what you can do with NPCs",
+      "summary": "If I see a video of Lucia stacking crates to get over a wall I'm gonna lose it.",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/im-calling-it-gta-6-is-officially-an-immersive-sim-based-on-what-you-can-do-with-npcs/",
+      "date": "2026-10-29T15:21:58.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GameSpot",
+      "title": "GTA 6’s Cops Will Send Dogs To Get You",
+      "summary": "The police in GTA 6 are smarter and more capable than they were in GTA 5, and that includes the newly confirmed detail that cops can dispatch dogs to hunt you down. Edge Magazine recently posted a preview of the game with Rockstar's Rob Nelson playing. In one sequence, Jason and Lucia are attempting to evade police…",
+      "url": "https://www.gamespot.com/articles/gta-6s-cops-will-send-dogs-to-get-you/",
+      "date": "2026-10-29T14:32:34.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Kotaku",
+      "title": "GTA 6 Is So Detailed, Rockstar Had To Make Its World Slower Than GTA 5′s To Accommodate It",
+      "summary": "Rockstar needed to make sunsets longer and let nighttime linger in order to make Vice City feel real",
+      "url": "https://kotaku.com/gta6-is-so-detailed-rockstar-had-to-make-its-world-slower-than-gta5-to-accommodate-it-2000750634",
+      "date": "2026-10-29T14:30:33.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "The best games releasing in November 2026",
+      "summary": "A complete list of the best games releasing in November (aka GTA 6 month)",
+      "url": "https://www.gamesradar.com/games/top-games-releasing-november-2026/",
+      "date": "2026-10-29T14:05:00.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "Over 20 years later, GTA Vice City is still a role model for the open-world genre",
+      "summary": "Returning to the sunny streets of Grand Theft Auto: Vice City ahead of GTA 6's own homecoming",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/over-20-years-later-gta-vice-city-is-still-a-role-model-for-the-open-world-genre/",
+      "date": "2026-10-29T14:00:00.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GameSpot",
+      "title": "GTA 6 Makes A Familiar Open-World Gaming Feature Work In Its Own Way",
+      "summary": "One feature Grand Theft Auto 6 borrows from modern-day open-world games is the ability to call a ride whenever you need it, but in true Rockstar fashion, it comes with a bit of real-life friction. It's not quite as simple as hitting a button to \" even the odds \" when you need to make a fast getaway. As GamesRadar's…",
+      "url": "https://www.gamespot.com/articles/gta-6-makes-a-familiar-open-world-gaming-feature-work-in-its-own-way/",
+      "date": "2026-10-29T13:47:17.000Z"
     },
     {
       "lead": false,
       "src": "IGN",
-      "title": "A Famous GTA 4 Meme Is Now a Mechanic in GTA 6",
-      "summary": "GTA 6 has named one of its biggest mechanics after a beloved GTA 4 meme.",
-      "url": "https://www.ign.com/articles/a-famous-gta-4-meme-is-now-a-mechanic-in-gta-6",
-      "date": "2026-10-29T03:24:58.000Z"
+      "title": "The GTA 6: Original Score Has a Release Date and a Brand New Track You Can Listen to Right Now",
+      "summary": "The Grand Theft Auto VI: Original Score launches on December 11 across all major music streaming services, Rockstar Games has announced. It’s also due out then on double CD and triple vinyl. We've also got a brand new track to listen to.",
+      "url": "https://www.ign.com/articles/the-gta-6-original-score-has-a-release-date-and-a-brand-new-track-you-can-listen-to-right-now",
+      "date": "2026-10-29T13:32:04.000Z"
     },
     {
       "lead": false,
-      "src": "IGN",
-      "title": "GTA 6's Map Will Open Up Relatively Early and Let You Explore Freely, Developers Are Still Discovering New Parts of the World",
-      "summary": "GTA 6's world won't be blocked off by story progression, Rockstar confirms.",
-      "url": "https://www.ign.com/articles/gta-6s-map-will-open-up-relatively-early-and-let-you-explore-freely-developers-are-still-discovering-new-parts-of-the-world",
-      "date": "2026-10-29T03:22:32.000Z"
+      "src": "GameSpot",
+      "title": "GTA 6’s Landmass Is Nearly As Big As GTA 4, GTA 5, And Red Dead Redemption 2 Combined",
+      "summary": "GTA 6 has a big map, but just how big? According to Rockstar, the GTA 6 map is roughly twice the size of GTA 5's and three times the size of Red Dead Redemption 2's . The total landmass in GTA 6, however, is nearly as big as the playable maps for GTA 4, GTA 5, and Red Dead Redemption 2 combined , the developer told…",
+      "url": "https://www.gamespot.com/articles/gta-6s-landmass-is-nearly-as-big-as-gta-4-gta-5-and-red-dead-redemption-2-combined/",
+      "date": "2026-10-29T13:08:41.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Kotaku",
+      "title": "New GTA 6 Gameplay Revealed Inside South Park Confirms Dog Poop Is A Weapon",
+      "summary": "Jason is about make this innocent man’s day a little crappier",
+      "url": "https://kotaku.com/grand-theft-auto-6-south-park-america-dog-poop-video-2000750987",
+      "date": "2026-10-29T13:00:42.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "South Park breaks the news that GTA 6 lets you throw dog poop, gets a Grand Theft Auto icon to say it",
+      "summary": "It's not just a funny gameplay clip, but a neat nod to GTA 5's marketing",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/south-park-breaks-the-news-that-gta-6-lets-you-throw-dog-poop-even-gets-a-grand-theft-auto-icon-to-announce-it/",
+      "date": "2026-10-29T13:00:42.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GameSpot",
+      "title": "South Park Gives Us A First Look At GTA 6’s Most Disgusting Feature",
+      "summary": "Did you know that you can throw dog poop at NPCs in Grand Theft Auto 6 ? While we've known about this feature for a while, we finally got a chance to see it in disgusting action thanks to this week's episode of South Park. For the last couple of weeks, the running gag in South Park--or South America, following its c…",
+      "url": "https://www.gamespot.com/articles/south-park-gives-us-another-look-at-gta-6-most-disgusting-feature/",
+      "date": "2026-10-29T12:24:17.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "GTA 6 promises to be an RPG like nothing the series has ever seen, but Rockstar says there's still a balance to strike",
+      "summary": "Rockstar doesn't want you to \"reject\" its systems",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/you-can-have-your-life-in-the-game-gta-6-promises-to-be-an-rpg-like-nothing-the-series-has-ever-seen-but-rockstar-says-theres-still-a-balance-to-strike/",
+      "date": "2026-10-29T10:40:00.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "GTA 6 \"felt too fast\" when Rockstar made it run like Grand Theft Auto 5 due to the leap in visual performance",
+      "summary": "I doubt Rockstar narrowing Vice City's roads to make them \"more believable\" helped either",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-felt-too-fast-when-rockstar-made-it-run-like-grand-theft-auto-5-due-to-the-leap-in-visual-performance-over-the-past-13-years/",
+      "date": "2026-10-29T10:35:00.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "600,000 animations are the appetizer: Rockstar gave GTA 6 NPCs meticulous personality traits to control how they react to you",
+      "summary": "The pedestrians all have personality traits, too",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/600-000-animations-are-the-appetizer-rockstar-gave-gta-6-npcs-meticulous-personality-traits-to-control-how-they-react-to-you-and-now-i-get-why-weve-been-waiting-13-years/",
+      "date": "2026-10-29T10:30:00.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Eurogamer",
+      "title": "Dog poo, anti-social behaviour, and Jason: Our latest look at GTA 6 gameplay comes from an episode of South Park",
+      "summary": "So we know that GTA 6 has a marketing deal with Sony and the PlayStation 5 , and that Rockstar has been engaging with real-world locations to get the word about its latest sandbox game out into the world ahead of its 19th November launch. But it seems the reach of Rockstar's marketing arm has no limit, as brand new…",
+      "url": "https://www.eurogamer.net/dog-poo-anti-social-behaviour-and-jason-our-latest-look-at-gta-6-gameplay-comes-from-the-latest-episode-of-south-park",
+      "date": "2026-10-29T09:55:54.000Z"
     },
     {
       "lead": false,
@@ -60,27 +164,11 @@
     },
     {
       "lead": false,
-      "src": "IGN",
-      "title": "'Appreciate the Fans' — GTA 5 Cast Tell Jason and Lucia’s Actors the Most Important Things They Should Know Before GTA 6 Launches Them to Fame",
-      "summary": "The stars behind GTA 5’s Franklin, Michael, and Trevor, along with the voice of CJ from San Andreas, were asked if they had any advice for the actors playing GTA 6’s Jason and Lucia now that the game is almost here.",
-      "url": "https://www.ign.com/articles/appreciate-the-fans-gta-5-cast-tell-jason-and-lucias-actors-the-most-important-things-they-should-know-before-gta-6-launches-them-to-fame",
-      "date": "2026-10-28T21:16:50.000Z"
-    },
-    {
-      "lead": false,
       "src": "GameSpot",
       "title": "GTA 6 Online Could Be Released In Early 2027, Bank Says",
       "summary": "Take-Two's biggest release ever, GTA 6 , is coming up in November, but the company's share price continues to drop. It's down 21% this year and has now dipped under $200 this week after reaching a 52-week high of $265. In short, the stock is struggling , but one big bank says it sees a lot of upside, in part because…",
       "url": "https://www.gamespot.com/articles/gta-6-online-could-be-released-in-early-2027-bank-says/",
       "date": "2026-10-28T19:05:50.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "Nearly 1 in 3 gamers plan to buy GTA 6 in US, analyst says: \"A rare cultural and commercial moment\"",
-      "summary": "\"Players have been waiting 13 years for a sequel to Grand Theft Auto 5\"",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/nearly-1-in-3-gamers-plan-to-buy-gta-6-in-the-us-analyst-confirms-a-rare-cultural-and-commercial-moment/",
-      "date": "2026-10-28T17:29:11.000Z"
     },
     {
       "lead": false,
@@ -100,99 +188,11 @@
     },
     {
       "lead": false,
-      "src": "GameSpot",
-      "title": "New Hunger Games Movie Comes Out The Day After GTA 6, But Is The Director Scared?",
-      "summary": "GTA 6 launches on November 19, and one day later, the new Hunger Games movie, Sunrise on the Reaping, comes to theaters. GTA 6 is expected to be an unprecedented hit that captures people's time and attention , especially right at launch. Will this impact Sunrise on the Reaping? That remains to be seen, but director…",
-      "url": "https://www.gamespot.com/articles/new-hunger-games-movie-comes-out-the-day-after-gta-6-but-is-the-director-scared/",
-      "date": "2026-10-28T14:36:28.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "Just in time for GTA 6, GameSir is launching two Vice City-inspired versions of the G7 Pro",
-      "summary": "GameSir is stealthily launching two GTA-inspired versions of its G7 Pro controller, but don't tell Rockstar because these definitely aren't official.",
-      "url": "https://www.gamesradar.com/hardware/gaming-controllers/dont-tell-rockstar-but-gamesir-is-launching-two-new-gta-6-inspired-colorways-of-its-g7-pro-controller/",
-      "date": "2026-10-28T13:42:05.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GameSpot",
-      "title": "GTA 6 Breaks A Record, And It’s Not Even Out Yet",
-      "summary": "Rockstar's GTA 6 is expected to be an enormous, unprecedented success when it releases on November 19, and new data only backs that up further. Circana has released new data that shows that GTA 6 holds 29% purchase intent among US console and PC gamers. That means nearly 1 in 3 console and PC gamers in the US plan t…",
-      "url": "https://www.gamespot.com/articles/gta-6-breaks-a-record-and-its-not-even-out-yet/",
-      "date": "2026-10-28T13:31:21.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "GTA 6 actors get advice from Grand Theft Auto veterans: \"Listen to Rockstar\" and \"get ready\"",
-      "summary": "\"They're going to lead you in the right direction\"",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-actors-get-advice-from-grand-theft-auto-veterans-listen-to-rockstar-and-get-ready/",
-      "date": "2026-10-28T13:10:22.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "GTA 6 file size revealed at 210GB, but SSD upgrades aren't the answer if you're already running out of space",
-      "summary": "GTA 6's 210GB file size could topple your PS5's internal storage, but with the prices of SSDs these days I'd recommend checking out external hard drives instead.",
-      "url": "https://www.gamesradar.com/hardware/ssd-hard-drives/gta-6-file-size-revealed-at-210gb-but-ssd-upgrades-arent-the-answer-if-youre-already-running-out-of-space/",
-      "date": "2026-10-28T12:34:27.000Z"
-    },
-    {
-      "lead": false,
-      "src": "IGN",
-      "title": "Rockstar Games Staff Set for 'Historic' Union Vote at the Same Time GTA 6 Comes Out",
-      "summary": "Rockstar Games staff will vote on union recognition amid the launch of GTA 6.",
-      "url": "https://www.ign.com/articles/rockstar-games-staff-set-for-historic-union-vote-at-the-same-time-gta-6-comes-out",
-      "date": "2026-10-28T10:06:45.000Z"
-    },
-    {
-      "lead": false,
       "src": "Eurogamer",
       "title": "Rockstar Games employees have locked in a union vote next month, and it'll take place over Grand Theft Auto 6's release window",
       "summary": "A date has been locked in for Rockstar Games employees to vote on whether to recognise their developer union. If successful, it will become the largest recognised union across the entirety of the UK video games industry. Read more",
       "url": "https://www.eurogamer.net/rockstar-union-vote-november",
       "date": "2026-10-28T09:49:39.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Eurogamer",
-      "title": "GTA 6 is a massive 210GB download on PlayStation 5",
-      "summary": "There wasn't really any chance Grand Theft Auto 6 wasn't going to be a big download. Thanks to some new information, though, we now have a hard number. Read more",
-      "url": "https://www.eurogamer.net/gta-6-ps5-download-size",
-      "date": "2026-10-28T09:14:37.000Z"
-    },
-    {
-      "lead": false,
-      "src": "PC Gamer",
-      "title": "Rockstar will hold union vote right on top of Grand Theft Auto 6 release",
-      "summary": "It's going to be a busy November for Rockstar workers.",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/rockstar-will-hold-union-vote-right-on-top-of-grand-theft-auto-6-release/",
-      "date": "2026-10-27T22:23:23.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "The day GTA 6 pre-loading starts, unionizing Rockstar developers will vote on the studio's future",
-      "summary": "Rockstar union agreement covers \"pay and bonuses, overtime, redundancies, flexible working, and generative AI policies\"",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/the-day-gta-6-pre-loading-starts-unionizing-rockstar-developers-will-vote-on-the-future-of-the-legendary-studio-this-is-our-moment/",
-      "date": "2026-10-27T20:28:50.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GameSpot",
-      "title": "GTA 6 Developers Are About To Do Something Historic",
-      "summary": "Workers at GTA 6 developer Rockstar will soon get to vote on recognizing a union. The union, IWGB Union at Rockstar, is for Rockstar's UK-based developers. Rockstar North, based in Edinburgh, Scotland, is one of Rockstar's biggest outfits in the UK, and the lead developer on GTA 6. The negotiating process between th…",
-      "url": "https://www.gamespot.com/articles/gta-6-developers-are-about-to-do-something-historic/",
-      "date": "2026-10-27T19:43:21.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GameSpot",
-      "title": "This Company Is Paying You To Play GTA 6, But It’s A Long Shot",
-      "summary": "A company, Virgin Media, has announced a promotional campaign where one lucky person will get paid to play GTA 6 . The promotion, which is limited to Ireland, requires people to explain in 100-200 words on this contest site why they deserve to get paid to play GTA 6. Virgin Media will then select a winner, and if th…",
-      "url": "https://www.gamespot.com/articles/this-company-is-paying-you-to-play-gta-6-but-its-a-long-shot/",
-      "date": "2026-10-27T19:03:48.000Z"
     }
   ]
 }
