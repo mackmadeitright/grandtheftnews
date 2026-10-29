@@ -1,9 +1,41 @@
 {
-  "updated": "2026-10-28T20:10:57.984Z",
-  "count": 23,
+  "updated": "2026-10-29T00:44:25.621Z",
+  "count": 24,
   "items": [
     {
       "lead": true,
+      "src": "PC Gamer",
+      "title": "'I feel like we've built a pyramid on Everest' says Rockstar of GTA 6 meeting impossible expectations",
+      "summary": "\"We've not compromised on the scale, the detail, the interactivity, the story, the open world.\"",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/i-feel-like-weve-built-a-pyramid-on-everest-says-rockstar-of-gta-6-meeting-impossible-expectations/",
+      "date": "2026-10-29T00:35:52.000Z"
+    },
+    {
+      "lead": false,
+      "src": "PC Gamer",
+      "title": "GTA 6's map is almost as big as Rockstar's last 3 games combined, contains 'an order of magnitude more interiors'",
+      "summary": "\"You can go anywhere, any random location, and so many people have thought about that location,\" says co-studio head Aaron Garbut.",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6s-map-is-almost-as-big-as-rockstars-last-3-games-combined-contains-an-order-of-magnitude-more-interiors/",
+      "date": "2026-10-29T00:17:15.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "86-year-old singer in GTA 6 has no idea what Grand Theft Auto is: \"The show is a game show?\"",
+      "summary": "Cliff Richard's Devil Woman has made a mark on GTA fans",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/86-year-old-singer-in-gta-6-has-no-idea-what-grand-theft-auto-is-the-show-is-a-game-show-isnt-it-really-one-of-the-biggest-on-tv/",
+      "date": "2026-10-28T21:57:30.000Z"
+    },
+    {
+      "lead": false,
+      "src": "IGN",
+      "title": "'Appreciate the Fans' — GTA 5 Cast Tell Jason and Lucia’s Actors the Most Important Things They Should Know Before GTA 6 Launches Them to Fame",
+      "summary": "The stars behind GTA 5’s Franklin, Michael, and Trevor, along with the voice of CJ from San Andreas, were asked if they had any advice for the actors playing GTA 6’s Jason and Lucia now that the game is almost here.",
+      "url": "https://www.ign.com/articles/appreciate-the-fans-gta-5-cast-tell-jason-and-lucias-actors-the-most-important-things-they-should-know-before-gta-6-launches-them-to-fame",
+      "date": "2026-10-28T21:16:50.000Z"
+    },
+    {
+      "lead": false,
       "src": "GameSpot",
       "title": "GTA 6 Online Could Be Released In Early 2027, Bank Says",
       "summary": "Take-Two's biggest release ever, GTA 6 , is coming up in November, but the company's share price continues to drop. It's down 21% this year and has now dipped under $200 this week after reaching a 52-week high of $265. In short, the stock is struggling , but one big bank says it sees a lot of upside, in part because…",
@@ -108,14 +140,6 @@
     },
     {
       "lead": false,
-      "src": "Kotaku",
-      "title": "GTA 6′s Expectedly Massive File Size Has Been Revealed",
-      "summary": "Leonida needs its space",
-      "url": "https://kotaku.com/gta-6s-expectedly-massive-file-size-has-been-revealed-2000750298",
-      "date": "2026-10-27T22:00:13.000Z"
-    },
-    {
-      "lead": false,
       "src": "GamesRadar",
       "title": "The day GTA 6 pre-loading starts, unionizing Rockstar developers will vote on the studio's future",
       "summary": "Rockstar union agreement covers \"pay and bonuses, overtime, redundancies, flexible working, and generative AI policies\"",
@@ -169,22 +193,6 @@
       "summary": "Don't blame this one on GTA 6: The developers say incorporating feedback on Emberville's demo is taking longer than they expected.",
       "url": "https://www.pcgamer.com/games/rpg/one-day-before-launch-arpg-emberville-gets-delayed-until-2027/",
       "date": "2026-10-26T21:57:24.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Eurogamer",
-      "title": "GTA 6 is so detailed no single Rockstar employee knows it all - which is how we got shrinking horse testicles in Red Dead Redemption 2",
-      "summary": "Red Dead Redemption 2's infamous animated horse testicles , which are realistic enough to contract in cold weather and expand again in the warmth, were apparently not a feature mandated by Rockstar. As iconic as they've become - a symbol of extraordinary detail in the game - they didn't originate from a list of feat…",
-      "url": "https://www.eurogamer.net/red-dead-redemption-2-horse-testicles-staff-autonomy-gta-6",
-      "date": "2026-10-20T11:20:20.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GameSpot",
-      "title": "GTA 6 Reviews: Here’s When The Scores Might Come In",
-      "summary": "Rockstar's Grand Theft Auto 6 releases on November 19, but when will you be able to read reviews? According to historical precedent and a new report, reviews for the open-world crime game should be available before launch. Insider Gaming reported that reviews for GTA 6 will be posted at some point before November 19…",
-      "url": "https://www.gamespot.com/articles/gta-6-reviews-when-they-could-be-released/",
-      "date": "2026-10-14T18:53:45.000Z"
     }
   ]
 }
