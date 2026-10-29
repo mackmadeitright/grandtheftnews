@@ -1,9 +1,41 @@
 {
-  "updated": "2026-10-29T00:44:25.621Z",
+  "updated": "2026-10-29T09:45:15.424Z",
   "count": 24,
   "items": [
     {
       "lead": true,
+      "src": "Polygon",
+      "title": "Game Awards 2026: All Game of the Year Front-Runners and Predictions",
+      "summary": "We rank the contenders for GOTY 2026 at TGAs, including Resident Evil Requiem and Grand Theft Auto 6",
+      "url": "https://www.polygon.com/game-of-the-year-goty-game-awards-2026-frontrunners/",
+      "date": "2026-10-29T03:40:06.000Z"
+    },
+    {
+      "lead": false,
+      "src": "IGN",
+      "title": "A Famous GTA 4 Meme Is Now a Mechanic in GTA 6",
+      "summary": "GTA 6 has named one of its biggest mechanics after a beloved GTA 4 meme.",
+      "url": "https://www.ign.com/articles/a-famous-gta-4-meme-is-now-a-mechanic-in-gta-6",
+      "date": "2026-10-29T03:24:58.000Z"
+    },
+    {
+      "lead": false,
+      "src": "IGN",
+      "title": "GTA 6's Map Will Open Up Relatively Early and Let You Explore Freely, Developers Are Still Discovering New Parts of the World",
+      "summary": "GTA 6's world won't be blocked off by story progression, Rockstar confirms.",
+      "url": "https://www.ign.com/articles/gta-6s-map-will-open-up-relatively-early-and-let-you-explore-freely-developers-are-still-discovering-new-parts-of-the-world",
+      "date": "2026-10-29T03:22:32.000Z"
+    },
+    {
+      "lead": false,
+      "src": "PC Gamer",
+      "title": "GTA 6's NPCs have about 600,000 animations, as well as personality traits that take 'demographic and professional' variables into account",
+      "summary": "\"Who's going to be aggressive? … How many are going to test me?\"",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6s-npcs-have-about-600-000-animations-as-well-as-personality-traits-that-take-demographic-and-professional-variables-into-account/",
+      "date": "2026-10-29T00:52:16.000Z"
+    },
+    {
+      "lead": false,
       "src": "PC Gamer",
       "title": "'I feel like we've built a pyramid on Everest' says Rockstar of GTA 6 meeting impossible expectations",
       "summary": "\"We've not compromised on the scale, the detail, the interactivity, the story, the open world.\"",
@@ -161,38 +193,6 @@
       "summary": "A company, Virgin Media, has announced a promotional campaign where one lucky person will get paid to play GTA 6 . The promotion, which is limited to Ireland, requires people to explain in 100-200 words on this contest site why they deserve to get paid to play GTA 6. Virgin Media will then select a winner, and if th…",
       "url": "https://www.gamespot.com/articles/this-company-is-paying-you-to-play-gta-6-but-its-a-long-shot/",
       "date": "2026-10-27T19:03:48.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "GTA 6 is a 210GB download, says PlayStation Store sleuth",
-      "summary": "Another Grand Theft Auto pre-load beckons, prepare your drive",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-is-a-210gb-download-says-playstation-store-sleuth/",
-      "date": "2026-10-27T17:59:46.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GameSpot",
-      "title": "GTA 6 File Size Revealed, And It’s Massive–See How It Compares To Other Huge Games",
-      "summary": "Ahead of the game's release in November, GTA 6' s file size has been revealed, and it is massive. PlayStation Game Size reports that the $80 standard edition will take up 210GB of storage capacity. Size details for the $100 Ultimate Edition--which includes a ton of content not in the regular version--were not made a…",
-      "url": "https://www.gamespot.com/articles/gta-6-file-size-revealed-and-its-massive/",
-      "date": "2026-10-27T17:48:21.000Z"
-    },
-    {
-      "lead": false,
-      "src": "PC Gamer",
-      "title": "Edge magazine went to Rockstar to see GTA 6, and will tell you all about it in lavish detail this Thursday, October 29",
-      "summary": "I bet you can steal cars.",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/edge-magazine-went-to-rockstar-to-see-gta-6-and-will-tell-you-all-about-in-lavish-detail-this-thursday-october-29/",
-      "date": "2026-10-27T15:00:00.000Z"
-    },
-    {
-      "lead": false,
-      "src": "PC Gamer",
-      "title": "One day before launch, ARPG Emberville gets delayed until 2027",
-      "summary": "Don't blame this one on GTA 6: The developers say incorporating feedback on Emberville's demo is taking longer than they expected.",
-      "url": "https://www.pcgamer.com/games/rpg/one-day-before-launch-arpg-emberville-gets-delayed-until-2027/",
-      "date": "2026-10-26T21:57:24.000Z"
     }
   ]
 }
