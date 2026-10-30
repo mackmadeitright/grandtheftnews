@@ -1,9 +1,33 @@
 {
-  "updated": "2026-10-30T17:56:27.128Z",
-  "count": 18,
+  "updated": "2026-10-30T22:11:42.000Z",
+  "count": 21,
   "items": [
     {
       "lead": true,
+      "src": "Polygon",
+      "title": "The Worst GTA Game Is One Rockstar Could Never Make Today",
+      "summary": "GTA Advance might be one of the worst GTA games, but it was still an essential stepping stone for what makes GTA great today",
+      "url": "https://www.polygon.com/gta-advance-worst-grand-theft-auto-game/",
+      "date": "2026-10-30T21:01:18.000Z"
+    },
+    {
+      "lead": false,
+      "src": "IGN",
+      "title": "Grand Theft Auto VI: The Original Score Is Up for Preorder",
+      "summary": "Grand Theft Auto VI: The Original Score is a three-hour compilation of new music from Justice, and it's available to preorder now on CD and vinyl.",
+      "url": "https://www.ign.com/articles/grand-theft-auto-vi-the-original-score-where-to-buy",
+      "date": "2026-10-30T19:15:32.000Z"
+    },
+    {
+      "lead": false,
+      "src": "PC Gamer",
+      "title": "New games in 2027: Fable, Final Fantasy 7, and (maybe) GTA 6 on PC",
+      "summary": "This is where I'd put the GTA 6 PC release date, if we had one.",
+      "url": "https://www.pcgamer.com/games/new-pc-games-2027/",
+      "date": "2026-10-30T19:11:36.000Z"
+    },
+    {
+      "lead": false,
       "src": "GamesRadar",
       "title": "Everything confirmed about GTA 6 animals so far",
       "summary": "There will be over 170 different animal species in GTA 6, and this is what has been confirmed about them",
