@@ -1,9 +1,17 @@
 {
-  "updated": "2026-10-29T18:21:43.960Z",
+  "updated": "2026-10-30T00:45:24.473Z",
   "count": 24,
   "items": [
     {
       "lead": true,
+      "src": "GameSpot",
+      "title": "Artist With Music In GTA 6 Had No Idea About Any Of That",
+      "summary": "Cliff Richard is among the numerous famous artists who are lending their music to Rockstar's GTA 6 , with Richard's classic tune \"Devil Woman\" appearing in the Netflix Extended Look . Richard, 86, didn't know about any of that, however, or that GTA 6 is a game and not a TV show. Speaking to The Times ( via Dexerto )…",
+      "url": "https://www.gamespot.com/articles/artist-with-music-in-gta-6-had-no-idea-about-any-of-that/",
+      "date": "2026-10-29T18:50:25.000Z"
+    },
+    {
+      "lead": false,
       "src": "IGN",
       "title": "Original GTA Artist Says He's 'Flattered' to See His Influence Continue in GTA 6 Cover Art",
       "summary": "Stephen Bliss, the former Rockstar Games artist who helped establish Grand Theft Auto's iconic visual style, has said he's flattered to see elements of his original designs continue to appear in the cover art for GTA 6.",
@@ -156,27 +164,11 @@
     },
     {
       "lead": false,
-      "src": "GamesRadar",
-      "title": "86-year-old singer in GTA 6 has no idea what Grand Theft Auto is: \"The show is a game show?\"",
-      "summary": "Cliff Richard's Devil Woman has made a mark on GTA fans",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/86-year-old-singer-in-gta-6-has-no-idea-what-grand-theft-auto-is-the-show-is-a-game-show-isnt-it-really-one-of-the-biggest-on-tv/",
-      "date": "2026-10-28T21:57:30.000Z"
-    },
-    {
-      "lead": false,
       "src": "GameSpot",
       "title": "GTA 6 Online Could Be Released In Early 2027, Bank Says",
       "summary": "Take-Two's biggest release ever, GTA 6 , is coming up in November, but the company's share price continues to drop. It's down 21% this year and has now dipped under $200 this week after reaching a 52-week high of $265. In short, the stock is struggling , but one big bank says it sees a lot of upside, in part because…",
       "url": "https://www.gamespot.com/articles/gta-6-online-could-be-released-in-early-2027-bank-says/",
       "date": "2026-10-28T19:05:50.000Z"
-    },
-    {
-      "lead": false,
-      "src": "PC Gamer",
-      "title": "GTA 6's PS5 install size is so big you could store 3500 copies of Balatro inside",
-      "summary": "That's a lot of space to ask for in the midst of the memory crisis.",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6s-ps5-install-size-is-so-big-you-could-store-3500-copies-of-balatro-inside/",
-      "date": "2026-10-28T15:52:11.000Z"
     },
     {
       "lead": false,
@@ -193,6 +185,14 @@
       "summary": "A date has been locked in for Rockstar Games employees to vote on whether to recognise their developer union. If successful, it will become the largest recognised union across the entirety of the UK video games industry. Read more",
       "url": "https://www.eurogamer.net/rockstar-union-vote-november",
       "date": "2026-10-28T09:49:39.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Eurogamer",
+      "title": "GTA 6 is a massive 210GB download on PlayStation 5",
+      "summary": "There wasn't really any chance Grand Theft Auto 6 wasn't going to be a big download. Thanks to some new information, though, we now have a hard number. Read more",
+      "url": "https://www.eurogamer.net/gta-6-ps5-download-size",
+      "date": "2026-10-28T09:14:37.000Z"
     }
   ]
 }
