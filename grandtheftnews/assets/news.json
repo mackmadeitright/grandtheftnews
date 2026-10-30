@@ -1,22 +1,70 @@
 {
-  "updated": "2026-10-30T09:50:59.368Z",
-  "count": 24,
+  "updated": "2026-10-30T17:56:27.128Z",
+  "count": 18,
   "items": [
     {
       "lead": true,
+      "src": "GamesRadar",
+      "title": "Everything confirmed about GTA 6 animals so far",
+      "summary": "There will be over 170 different animal species in GTA 6, and this is what has been confirmed about them",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-animals/",
+      "date": "2026-10-30T16:31:14.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "18 years later, GTA 6 redeems Grand Theft Auto's most annoying meme by turning it into something useful",
+      "summary": "Scooter brothers! We're scooter brothers!",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/18-years-later-gta-6-redeems-grand-theft-autos-most-annoying-meme-by-turning-it-into-something-useful/",
+      "date": "2026-10-30T16:20:45.000Z"
+    },
+    {
+      "lead": false,
+      "src": "PC Gamer",
+      "title": "GTA 6's souped-up Red Dead Redemption 2-style morality system will scale from 'Professional' to 'Irredeemable' so players can decide what kind of criminal they want to be",
+      "summary": "Not every act of violence needs to end in death.",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6s-souped-up-red-dead-redemption-2-style-morality-system-will-scale-from-professional-to-irredeemable-so-players-can-decide-what-kind-of-criminal-they-want-to-be/",
+      "date": "2026-10-30T15:23:59.000Z"
+    },
+    {
+      "lead": false,
+      "src": "PC Gamer",
+      "title": "Screw Grand Theft Auto 6's supercars, I'm here for Leonida's robust public transportation system",
+      "summary": "Apparently they turn up on time and everything.",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/screw-grand-theft-auto-6s-supercars-im-here-for-leonidas-robust-public-transportation-system/",
+      "date": "2026-10-30T15:22:01.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GameSpot",
+      "title": "GTA 6’s Attention To Detail Is Getting A Little Ridiculous",
+      "summary": "Only a few more weeks remain before Grand Theft Auto 6 launches on PS5 and Xbox Series X|S, and while Rockstar Games recently lifted the lid on its big open-world sequel, that's still not enough. There's definitely value in approaching a game with as little knowledge as possible so that you can enjoy any potential s…",
+      "url": "https://www.gamespot.com/articles/gta-6-attention-to-detail-is-getting-a-little-ridiculous/",
+      "date": "2026-10-30T14:18:36.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "GTA 6 map size is so big it rivals GTA 4, GTA 5, and Red Dead Redemption 2's combined",
+      "summary": "\"It's insane,\" fans say",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-map-size-is-so-big-it-rivals-gta-4-gta-5-and-red-dead-redemption-2s-combined-and-rockstar-devs-are-still-discovering-places-theyve-never-seen/",
+      "date": "2026-10-30T12:18:15.000Z"
+    },
+    {
+      "lead": false,
+      "src": "PC Gamer",
+      "title": "You can relationship-max in GTA 6 as walking along the beach or working out at the gym together increases your couple rating on a four point scale",
+      "summary": "I am going to create an environment that is so loving.",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/you-can-relationship-max-in-gta-6-as-walking-along-the-beach-or-working-out-at-the-gym-together-increases-your-couple-rating-on-a-four-point-scale/",
+      "date": "2026-10-30T10:31:07.000Z"
+    },
+    {
+      "lead": false,
       "src": "GameSpot",
       "title": "Artist With Music In GTA 6 Had No Idea About Any Of That",
       "summary": "Cliff Richard is among the numerous famous artists who are lending their music to Rockstar's GTA 6 , with Richard's classic tune \"Devil Woman\" appearing in the Netflix Extended Look . Richard, 86, didn't know about any of that, however, or that GTA 6 is a game and not a TV show. Speaking to The Times ( via Dexerto )…",
       "url": "https://www.gamespot.com/articles/artist-with-music-in-gta-6-had-no-idea-about-any-of-that/",
       "date": "2026-10-29T18:50:25.000Z"
-    },
-    {
-      "lead": false,
-      "src": "IGN",
-      "title": "Original GTA Artist Says He's 'Flattered' to See His Influence Continue in GTA 6 Cover Art",
-      "summary": "Stephen Bliss, the former Rockstar Games artist who helped establish Grand Theft Auto's iconic visual style, has said he's flattered to see elements of his original designs continue to appear in the cover art for GTA 6.",
-      "url": "https://www.ign.com/articles/original-gta-artist-says-hes-flattered-to-see-his-influence-continue-in-gta-6-cover-art",
-      "date": "2026-10-29T16:41:56.000Z"
     },
     {
       "lead": false,
@@ -36,30 +84,6 @@
     },
     {
       "lead": false,
-      "src": "Kotaku",
-      "title": "GTA 6 Is So Detailed, Rockstar Had To Make Its World Slower Than GTA 5′s To Accommodate It",
-      "summary": "Rockstar needed to make sunsets longer and let nighttime linger in order to make Vice City feel real",
-      "url": "https://kotaku.com/gta6-is-so-detailed-rockstar-had-to-make-its-world-slower-than-gta5-to-accommodate-it-2000750634",
-      "date": "2026-10-29T14:30:33.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "The best games releasing in November 2026",
-      "summary": "A complete list of the best games releasing in November (aka GTA 6 month)",
-      "url": "https://www.gamesradar.com/games/top-games-releasing-november-2026/",
-      "date": "2026-10-29T14:05:00.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "Over 20 years later, GTA Vice City is still a role model for the open-world genre",
-      "summary": "Returning to the sunny streets of Grand Theft Auto: Vice City ahead of GTA 6's own homecoming",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/over-20-years-later-gta-vice-city-is-still-a-role-model-for-the-open-world-genre/",
-      "date": "2026-10-29T14:00:00.000Z"
-    },
-    {
-      "lead": false,
       "src": "GameSpot",
       "title": "GTA 6 Makes A Familiar Open-World Gaming Feature Work In Its Own Way",
       "summary": "One feature Grand Theft Auto 6 borrows from modern-day open-world games is the ability to call a ride whenever you need it, but in true Rockstar fashion, it comes with a bit of real-life friction. It's not quite as simple as hitting a button to \" even the odds \" when you need to make a fast getaway. As GamesRadar's…",
@@ -76,51 +100,11 @@
     },
     {
       "lead": false,
-      "src": "Kotaku",
-      "title": "New GTA 6 Gameplay Revealed Inside South Park Confirms Dog Poop Is A Weapon",
-      "summary": "Jason is about make this innocent man’s day a little crappier",
-      "url": "https://kotaku.com/grand-theft-auto-6-south-park-america-dog-poop-video-2000750987",
-      "date": "2026-10-29T13:00:42.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "South Park breaks the news that GTA 6 lets you throw dog poop, gets a Grand Theft Auto icon to say it",
-      "summary": "It's not just a funny gameplay clip, but a neat nod to GTA 5's marketing",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/south-park-breaks-the-news-that-gta-6-lets-you-throw-dog-poop-even-gets-a-grand-theft-auto-icon-to-announce-it/",
-      "date": "2026-10-29T13:00:42.000Z"
-    },
-    {
-      "lead": false,
       "src": "GameSpot",
       "title": "South Park Gives Us A First Look At GTA 6’s Most Disgusting Feature",
       "summary": "Did you know that you can throw dog poop at NPCs in Grand Theft Auto 6 ? While we've known about this feature for a while, we finally got a chance to see it in disgusting action thanks to this week's episode of South Park. For the last couple of weeks, the running gag in South Park--or South America, following its c…",
       "url": "https://www.gamespot.com/articles/south-park-gives-us-another-look-at-gta-6-most-disgusting-feature/",
       "date": "2026-10-29T12:24:17.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "GTA 6 promises to be an RPG like nothing the series has ever seen, but Rockstar says there's still a balance to strike",
-      "summary": "Rockstar doesn't want you to \"reject\" its systems",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/you-can-have-your-life-in-the-game-gta-6-promises-to-be-an-rpg-like-nothing-the-series-has-ever-seen-but-rockstar-says-theres-still-a-balance-to-strike/",
-      "date": "2026-10-29T10:40:00.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "GTA 6 \"felt too fast\" when Rockstar made it run like Grand Theft Auto 5 due to the leap in visual performance",
-      "summary": "I doubt Rockstar narrowing Vice City's roads to make them \"more believable\" helped either",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-felt-too-fast-when-rockstar-made-it-run-like-grand-theft-auto-5-due-to-the-leap-in-visual-performance-over-the-past-13-years/",
-      "date": "2026-10-29T10:35:00.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "600,000 animations are the appetizer: Rockstar gave GTA 6 NPCs meticulous personality traits to control how they react to you",
-      "summary": "The pedestrians all have personality traits, too",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/600-000-animations-are-the-appetizer-rockstar-gave-gta-6-npcs-meticulous-personality-traits-to-control-how-they-react-to-you-and-now-i-get-why-weve-been-waiting-13-years/",
-      "date": "2026-10-29T10:30:00.000Z"
     },
     {
       "lead": false,
@@ -132,43 +116,11 @@
     },
     {
       "lead": false,
-      "src": "PC Gamer",
-      "title": "GTA 6's NPCs have about 600,000 animations, as well as personality traits that take 'demographic and professional' variables into account",
-      "summary": "\"Who's going to be aggressive? … How many are going to test me?\"",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6s-npcs-have-about-600-000-animations-as-well-as-personality-traits-that-take-demographic-and-professional-variables-into-account/",
-      "date": "2026-10-29T00:52:16.000Z"
-    },
-    {
-      "lead": false,
-      "src": "PC Gamer",
-      "title": "'I feel like we've built a pyramid on Everest' says Rockstar of GTA 6 meeting impossible expectations",
-      "summary": "\"We've not compromised on the scale, the detail, the interactivity, the story, the open world.\"",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/i-feel-like-weve-built-a-pyramid-on-everest-says-rockstar-of-gta-6-meeting-impossible-expectations/",
-      "date": "2026-10-29T00:35:52.000Z"
-    },
-    {
-      "lead": false,
-      "src": "PC Gamer",
-      "title": "GTA 6's map is almost as big as Rockstar's last 3 games combined, contains 'an order of magnitude more interiors'",
-      "summary": "\"You can go anywhere, any random location, and so many people have thought about that location,\" says co-studio head Aaron Garbut.",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6s-map-is-almost-as-big-as-rockstars-last-3-games-combined-contains-an-order-of-magnitude-more-interiors/",
-      "date": "2026-10-29T00:17:15.000Z"
-    },
-    {
-      "lead": false,
       "src": "GameSpot",
       "title": "GTA 6 Online Could Be Released In Early 2027, Bank Says",
       "summary": "Take-Two's biggest release ever, GTA 6 , is coming up in November, but the company's share price continues to drop. It's down 21% this year and has now dipped under $200 this week after reaching a 52-week high of $265. In short, the stock is struggling , but one big bank says it sees a lot of upside, in part because…",
       "url": "https://www.gamespot.com/articles/gta-6-online-could-be-released-in-early-2027-bank-says/",
       "date": "2026-10-28T19:05:50.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GameSpot",
-      "title": "If GTA 6 Beats Football On Thanksgiving, That’s A Win, EA Founder Says",
-      "summary": "Rockstar's GTA 6 is expected to be a giant success commercially, but just how big does the game need to be to actually be successful following a decade of development and perhaps one of the biggest development budgets ever ? We don't know, because Take-Two doesn't disclose that kind of information, but EA founder Bi…",
-      "url": "https://www.gamespot.com/articles/if-gta-6-beats-football-on-thanksgiving-thats-a-win-ea-founder-says/",
-      "date": "2026-10-28T15:42:37.000Z"
     },
     {
       "lead": false,
