@@ -1,14 +1,30 @@
 {
-  "updated": "2026-10-31T12:07:29.088Z",
-  "count": 21,
+  "updated": "2026-10-31T19:12:22.350Z",
+  "count": 23,
   "items": [
     {
       "lead": true,
-      "src": "Polygon",
-      "title": "5 Must-Play New Xbox Games Coming in November, Including GTA 6",
-      "summary": "Xbox Series X is getting a lot of hidden gems in November, alongside Grand Theft Auto 6.",
-      "url": "https://www.polygon.com/new-xbox-games-november-2026/",
-      "date": "2026-10-31T04:00:18.000Z"
+      "src": "GamesRadar",
+      "title": "Rockstar had to up its game for GTA 6 – GTA 5's realism was already \"showing its age\" when it launched 13 years ago",
+      "summary": "\"As the resolution of the worlds goes up, I think there are things you can't get away with in the same way\"",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/rockstar-had-to-up-its-game-for-gta-6-because-gta-5s-realism-was-already-showing-its-age-when-it-launched-13-years-ago/",
+      "date": "2026-10-31T18:00:00.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "With GTA 6, Rockstar couldn't \"just trot out something\" fans would already expect",
+      "summary": "Big expectations, meet big game",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/with-gta-6-rockstar-couldnt-just-trot-out-something-fans-would-already-expect-weve-built-a-pyramid-on-everest/",
+      "date": "2026-10-31T14:54:18.000Z"
+    },
+    {
+      "lead": false,
+      "src": "PC Gamer",
+      "title": "I'm 100% here for a more grounded, realistic GTA 6, one I believe won't come at the expense of its usual haphazard chaos",
+      "summary": "I hope Rockstar makes us work a little harder to wreak our usual mayhem.",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/im-100-percent-here-for-a-more-grounded-realistic-gta-6-one-i-believe-wont-come-at-the-expense-of-its-usual-haphazard-chaos/",
+      "date": "2026-10-31T13:00:00.000Z"
     },
     {
       "lead": false,
