@@ -1,9 +1,65 @@
 {
-  "updated": "2026-11-02T10:51:42.308Z",
-  "count": 23,
+  "updated": "2026-11-02T21:39:09.629Z",
+  "count": 17,
   "items": [
     {
       "lead": true,
+      "src": "GamesRadar",
+      "title": "GTA 6 lead says Rockstar president Sam Houser is involved in every aspect of creative development",
+      "summary": "It seems rumors that Sam Houser is just a \"taste director\" are bunk",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-lead-says-rockstar-president-sam-houser-helped-shape-the-direction-of-the-game-and-is-involved-in-every-aspect-of-creative-development/",
+      "date": "2026-11-02T19:25:59.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "GTA 6 sounds like an RPG – so why deny it any more?",
+      "summary": "Dating, break ups, and the chance to \"go anywhere?\" GTA 6 sure sounds like the genre no one wants to call it",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-sounds-like-an-rpg-so-why-deny-it/",
+      "date": "2026-11-02T17:00:00.000Z"
+    },
+    {
+      "lead": false,
+      "src": "IGN",
+      "title": "Self-Made Millionaire Says Buying GTA 6 Saves You $5,000",
+      "summary": "British self-made millionaire, entrepreneur, and social media educator Mark Tilbury put out a video giving the most sound financial advice of 2026: buy GTA 6. According to him, it’ll save you a big chunk of change.",
+      "url": "https://www.ign.com/articles/self-made-millionaire-says-buying-gta-6-saves-you-5000",
+      "date": "2026-11-02T16:12:23.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GameSpot",
+      "title": "GTA 6 Buying Guide: Get Ready For Sticker Shock",
+      "summary": "Rockstar's GTA 6 finally releases on November 19, and if you're looking to play the game, you'll also need a console--and those are more expensive than ever. Here's a quick buying guide to help you understand what you need and how much the items will cost. A console First, you'll need a PlayStation 5 or Xbox Series…",
+      "url": "https://www.gamespot.com/articles/gta-6-buying-guide-get-ready-for-sticker-shock/",
+      "date": "2026-11-02T16:10:15.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Kotaku",
+      "title": "Walmart GTA 6 Pre-Orders Will Include A ‘Surprise’",
+      "summary": "Give me a 10-inch statue of Jason, then we’ll talk",
+      "url": "https://kotaku.com/grand-theft-auto-6-pre-order-walmart-surprise-release-date-2000752341",
+      "date": "2026-11-02T14:31:24.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "GTA 5 lead Ned Luke never got the whole script as Rockstar only sends it \"in pieces\"",
+      "summary": "\"I was like a gamer guy, so I knew it was going to be big.\"",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-5-lead-ned-luke-never-got-the-whole-script-as-rockstar-only-sends-it-in-pieces-but-what-he-did-get-still-left-him-with-over-3-500-pages/",
+      "date": "2026-11-02T13:05:56.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "As GTA 6 looms, Fortnite offers almost unlimited free skins for 14 days to extremely lucky players",
+      "summary": "Fortnite's Pirate Shop Access is almost too good to be true... and it's probably going to have thousands of players grinding all season for it",
+      "url": "https://www.gamesradar.com/games/fortnite/as-gta-6-looms-fortnite-breaks-the-emergency-glass-almost-unlimited-free-skins-emotes-and-more-for-14-days-but-youll-basically-have-to-win-the-lottery-to-get-them/",
+      "date": "2026-11-02T13:01:29.000Z"
+    },
+    {
+      "lead": false,
       "src": "IGN",
       "title": "Sony Issues Yet Another PS5 Firmware Update as Jailbreak Whac-a-Mole Continues Ahead of GTA 6 Release",
       "summary": "Sony has released yet another PS5 firmware update as it battles to keep a lid on the homebrew community’s ongoing effort to jailbreak the console ahead of the release of GTA 6. Here's what it does.",
@@ -28,30 +84,6 @@
     },
     {
       "lead": false,
-      "src": "GamesRadar",
-      "title": "GTA 6 lets you break up Jason and Lucia, and we can thank Red Dead Redemption 2 for that",
-      "summary": "\"But what if these characters want something else?\"",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-lets-you-break-up-jason-and-lucia-if-you-want-and-we-can-thank-red-dead-redemption-2s-arthur-morgan-for-the-choice/",
-      "date": "2026-11-01T15:18:39.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "Rockstar had to up its game for GTA 6 – GTA 5's realism was already \"showing its age\" when it launched 13 years ago",
-      "summary": "\"As the resolution of the worlds goes up, I think there are things you can't get away with in the same way\"",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/rockstar-had-to-up-its-game-for-gta-6-because-gta-5s-realism-was-already-showing-its-age-when-it-launched-13-years-ago/",
-      "date": "2026-10-31T18:00:00.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "With GTA 6, Rockstar couldn't \"just trot out something\" fans would already expect",
-      "summary": "Big expectations, meet big game",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/with-gta-6-rockstar-couldnt-just-trot-out-something-fans-would-already-expect-weve-built-a-pyramid-on-everest/",
-      "date": "2026-10-31T14:54:18.000Z"
-    },
-    {
-      "lead": false,
       "src": "PC Gamer",
       "title": "I'm 100% here for a more grounded, realistic GTA 6, one I believe won't come at the expense of its usual haphazard chaos",
       "summary": "I hope Rockstar makes us work a little harder to wreak our usual mayhem.",
@@ -65,38 +97,6 @@
       "summary": "This is where I'd put the GTA 6 PC release date, if we had one.",
       "url": "https://www.pcgamer.com/games/new-pc-games-2027/",
       "date": "2026-10-30T19:11:36.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "Everything confirmed about GTA 6 animals so far",
-      "summary": "There will be over 170 different animal species in GTA 6, and this is what has been confirmed about them",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-animals/",
-      "date": "2026-10-30T16:31:14.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "18 years later, GTA 6 redeems Grand Theft Auto's most annoying meme by turning it into something useful",
-      "summary": "Scooter brothers! We're scooter brothers!",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/18-years-later-gta-6-redeems-grand-theft-autos-most-annoying-meme-by-turning-it-into-something-useful/",
-      "date": "2026-10-30T16:20:45.000Z"
-    },
-    {
-      "lead": false,
-      "src": "PC Gamer",
-      "title": "GTA 6's souped-up Red Dead Redemption 2-style morality system will scale from 'Professional' to 'Irredeemable' so players can decide what kind of criminal they want to be",
-      "summary": "Not every act of violence needs to end in death.",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6s-souped-up-red-dead-redemption-2-style-morality-system-will-scale-from-professional-to-irredeemable-so-players-can-decide-what-kind-of-criminal-they-want-to-be/",
-      "date": "2026-10-30T15:23:59.000Z"
-    },
-    {
-      "lead": false,
-      "src": "PC Gamer",
-      "title": "Screw Grand Theft Auto 6's supercars, I'm here for Leonida's robust public transportation system",
-      "summary": "Apparently they turn up on time and everything.",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/screw-grand-theft-auto-6s-supercars-im-here-for-leonidas-robust-public-transportation-system/",
-      "date": "2026-10-30T15:22:01.000Z"
     },
     {
       "lead": false,
@@ -116,51 +116,11 @@
     },
     {
       "lead": false,
-      "src": "GameSpot",
-      "title": "GTA 6’s Cops Will Send Dogs To Get You",
-      "summary": "The police in GTA 6 are smarter and more capable than they were in GTA 5, and that includes the newly confirmed detail that cops can dispatch dogs to hunt you down. Edge Magazine recently posted a preview of the game with Rockstar's Rob Nelson playing. In one sequence, Jason and Lucia are attempting to evade police…",
-      "url": "https://www.gamespot.com/articles/gta-6s-cops-will-send-dogs-to-get-you/",
-      "date": "2026-10-29T14:32:34.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GameSpot",
-      "title": "GTA 6 Makes A Familiar Open-World Gaming Feature Work In Its Own Way",
-      "summary": "One feature Grand Theft Auto 6 borrows from modern-day open-world games is the ability to call a ride whenever you need it, but in true Rockstar fashion, it comes with a bit of real-life friction. It's not quite as simple as hitting a button to \" even the odds \" when you need to make a fast getaway. As GamesRadar's…",
-      "url": "https://www.gamespot.com/articles/gta-6-makes-a-familiar-open-world-gaming-feature-work-in-its-own-way/",
-      "date": "2026-10-29T13:47:17.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GameSpot",
-      "title": "GTA 6’s Landmass Is Nearly As Big As GTA 4, GTA 5, And Red Dead Redemption 2 Combined",
-      "summary": "GTA 6 has a big map, but just how big? According to Rockstar, the GTA 6 map is roughly twice the size of GTA 5's and three times the size of Red Dead Redemption 2's . The total landmass in GTA 6, however, is nearly as big as the playable maps for GTA 4, GTA 5, and Red Dead Redemption 2 combined , the developer told…",
-      "url": "https://www.gamespot.com/articles/gta-6s-landmass-is-nearly-as-big-as-gta-4-gta-5-and-red-dead-redemption-2-combined/",
-      "date": "2026-10-29T13:08:41.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GameSpot",
-      "title": "South Park Gives Us A First Look At GTA 6’s Most Disgusting Feature",
-      "summary": "Did you know that you can throw dog poop at NPCs in Grand Theft Auto 6 ? While we've known about this feature for a while, we finally got a chance to see it in disgusting action thanks to this week's episode of South Park. For the last couple of weeks, the running gag in South Park--or South America, following its c…",
-      "url": "https://www.gamespot.com/articles/south-park-gives-us-another-look-at-gta-6-most-disgusting-feature/",
-      "date": "2026-10-29T12:24:17.000Z"
-    },
-    {
-      "lead": false,
       "src": "Eurogamer",
       "title": "Dog poo, anti-social behaviour, and Jason: Our latest look at GTA 6 gameplay comes from an episode of South Park",
       "summary": "So we know that GTA 6 has a marketing deal with Sony and the PlayStation 5 , and that Rockstar has been engaging with real-world locations to get the word about its latest sandbox game out into the world ahead of its 19th November launch. But it seems the reach of Rockstar's marketing arm has no limit, as brand new…",
       "url": "https://www.eurogamer.net/dog-poo-anti-social-behaviour-and-jason-our-latest-look-at-gta-6-gameplay-comes-from-the-latest-episode-of-south-park",
       "date": "2026-10-29T09:55:54.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GameSpot",
-      "title": "GTA 6 Online Could Be Released In Early 2027, Bank Says",
-      "summary": "Take-Two's biggest release ever, GTA 6 , is coming up in November, but the company's share price continues to drop. It's down 21% this year and has now dipped under $200 this week after reaching a 52-week high of $265. In short, the stock is struggling , but one big bank says it sees a lot of upside, in part because…",
-      "url": "https://www.gamespot.com/articles/gta-6-online-could-be-released-in-early-2027-bank-says/",
-      "date": "2026-10-28T19:05:50.000Z"
     },
     {
       "lead": false,
@@ -177,14 +137,6 @@
       "summary": "There wasn't really any chance Grand Theft Auto 6 wasn't going to be a big download. Thanks to some new information, though, we now have a hard number. Read more",
       "url": "https://www.eurogamer.net/gta-6-ps5-download-size",
       "date": "2026-10-28T09:14:37.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GameSpot",
-      "title": "GTA 6 File Size Revealed, And It’s Massive–See How It Compares To Other Huge Games",
-      "summary": "Ahead of the game's release in November, GTA 6' s file size has been revealed, and it is massive. PlayStation Game Size reports that the $80 standard edition will take up 210GB of storage capacity. Size details for the $100 Ultimate Edition--which includes a ton of content not in the regular version--were not made a…",
-      "url": "https://www.gamespot.com/articles/gta-6-file-size-revealed-and-its-massive/",
-      "date": "2026-10-27T17:48:21.000Z"
     }
   ]
 }
