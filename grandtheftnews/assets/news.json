@@ -1,9 +1,17 @@
 {
-  "updated": "2026-11-02T00:30:11.583Z",
+  "updated": "2026-11-02T10:51:42.308Z",
   "count": 23,
   "items": [
     {
       "lead": true,
+      "src": "IGN",
+      "title": "Sony Issues Yet Another PS5 Firmware Update as Jailbreak Whac-a-Mole Continues Ahead of GTA 6 Release",
+      "summary": "Sony has released yet another PS5 firmware update as it battles to keep a lid on the homebrew community’s ongoing effort to jailbreak the console ahead of the release of GTA 6. Here's what it does.",
+      "url": "https://www.ign.com/articles/sony-issues-yet-another-ps5-firmware-update-as-jailbreak-whac-a-mole-continues-ahead-of-gta-6-release",
+      "date": "2026-11-02T08:18:12.000Z"
+    },
+    {
+      "lead": false,
       "src": "PC Gamer",
       "title": "Grand Theft Auto 6 teased a handful of its upcoming radio stations and its music curation is as strong as ever",
       "summary": "I can already picture my late-night Leonida drives to these bangers.",
@@ -97,14 +105,6 @@
       "summary": "Only a few more weeks remain before Grand Theft Auto 6 launches on PS5 and Xbox Series X|S, and while Rockstar Games recently lifted the lid on its big open-world sequel, that's still not enough. There's definitely value in approaching a game with as little knowledge as possible so that you can enjoy any potential s…",
       "url": "https://www.gamespot.com/articles/gta-6-attention-to-detail-is-getting-a-little-ridiculous/",
       "date": "2026-10-30T14:18:36.000Z"
-    },
-    {
-      "lead": false,
-      "src": "PC Gamer",
-      "title": "You can relationship-max in GTA 6 as walking along the beach or working out at the gym together increases your couple rating on a four point scale",
-      "summary": "I am going to create an environment that is so loving.",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/you-can-relationship-max-in-gta-6-as-walking-along-the-beach-or-working-out-at-the-gym-together-increases-your-couple-rating-on-a-four-point-scale/",
-      "date": "2026-10-30T10:31:07.000Z"
     },
     {
       "lead": false,
