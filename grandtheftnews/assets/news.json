@@ -1,9 +1,89 @@
 {
-  "updated": "2026-11-03T06:24:50.221Z",
-  "count": 17,
+  "updated": "2026-11-03T16:57:03.919Z",
+  "count": 22,
   "items": [
     {
       "lead": true,
+      "src": "GamesRadar",
+      "title": "Grand Theft Auto bonus that used to be free with every physical game is now a $1 purchase for GTA 6",
+      "summary": "You won't be getting your Leonida map in the box here",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/the-grand-theft-auto-bonus-that-used-to-be-free-with-every-physical-game-is-now-a-separate-usd1-purchase-for-gta-6/",
+      "date": "2026-11-03T16:10:37.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "GTA 6 preload date and times confirmed",
+      "summary": "You can start preloading GTA 6 from November 10, and these are the details you need to know",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-preload-date-times/",
+      "date": "2026-11-03T16:10:21.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Polygon",
+      "title": "'GTA 6' Early Preload Times And File Size Confirmed By Rockstar",
+      "summary": "Rockstar Games reveals when GTA 6 fans can begin preloading the highly-anticipated open-world adventure and how much hard drive space they'll need",
+      "url": "https://www.polygon.com/gta-6-preload-when-is-ps5-xbox-times-file-size-gb-poster-map-rockstar/",
+      "date": "2026-11-03T15:42:56.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Eurogamer",
+      "title": "Grand Theft Auto 6 pre-load begins on 10th November, file size and regional timings released",
+      "summary": "Rockstar Games have revealed the pre-load date and time for Grand Theft Auto 6 . You better be prepared to clear out some storage space, and burn the midnight oil. Read more",
+      "url": "https://www.eurogamer.net/grand-theft-auto-6-pre-load-date",
+      "date": "2026-11-03T15:26:02.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "Rockstar confirms GTA 6 is 212GB, pre-loading opens earlier than previously announced for digital",
+      "summary": "GTA 6 pre-loading opens November 10 for some",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/rockstar-confirms-gta-6-is-212gb-pre-loading-opens-earlier-than-previously-announced-for-digital-orders/",
+      "date": "2026-11-03T15:24:03.000Z"
+    },
+    {
+      "lead": false,
+      "src": "IGN",
+      "title": "GTA 6 Preload, Global Release Times and Install Size Confirmed, Rockstar Announces Physical Cover Art Poster and Map of Leonida",
+      "summary": "Rockstar Games has confirmed the GTA 6 preload and global release times, as well as the install size of the game.",
+      "url": "https://www.ign.com/articles/gta-6-preload-times-and-install-size-confirmed-rockstar-announces-physical-cover-art-poster-and-map-of-leonida",
+      "date": "2026-11-03T15:08:41.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GameSpot",
+      "title": "Buying GTA 6 Could Save You $5,000, Or At Least This Guy Thinks So",
+      "summary": "Self-made millionaire Mark Tilbury has shared some advice for how buying GTA 6 can actually save you $5,000. Just don't take this too seriously. Here's how he arrived at that number: If the game costs $100 (for the Ultimate Edition) and it takes 80 hours to complete, that works out to $1.25/hour of \"fun.\" After addi…",
+      "url": "https://www.gamespot.com/articles/buying-gta-6-could-save-you-5000-or-at-least-this-guy-thinks-so/",
+      "date": "2026-11-03T14:53:41.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Kotaku",
+      "title": "Wardogs Studio Boss Tells Players To ‘F*ck Off’ During December",
+      "summary": "CEO Joe Brammer added, 'Go play GTA 6 , we need to detox'",
+      "url": "https://kotaku.com/wardogs-bulkhead-december-gta-6-joe-brammer-steam-pc-multiplayer-2000752730",
+      "date": "2026-11-03T14:00:54.000Z"
+    },
+    {
+      "lead": false,
+      "src": "IGN",
+      "title": "'Go Play GTA 6, We Need to Detox,' Wardogs Developer Tells Fans as It Prepares to Take December Off",
+      "summary": "After the runaway success of Wardogs, a new sandbox multiplayer shooter in Early Access on PC, the team at Bulkhead is taking a well-deserved break. They want you to know you can take a break, too.",
+      "url": "https://www.ign.com/articles/go-play-gta-6-says-wardogs-developer",
+      "date": "2026-11-03T12:36:08.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "\"Go play GTA 6, we need to detox\": Wardogs studio Bulkhead is taking a month-long break",
+      "summary": "I don't need telling twice",
+      "url": "https://www.gamesradar.com/games/fps/go-play-gta-6-we-need-to-detox-wardogs-studio-bulkhead-is-taking-a-month-long-break-and-it-wants-to-make-sure-players-know-they-can-f-off/",
+      "date": "2026-11-03T11:19:24.000Z"
+    },
+    {
+      "lead": false,
       "src": "IGN",
       "title": "A Concerning Amount of GTA Fans Would Give Up Their Pets to Play GTA 6 Early",
       "summary": "A poll of 1,300 American gamers shows some concerning trends regarding GTA 6 — more specifically, their willingness to abandon their pets for a chance at playing the game ahead of its release.",
@@ -36,14 +116,6 @@
     },
     {
       "lead": false,
-      "src": "IGN",
-      "title": "Self-Made Millionaire Says Buying GTA 6 Saves You $5,000",
-      "summary": "British self-made millionaire, entrepreneur, and social media educator Mark Tilbury put out a video giving the most sound financial advice of 2026: buy GTA 6. According to him, it’ll save you a big chunk of change.",
-      "url": "https://www.ign.com/articles/self-made-millionaire-says-buying-gta-6-saves-you-5000",
-      "date": "2026-11-02T16:12:23.000Z"
-    },
-    {
-      "lead": false,
       "src": "GameSpot",
       "title": "GTA 6 Buying Guide: Get Ready For Sticker Shock",
       "summary": "Rockstar's GTA 6 finally releases on November 19, and if you're looking to play the game, you'll also need a console--and those are more expensive than ever. Here's a quick buying guide to help you understand what you need and how much the items will cost. A console First, you'll need a PlayStation 5 or Xbox Series…",
@@ -52,67 +124,11 @@
     },
     {
       "lead": false,
-      "src": "Kotaku",
-      "title": "Walmart GTA 6 Pre-Orders Will Include A ‘Surprise’",
-      "summary": "Give me a 10-inch statue of Jason, then we’ll talk",
-      "url": "https://kotaku.com/grand-theft-auto-6-pre-order-walmart-surprise-release-date-2000752341",
-      "date": "2026-11-02T14:31:24.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "GTA 5 lead Ned Luke never got the whole script as Rockstar only sends it \"in pieces\"",
-      "summary": "\"I was like a gamer guy, so I knew it was going to be big.\"",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-5-lead-ned-luke-never-got-the-whole-script-as-rockstar-only-sends-it-in-pieces-but-what-he-did-get-still-left-him-with-over-3-500-pages/",
-      "date": "2026-11-02T13:05:56.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "As GTA 6 looms, Fortnite offers almost unlimited free skins for 14 days to extremely lucky players",
-      "summary": "Fortnite's Pirate Shop Access is almost too good to be true... and it's probably going to have thousands of players grinding all season for it",
-      "url": "https://www.gamesradar.com/games/fortnite/as-gta-6-looms-fortnite-breaks-the-emergency-glass-almost-unlimited-free-skins-emotes-and-more-for-14-days-but-youll-basically-have-to-win-the-lottery-to-get-them/",
-      "date": "2026-11-02T13:01:29.000Z"
-    },
-    {
-      "lead": false,
       "src": "PC Gamer",
       "title": "Grand Theft Auto 6 teased a handful of its upcoming radio stations and its music curation is as strong as ever",
       "summary": "I can already picture my late-night Leonida drives to these bangers.",
       "url": "https://www.pcgamer.com/games/grand-theft-auto/grand-theft-auto-6-teased-a-handful-of-its-upcoming-radio-stations-and-its-music-curation-is-as-strong-as-ever/",
       "date": "2026-11-01T18:00:00.000Z"
-    },
-    {
-      "lead": false,
-      "src": "PC Gamer",
-      "title": "I'm 100% here for a more grounded, realistic GTA 6, one I believe won't come at the expense of its usual haphazard chaos",
-      "summary": "I hope Rockstar makes us work a little harder to wreak our usual mayhem.",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/im-100-percent-here-for-a-more-grounded-realistic-gta-6-one-i-believe-wont-come-at-the-expense-of-its-usual-haphazard-chaos/",
-      "date": "2026-10-31T13:00:00.000Z"
-    },
-    {
-      "lead": false,
-      "src": "PC Gamer",
-      "title": "New games in 2027: Fable, Final Fantasy 7, and (maybe) GTA 6 on PC",
-      "summary": "This is where I'd put the GTA 6 PC release date, if we had one.",
-      "url": "https://www.pcgamer.com/games/new-pc-games-2027/",
-      "date": "2026-10-30T19:11:36.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GameSpot",
-      "title": "GTA 6’s Attention To Detail Is Getting A Little Ridiculous",
-      "summary": "Only a few more weeks remain before Grand Theft Auto 6 launches on PS5 and Xbox Series X|S, and while Rockstar Games recently lifted the lid on its big open-world sequel, that's still not enough. There's definitely value in approaching a game with as little knowledge as possible so that you can enjoy any potential s…",
-      "url": "https://www.gamespot.com/articles/gta-6-attention-to-detail-is-getting-a-little-ridiculous/",
-      "date": "2026-10-30T14:18:36.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GameSpot",
-      "title": "Artist With Music In GTA 6 Had No Idea About Any Of That",
-      "summary": "Cliff Richard is among the numerous famous artists who are lending their music to Rockstar's GTA 6 , with Richard's classic tune \"Devil Woman\" appearing in the Netflix Extended Look . Richard, 86, didn't know about any of that, however, or that GTA 6 is a game and not a TV show. Speaking to The Times ( via Dexerto )…",
-      "url": "https://www.gamespot.com/articles/artist-with-music-in-gta-6-had-no-idea-about-any-of-that/",
-      "date": "2026-10-29T18:50:25.000Z"
     },
     {
       "lead": false,
@@ -137,6 +153,30 @@
       "summary": "There wasn't really any chance Grand Theft Auto 6 wasn't going to be a big download. Thanks to some new information, though, we now have a hard number. Read more",
       "url": "https://www.eurogamer.net/gta-6-ps5-download-size",
       "date": "2026-10-28T09:14:37.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GameSpot",
+      "title": "GTA 6 File Size Revealed, And It’s Truly Massive–See How It Compares To Other Huge Games",
+      "summary": "Ahead of the game's release on November 19, GTA 6' s file size has been revealed, and it is massive. Rockstar Games has confirmed that people will need about 212GB of space to install the game. As announced previously, preloading for GTA 6 begins on November 10, which is good news considering the game is massive in…",
+      "url": "https://www.gamespot.com/articles/gta-6-file-size-revealed-and-its-massive/",
+      "date": "2026-10-27T17:48:21.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GameSpot",
+      "title": "GTA 6 Worldwide Release Times Revealed, And The US Gets It Almost Last",
+      "summary": "GTA 6 is one of the most-anticipated games ever, and it arrives on November 19. People naturally want to know when exactly that day it will be available to play, and now Rockstar has confirmed the details. The game will launch at midnight local time on November 19 \"in all regions\" across PS5 and Xbox Series X|S. Giv…",
+      "url": "https://www.gamespot.com/articles/unofficial-gta-6-worldwide-release-times-revealed-and-the-us-gets-it-almost-last/",
+      "date": "2026-09-10T14:34:11.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GameSpot",
+      "title": "GTA 6 Preloading: Start Date And What To Know About Digital And Physical Copies",
+      "summary": "After years of development and multiple delays, Rockstar's Grand Theft Auto 6 is finally launching on November 19, and you can now actually preorder the game . The $80 game arrives on November 19, but you can actually preload it a week earlier, which is nice for the countless people who no doubt want to begin playin…",
+      "url": "https://www.gamespot.com/articles/gta-6-preloading-start-date-and-what-to-know-about-digital-and-physical-copies/",
+      "date": "2026-07-10T16:42:48.000Z"
     }
   ]
 }
