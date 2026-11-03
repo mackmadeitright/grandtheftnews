@@ -1,9 +1,25 @@
 {
-  "updated": "2026-11-02T21:39:09.629Z",
+  "updated": "2026-11-03T06:24:50.221Z",
   "count": 17,
   "items": [
     {
       "lead": true,
+      "src": "IGN",
+      "title": "A Concerning Amount of GTA Fans Would Give Up Their Pets to Play GTA 6 Early",
+      "summary": "A poll of 1,300 American gamers shows some concerning trends regarding GTA 6 — more specifically, their willingness to abandon their pets for a chance at playing the game ahead of its release.",
+      "url": "https://www.ign.com/articles/a-concerning-amount-of-gta-fans-would-give-up-their-pets-to-play-gta-6-early",
+      "date": "2026-11-03T00:44:36.000Z"
+    },
+    {
+      "lead": false,
+      "src": "IGN",
+      "title": "Terminally Ill GTA 6 Fan Dies 3 Weeks Before Game's Launch, Fans Pay Their Respects",
+      "summary": "A terminally ill GTA 6 fan has died three weeks before the game's launch.",
+      "url": "https://www.ign.com/articles/terminally-ill-gta-6-fan-dies-three-weeks-before-games-launch-fans-pay-their-respects",
+      "date": "2026-11-02T23:12:25.000Z"
+    },
+    {
+      "lead": false,
       "src": "GamesRadar",
       "title": "GTA 6 lead says Rockstar president Sam Houser is involved in every aspect of creative development",
       "summary": "It seems rumors that Sam Houser is just a \"taste director\" are bunk",
@@ -60,26 +76,10 @@
     },
     {
       "lead": false,
-      "src": "IGN",
-      "title": "Sony Issues Yet Another PS5 Firmware Update as Jailbreak Whac-a-Mole Continues Ahead of GTA 6 Release",
-      "summary": "Sony has released yet another PS5 firmware update as it battles to keep a lid on the homebrew community’s ongoing effort to jailbreak the console ahead of the release of GTA 6. Here's what it does.",
-      "url": "https://www.ign.com/articles/sony-issues-yet-another-ps5-firmware-update-as-jailbreak-whac-a-mole-continues-ahead-of-gta-6-release",
-      "date": "2026-11-02T08:18:12.000Z"
-    },
-    {
-      "lead": false,
       "src": "PC Gamer",
       "title": "Grand Theft Auto 6 teased a handful of its upcoming radio stations and its music curation is as strong as ever",
       "summary": "I can already picture my late-night Leonida drives to these bangers.",
       "url": "https://www.pcgamer.com/games/grand-theft-auto/grand-theft-auto-6-teased-a-handful-of-its-upcoming-radio-stations-and-its-music-curation-is-as-strong-as-ever/",
-      "date": "2026-11-01T18:00:00.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "GTA 6 lead channels the spirit of Skyrim-era Todd Howard: \"You can go anywhere, any random location\"",
-      "summary": "Rockstar's next contains \"an order of magnitude more interiors\" than its predecessors",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-lead-channels-the-spirit-of-skyrim-era-todd-howard-you-can-go-anywhere-any-random-location-and-so-many-people-have-thought-about-that-location/",
       "date": "2026-11-01T18:00:00.000Z"
     },
     {
