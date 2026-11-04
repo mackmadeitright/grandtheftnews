@@ -1,14 +1,22 @@
 {
-  "updated": "2026-11-04T05:57:35.080Z",
+  "updated": "2026-11-04T14:19:23.307Z",
   "count": 24,
   "items": [
     {
       "lead": true,
-      "src": "Polygon",
-      "title": "GTA 5’s Unsolvable Mystery Broke Fans for Over a Decade, and GTA 6 Should Do It Again",
-      "summary": "GTA 5's Mount Chiliad holds a mystery that some fans think still hasn't been solved, and GTA 6 should include something similar.",
-      "url": "https://www.polygon.com/gta-5-mount-chiliad-mystery-unsolvable-broke-fans/",
-      "date": "2026-11-04T04:00:17.000Z"
+      "src": "GameSpot",
+      "title": "The Ocarina Of Time Remake Has Claimed 2026’s Review Crown, But GTA 6 Could Have Something To Say About It",
+      "summary": "Reviews are in for The Legend of Zelda: Ocarina of Time remake , and they're pretty good so far. On GameSpot's sister site Metacritic , Ocarina of Time has a review aggregate score of 96 from 81 reviews, making it the highest-reviewed game of the year so far--and with only a few months to go, it might stay in the to…",
+      "url": "https://www.gamespot.com/articles/the-ocarina-of-time-remake-has-claimed-2026-review-crown-but-gta-6-could-have-something-to-say-about-it/",
+      "date": "2026-11-04T13:26:05.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "GTA 6 pre-orders have already made over $730m, analysts estimate, and 74% of them are on PS5",
+      "summary": "Rockstar's already raking in the dough",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-pre-orders-have-already-made-over-usd730m-in-revenue-analysts-estimate-and-74-percent-of-them-are-on-ps5/",
+      "date": "2026-11-04T11:52:09.000Z"
     },
     {
       "lead": false,
@@ -124,35 +132,11 @@
     },
     {
       "lead": false,
-      "src": "IGN",
-      "title": "GTA 6 Preload, Global Release Times and Install Size Confirmed, Rockstar Announces Physical Cover Art Poster and Map of Leonida",
-      "summary": "Rockstar Games has confirmed the GTA 6 preload and global release times, as well as the install size of the game.",
-      "url": "https://www.ign.com/articles/gta-6-preload-times-and-install-size-confirmed-rockstar-announces-physical-cover-art-poster-and-map-of-leonida",
-      "date": "2026-11-03T15:08:41.000Z"
-    },
-    {
-      "lead": false,
       "src": "GameSpot",
       "title": "Buying GTA 6 Could Save You $5,000, Or At Least This Guy Thinks So",
       "summary": "Self-made millionaire Mark Tilbury has shared some advice for how buying GTA 6 can actually save you $5,000. Just don't take this too seriously. Here's how he arrived at that number: If the game costs $100 (for the Ultimate Edition) and it takes 80 hours to complete, that works out to $1.25/hour of \"fun.\" After addi…",
       "url": "https://www.gamespot.com/articles/buying-gta-6-could-save-you-5000-or-at-least-this-guy-thinks-so/",
       "date": "2026-11-03T14:53:41.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Kotaku",
-      "title": "Wardogs Studio Boss Tells Players To ‘F*ck Off’ During December",
-      "summary": "CEO Joe Brammer added, 'Go play GTA 6 , we need to detox'",
-      "url": "https://kotaku.com/wardogs-bulkhead-december-gta-6-joe-brammer-steam-pc-multiplayer-2000752730",
-      "date": "2026-11-03T14:00:54.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "\"Go play GTA 6, we need to detox\": Wardogs studio Bulkhead is taking a month-long break",
-      "summary": "I don't need telling twice",
-      "url": "https://www.gamesradar.com/games/fps/go-play-gta-6-we-need-to-detox-wardogs-studio-bulkhead-is-taking-a-month-long-break-and-it-wants-to-make-sure-players-know-they-can-f-off/",
-      "date": "2026-11-03T11:19:24.000Z"
     },
     {
       "lead": false,
@@ -193,6 +177,22 @@
       "summary": "There wasn't really any chance Grand Theft Auto 6 wasn't going to be a big download. Thanks to some new information, though, we now have a hard number. Read more",
       "url": "https://www.eurogamer.net/gta-6-ps5-download-size",
       "date": "2026-10-28T09:14:37.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GameSpot",
+      "title": "GTA 6 File Size Revealed, And It’s Truly Massive–See How It Compares To Other Huge Games",
+      "summary": "Ahead of the game's release on November 19, GTA 6' s file size has been revealed, and it is massive. Rockstar Games has confirmed that people will need about 212GB of space to install the game. As announced previously, preloading for GTA 6 begins on November 10, which is good news considering the game is massive in…",
+      "url": "https://www.gamespot.com/articles/gta-6-file-size-revealed-and-its-massive/",
+      "date": "2026-10-27T17:48:21.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GameSpot",
+      "title": "GTA 6 Worldwide Release Times Revealed, And The US Gets It Almost Last",
+      "summary": "GTA 6 is one of the most-anticipated games ever, and it arrives on November 19. People naturally want to know when exactly that day it will be available to play, and now Rockstar has confirmed the details. The game will launch at midnight local time on November 19 \"in all regions\" across PS5 and Xbox Series X|S. Giv…",
+      "url": "https://www.gamespot.com/articles/unofficial-gta-6-worldwide-release-times-revealed-and-the-us-gets-it-almost-last/",
+      "date": "2026-09-10T14:34:11.000Z"
     }
   ]
 }
