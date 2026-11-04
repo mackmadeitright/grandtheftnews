@@ -1,9 +1,49 @@
 {
-  "updated": "2026-11-04T14:19:23.307Z",
-  "count": 24,
+  "updated": "2026-11-04T21:12:53.241Z",
+  "count": 17,
   "items": [
     {
       "lead": true,
+      "src": "GameSpot",
+      "title": "GTA 6 Will Now Come To Stores Sooner, But It’s Not Playable Right Away",
+      "summary": "Rockstar Games has announced that Grand Theft Auto 6 will now released in stores two days earlier than anticipated--but this doesn't change anything about when you'll actually be able to play the game. GTA 6's code-in-a-box physical edition will be available to purchase in stores starting on November 10; it was prev…",
+      "url": "https://www.gamespot.com/articles/gta-6-will-now-come-to-stores-sooner-but-its-not-playable-right-away/",
+      "date": "2026-11-04T20:26:20.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GameSpot",
+      "title": "GTA 6 Is A Massive Download, But You May Qualify For A Free Speed Boost To Download It Faster",
+      "summary": "Grand Theft Auto 6 launches on November 19, and the game's file size, 212GB , is truly massive. One internet company, Spectrum, is turning this into a marketing moment for its own services by offering members a \"free Gig Speed Lift\" in November to help download the game faster. Available November 9-30, the offer has…",
+      "url": "https://www.gamespot.com/articles/gta-6-is-a-massive-download-but-you-may-qualify-for-a-free-speed-boost-to-download-it-faster/",
+      "date": "2026-11-04T20:03:46.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GameSpot",
+      "title": "GTA 6 Survey Reveals People Really Want GTA Online, But It Hasn’t Been Confirmed Yet",
+      "summary": "Grand Theft Auto 6 releases on November 19, and a lot of people are very excited to play some kind of online mode, according to a new study. The only problem is that GTA 6 is a strictly single-player game and has no online mode, at least not one that Rockstar has talked about yet. Research firm Piper Sandler recentl…",
+      "url": "https://www.gamespot.com/articles/gta-6-survey-reveals-people-really-want-gta-online-but-it-hasnt-been-confirmed-yet/",
+      "date": "2026-11-04T19:36:47.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Polygon",
+      "title": "GTA 6 Sells Nearly 8 Million Copies Before It Even Launches, Report Says",
+      "summary": "GTA 6 hasn't launched yet, but new estimates suggest Rockstar's blockbuster is already approaching 8 million sales.",
+      "url": "https://www.polygon.com/gta-6-preorders-sales-8-million-copies-before-release-date/",
+      "date": "2026-11-04T18:31:55.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GameSpot",
+      "title": "GTA 6 Has Sold Almost 8 Million Copies So Far, And PS5 Is Dominating The Split (Of Course)",
+      "summary": "The video game research company Sensor Tower has updated its GTA 6 sales tracker to reveal the latest, albeit unofficial, sales data for the open-world crime game. According to Sensor Tower, GTA 6 has now sold 7.71 million total units via pre-purchases, which works out to about $751 million in gross revenue. The rep…",
+      "url": "https://www.gamespot.com/articles/gta-6-has-sold-almost-8-million-copies-so-far-and-ps5-is-dominating-the-split-of-course/",
+      "date": "2026-11-04T14:15:31.000Z"
+    },
+    {
+      "lead": false,
       "src": "GameSpot",
       "title": "The Ocarina Of Time Remake Has Claimed 2026’s Review Crown, But GTA 6 Could Have Something To Say About It",
       "summary": "Reviews are in for The Legend of Zelda: Ocarina of Time remake , and they're pretty good so far. On GameSpot's sister site Metacritic , Ocarina of Time has a review aggregate score of 96 from 81 reviews, making it the highest-reviewed game of the year so far--and with only a few months to go, it might stay in the to…",
@@ -20,51 +60,11 @@
     },
     {
       "lead": false,
-      "src": "GamesRadar",
-      "title": "GTA 6's weather will rock your boat, damage your plane, and send Vice City denizens seeking shelter",
-      "summary": "\"This game is much more granular\"",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6s-weather-will-rock-your-boat-damage-your-plane-and-send-vice-city-denizens-seeking-shelter/",
-      "date": "2026-11-04T00:47:23.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "GTA 6 may have done Ocarina of Time remake and WoW: Forever a favor by scaring games out of November",
-      "summary": "Nintendo and Blizzard aren't competing with Rockstar in the same way as some",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-may-have-done-ocarina-of-time-remake-and-wow-forever-a-favor-by-scaring-games-out-of-november-everything-else-in-the-market-well-see-says-analyst/",
-      "date": "2026-11-03T21:47:03.000Z"
-    },
-    {
-      "lead": false,
       "src": "GameSpot",
       "title": "This Custom Xbox-Inside-An-Alligator Console Is Actually One Big Ad For GTA 6",
       "summary": "Given that Sony holds the marketing rights for Grand Theft Auto 6 , Microsoft has had to get creative to promote the open-world crime game for Xbox--and the company's latest effort in that department goes big. Say Hello to the X-Bite, a playable Xbox Series X console that was designed to look like it was swallowed w…",
       "url": "https://www.gamespot.com/articles/this-custom-xbox-inside-an-alligator-console-is-actually-one-big-ad-for-gta-6/",
       "date": "2026-11-03T21:22:30.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Kotaku",
-      "title": "Xbox Isn’t Allowed To Market GTA 6 So It Stuck A Console Inside Of An Alligator Instead",
-      "summary": "'Xbox is heading to Florida'",
-      "url": "https://kotaku.com/xbox-isnt-allowed-to-market-gta-6-so-it-stuck-a-console-inside-of-an-alligator-instead-2000752847",
-      "date": "2026-11-03T21:00:56.000Z"
-    },
-    {
-      "lead": false,
-      "src": "IGN",
-      "title": "What PS5 and Xbox Consoles Are in Stock Ahead of GTA 6 and Black Friday?",
-      "summary": "Sony and Microsoft are warning about console shortages ahead of GTA 6 and Black Friday. Which consoles are available (or not) right now?",
-      "url": "https://www.ign.com/articles/what-ps5-and-xbox-consoles-are-in-stock-ahead-of-gta-6-and-black-friday",
-      "date": "2026-11-03T20:59:17.000Z"
-    },
-    {
-      "lead": false,
-      "src": "IGN",
-      "title": "Police Mock Car Chase Criminal for Getting Arrested Right Before GTA 6 Release",
-      "summary": "Police in Derbyshire, UK, are going viral after making a TikTok video mocking a criminal who led them on a high-speed car chase, saying the suspect will now miss out on GTA 6’s highly-anticipated launch as a consequence of their actions.",
-      "url": "https://www.ign.com/articles/police-mock-car-chase-criminal-for-being-arrested-during-gta-6-release",
-      "date": "2026-11-03T19:56:45.000Z"
     },
     {
       "lead": false,
@@ -76,46 +76,6 @@
     },
     {
       "lead": false,
-      "src": "IGN",
-      "title": "Xbox Made an Alligator-Shaped Series X, and You Can Win It Before GTA 6 Launches",
-      "summary": "GTA 6 is mere weeks away from launch, and to celebrate, Xbox is bringing the wildlife of Leonida to players’ living rooms with a one-of-a-kind console.",
-      "url": "https://www.ign.com/articles/xbox-made-an-alligator-shaped-series-x-and-you-can-win-it-before-gta-6-launches",
-      "date": "2026-11-03T19:20:47.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Kotaku",
-      "title": "Fan Who Went Viral Wishing To Stay Alive Long Enough To Play GTA 6 Has Passed Away",
-      "summary": "The man's family confirmed he died on October 29 following complications from lung transplant surgery",
-      "url": "https://kotaku.com/fan-who-went-viral-wishing-to-stay-alive-long-enough-to-play-gta-6-has-passed-away-2000752775",
-      "date": "2026-11-03T18:00:31.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Kotaku",
-      "title": "GTA 6 Pre-Load Times, Install Size, And Global Release Times Confirmed",
-      "summary": "Here's how to make sure you're ready for the big day",
-      "url": "https://kotaku.com/gta-6-pre-load-times-install-size-and-global-release-times-confirmed-2000752787",
-      "date": "2026-11-03T17:00:58.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "Grand Theft Auto bonus that used to be free with every physical game is now a $1 purchase for GTA 6",
-      "summary": "You won't be getting your Leonida map in the box here",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/the-grand-theft-auto-bonus-that-used-to-be-free-with-every-physical-game-is-now-a-separate-usd1-purchase-for-gta-6/",
-      "date": "2026-11-03T16:10:37.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "GTA 6 preload date and times confirmed",
-      "summary": "You can start preloading GTA 6 from November 10, and these are the details you need to know",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-preload-date-times/",
-      "date": "2026-11-03T16:10:21.000Z"
-    },
-    {
-      "lead": false,
       "src": "Eurogamer",
       "title": "Grand Theft Auto 6 pre-load begins on 10th November, file size and regional timings released",
       "summary": "Rockstar Games have revealed the pre-load date and time for Grand Theft Auto 6 . You better be prepared to clear out some storage space, and burn the midnight oil. Read more",
@@ -124,35 +84,11 @@
     },
     {
       "lead": false,
-      "src": "GamesRadar",
-      "title": "Rockstar confirms GTA 6 is 212GB, pre-loading opens earlier than previously announced for digital",
-      "summary": "GTA 6 pre-loading opens November 10 for some",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/rockstar-confirms-gta-6-is-212gb-pre-loading-opens-earlier-than-previously-announced-for-digital-orders/",
-      "date": "2026-11-03T15:24:03.000Z"
-    },
-    {
-      "lead": false,
       "src": "GameSpot",
       "title": "Buying GTA 6 Could Save You $5,000, Or At Least This Guy Thinks So",
       "summary": "Self-made millionaire Mark Tilbury has shared some advice for how buying GTA 6 can actually save you $5,000. Just don't take this too seriously. Here's how he arrived at that number: If the game costs $100 (for the Ultimate Edition) and it takes 80 hours to complete, that works out to $1.25/hour of \"fun.\" After addi…",
       "url": "https://www.gamespot.com/articles/buying-gta-6-could-save-you-5000-or-at-least-this-guy-thinks-so/",
       "date": "2026-11-03T14:53:41.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GameSpot",
-      "title": "GTA 6 Buying Guide: Get Ready For Sticker Shock",
-      "summary": "Rockstar's GTA 6 finally releases on November 19, and if you're looking to play the game, you'll also need a console--and those are more expensive than ever. Here's a quick buying guide to help you understand what you need and how much the items will cost. A console First, you'll need a PlayStation 5 or Xbox Series…",
-      "url": "https://www.gamespot.com/articles/gta-6-buying-guide-get-ready-for-sticker-shock/",
-      "date": "2026-11-02T16:10:15.000Z"
-    },
-    {
-      "lead": false,
-      "src": "PC Gamer",
-      "title": "Grand Theft Auto 6 teased a handful of its upcoming radio stations and its music curation is as strong as ever",
-      "summary": "I can already picture my late-night Leonida drives to these bangers.",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/grand-theft-auto-6-teased-a-handful-of-its-upcoming-radio-stations-and-its-music-curation-is-as-strong-as-ever/",
-      "date": "2026-11-01T18:00:00.000Z"
     },
     {
       "lead": false,
@@ -193,6 +129,14 @@
       "summary": "GTA 6 is one of the most-anticipated games ever, and it arrives on November 19. People naturally want to know when exactly that day it will be available to play, and now Rockstar has confirmed the details. The game will launch at midnight local time on November 19 \"in all regions\" across PS5 and Xbox Series X|S. Giv…",
       "url": "https://www.gamespot.com/articles/unofficial-gta-6-worldwide-release-times-revealed-and-the-us-gets-it-almost-last/",
       "date": "2026-09-10T14:34:11.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GameSpot",
+      "title": "GTA 6 Preloading: Start Date And What To Know About Digital And Physical Copies",
+      "summary": "After years of development and multiple delays, Rockstar's Grand Theft Auto 6 is finally launching on November 19, and you can now actually preorder the game . The $80 game arrives on November 19, but you can actually preload it a week earlier, which is nice for the countless people who no doubt want to begin playin…",
+      "url": "https://www.gamespot.com/articles/gta-6-preloading-start-date-and-what-to-know-about-digital-and-physical-copies/",
+      "date": "2026-07-10T16:42:48.000Z"
     }
   ]
 }
