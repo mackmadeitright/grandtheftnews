@@ -1,9 +1,105 @@
 {
-  "updated": "2026-11-05T06:22:01.802Z",
-  "count": 17,
+  "updated": "2026-11-05T17:16:36.265Z",
+  "count": 24,
   "items": [
     {
       "lead": true,
+      "src": "GameSpot",
+      "title": "GTA 6 Looks Pretty Realistic, Until It Comes To Gym Etiquette",
+      "summary": "Compared to previous games in the series, Grand Theft Auto 6 looks like it'll only be a few steps removed from reality when it launches this month. Actions have consequences , working on a relationship requires more than just hitting a few button prompts, and bulking up means that you'll have to visit an in-game gym…",
+      "url": "https://www.gamespot.com/articles/gta-6-looks-pretty-realistic-until-it-comes-to-gym-etiquette/",
+      "date": "2026-11-05T16:47:41.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "GTA 6 being pirated is just \"a fact of life,\" says Take-Two, but lawyers are ready if it's an issue",
+      "summary": "Technical protections will be enforced too",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-being-pirated-is-just-a-fact-of-life-says-ceo-of-rockstar-owner-and-lawyers-are-ready-if-it-becomes-a-problem/",
+      "date": "2026-11-05T16:47:41.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Kotaku",
+      "title": "Massive GTA 6 Mural Tagged By Graffiti Artist Overnight And People Aren’t Happy: ‘As A Graffiti Artist Myself, I Honestly Think This Is Pretty Disrespectful’",
+      "summary": "Some have defended the artist, claiming the mural is just a big advertisement and fair game for tagging",
+      "url": "https://kotaku.com/massive-gta-6-mural-tagged-by-graffiti-artist-overnight-and-people-arent-happy-as-a-graffiti-artist-myself-i-honestly-think-this-is-pretty-disrespectful-2000754181",
+      "date": "2026-11-05T16:32:30.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Eurogamer",
+      "title": "Rockstar shares 38 new screenshots of Grand Theft Auto 6, showing off Vice City, Jason and Lucia, and much more",
+      "summary": "Rockstar Games have released 38 new screenshots of Grand Theft Auto 6 , ahead of its release later this month. Read more",
+      "url": "https://www.eurogamer.net/grand-theft-auto-6-38-new-screenshots",
+      "date": "2026-11-05T16:18:40.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GameSpot",
+      "title": "GTA 6: Lots Of New Images Have Been Released",
+      "summary": "Rockstar has released a big batch of new Grand Theft Auto 6 screenshots as part of what the developer is calling a \"launch gallery.\" The brand-new images show off main characters Jason and Lucia in a variety of settings, including a nightclub, the dive bar The Rusty Anchor, and the gym, where Jason is putting in som…",
+      "url": "https://www.gamespot.com/articles/gta-6-lots-of-new-images-have-been-released/",
+      "date": "2026-11-05T15:55:32.000Z"
+    },
+    {
+      "lead": false,
+      "src": "IGN",
+      "title": "Rockstar Games Releases 39 New GTA 6 Screenshots to Celebrate Two Weeks from Launch",
+      "summary": "Rockstar Games has released a few dozen new screenshots from GTA 6 to celebrate the game being two weeks away from launch.",
+      "url": "https://www.ign.com/articles/rockstar-games-releases-39-new-gta-6-screenshots-to-celebrate-two-weeks-from-launch",
+      "date": "2026-11-05T15:34:31.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Kotaku",
+      "title": "The CEO In Charge Of GTA 6 Is Very Confused When Asked Why He Doesn’t Have More Hits",
+      "summary": "What more could you want?",
+      "url": "https://kotaku.com/the-ceo-in-charge-of-gta-6-is-very-confused-when-asked-why-he-doesnt-have-more-hits-2000754149",
+      "date": "2026-11-05T15:00:54.000Z"
+    },
+    {
+      "lead": false,
+      "src": "PC Gamer",
+      "title": "Take-Two boss Strauss Zelnick isn't too concerned about piracy ahead of GTA 6 even if he is 'worried about everything all the time'",
+      "summary": "I am also worried about everything all the time, so I get it.",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/take-two-boss-strauss-zelnick-isnt-too-concerned-about-piracy-ahead-of-gta-6-even-if-he-is-worried-about-everything-all-the-time/",
+      "date": "2026-11-05T14:25:42.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GameSpot",
+      "title": "GTA 6 Boss Talks The Game’s Budget And Calls Out A “High-Profile” Game For Releasing In A Rough State",
+      "summary": "Grand Theft Auto 6 is the biggest game that Rockstar Games has ever made, and it was no doubt very expensive to produce. But just how much did it cost? We know it's not $1.5 billion , but Take-Two CEO Strauss Zelnick has now reacted to the discussion around the game's development costs. He told The Wall Street Journ…",
+      "url": "https://www.gamespot.com/articles/gta-6-boss-talks-the-games-budget-and-calls-out-a-high-profile-game-for-releasing-in-a-rough-state/",
+      "date": "2026-11-05T14:13:02.000Z"
+    },
+    {
+      "lead": false,
+      "src": "PC Gamer",
+      "title": "FSR 4.1.2 now on Xbox and Xbox handhelds, just in time for a certain big GTA 6-shaped game",
+      "summary": "Help me upscalers, you're my only hope.",
+      "url": "https://www.pcgamer.com/hardware/fsr-4-1-2-now-on-xbox-and-xbox-handhelds-just-in-time-for-a-certain-big-gta-6-shaped-game/",
+      "date": "2026-11-05T12:12:38.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "With GTA 6 delays, Take-Two CEO suggests Rockstar didn't want a Cyberpunk 2077 situation",
+      "summary": "He doesn't refer to Cyberpunk by name, but it's quite clear which RPG he's referring to",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/with-gta-6-delays-take-two-ceo-suggests-rockstar-didnt-want-a-cyberpunk-2077-situation-they-had-to-pull-the-title-after-shipping/",
+      "date": "2026-11-05T11:35:54.000Z"
+    },
+    {
+      "lead": false,
+      "src": "IGN",
+      "title": "Sony Announces Official Marvel's Wolverine Sales Figure for the First Time, Raises PlayStation Sales Forecast With GTA 6 Imminent",
+      "summary": "Sony has raised its sales forecast for its gaming business, while announcing an official sales figure for Marvel’s Wolverine for the first time.",
+      "url": "https://www.ign.com/articles/sony-announces-official-marvels-wolverine-sales-figure-for-the-first-time-raises-playstation-sales-forecast-with-gta-6-imminent",
+      "date": "2026-11-05T11:17:06.000Z"
+    },
+    {
+      "lead": false,
       "src": "PC Gamer",
       "title": "No GTA 6 November: Here's what you can play on PC instead",
       "summary": "World of Warcraft: Forever, Warhammer Survivors, and a batch of fresh updates.",
@@ -29,8 +125,8 @@
     {
       "lead": false,
       "src": "GameSpot",
-      "title": "GTA 6 Will Now Come To Stores Sooner, But It’s Not Playable Right Away",
-      "summary": "Rockstar Games has announced that Grand Theft Auto 6 will now released in stores two days earlier than anticipated--but this doesn't change anything about when you'll actually be able to play the game. GTA 6's code-in-a-box physical edition will be available to purchase in stores starting on November 10; it was prev…",
+      "title": "GTA 6 Will Not Actually Come To Stores Sooner",
+      "summary": "Rockstar Games recently announced that Grand Theft Auto 6 will release in stores two days earlier than anticipated, but then updated the post to say that won't actually be the case. We're not quite sure what's going on here, and we've reached out to Rockstar seeking comment. GTA 6's code-in-a-box physical edition wi…",
       "url": "https://www.gamespot.com/articles/gta-6-will-now-come-to-stores-sooner-but-its-not-playable-right-away/",
       "date": "2026-11-04T20:26:20.000Z"
     },
@@ -68,27 +164,11 @@
     },
     {
       "lead": false,
-      "src": "GamesRadar",
-      "title": "GTA 6 pre-orders have already made over $730m, analysts estimate, and 74% of them are on PS5",
-      "summary": "Rockstar's already raking in the dough",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-pre-orders-have-already-made-over-usd730m-in-revenue-analysts-estimate-and-74-percent-of-them-are-on-ps5/",
-      "date": "2026-11-04T11:52:09.000Z"
-    },
-    {
-      "lead": false,
       "src": "GameSpot",
       "title": "This Custom Xbox-Inside-An-Alligator Console Is Actually One Big Ad For GTA 6",
       "summary": "Given that Sony holds the marketing rights for Grand Theft Auto 6 , Microsoft has had to get creative to promote the open-world crime game for Xbox--and the company's latest effort in that department goes big. Say Hello to the X-Bite, a playable Xbox Series X console that was designed to look like it was swallowed w…",
       "url": "https://www.gamespot.com/articles/this-custom-xbox-inside-an-alligator-console-is-actually-one-big-ad-for-gta-6/",
       "date": "2026-11-03T21:22:30.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GameSpot",
-      "title": "GTA 6 Is Getting A Physical Map–Here’s How To Get One For Free Or Very Cheap",
-      "summary": "Rockstar Games has confirmed more details about Grand Theft Auto 6 's impending release on November 19, including more information about physical goodies. While the game itself won't be available on a disc, Rockstar is offering a printable physical GTA 6 cover art poster and a map of the game's setting, Leonida. The…",
-      "url": "https://www.gamespot.com/articles/gta-6-is-getting-a-physical-map-heres-how-to-get-one-for-free-or-very-cheap/",
-      "date": "2026-11-03T19:28:46.000Z"
     },
     {
       "lead": false,
@@ -113,30 +193,6 @@
       "summary": "A date has been locked in for Rockstar Games employees to vote on whether to recognise their developer union. If successful, it will become the largest recognised union across the entirety of the UK video games industry. Read more",
       "url": "https://www.eurogamer.net/rockstar-union-vote-november",
       "date": "2026-10-28T09:49:39.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Eurogamer",
-      "title": "GTA 6 is a massive 210GB download on PlayStation 5",
-      "summary": "There wasn't really any chance Grand Theft Auto 6 wasn't going to be a big download. Thanks to some new information, though, we now have a hard number. Read more",
-      "url": "https://www.eurogamer.net/gta-6-ps5-download-size",
-      "date": "2026-10-28T09:14:37.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GameSpot",
-      "title": "GTA 6 File Size Revealed, And It’s Truly Massive–See How It Compares To Other Huge Games",
-      "summary": "Ahead of the game's release on November 19, GTA 6' s file size has been revealed, and it is massive. Rockstar Games has confirmed that people will need about 212GB of space to install the game. As announced previously, preloading for GTA 6 begins on November 10, which is good news considering the game is massive in…",
-      "url": "https://www.gamespot.com/articles/gta-6-file-size-revealed-and-its-massive/",
-      "date": "2026-10-27T17:48:21.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GameSpot",
-      "title": "GTA 6 Worldwide Release Times Revealed, And The US Gets It Almost Last",
-      "summary": "GTA 6 is one of the most-anticipated games ever, and it arrives on November 19. People naturally want to know when exactly that day it will be available to play, and now Rockstar has confirmed the details. The game will launch at midnight local time on November 19 \"in all regions\" across PS5 and Xbox Series X|S. Giv…",
-      "url": "https://www.gamespot.com/articles/unofficial-gta-6-worldwide-release-times-revealed-and-the-us-gets-it-almost-last/",
-      "date": "2026-09-10T14:34:11.000Z"
     }
   ]
 }
