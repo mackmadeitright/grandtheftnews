@@ -1,9 +1,49 @@
 {
-  "updated": "2026-11-05T17:16:36.265Z",
+  "updated": "2026-11-05T23:30:55.665Z",
   "count": 24,
   "items": [
     {
       "lead": true,
+      "src": "GamesRadar",
+      "title": "The Elder Scrolls 6: Sentinel won't fill the shoes of GTA 6 as the next white whale, says analyst",
+      "summary": "The passing of the sixes",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/the-elder-scrolls-6-sentinel-wont-fill-the-shoes-of-gta-6-as-the-industrys-next-white-whale-says-analyst-no-shade-to-them/",
+      "date": "2026-11-05T22:07:10.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Kotaku",
+      "title": "Rockstar Dumps Nearly 40 Spectacular New GTA 6 Screenshots Ahead Of Launch",
+      "summary": "The wait is almost over",
+      "url": "https://kotaku.com/rockstar-dumps-nearly-40-spectacular-new-gta-6-screenshots-ahead-of-launch-2000754266",
+      "date": "2026-11-05T21:15:19.000Z"
+    },
+    {
+      "lead": false,
+      "src": "IGN",
+      "title": "Rapper Kodak Black Will Be an NPC in GTA 6, Creating Speculation Over Other Artists Appearing In-Game",
+      "summary": "Rapper Kodak Black has been confirmed to be featured as an NPC in GTA 6 via a new batch of screenshots.",
+      "url": "https://www.ign.com/articles/rapper-kodak-black-will-be-in-npc-in-gta-6-creating-speculation-over-other-artists-appearing-in-game",
+      "date": "2026-11-05T17:32:34.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "It's not just GTA 6 – Take-Two boss argues \"we have the best collection\" of IP in the business",
+      "summary": "Grand Theft Auto is far from the company's only big hitter",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/its-not-just-gta-6-take-two-boss-argues-we-have-the-best-collection-of-ip-in-the-business-thanks-to-red-dead-redemption-borderlands-and-more/",
+      "date": "2026-11-05T17:31:34.000Z"
+    },
+    {
+      "lead": false,
+      "src": "PC Gamer",
+      "title": "Rockstar drops a pile of new GTA 6 launch screenshots featuring dancers, combat dogs, and so many pores",
+      "summary": "In 39 new screenshots, Rockstar flaunts exciting new genres of Florida Man.",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/rockstar-drops-a-pile-of-new-gta-6-launch-screenshots-featuring-dancers-combat-dogs-and-so-many-pores/",
+      "date": "2026-11-05T17:13:17.000Z"
+    },
+    {
+      "lead": false,
       "src": "GameSpot",
       "title": "GTA 6 Looks Pretty Realistic, Until It Comes To Gym Etiquette",
       "summary": "Compared to previous games in the series, Grand Theft Auto 6 looks like it'll only be a few steps removed from reality when it launches this month. Actions have consequences , working on a relationship requires more than just hitting a few button prompts, and bulking up means that you'll have to visit an in-game gym…",
@@ -108,22 +148,6 @@
     },
     {
       "lead": false,
-      "src": "IGN",
-      "title": "GTA 6 Rakes in Over $750 Million in Preorders 2 Weeks Ahead of Release Date",
-      "summary": "Data compiled by analytics firm Sensor Tower estimates that GTA 6 has already raked in more than $750 million in preorders across both PlayStation 5 and Xbox.",
-      "url": "https://www.ign.com/articles/gta-6-rakes-in-over-750-million-in-pre-orders-two-weeks-ahead-of-release-date",
-      "date": "2026-11-04T22:42:19.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Kotaku",
-      "title": "GTA 6 Has Already Sold Nearly 8 Million Copies, One Data Firm Claims",
-      "summary": "It may already be one of the best-selling games of the year weeks before launch",
-      "url": "https://kotaku.com/gta-6-has-already-sold-nearly-8-million-copies-one-data-firm-claims-2000753423",
-      "date": "2026-11-04T21:37:34.000Z"
-    },
-    {
-      "lead": false,
       "src": "GameSpot",
       "title": "GTA 6 Will Not Actually Come To Stores Sooner",
       "summary": "Rockstar Games recently announced that Grand Theft Auto 6 will release in stores two days earlier than anticipated, but then updated the post to say that won't actually be the case. We're not quite sure what's going on here, and we've reached out to Rockstar seeking comment. GTA 6's code-in-a-box physical edition wi…",
@@ -164,35 +188,11 @@
     },
     {
       "lead": false,
-      "src": "GameSpot",
-      "title": "This Custom Xbox-Inside-An-Alligator Console Is Actually One Big Ad For GTA 6",
-      "summary": "Given that Sony holds the marketing rights for Grand Theft Auto 6 , Microsoft has had to get creative to promote the open-world crime game for Xbox--and the company's latest effort in that department goes big. Say Hello to the X-Bite, a playable Xbox Series X console that was designed to look like it was swallowed w…",
-      "url": "https://www.gamespot.com/articles/this-custom-xbox-inside-an-alligator-console-is-actually-one-big-ad-for-gta-6/",
-      "date": "2026-11-03T21:22:30.000Z"
-    },
-    {
-      "lead": false,
       "src": "Eurogamer",
       "title": "Grand Theft Auto 6 pre-load begins on 10th November, file size and regional timings released",
       "summary": "Rockstar Games have revealed the pre-load date and time for Grand Theft Auto 6 . You better be prepared to clear out some storage space, and burn the midnight oil. Read more",
       "url": "https://www.eurogamer.net/grand-theft-auto-6-pre-load-date",
       "date": "2026-11-03T15:26:02.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Eurogamer",
-      "title": "Dog poo, anti-social behaviour, and Jason: Our latest look at GTA 6 gameplay comes from an episode of South Park",
-      "summary": "So we know that GTA 6 has a marketing deal with Sony and the PlayStation 5 , and that Rockstar has been engaging with real-world locations to get the word about its latest sandbox game out into the world ahead of its 19th November launch. But it seems the reach of Rockstar's marketing arm has no limit, as brand new…",
-      "url": "https://www.eurogamer.net/dog-poo-anti-social-behaviour-and-jason-our-latest-look-at-gta-6-gameplay-comes-from-the-latest-episode-of-south-park",
-      "date": "2026-10-29T09:55:54.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Eurogamer",
-      "title": "Rockstar Games employees have locked in a union vote next month, and it'll take place over Grand Theft Auto 6's release window",
-      "summary": "A date has been locked in for Rockstar Games employees to vote on whether to recognise their developer union. If successful, it will become the largest recognised union across the entirety of the UK video games industry. Read more",
-      "url": "https://www.eurogamer.net/rockstar-union-vote-november",
-      "date": "2026-10-28T09:49:39.000Z"
     }
   ]
 }
