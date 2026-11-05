@@ -1,9 +1,33 @@
 {
-  "updated": "2026-11-04T21:12:53.241Z",
+  "updated": "2026-11-05T06:22:01.802Z",
   "count": 17,
   "items": [
     {
       "lead": true,
+      "src": "PC Gamer",
+      "title": "No GTA 6 November: Here's what you can play on PC instead",
+      "summary": "World of Warcraft: Forever, Warhammer Survivors, and a batch of fresh updates.",
+      "url": "https://www.pcgamer.com/games/november-games-2026/",
+      "date": "2026-11-04T23:37:01.000Z"
+    },
+    {
+      "lead": false,
+      "src": "IGN",
+      "title": "GTA 6 Rakes in Over $750 Million in Preorders 2 Weeks Ahead of Release Date",
+      "summary": "Data compiled by analytics firm Sensor Tower estimates that GTA 6 has already raked in more than $750 million in preorders across both PlayStation 5 and Xbox.",
+      "url": "https://www.ign.com/articles/gta-6-rakes-in-over-750-million-in-pre-orders-two-weeks-ahead-of-release-date",
+      "date": "2026-11-04T22:42:19.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Kotaku",
+      "title": "GTA 6 Has Already Sold Nearly 8 Million Copies, One Data Firm Claims",
+      "summary": "It may already be one of the best-selling games of the year weeks before launch",
+      "url": "https://kotaku.com/gta-6-has-already-sold-nearly-8-million-copies-one-data-firm-claims-2000753423",
+      "date": "2026-11-04T21:37:34.000Z"
+    },
+    {
+      "lead": false,
       "src": "GameSpot",
       "title": "GTA 6 Will Now Come To Stores Sooner, But It’s Not Playable Right Away",
       "summary": "Rockstar Games has announced that Grand Theft Auto 6 will now released in stores two days earlier than anticipated--but this doesn't change anything about when you'll actually be able to play the game. GTA 6's code-in-a-box physical edition will be available to purchase in stores starting on November 10; it was prev…",
@@ -25,14 +49,6 @@
       "summary": "Grand Theft Auto 6 releases on November 19, and a lot of people are very excited to play some kind of online mode, according to a new study. The only problem is that GTA 6 is a strictly single-player game and has no online mode, at least not one that Rockstar has talked about yet. Research firm Piper Sandler recentl…",
       "url": "https://www.gamespot.com/articles/gta-6-survey-reveals-people-really-want-gta-online-but-it-hasnt-been-confirmed-yet/",
       "date": "2026-11-04T19:36:47.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Polygon",
-      "title": "GTA 6 Sells Nearly 8 Million Copies Before It Even Launches, Report Says",
-      "summary": "GTA 6 hasn't launched yet, but new estimates suggest Rockstar's blockbuster is already approaching 8 million sales.",
-      "url": "https://www.polygon.com/gta-6-preorders-sales-8-million-copies-before-release-date/",
-      "date": "2026-11-04T18:31:55.000Z"
     },
     {
       "lead": false,
@@ -84,14 +100,6 @@
     },
     {
       "lead": false,
-      "src": "GameSpot",
-      "title": "Buying GTA 6 Could Save You $5,000, Or At Least This Guy Thinks So",
-      "summary": "Self-made millionaire Mark Tilbury has shared some advice for how buying GTA 6 can actually save you $5,000. Just don't take this too seriously. Here's how he arrived at that number: If the game costs $100 (for the Ultimate Edition) and it takes 80 hours to complete, that works out to $1.25/hour of \"fun.\" After addi…",
-      "url": "https://www.gamespot.com/articles/buying-gta-6-could-save-you-5000-or-at-least-this-guy-thinks-so/",
-      "date": "2026-11-03T14:53:41.000Z"
-    },
-    {
-      "lead": false,
       "src": "Eurogamer",
       "title": "Dog poo, anti-social behaviour, and Jason: Our latest look at GTA 6 gameplay comes from an episode of South Park",
       "summary": "So we know that GTA 6 has a marketing deal with Sony and the PlayStation 5 , and that Rockstar has been engaging with real-world locations to get the word about its latest sandbox game out into the world ahead of its 19th November launch. But it seems the reach of Rockstar's marketing arm has no limit, as brand new…",
@@ -129,14 +137,6 @@
       "summary": "GTA 6 is one of the most-anticipated games ever, and it arrives on November 19. People naturally want to know when exactly that day it will be available to play, and now Rockstar has confirmed the details. The game will launch at midnight local time on November 19 \"in all regions\" across PS5 and Xbox Series X|S. Giv…",
       "url": "https://www.gamespot.com/articles/unofficial-gta-6-worldwide-release-times-revealed-and-the-us-gets-it-almost-last/",
       "date": "2026-09-10T14:34:11.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GameSpot",
-      "title": "GTA 6 Preloading: Start Date And What To Know About Digital And Physical Copies",
-      "summary": "After years of development and multiple delays, Rockstar's Grand Theft Auto 6 is finally launching on November 19, and you can now actually preorder the game . The $80 game arrives on November 19, but you can actually preload it a week earlier, which is nice for the countless people who no doubt want to begin playin…",
-      "url": "https://www.gamespot.com/articles/gta-6-preloading-start-date-and-what-to-know-about-digital-and-physical-copies/",
-      "date": "2026-07-10T16:42:48.000Z"
     }
   ]
 }
