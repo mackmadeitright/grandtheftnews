@@ -1,22 +1,54 @@
 {
-  "updated": "2026-11-06T16:41:14.034Z",
-  "count": 24,
+  "updated": "2026-11-06T22:57:58.005Z",
+  "count": 20,
   "items": [
     {
       "lead": true,
+      "src": "GamesRadar",
+      "title": "A bunch of Grand Theft Auto games will be cheap on Steam until GTA 6 comes out, and only one sucks",
+      "summary": "And it's not GTA: San Andreas",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/a-bunch-of-grand-theft-auto-games-will-be-cheap-on-steam-until-gta-6-comes-out-and-only-one-of-them-sucks/",
+      "date": "2026-11-06T20:53:16.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GameSpot",
+      "title": "Can You Upgrade To GTA 6’s $100 Edition? Yes, And It’s Easy–Here’s How",
+      "summary": "Rockstar's Grand Theft Auto 6 launches on November 19. If you're planning to buy the $80 edition but want to upgrade later to the $100 version, you might be interested to know if such a thing is possible. Thankfully, yes, it is-and it's very easy to do. Rockstar will offer an \"Ultimate Edition Upgrade\" for $20, so f…",
+      "url": "https://www.gamespot.com/articles/can-you-upgrade-to-gta-6s-100-edition-yes-and-its-easy-heres-how/",
+      "date": "2026-11-06T20:23:39.000Z"
+    },
+    {
+      "lead": false,
+      "src": "IGN",
+      "title": "GTA 6 Players in Germany Can Legally Take Time Off Work to Play the Game on Launch, But There's a Catch",
+      "summary": "Germany has a unique legal loophole that lets 60 employees take time off work to play GTA 6 without putting their jobs in jeopardy.",
+      "url": "https://www.ign.com/articles/gta-6-players-in-germany-can-legally-take-time-off-work-to-play-the-game-on-launch-but-theres-a-catch",
+      "date": "2026-11-06T20:18:07.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "Rockstar could release GTA 6 on PC sooner to head off AI ports, former series lead suggests",
+      "summary": "\"It really has changed the world\"",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/rockstar-could-release-gta-6-on-pc-sooner-to-head-off-ai-ports-former-grand-theft-auto-lead-suggests-i-think-i-would-be-concerned/",
+      "date": "2026-11-06T17:08:43.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GameSpot",
+      "title": "GTA 6 Is Going All Out On Details You Might Never Even Notice",
+      "summary": "It's the smallest details that stand out most in Grand Theft Auto 6 , and thanks to all the screenshots that developer Rockstar Games has posted since the game was officially announced, there's been no shortage of stuff to analyze. Last week, senior video producer Jake Dekker grabbed all 99 of those official screens…",
+      "url": "https://www.gamespot.com/articles/gta-6-is-going-all-out-on-details-you-might-never-even-notice/",
+      "date": "2026-11-06T16:25:51.000Z"
+    },
+    {
+      "lead": false,
       "src": "GameSpot",
       "title": "Head Of GTA 6 Owner Reveals His Advice To Be Healthy, Fit, And Live A Long Time",
       "summary": "Strauss Zelnick, the head of Rockstar Games owner Take-Two, is known for his dedication to health and fitness. In 2018, he published a book titled Becoming Ageless: The Four Secrets To Looking and Feeling Younger Than Ever, and images of the executive looking shredded and lean at 8% body fat have circulated online.…",
       "url": "https://www.gamespot.com/articles/head-of-gta-6-owner-reveals-his-advice-to-be-healthy-fit-and-live-a-long-time/",
       "date": "2026-11-06T15:09:40.000Z"
-    },
-    {
-      "lead": false,
-      "src": "IGN",
-      "title": "Rockstar Will Be Keen to Release GTA 6 on PC Sooner Rather Than Later Because of AI Clones, Former Dev Says",
-      "summary": "Rockstar may officially release GTA 6 on PC soon after console over concern about AI-generated clones, one former developer has said.",
-      "url": "https://www.ign.com/articles/former-rockstar-dev-claims-gta-6-online-will-launch-soon",
-      "date": "2026-11-06T12:57:07.000Z"
     },
     {
       "lead": false,
@@ -36,59 +68,11 @@
     },
     {
       "lead": false,
-      "src": "IGN",
-      "title": "Nier: Automata Dev Working on Fix for Patch That Accidentally Bloated the Game Size to 366GB on PC",
-      "summary": "Nier: Automata got a patch yesterday to add support for more languages to the game (Korean, Simplified Chinese, and Traditional Chinese), but it accidentally bloated the game file size to 366GB on PC. That’s 1.5 copies of GTA 6!",
-      "url": "https://www.ign.com/articles/nier-automata-dev-working-on-fix-patch-that-bloated-game-size-366gb",
-      "date": "2026-11-06T11:07:49.000Z"
-    },
-    {
-      "lead": false,
-      "src": "IGN",
-      "title": "Pilot Draws Incredible GTA 6 Mural With His Flight Path",
-      "summary": "Benjamin McDaniel, who calls himself The Pilot Picasso, just unveiled his new masterpiece: a GTA 6 mural drawn by flying his plane. Using flight path visualization systems, you can watch his entire journey and see the artwork come to life.",
-      "url": "https://www.ign.com/articles/pilot-draws-incredible-gta-6-mural-with-flight-path",
-      "date": "2026-11-06T10:21:18.000Z"
-    },
-    {
-      "lead": false,
-      "src": "IGN",
-      "title": "Spectrum Is Offering Free Internet Upgrades So People Can Download GTA 6 Faster",
-      "summary": "Spectrum customers can get a free internet upgrade this month to download GTA 6 faster.",
-      "url": "https://www.ign.com/articles/spectrum-is-offering-free-internet-upgrades-so-people-can-download-gta-6-faster",
-      "date": "2026-11-05T23:00:08.000Z"
-    },
-    {
-      "lead": false,
       "src": "GamesRadar",
       "title": "The Elder Scrolls 6: Sentinel won't fill the shoes of GTA 6 as the next white whale, says analyst",
       "summary": "The passing of the sixes",
       "url": "https://www.gamesradar.com/games/grand-theft-auto/the-elder-scrolls-6-sentinel-wont-fill-the-shoes-of-gta-6-as-the-industrys-next-white-whale-says-analyst-no-shade-to-them/",
       "date": "2026-11-05T22:07:10.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Kotaku",
-      "title": "Rockstar Dumps Nearly 40 Spectacular New GTA 6 Screenshots Ahead Of Launch",
-      "summary": "The wait is almost over",
-      "url": "https://kotaku.com/rockstar-dumps-nearly-40-spectacular-new-gta-6-screenshots-ahead-of-launch-2000754266",
-      "date": "2026-11-05T21:15:19.000Z"
-    },
-    {
-      "lead": false,
-      "src": "IGN",
-      "title": "Rapper Kodak Black Will Be an NPC in GTA 6, Creating Speculation Over Other Artists Appearing In-Game",
-      "summary": "Rapper Kodak Black has been confirmed to be featured as an NPC in GTA 6 via a new batch of screenshots.",
-      "url": "https://www.ign.com/articles/rapper-kodak-black-will-be-in-npc-in-gta-6-creating-speculation-over-other-artists-appearing-in-game",
-      "date": "2026-11-05T17:32:34.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "It's not just GTA 6 – Take-Two boss argues \"we have the best collection\" of IP in the business",
-      "summary": "Grand Theft Auto is far from the company's only big hitter",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/its-not-just-gta-6-take-two-boss-argues-we-have-the-best-collection-of-ip-in-the-business-thanks-to-red-dead-redemption-borderlands-and-more/",
-      "date": "2026-11-05T17:31:34.000Z"
     },
     {
       "lead": false,
@@ -156,30 +140,6 @@
     },
     {
       "lead": false,
-      "src": "GameSpot",
-      "title": "GTA 6 Will Not Actually Come To Stores Sooner",
-      "summary": "Rockstar Games recently announced that Grand Theft Auto 6 will release in stores two days earlier than anticipated, but then updated the post to say that won't actually be the case. We're not quite sure what's going on here, and we've reached out to Rockstar seeking comment. GTA 6's code-in-a-box physical edition wi…",
-      "url": "https://www.gamespot.com/articles/gta-6-will-now-come-to-stores-sooner-but-its-not-playable-right-away/",
-      "date": "2026-11-04T20:26:20.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GameSpot",
-      "title": "GTA 6 Is A Massive Download, But You May Qualify For A Free Speed Boost To Download It Faster",
-      "summary": "Grand Theft Auto 6 launches on November 19, and the game's file size, 212GB , is truly massive. One internet company, Spectrum, is turning this into a marketing moment for its own services by offering members a \"free Gig Speed Lift\" in November to help download the game faster. Available November 9-30, the offer has…",
-      "url": "https://www.gamespot.com/articles/gta-6-is-a-massive-download-but-you-may-qualify-for-a-free-speed-boost-to-download-it-faster/",
-      "date": "2026-11-04T20:03:46.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GameSpot",
-      "title": "GTA 6 Survey Reveals People Really Want GTA Online, But It Hasn’t Been Confirmed Yet",
-      "summary": "Grand Theft Auto 6 releases on November 19, and a lot of people are very excited to play some kind of online mode, according to a new study. The only problem is that GTA 6 is a strictly single-player game and has no online mode, at least not one that Rockstar has talked about yet. Research firm Piper Sandler recentl…",
-      "url": "https://www.gamespot.com/articles/gta-6-survey-reveals-people-really-want-gta-online-but-it-hasnt-been-confirmed-yet/",
-      "date": "2026-11-04T19:36:47.000Z"
-    },
-    {
-      "lead": false,
       "src": "Eurogamer",
       "title": "Grand Theft Auto 6 pre-load begins on 10th November, file size and regional timings released",
       "summary": "Rockstar Games have revealed the pre-load date and time for Grand Theft Auto 6 . You better be prepared to clear out some storage space, and burn the midnight oil. Read more",
@@ -193,6 +153,14 @@
       "summary": "So we know that GTA 6 has a marketing deal with Sony and the PlayStation 5 , and that Rockstar has been engaging with real-world locations to get the word about its latest sandbox game out into the world ahead of its 19th November launch. But it seems the reach of Rockstar's marketing arm has no limit, as brand new…",
       "url": "https://www.eurogamer.net/dog-poo-anti-social-behaviour-and-jason-our-latest-look-at-gta-6-gameplay-comes-from-the-latest-episode-of-south-park",
       "date": "2026-10-29T09:55:54.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GameSpot",
+      "title": "GTA+: Price, Free Games, And All The Other Perks You Get With A Membership Ahead Of GTA 6 Launch",
+      "summary": "In 2022, Rockstar Games introduced GTA+, a subscription service that provides a variety of perks and bonuses in GTA Online--and beyond. With GTA 6 's release coming up this month, we're running through everything you need to know about GTA +. Do you really need to sign up for yet another subscription service? Only y…",
+      "url": "https://www.gamespot.com/articles/gta-price-free-games-and-all-the-other-perks-you-get-with-a-membership/1100-6530905/",
+      "date": "2025-04-16T15:00:00.000Z"
     }
   ]
 }
