@@ -1,9 +1,17 @@
 {
-  "updated": "2026-11-05T23:30:55.665Z",
+  "updated": "2026-11-06T06:16:09.153Z",
   "count": 24,
   "items": [
     {
       "lead": true,
+      "src": "IGN",
+      "title": "Spectrum Is Offering Free Internet Upgrades So People Can Download GTA 6 Faster",
+      "summary": "Spectrum customers can get a free internet upgrade this month to download GTA 6 faster.",
+      "url": "https://www.ign.com/articles/spectrum-is-offering-free-internet-upgrades-so-people-can-download-gta-6-faster",
+      "date": "2026-11-05T23:00:08.000Z"
+    },
+    {
+      "lead": false,
       "src": "GamesRadar",
       "title": "The Elder Scrolls 6: Sentinel won't fill the shoes of GTA 6 as the next white whale, says analyst",
       "summary": "The passing of the sixes",
@@ -185,14 +193,6 @@
       "summary": "Reviews are in for The Legend of Zelda: Ocarina of Time remake , and they're pretty good so far. On GameSpot's sister site Metacritic , Ocarina of Time has a review aggregate score of 96 from 81 reviews, making it the highest-reviewed game of the year so far--and with only a few months to go, it might stay in the to…",
       "url": "https://www.gamespot.com/articles/the-ocarina-of-time-remake-has-claimed-2026-review-crown-but-gta-6-could-have-something-to-say-about-it/",
       "date": "2026-11-04T13:26:05.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Eurogamer",
-      "title": "Grand Theft Auto 6 pre-load begins on 10th November, file size and regional timings released",
-      "summary": "Rockstar Games have revealed the pre-load date and time for Grand Theft Auto 6 . You better be prepared to clear out some storage space, and burn the midnight oil. Read more",
-      "url": "https://www.eurogamer.net/grand-theft-auto-6-pre-load-date",
-      "date": "2026-11-03T15:26:02.000Z"
     }
   ]
 }
