@@ -1,9 +1,57 @@
 {
-  "updated": "2026-11-06T06:16:09.153Z",
+  "updated": "2026-11-06T16:41:14.034Z",
   "count": 24,
   "items": [
     {
       "lead": true,
+      "src": "GameSpot",
+      "title": "Head Of GTA 6 Owner Reveals His Advice To Be Healthy, Fit, And Live A Long Time",
+      "summary": "Strauss Zelnick, the head of Rockstar Games owner Take-Two, is known for his dedication to health and fitness. In 2018, he published a book titled Becoming Ageless: The Four Secrets To Looking and Feeling Younger Than Ever, and images of the executive looking shredded and lean at 8% body fat have circulated online.…",
+      "url": "https://www.gamespot.com/articles/head-of-gta-6-owner-reveals-his-advice-to-be-healthy-fit-and-live-a-long-time/",
+      "date": "2026-11-06T15:09:40.000Z"
+    },
+    {
+      "lead": false,
+      "src": "IGN",
+      "title": "Rockstar Will Be Keen to Release GTA 6 on PC Sooner Rather Than Later Because of AI Clones, Former Dev Says",
+      "summary": "Rockstar may officially release GTA 6 on PC soon after console over concern about AI-generated clones, one former developer has said.",
+      "url": "https://www.ign.com/articles/former-rockstar-dev-claims-gta-6-online-will-launch-soon",
+      "date": "2026-11-06T12:57:07.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Eurogamer",
+      "title": "Former Rockstar Games tech director thinks GTA 6 could be coming to PC sooner than you'd expect to curb AI clones",
+      "summary": "Former Rockstar Games North technical director Obbe Vermeij believes that the possibility of AI vibe coded ports of Grand Theft Auto 6 could push Rockstar to create an official PC version sooner than you'd expect. Read more",
+      "url": "https://www.eurogamer.net/grand-theft-auto-6-pc-sooner-than-you-expect-curb-ai-clone",
+      "date": "2026-11-06T12:02:40.000Z"
+    },
+    {
+      "lead": false,
+      "src": "PC Gamer",
+      "title": "Zelnick doesn't regret GTA 6's delay because shipping an unfinished game rarely ends well: 'There was a very high profile release that fell into this category'",
+      "summary": "Oh boy, I wonder who that could be.",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/zelnick-doesnt-regret-gta-6s-delay-because-shipping-an-unfinished-game-rarely-ends-well-there-was-a-very-high-profile-release-that-fell-into-this-category/",
+      "date": "2026-11-06T11:40:38.000Z"
+    },
+    {
+      "lead": false,
+      "src": "IGN",
+      "title": "Nier: Automata Dev Working on Fix for Patch That Accidentally Bloated the Game Size to 366GB on PC",
+      "summary": "Nier: Automata got a patch yesterday to add support for more languages to the game (Korean, Simplified Chinese, and Traditional Chinese), but it accidentally bloated the game file size to 366GB on PC. That’s 1.5 copies of GTA 6!",
+      "url": "https://www.ign.com/articles/nier-automata-dev-working-on-fix-patch-that-bloated-game-size-366gb",
+      "date": "2026-11-06T11:07:49.000Z"
+    },
+    {
+      "lead": false,
+      "src": "IGN",
+      "title": "Pilot Draws Incredible GTA 6 Mural With His Flight Path",
+      "summary": "Benjamin McDaniel, who calls himself The Pilot Picasso, just unveiled his new masterpiece: a GTA 6 mural drawn by flying his plane. Using flight path visualization systems, you can watch his entire journey and see the artwork come to life.",
+      "url": "https://www.ign.com/articles/pilot-draws-incredible-gta-6-mural-with-flight-path",
+      "date": "2026-11-06T10:21:18.000Z"
+    },
+    {
+      "lead": false,
       "src": "IGN",
       "title": "Spectrum Is Offering Free Internet Upgrades So People Can Download GTA 6 Faster",
       "summary": "Spectrum customers can get a free internet upgrade this month to download GTA 6 faster.",
@@ -60,22 +108,6 @@
     },
     {
       "lead": false,
-      "src": "GamesRadar",
-      "title": "GTA 6 being pirated is just \"a fact of life,\" says Take-Two, but lawyers are ready if it's an issue",
-      "summary": "Technical protections will be enforced too",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-being-pirated-is-just-a-fact-of-life-says-ceo-of-rockstar-owner-and-lawyers-are-ready-if-it-becomes-a-problem/",
-      "date": "2026-11-05T16:47:41.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Kotaku",
-      "title": "Massive GTA 6 Mural Tagged By Graffiti Artist Overnight And People Aren’t Happy: ‘As A Graffiti Artist Myself, I Honestly Think This Is Pretty Disrespectful’",
-      "summary": "Some have defended the artist, claiming the mural is just a big advertisement and fair game for tagging",
-      "url": "https://kotaku.com/massive-gta-6-mural-tagged-by-graffiti-artist-overnight-and-people-arent-happy-as-a-graffiti-artist-myself-i-honestly-think-this-is-pretty-disrespectful-2000754181",
-      "date": "2026-11-05T16:32:30.000Z"
-    },
-    {
-      "lead": false,
       "src": "Eurogamer",
       "title": "Rockstar shares 38 new screenshots of Grand Theft Auto 6, showing off Vice City, Jason and Lucia, and much more",
       "summary": "Rockstar Games have released 38 new screenshots of Grand Theft Auto 6 , ahead of its release later this month. Read more",
@@ -89,22 +121,6 @@
       "summary": "Rockstar has released a big batch of new Grand Theft Auto 6 screenshots as part of what the developer is calling a \"launch gallery.\" The brand-new images show off main characters Jason and Lucia in a variety of settings, including a nightclub, the dive bar The Rusty Anchor, and the gym, where Jason is putting in som…",
       "url": "https://www.gamespot.com/articles/gta-6-lots-of-new-images-have-been-released/",
       "date": "2026-11-05T15:55:32.000Z"
-    },
-    {
-      "lead": false,
-      "src": "IGN",
-      "title": "Rockstar Games Releases 39 New GTA 6 Screenshots to Celebrate Two Weeks from Launch",
-      "summary": "Rockstar Games has released a few dozen new screenshots from GTA 6 to celebrate the game being two weeks away from launch.",
-      "url": "https://www.ign.com/articles/rockstar-games-releases-39-new-gta-6-screenshots-to-celebrate-two-weeks-from-launch",
-      "date": "2026-11-05T15:34:31.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Kotaku",
-      "title": "The CEO In Charge Of GTA 6 Is Very Confused When Asked Why He Doesn’t Have More Hits",
-      "summary": "What more could you want?",
-      "url": "https://kotaku.com/the-ceo-in-charge-of-gta-6-is-very-confused-when-asked-why-he-doesnt-have-more-hits-2000754149",
-      "date": "2026-11-05T15:00:54.000Z"
     },
     {
       "lead": false,
@@ -129,22 +145,6 @@
       "summary": "Help me upscalers, you're my only hope.",
       "url": "https://www.pcgamer.com/hardware/fsr-4-1-2-now-on-xbox-and-xbox-handhelds-just-in-time-for-a-certain-big-gta-6-shaped-game/",
       "date": "2026-11-05T12:12:38.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "With GTA 6 delays, Take-Two CEO suggests Rockstar didn't want a Cyberpunk 2077 situation",
-      "summary": "He doesn't refer to Cyberpunk by name, but it's quite clear which RPG he's referring to",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/with-gta-6-delays-take-two-ceo-suggests-rockstar-didnt-want-a-cyberpunk-2077-situation-they-had-to-pull-the-title-after-shipping/",
-      "date": "2026-11-05T11:35:54.000Z"
-    },
-    {
-      "lead": false,
-      "src": "IGN",
-      "title": "Sony Announces Official Marvel's Wolverine Sales Figure for the First Time, Raises PlayStation Sales Forecast With GTA 6 Imminent",
-      "summary": "Sony has raised its sales forecast for its gaming business, while announcing an official sales figure for Marvel’s Wolverine for the first time.",
-      "url": "https://www.ign.com/articles/sony-announces-official-marvels-wolverine-sales-figure-for-the-first-time-raises-playstation-sales-forecast-with-gta-6-imminent",
-      "date": "2026-11-05T11:17:06.000Z"
     },
     {
       "lead": false,
@@ -180,19 +180,19 @@
     },
     {
       "lead": false,
-      "src": "GameSpot",
-      "title": "GTA 6 Has Sold Almost 8 Million Copies So Far, And PS5 Is Dominating The Split (Of Course)",
-      "summary": "The video game research company Sensor Tower has updated its GTA 6 sales tracker to reveal the latest, albeit unofficial, sales data for the open-world crime game. According to Sensor Tower, GTA 6 has now sold 7.71 million total units via pre-purchases, which works out to about $751 million in gross revenue. The rep…",
-      "url": "https://www.gamespot.com/articles/gta-6-has-sold-almost-8-million-copies-so-far-and-ps5-is-dominating-the-split-of-course/",
-      "date": "2026-11-04T14:15:31.000Z"
+      "src": "Eurogamer",
+      "title": "Grand Theft Auto 6 pre-load begins on 10th November, file size and regional timings released",
+      "summary": "Rockstar Games have revealed the pre-load date and time for Grand Theft Auto 6 . You better be prepared to clear out some storage space, and burn the midnight oil. Read more",
+      "url": "https://www.eurogamer.net/grand-theft-auto-6-pre-load-date",
+      "date": "2026-11-03T15:26:02.000Z"
     },
     {
       "lead": false,
-      "src": "GameSpot",
-      "title": "The Ocarina Of Time Remake Has Claimed 2026’s Review Crown, But GTA 6 Could Have Something To Say About It",
-      "summary": "Reviews are in for The Legend of Zelda: Ocarina of Time remake , and they're pretty good so far. On GameSpot's sister site Metacritic , Ocarina of Time has a review aggregate score of 96 from 81 reviews, making it the highest-reviewed game of the year so far--and with only a few months to go, it might stay in the to…",
-      "url": "https://www.gamespot.com/articles/the-ocarina-of-time-remake-has-claimed-2026-review-crown-but-gta-6-could-have-something-to-say-about-it/",
-      "date": "2026-11-04T13:26:05.000Z"
+      "src": "Eurogamer",
+      "title": "Dog poo, anti-social behaviour, and Jason: Our latest look at GTA 6 gameplay comes from an episode of South Park",
+      "summary": "So we know that GTA 6 has a marketing deal with Sony and the PlayStation 5 , and that Rockstar has been engaging with real-world locations to get the word about its latest sandbox game out into the world ahead of its 19th November launch. But it seems the reach of Rockstar's marketing arm has no limit, as brand new…",
+      "url": "https://www.eurogamer.net/dog-poo-anti-social-behaviour-and-jason-our-latest-look-at-gta-6-gameplay-comes-from-the-latest-episode-of-south-park",
+      "date": "2026-10-29T09:55:54.000Z"
     }
   ]
 }
