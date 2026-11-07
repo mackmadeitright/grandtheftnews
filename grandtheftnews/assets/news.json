@@ -1,9 +1,33 @@
 {
-  "updated": "2026-11-06T22:57:58.005Z",
-  "count": 20,
+  "updated": "2026-11-07T05:42:53.438Z",
+  "count": 23,
   "items": [
     {
       "lead": true,
+      "src": "Polygon",
+      "title": "GTA 6's Biggest Competition Officially Arrives on PC in 2027",
+      "summary": "Ananta, the \"anime GTA\" game from NetEase, has an early 2027 release date, steering clear of Rockstar Games' Grand Theft Auto 6.",
+      "url": "https://www.polygon.com/ananta-anime-gta-pc-ps5-release-date-2027-netease-games/",
+      "date": "2026-11-07T02:43:17.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Polygon",
+      "title": "Every GTA Game, Ranked by Metacritic Score",
+      "summary": "With plenty of Grand Theft Auto games earning Metacritic scores in the high 90s, GTA 6 has an exceptionally high bar to meet.",
+      "url": "https://www.polygon.com/gta-games-ranked-metacritic-scores/",
+      "date": "2026-11-07T00:30:17.000Z"
+    },
+    {
+      "lead": false,
+      "src": "PC Gamer",
+      "title": "Rockstar's having a sale on old GTA games on the only platform Grand Theft Auto 6 isn't coming to (ours)",
+      "summary": "Are we being trolled here?",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/rockstars-having-sale-on-old-gta-games-on-the-only-platform-grand-theft-auto-6-isnt-coming-to-ours/",
+      "date": "2026-11-06T23:11:50.000Z"
+    },
+    {
+      "lead": false,
       "src": "GamesRadar",
       "title": "A bunch of Grand Theft Auto games will be cheap on Steam until GTA 6 comes out, and only one sucks",
       "summary": "And it's not GTA: San Andreas",
