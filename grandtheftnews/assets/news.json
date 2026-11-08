@@ -1,9 +1,25 @@
 {
-  "updated": "2026-11-07T19:19:37.668Z",
-  "count": 22,
+  "updated": "2026-11-08T00:22:03.834Z",
+  "count": 24,
   "items": [
     {
       "lead": true,
+      "src": "Kotaku",
+      "title": "GTA 6 PS5 Physical Boxes Have Hit The Wild, A Harbinger Of Our Disc-Less Future",
+      "summary": "Prepare to shuffle off these plastic coils",
+      "url": "https://kotaku.com/gta-6-ps5-physical-boxes-have-hit-the-wild-a-harbinger-of-our-disc-less-future-2000754816",
+      "date": "2026-11-07T20:20:28.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Kotaku",
+      "title": "Former Rockstar Developer Says They Should Hurry Up On GTA 6’s PC Version Before AI Gets There First",
+      "summary": "Grand Theft Auto III technical director Obbe Vermeij says the studio prefers a console-first approach to having to compromise a PC build, but overnight AI copycats could change all that",
+      "url": "https://kotaku.com/former-rockstar-developer-says-they-should-hurry-up-on-gta-6s-pc-version-before-ai-gets-there-first-2000754810",
+      "date": "2026-11-07T19:23:59.000Z"
+    },
+    {
+      "lead": false,
       "src": "Polygon",
       "title": "Grand Theft Auto 6 Physical Copies Are Officially in the Wild",
       "summary": "Physical editions of GTA 6 have started to arrive at retailers, offering a first look at the box and its contents.",
