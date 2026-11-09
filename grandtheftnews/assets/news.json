@@ -1,9 +1,81 @@
 {
-  "updated": "2026-11-09T05:56:16.907Z",
-  "count": 19,
+  "updated": "2026-11-09T15:58:38.362Z",
+  "count": 24,
   "items": [
     {
       "lead": true,
+      "src": "Eurogamer",
+      "title": "Rockstar's doing a GTA 6 launch 'festival' in Miami featuring a lot of presumably expensive musical stars",
+      "summary": "The next-level glamour of Grand Theft Auto 6 's arrival continues with word that Rockstar is hosting a star-studded launch 'festival' for the game in Miami - the game's setting-by-a-different-name. Read more",
+      "url": "https://www.eurogamer.net/rockstar-gta-6-miami-music-festival",
+      "date": "2026-11-09T15:48:30.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Polygon",
+      "title": "GTA 6 Preloading Officially Goes Live, Revealing Files That Tease Multiplayer",
+      "summary": "GTA 6 preloads going live have revealed new files that tease multiplayer and PS5 Pro features for Rockstar’s blockbuster",
+      "url": "https://www.polygon.com/gta-6-preloads-live-multiplayer-ps5-pro-features-teased/",
+      "date": "2026-11-09T15:02:04.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GameSpot",
+      "title": "GTA 6 Music Festival Announced For Miami With A Stacked Lineup Of Artists",
+      "summary": "Rockstar Games has announced Grand Theft Auto 6: The Festival, a concert coming to the Mana Wynwood in Miami on November 21. The festival features a lineup of artists from the game and the official soundtrack , including Cardi B, Travis Scott, Kodak Black, and Justice. The event is sponsored in part by PlayStation a…",
+      "url": "https://www.gamespot.com/articles/gta-6-music-festival-announced-for-miami-with-a-stacked-lineup-of-artists/",
+      "date": "2026-11-09T14:32:17.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GameSpot",
+      "title": "GTA 6 Preloading Is Officially Live, Files Mention Multiplayer And PS5 Pro Features",
+      "summary": "At long last, you can now install Grand Theft Auto 6 on your console via preloading , or at least you can if you live in Australia or New Zealand. Preloading begins in all regions at midnight local time, so people in the US are almost there. With preloading now live, people have dug through the files and found thing…",
+      "url": "https://www.gamespot.com/articles/gta-6-preloading-is-officially-live-files-mention-multiplayer-and-ps5-pro-features/",
+      "date": "2026-11-09T13:40:44.000Z"
+    },
+    {
+      "lead": false,
+      "src": "IGN",
+      "title": "As GTA 6 Preload Goes Live, Fans Dig Into the Data to Try to Unearth Unannounced Information Ahead of Launch",
+      "summary": "GTA 6 preloads are live for those who live in New Zealand (or are pretending to live in New Zealand to play early) and fans are scanning the game files for new information.",
+      "url": "https://www.ign.com/articles/gta-6-metadata-ray-tracing-improvements-on-ps5-pro",
+      "date": "2026-11-09T12:33:05.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Eurogamer",
+      "title": "London department store Selfridges launches sizeable GTA 6 takeover, featuring a varsity jacket that costs an eye-watering £2,500",
+      "summary": "Expensive British department store Selfridges has launched a sizeable Grand Theft Auto 6 takeover, completely making-over its Oxford Street London Corner Shop store and offering a considerable line of clothing, which includes an exclusive varsity jacket that costs a bank-melting &pound;2,500. Note, you can buy the G…",
+      "url": "https://www.eurogamer.net/selfridges-gta-6-collab-takeover",
+      "date": "2026-11-09T12:18:50.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "GTA 6 launch files already hint at online multiplayer, PlayStation Store sleuth reports",
+      "summary": "Could GTA 6 Online be arriving sooner than expected?",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-launch-files-already-hint-at-online-multiplayer-playstation-store-sleuth-reports-leading-to-hopes-we-wont-be-waiting-for-a-gta-online-follow-up-for-long/",
+      "date": "2026-11-09T11:33:05.000Z"
+    },
+    {
+      "lead": false,
+      "src": "IGN",
+      "title": "Iconic British Retail Store Gets GTA 6 Takeover Featuring Exclusive $3,355 Varsity Jacket",
+      "summary": "Luxury British department store Selfridges has had the ground floor of its flagship London store overtaken by GTA 6 ahead of its November 19 release date. It’s not just a little display, either; Rockstar and the retailer have gone all-out.",
+      "url": "https://www.ign.com/articles/selfridges-gta-6-takeover-varsity-jacket",
+      "date": "2026-11-09T11:30:49.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Eurogamer",
+      "title": "GTA 6 reportedly has 55 Achievements/Trophies, more than both GTA 5 and Red Dead Redemption 2 had at launch",
+      "summary": "GTA 6 is due to release on the 19th November on PS5, and Xbox Series X/S, and ahead of the highly-anticipated launch of Rockstar's latest sandbox adventure, people just can't get enough information about the game. To that end, overnight, we saw our latest leak: the game will have 55 Trophies/Achievements. Read more",
+      "url": "https://www.eurogamer.net/gta-6-achievements-trophies-55",
+      "date": "2026-11-09T09:41:40.000Z"
+    },
+    {
+      "lead": false,
       "src": "Kotaku",
       "title": "GTA 6 PS5 Physical Boxes Have Hit The Wild, A Harbinger Of Our Disc-Less Future",
       "summary": "Prepare to shuffle off these plastic coils",
@@ -49,22 +121,6 @@
       "summary": "Rockstar's Grand Theft Auto 6 launches on November 19. If you're planning to buy the $80 edition but want to upgrade later to the $100 version, you might be interested to know if such a thing is possible. Thankfully, yes, it is-and it's very easy to do. Rockstar will offer an \"Ultimate Edition Upgrade\" for $20, so f…",
       "url": "https://www.gamespot.com/articles/can-you-upgrade-to-gta-6s-100-edition-yes-and-its-easy-heres-how/",
       "date": "2026-11-06T20:23:39.000Z"
-    },
-    {
-      "lead": false,
-      "src": "IGN",
-      "title": "GTA 6 Players in Germany Can Legally Take Time Off Work to Play the Game on Launch, But There's a Catch",
-      "summary": "Germany has a unique legal loophole that lets 60 employees take time off work to play GTA 6 without putting their jobs in jeopardy.",
-      "url": "https://www.ign.com/articles/gta-6-players-in-germany-can-legally-take-time-off-work-to-play-the-game-on-launch-but-theres-a-catch",
-      "date": "2026-11-06T20:18:07.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "Rockstar could release GTA 6 on PC sooner to head off AI ports, former series lead suggests",
-      "summary": "\"It really has changed the world\"",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/rockstar-could-release-gta-6-on-pc-sooner-to-head-off-ai-ports-former-grand-theft-auto-lead-suggests-i-think-i-would-be-concerned/",
-      "date": "2026-11-06T17:08:43.000Z"
     },
     {
       "lead": false,
@@ -137,22 +193,6 @@
       "summary": "Rockstar Games have revealed the pre-load date and time for Grand Theft Auto 6 . You better be prepared to clear out some storage space, and burn the midnight oil. Read more",
       "url": "https://www.eurogamer.net/grand-theft-auto-6-pre-load-date",
       "date": "2026-11-03T15:26:02.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Eurogamer",
-      "title": "Dog poo, anti-social behaviour, and Jason: Our latest look at GTA 6 gameplay comes from an episode of South Park",
-      "summary": "So we know that GTA 6 has a marketing deal with Sony and the PlayStation 5 , and that Rockstar has been engaging with real-world locations to get the word about its latest sandbox game out into the world ahead of its 19th November launch. But it seems the reach of Rockstar's marketing arm has no limit, as brand new…",
-      "url": "https://www.eurogamer.net/dog-poo-anti-social-behaviour-and-jason-our-latest-look-at-gta-6-gameplay-comes-from-the-latest-episode-of-south-park",
-      "date": "2026-10-29T09:55:54.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GameSpot",
-      "title": "GTA+: Price, Free Games, And All The Other Perks You Get With A Membership Ahead Of GTA 6 Launch",
-      "summary": "In 2022, Rockstar Games introduced GTA+, a subscription service that provides a variety of perks and bonuses in GTA Online--and beyond. With GTA 6 's release coming up this month, we're running through everything you need to know about GTA +. Do you really need to sign up for yet another subscription service? Only y…",
-      "url": "https://www.gamespot.com/articles/gta-price-free-games-and-all-the-other-perks-you-get-with-a-membership/1100-6530905/",
-      "date": "2025-04-16T15:00:00.000Z"
     }
   ]
 }
