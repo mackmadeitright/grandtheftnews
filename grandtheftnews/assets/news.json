@@ -1,22 +1,166 @@
 {
-  "updated": "2026-11-09T15:58:38.362Z",
+  "updated": "2026-11-10T01:25:16.910Z",
   "count": 24,
   "items": [
     {
       "lead": true,
+      "src": "GamesRadar",
+      "title": "GTA 6 CEO says AI will make creating games easier, but \"making a big hit\" will be as hard as ever",
+      "summary": "\"Technology benefits us\"",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-ceo-says-ai-will-make-creating-games-easier-but-making-a-big-hit-will-be-as-hard-as-ever-hit-creation-remains-the-purview-of-human-beings/",
+      "date": "2026-11-10T00:48:38.000Z"
+    },
+    {
+      "lead": false,
+      "src": "PC Gamer",
+      "title": "'The experiences on console and PC tend to be roughly the same,' says Take-Two CEO in response to question about GTA roleplaying",
+      "summary": "Of course, in the case of Grand Theft Auto 6, the PC experience at launch will be a blank screen.",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/the-experiences-on-console-and-pc-tend-to-be-roughly-the-same-says-take-two-ceo-in-response-to-question-about-gta-roleplaying/",
+      "date": "2026-11-10T00:24:43.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Kotaku",
+      "title": "There’s An IRL GTA 6 Live Event And You’ll Need To Win A Lottery To Get In",
+      "summary": "Cardi B and others will be performing in Miami",
+      "url": "https://kotaku.com/theres-an-irl-gta-6-live-event-and-youll-need-to-win-a-lottery-to-get-in-2000755131",
+      "date": "2026-11-10T00:00:42.000Z"
+    },
+    {
+      "lead": false,
+      "src": "IGN",
+      "title": "Take-Two 'Enhancing' Technical Defenses and Legal Activities to Combat GTA 6 AI Reverse-Engineering Threat",
+      "summary": "The boss of Rockstar parent company Take-Two has responded to the threat of AI-assisted reverse-engineering and decompilation of games ahead of the crucial launch of GTA 6.",
+      "url": "https://www.ign.com/articles/take-two-enhancing-technical-defenses-and-legal-activities-to-combat-gta-6-ai-reverse-engineering-threat",
+      "date": "2026-11-09T23:18:51.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "Rockstar's owner expected GTA 6 to be big, but not this big: \"The numbers will speak for themselves\"",
+      "summary": "GTA 6 pre-orders are \"far above\" Take-Two's expectations",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/rockstars-owner-expected-gta-6-to-be-big-but-not-this-big-we-know-that-the-numbers-will-speak-for-themselves-soon-enough/",
+      "date": "2026-11-09T22:57:50.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Eurogamer",
+      "title": "As investors ask about GTA 6 and AI, Take-Two CEO once again puts faith in dev creativity, states making hit games \"remains the purview of human beings\"",
+      "summary": "Today, as part of Take-Two Interactive Software's Q2 2027 earnings call, Strauss Zelnick fielded questions from investors after presenting the financial results of the company. One caller was concerned about AI - specifically about the proliferation of AI-powered compilations and decompilations that have been raisin…",
+      "url": "https://www.eurogamer.net/gta-6-ai-strauss-zelnick-earnings-call-purview",
+      "date": "2026-11-09T22:47:40.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Kotaku",
+      "title": "NBA 2K27 Sold Less Than Expected Because Of…GTA 6",
+      "summary": "'This timing may have affected performance so far'",
+      "url": "https://kotaku.com/nba-2k27-sold-less-than-expected-because-of-gta-6-2000755174",
+      "date": "2026-11-09T22:17:50.000Z"
+    },
+    {
+      "lead": false,
+      "src": "PC Gamer",
+      "title": "Take-Two expects to make as much as $3.5 billion during the GTA 6 launch period",
+      "summary": "Pre-orders for GTA 6 are still \"unprecedented,\" says the publisher.",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/take-two-expects-to-make-as-much-as-usd3-5-billion-during-the-gta-6-launch-period/",
+      "date": "2026-11-09T22:06:34.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Eurogamer",
+      "title": "GTA 6 pre-orders are tracking \"well above expectations\" and the game will \"set a new baseline\" for Take-Two, says CEO Strauss Zelnick",
+      "summary": "Today, as part of Take-Two Interactive Software's Q2 2027 earnings call, Strauss Zelnick noted that pre-orders for Grand Theft Auto 6 are tracking \"far above expectations\", and is certain that soon \"numbers will speak for themselves\" when it comes to the game. Read more",
+      "url": "https://www.eurogamer.net/gta-6-preorders-tracking-take-two-earnings-call",
+      "date": "2026-11-09T22:02:50.000Z"
+    },
+    {
+      "lead": false,
+      "src": "IGN",
+      "title": "Here Are Some Movies to Watch Before GTA 6 (Including Some You Can Watch in Theaters)",
+      "summary": "We've compiled a list of movies to watch before GTA 6, including some classics that will be shown at Regal Cinemas over the course of the next week.",
+      "url": "https://www.ign.com/articles/here-are-some-movies-to-watch-before-gta-6-including-some-you-can-watch-in-theaters",
+      "date": "2026-11-09T21:57:28.000Z"
+    },
+    {
+      "lead": false,
+      "src": "IGN",
+      "title": "A Real Life GTA 6 Car Is Being Sold for $1.3 Million",
+      "summary": "Rockstar Games and West Coast Customs teamed up to build real versions of GTA 6's cars... and you can buy one of them if you have $1.3 million lying around.",
+      "url": "https://www.ign.com/articles/a-real-life-gta-6-car-is-being-sold-for-13-million",
+      "date": "2026-11-09T21:53:41.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Kotaku",
+      "title": "GTA 6 Pre-Orders Are Coming In ‘Far In Excess’ Of What Take-Two Expected, Says CEO",
+      "summary": "'Tracking far above our initial expectations'",
+      "url": "https://kotaku.com/gta-6-pre-orders-are-coming-in-far-in-excess-of-what-take-two-expected-says-ceo-2000755171",
+      "date": "2026-11-09T21:49:41.000Z"
+    },
+    {
+      "lead": false,
+      "src": "IGN",
+      "title": "GTA 6 Caused Some Gamers to Hold Off on Buying New Games — Including Take-Two's Own NBA 2K27, Strauss Zelnick Says",
+      "summary": "The behemoth that is GTA 6 looms large over the video game industry, and it’s so big that it not only caused the September crush of releases, but caused some gamers to hold off on buying new games entirely.",
+      "url": "https://www.ign.com/articles/gta-6-caused-some-gamers-to-hold-off-on-buying-new-games-including-take-twos-own-nba-2k27-strauss-zelnick-says",
+      "date": "2026-11-09T21:41:41.000Z"
+    },
+    {
+      "lead": false,
+      "src": "IGN",
+      "title": "Take-Two Boss Strauss Zelnick on GTA 6 Expectations, GTA Online, and the Decade to Come",
+      "summary": "IGN interviews Take-Two boss Strauss Zelnick 10 days before the biggest release in entertainment history: GTA 6.",
+      "url": "https://www.ign.com/articles/take-two-boss-strauss-zelnick-on-gta-6-expectations-gta-online-and-the-decade-to-come",
+      "date": "2026-11-09T21:16:07.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GameSpot",
+      "title": "GTA 5’s Trevor Should Be In GTA 6 Sitting On The Toilet To “Pass The Torch,” Actor Says",
+      "summary": "Steven Ogg famously portrayed the wildcard character Trevor in Rockstar's Grand Theft Auto 5, and he wishes Rockstar brought the character back for GTA 6 . Speaking to Principle Magazine , Ogg said it would have been a nice moment to \"pass the torch\" to have Trevor show up at the beginning of GTA 6 \"sitting on the t…",
+      "url": "https://www.gamespot.com/articles/gta-5s-trevor-should-be-in-gta-6-sitting-on-the-toilet-to-pass-the-torch-actor-says/",
+      "date": "2026-11-09T19:30:17.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "Days before GTA 6, crime game for \"thousands\" blows up despite \"Mixed\" Steam reviews and gen AI",
+      "summary": "GTA Online at home, anyone?",
+      "url": "https://www.gamesradar.com/games/simulation/days-before-gta-6-crime-game-for-thousands-of-players-blows-up-on-steam-despite-50-percent-positive-reviews-and-gen-ai-use/",
+      "date": "2026-11-09T17:25:22.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "Rockstar spins the GTA 6 wheel again and lands on comically large music festival",
+      "summary": "I feel like people will be too busy playing GTA 6 that weekend",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/rockstar-spins-the-gta-6-wheel-again-and-lands-on-comically-large-music-festival-featuring-travis-scott-cardi-b-and-composer-justice/",
+      "date": "2026-11-09T16:21:07.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "GTA: Tokyo saw Rockstar negotiate with a Japanese studio, former Grand Theft Auto lead says",
+      "summary": "The story likely would have been set in the present day, and it \"definitely had samurai swords in it,\" says Obbe Vermeij",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-tokyo-was-real-enough-for-rockstar-to-negotiate-with-a-japanese-studio-former-grand-theft-auto-lead-says-but-it-never-happened-because-america-was-too-important-to-the-series/",
+      "date": "2026-11-09T15:58:42.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GameSpot",
+      "title": "GTA 6 Jacket That Costs $3,000 Sells Out Immediately",
+      "summary": "Much of the IRL marketing and promotion for Rockstar's Grand Theft Auto 6 has taken place in Miami, but the developer isn't ignoring other parts of the world. The British retailer Selfridges, an upscale department store, hosted a takeover of its flagship London store today, November 9, and among the items on sale wa…",
+      "url": "https://www.gamespot.com/articles/gta-6-jacket-that-costs-3000-sells-out-immediately/",
+      "date": "2026-11-09T15:52:58.000Z"
+    },
+    {
+      "lead": false,
       "src": "Eurogamer",
       "title": "Rockstar's doing a GTA 6 launch 'festival' in Miami featuring a lot of presumably expensive musical stars",
       "summary": "The next-level glamour of Grand Theft Auto 6 's arrival continues with word that Rockstar is hosting a star-studded launch 'festival' for the game in Miami - the game's setting-by-a-different-name. Read more",
       "url": "https://www.eurogamer.net/rockstar-gta-6-miami-music-festival",
       "date": "2026-11-09T15:48:30.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Polygon",
-      "title": "GTA 6 Preloading Officially Goes Live, Revealing Files That Tease Multiplayer",
-      "summary": "GTA 6 preloads going live have revealed new files that tease multiplayer and PS5 Pro features for Rockstar’s blockbuster",
-      "url": "https://www.polygon.com/gta-6-preloads-live-multiplayer-ps5-pro-features-teased/",
-      "date": "2026-11-09T15:02:04.000Z"
     },
     {
       "lead": false,
@@ -36,14 +180,6 @@
     },
     {
       "lead": false,
-      "src": "IGN",
-      "title": "As GTA 6 Preload Goes Live, Fans Dig Into the Data to Try to Unearth Unannounced Information Ahead of Launch",
-      "summary": "GTA 6 preloads are live for those who live in New Zealand (or are pretending to live in New Zealand to play early) and fans are scanning the game files for new information.",
-      "url": "https://www.ign.com/articles/gta-6-metadata-ray-tracing-improvements-on-ps5-pro",
-      "date": "2026-11-09T12:33:05.000Z"
-    },
-    {
-      "lead": false,
       "src": "Eurogamer",
       "title": "London department store Selfridges launches sizeable GTA 6 takeover, featuring a varsity jacket that costs an eye-watering £2,500",
       "summary": "Expensive British department store Selfridges has launched a sizeable Grand Theft Auto 6 takeover, completely making-over its Oxford Street London Corner Shop store and offering a considerable line of clothing, which includes an exclusive varsity jacket that costs a bank-melting &pound;2,500. Note, you can buy the G…",
@@ -57,142 +193,6 @@
       "summary": "Could GTA 6 Online be arriving sooner than expected?",
       "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-launch-files-already-hint-at-online-multiplayer-playstation-store-sleuth-reports-leading-to-hopes-we-wont-be-waiting-for-a-gta-online-follow-up-for-long/",
       "date": "2026-11-09T11:33:05.000Z"
-    },
-    {
-      "lead": false,
-      "src": "IGN",
-      "title": "Iconic British Retail Store Gets GTA 6 Takeover Featuring Exclusive $3,355 Varsity Jacket",
-      "summary": "Luxury British department store Selfridges has had the ground floor of its flagship London store overtaken by GTA 6 ahead of its November 19 release date. It’s not just a little display, either; Rockstar and the retailer have gone all-out.",
-      "url": "https://www.ign.com/articles/selfridges-gta-6-takeover-varsity-jacket",
-      "date": "2026-11-09T11:30:49.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Eurogamer",
-      "title": "GTA 6 reportedly has 55 Achievements/Trophies, more than both GTA 5 and Red Dead Redemption 2 had at launch",
-      "summary": "GTA 6 is due to release on the 19th November on PS5, and Xbox Series X/S, and ahead of the highly-anticipated launch of Rockstar's latest sandbox adventure, people just can't get enough information about the game. To that end, overnight, we saw our latest leak: the game will have 55 Trophies/Achievements. Read more",
-      "url": "https://www.eurogamer.net/gta-6-achievements-trophies-55",
-      "date": "2026-11-09T09:41:40.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Kotaku",
-      "title": "GTA 6 PS5 Physical Boxes Have Hit The Wild, A Harbinger Of Our Disc-Less Future",
-      "summary": "Prepare to shuffle off these plastic coils",
-      "url": "https://kotaku.com/gta-6-ps5-physical-boxes-have-hit-the-wild-a-harbinger-of-our-disc-less-future-2000754816",
-      "date": "2026-11-07T20:20:28.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Kotaku",
-      "title": "Former Rockstar Developer Says They Should Hurry Up On GTA 6’s PC Version Before AI Gets There First",
-      "summary": "Grand Theft Auto III technical director Obbe Vermeij says the studio prefers a console-first approach to having to compromise a PC build, but overnight AI copycats could change all that",
-      "url": "https://kotaku.com/former-rockstar-developer-says-they-should-hurry-up-on-gta-6s-pc-version-before-ai-gets-there-first-2000754810",
-      "date": "2026-11-07T19:23:59.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Eurogamer",
-      "title": "What we've been playing - \"Sniffing out the warehouses on Prawn Island\"",
-      "summary": "Well, hello! I am once again wearing the Bertie hat in your usual host's absence, so joyous welcomes to our regular feature in which we talk about what we've been playing in recent times. This week, Marie has been revisiting Zelda - although perhaps not the one you might expect - while Dom is rediscovering Vice City…",
-      "url": "https://www.eurogamer.net/what-weve-been-playing-vice-city-zelda-world-of-warcraft-forever",
-      "date": "2026-11-07T08:02:00.000Z"
-    },
-    {
-      "lead": false,
-      "src": "PC Gamer",
-      "title": "Rockstar's having a sale on old GTA games on the only platform Grand Theft Auto 6 isn't coming to (ours)",
-      "summary": "Are we being trolled here?",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/rockstars-having-sale-on-old-gta-games-on-the-only-platform-grand-theft-auto-6-isnt-coming-to-ours/",
-      "date": "2026-11-06T23:11:50.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "A bunch of Grand Theft Auto games will be cheap on Steam until GTA 6 comes out, and only one sucks",
-      "summary": "And it's not GTA: San Andreas",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/a-bunch-of-grand-theft-auto-games-will-be-cheap-on-steam-until-gta-6-comes-out-and-only-one-of-them-sucks/",
-      "date": "2026-11-06T20:53:16.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GameSpot",
-      "title": "Can You Upgrade To GTA 6’s $100 Edition? Yes, And It’s Easy–Here’s How",
-      "summary": "Rockstar's Grand Theft Auto 6 launches on November 19. If you're planning to buy the $80 edition but want to upgrade later to the $100 version, you might be interested to know if such a thing is possible. Thankfully, yes, it is-and it's very easy to do. Rockstar will offer an \"Ultimate Edition Upgrade\" for $20, so f…",
-      "url": "https://www.gamespot.com/articles/can-you-upgrade-to-gta-6s-100-edition-yes-and-its-easy-heres-how/",
-      "date": "2026-11-06T20:23:39.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GameSpot",
-      "title": "GTA 6 Is Going All Out On Details You Might Never Even Notice",
-      "summary": "It's the smallest details that stand out most in Grand Theft Auto 6 , and thanks to all the screenshots that developer Rockstar Games has posted since the game was officially announced, there's been no shortage of stuff to analyze. Last week, senior video producer Jake Dekker grabbed all 99 of those official screens…",
-      "url": "https://www.gamespot.com/articles/gta-6-is-going-all-out-on-details-you-might-never-even-notice/",
-      "date": "2026-11-06T16:25:51.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GameSpot",
-      "title": "Head Of GTA 6 Owner Reveals His Advice To Be Healthy, Fit, And Live A Long Time",
-      "summary": "Strauss Zelnick, the head of Rockstar Games owner Take-Two, is known for his dedication to health and fitness. In 2018, he published a book titled Becoming Ageless: The Four Secrets To Looking and Feeling Younger Than Ever, and images of the executive looking shredded and lean at 8% body fat have circulated online.…",
-      "url": "https://www.gamespot.com/articles/head-of-gta-6-owner-reveals-his-advice-to-be-healthy-fit-and-live-a-long-time/",
-      "date": "2026-11-06T15:09:40.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Eurogamer",
-      "title": "Former Rockstar Games tech director thinks GTA 6 could be coming to PC sooner than you'd expect to curb AI clones",
-      "summary": "Former Rockstar Games North technical director Obbe Vermeij believes that the possibility of AI vibe coded ports of Grand Theft Auto 6 could push Rockstar to create an official PC version sooner than you'd expect. Read more",
-      "url": "https://www.eurogamer.net/grand-theft-auto-6-pc-sooner-than-you-expect-curb-ai-clone",
-      "date": "2026-11-06T12:02:40.000Z"
-    },
-    {
-      "lead": false,
-      "src": "PC Gamer",
-      "title": "Zelnick doesn't regret GTA 6's delay because shipping an unfinished game rarely ends well: 'There was a very high profile release that fell into this category'",
-      "summary": "Oh boy, I wonder who that could be.",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/zelnick-doesnt-regret-gta-6s-delay-because-shipping-an-unfinished-game-rarely-ends-well-there-was-a-very-high-profile-release-that-fell-into-this-category/",
-      "date": "2026-11-06T11:40:38.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GameSpot",
-      "title": "GTA 6 Looks Pretty Realistic, Until It Comes To Gym Etiquette",
-      "summary": "Compared to previous games in the series, Grand Theft Auto 6 looks like it'll only be a few steps removed from reality when it launches this month. Actions have consequences , working on a relationship requires more than just hitting a few button prompts, and bulking up means that you'll have to visit an in-game gym…",
-      "url": "https://www.gamespot.com/articles/gta-6-looks-pretty-realistic-until-it-comes-to-gym-etiquette/",
-      "date": "2026-11-05T16:47:41.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Eurogamer",
-      "title": "Rockstar shares 38 new screenshots of Grand Theft Auto 6, showing off Vice City, Jason and Lucia, and much more",
-      "summary": "Rockstar Games have released 38 new screenshots of Grand Theft Auto 6 , ahead of its release later this month. Read more",
-      "url": "https://www.eurogamer.net/grand-theft-auto-6-38-new-screenshots",
-      "date": "2026-11-05T16:18:40.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GameSpot",
-      "title": "GTA 6: Lots Of New Images Have Been Released",
-      "summary": "Rockstar has released a big batch of new Grand Theft Auto 6 screenshots as part of what the developer is calling a \"launch gallery.\" The brand-new images show off main characters Jason and Lucia in a variety of settings, including a nightclub, the dive bar The Rusty Anchor, and the gym, where Jason is putting in som…",
-      "url": "https://www.gamespot.com/articles/gta-6-lots-of-new-images-have-been-released/",
-      "date": "2026-11-05T15:55:32.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GameSpot",
-      "title": "GTA 6 Boss Talks The Game’s Budget And Calls Out A “High-Profile” Game For Releasing In A Rough State",
-      "summary": "Grand Theft Auto 6 is the biggest game that Rockstar Games has ever made, and it was no doubt very expensive to produce. But just how much did it cost? We know it's not $1.5 billion , but Take-Two CEO Strauss Zelnick has now reacted to the discussion around the game's development costs. He told The Wall Street Journ…",
-      "url": "https://www.gamespot.com/articles/gta-6-boss-talks-the-games-budget-and-calls-out-a-high-profile-game-for-releasing-in-a-rough-state/",
-      "date": "2026-11-05T14:13:02.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Eurogamer",
-      "title": "Grand Theft Auto 6 pre-load begins on 10th November, file size and regional timings released",
-      "summary": "Rockstar Games have revealed the pre-load date and time for Grand Theft Auto 6 . You better be prepared to clear out some storage space, and burn the midnight oil. Read more",
-      "url": "https://www.eurogamer.net/grand-theft-auto-6-pre-load-date",
-      "date": "2026-11-03T15:26:02.000Z"
     }
   ]
 }
