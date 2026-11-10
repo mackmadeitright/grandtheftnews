@@ -1,9 +1,17 @@
 {
-  "updated": "2026-11-10T01:25:16.910Z",
+  "updated": "2026-11-10T10:57:19.278Z",
   "count": 24,
   "items": [
     {
       "lead": true,
+      "src": "PC Gamer",
+      "title": "I have converted GTA 5 to its final form: A GTA 6 countdown app",
+      "summary": "We should all be so lucky.",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/i-have-converted-gta-5-to-its-final-form-a-gta-6-countdown-app/",
+      "date": "2026-11-10T10:52:35.000Z"
+    },
+    {
+      "lead": false,
       "src": "GamesRadar",
       "title": "GTA 6 CEO says AI will make creating games easier, but \"making a big hit\" will be as hard as ever",
       "summary": "\"Technology benefits us\"",
@@ -185,14 +193,6 @@
       "summary": "Expensive British department store Selfridges has launched a sizeable Grand Theft Auto 6 takeover, completely making-over its Oxford Street London Corner Shop store and offering a considerable line of clothing, which includes an exclusive varsity jacket that costs a bank-melting &pound;2,500. Note, you can buy the G…",
       "url": "https://www.eurogamer.net/selfridges-gta-6-collab-takeover",
       "date": "2026-11-09T12:18:50.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "GTA 6 launch files already hint at online multiplayer, PlayStation Store sleuth reports",
-      "summary": "Could GTA 6 Online be arriving sooner than expected?",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-launch-files-already-hint-at-online-multiplayer-playstation-store-sleuth-reports-leading-to-hopes-we-wont-be-waiting-for-a-gta-online-follow-up-for-long/",
-      "date": "2026-11-09T11:33:05.000Z"
     }
   ]
 }
