@@ -1,9 +1,81 @@
 {
-  "updated": "2026-11-11T10:39:37.233Z",
+  "updated": "2026-11-11T19:29:15.246Z",
   "count": 24,
   "items": [
     {
       "lead": true,
+      "src": "Eurogamer",
+      "title": "GTA 6 might be censored in Japan, if the game's smaller install size and lack of \"strong sexual content\" warning is anything to go by",
+      "summary": "GTA 6 is finally coming out worldwide next week, putting an end to a 13-year wait and at least one popular meme format, but the highly-anticipated game might look a bit different in Japan. Read more",
+      "url": "https://www.eurogamer.net/gta-6-censored-japan-smaller-install-size",
+      "date": "2026-11-11T18:17:10.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "Quote of the day by former GTA 6 and Red Dead Redemption 2 artist: Sony and Microsoft can’t compete with Rockstar because “they do not care about making game products”",
+      "summary": "And Rockstar's institutional knowledge is \"absolutely priceless\"",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/quote-of-the-day-by-former-gta-6-and-red-dead-redemption-2-artist-sony-and-microsoft-cant-compete-with-rockstar-because-they-do-not-care-about-making-game-products/",
+      "date": "2026-11-11T18:00:00.000Z"
+    },
+    {
+      "lead": false,
+      "src": "IGN",
+      "title": "How About a GTA Set Outside the United States? 'Never Say Never,' Rockstar Boss Teases, but Don't Hold Your Breath",
+      "summary": "Rockstar isn't ruling out a GTA set outside the United States, but don't hold your breath: the studio says there are plenty more stories to tell in America.",
+      "url": "https://www.ign.com/articles/how-about-a-gta-set-outside-the-united-states-never-say-never-rockstar-boss-teases-but-dont-hold-your-breath",
+      "date": "2026-11-11T17:42:02.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "The best controllers for GTA 6: The gamepads I'd recommend for PS5 and Xbox players jumping into Vice City",
+      "summary": "GTA 6 is fast approaching, so if you're in the market for a new controller, these are the ones I'd recommend to PS5 and Xbox players.",
+      "url": "https://www.gamesradar.com/hardware/gaming-controllers/the-best-controllers-for-gta-6-the-gamepads-id-recommend-for-ps5-and-xbox-players-jumping-into-vice-city/",
+      "date": "2026-11-11T17:04:09.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Polygon",
+      "title": "Sony Officially Confirms Major PS5 Hardware Sales Milestone",
+      "summary": "The impressive PS5 milestone has been reached before GTA 6, poising the console to outdo the PS4 in the near future",
+      "url": "https://www.polygon.com/sony-ps5-sales-numbers-november-2026/",
+      "date": "2026-11-11T17:01:41.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "GTA 6 censorship worries bubble up in Japan: the install size is different and the age rating drops sex and drugs",
+      "summary": "Neither Rockstar or Take-Two have mentioned regional differences",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-censorship-worries-bubble-up-in-japan-the-install-size-is-different-to-everywhere-else-and-the-age-rating-drops-sex-and-drugs/",
+      "date": "2026-11-11T16:24:11.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Kotaku",
+      "title": "Some Players Are Crashing Out About GTA 6 Only Being 30 FPS: ‘Starfield Got Assaulted For Being Locked To 30 FPS’",
+      "summary": "Others are showing some grace to what could be the most detailed open-world game ever",
+      "url": "https://kotaku.com/some-players-are-crashing-out-about-gta-6-only-being-30-fps-starfield-got-assaulted-for-being-locked-to-30-fps-2000755892",
+      "date": "2026-11-11T14:20:46.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "Despite GTA 6 being pitted against Zelda: Ocarina of Time, Take-Two boss has nothing but praise",
+      "summary": "\"In the entertainment business, you compete against everything and nothing\"",
+      "url": "https://www.gamesradar.com/games/the-legend-of-zelda/despite-gta-6-being-pitted-against-zelda-ocarina-of-time-take-two-boss-has-nothing-but-praise-nintendo-should-be-proud-as-the-game-is-terrific/",
+      "date": "2026-11-11T13:14:06.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Kotaku",
+      "title": "GTA 6′s File Size Is Smaller In Australia And Japan, Sparking Censorship Concerns",
+      "summary": "Grand Theft Auto VI's preload file size is slightly lighter in Australia and over 1GB smaller in Japan",
+      "url": "https://kotaku.com/gta-6-smaller-in-australia-japan-censorship-concerns-rockstar-2000755882",
+      "date": "2026-11-11T12:00:12.000Z"
+    },
+    {
+      "lead": false,
       "src": "Kotaku",
       "title": "You Can Play GTA 6 On A 13-Year-Old Xbox And It’ll Run At The Same Framerate As PS5 Pro",
       "summary": "A cloud gaming deal with Rockstar yields a nice bonus for people still playing on Xbox One",
@@ -36,14 +108,6 @@
     },
     {
       "lead": false,
-      "src": "IGN",
-      "title": "GTA 6 Was Never Going to Hit 60 Frames per Second on Consoles",
-      "summary": "Back when Rockstar showed off a bunch of GTA 6 gameplay on Netflix, one thing was incredibly clear – the game was running around 30 fps. And now that Rockstar has confirmed that it is targeting 30 fps on every console, including the PS5 Pro, it's clear that the game likely never would have run at a solid 60 on console.",
-      "url": "https://www.ign.com/articles/gta-6-was-never-going-to-be-60-frames-per-second-on-consoles",
-      "date": "2026-11-10T19:15:00.000Z"
-    },
-    {
-      "lead": false,
       "src": "GamesRadar",
       "title": "I want an uglier GTA 6 that runs at 60 FPS – 30 FPS on console is more reason to wait for PC",
       "summary": "Opinion | Please, Rockstar, join us in the light of 60 FPS",
@@ -60,51 +124,11 @@
     },
     {
       "lead": false,
-      "src": "IGN",
-      "title": "Logitech Is Letting Employees Take Work Off for Game Releases, Just Ahead of GTA 6",
-      "summary": "Logitech has announced that it will be giving employees the option to take time off for video game releases ahead of GTA 6's launch.",
-      "url": "https://www.ign.com/articles/logitech-is-letting-employees-take-work-off-for-game-releases-just-ahead-of-gta-6",
-      "date": "2026-11-10T17:42:00.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "How to play GTA 6 on Xbox One",
-      "summary": "Thanks to Xbox Cloud Gaming you can play GTA 6 on Xbox One, though there are a number of limitations you should be aware of",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-on-xbox-one/",
-      "date": "2026-11-10T17:36:00.000Z"
-    },
-    {
-      "lead": false,
       "src": "PC Gamer",
       "title": "Grand Theft Auto 6 is 'the most pre-ordered' game of all time on both Xbox and PlayStation",
       "summary": "On PC, however, GTA 6 remains among the least pre-ordered games of all time because, well, you know.",
       "url": "https://www.pcgamer.com/games/grand-theft-auto/grand-theft-auto-6-is-the-most-pre-ordered-game-of-all-time-on-both-xbox-and-playstation/",
       "date": "2026-11-10T17:34:18.000Z"
-    },
-    {
-      "lead": false,
-      "src": "IGN",
-      "title": "GTA 6 Fans Are Divided Over Confirmation of 30fps",
-      "summary": "GTA 6 will be 30fps, creating division among fans and frustration for PS5 Pro owners.",
-      "url": "https://www.ign.com/articles/gta-6-fans-are-divided-over-confirmation-of-30fps",
-      "date": "2026-11-10T17:16:21.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Kotaku",
-      "title": "The November 2026 PS Plus Catalog Update Is Adding Some Very Good Games",
-      "summary": "It's a solid month for anyone not playing Grand Theft Auto 6",
-      "url": "https://kotaku.com/the-november-2026-ps-plus-catalog-update-is-adding-some-very-good-games-2000755543",
-      "date": "2026-11-10T17:15:06.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "GTA 6 preload starts today, but there might be a better way to clear your SSD",
-      "summary": "GTA 6 preload begins today, but upgrading your SSD to accommodate that 212GB file size may prove more expensive than it's worth.",
-      "url": "https://www.gamesradar.com/hardware/ssd-hard-drives/gta-6-preload-starts-today-but-there-might-be-a-better-way-to-clear-your-ssd/",
-      "date": "2026-11-10T17:08:03.000Z"
     },
     {
       "lead": false,
@@ -124,27 +148,11 @@
     },
     {
       "lead": false,
-      "src": "GamesRadar",
-      "title": "GTA 6 is officially the \"most pre-ordered game\" in PlayStation and Xbox store history",
-      "summary": "Analysts report it's already beaten Cyberpunk 2077's pre-order record of 8 million copies",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-is-officially-the-most-pre-ordered-game-in-playstation-and-xbox-store-history-sony-and-microsoft-confirm/",
-      "date": "2026-11-10T16:28:18.000Z"
-    },
-    {
-      "lead": false,
       "src": "GameSpot",
       "title": "GTA 6 Is The Most Preordered Game Of All Time For PlayStation And Xbox",
       "summary": "Rockstar's Grand Theft Auto 6 releases on November 19 for PlayStation 5 and Xbox Series X|S, and the game is breaking records before it even releases. Sony announced today that GTA 6 is now the most preordered game in PlayStation Store history. Exactly which game it beat to claim the record is unknown, however. In S…",
       "url": "https://www.gamespot.com/articles/gta-6-is-the-most-preordered-game-of-all-time-for-playstation-and-xbox/",
       "date": "2026-11-10T16:15:37.000Z"
-    },
-    {
-      "lead": false,
-      "src": "IGN",
-      "title": "GTA 6 Now the Most Preordered Game in PlayStation Store and Microsoft Store History, Official Preload Warning Issued",
-      "summary": "Sony has confirmed that GTA 6 is now the most preordered game in PlayStation Store history, although it failed to put a number on it. Microsoft hasn’t made an announcement on GTA 6 preorders for Xbox Series X and S.",
-      "url": "https://www.ign.com/articles/sony-confirms-gta-6-is-now-the-most-preordered-game-in-playstation-store-history-issues-official-preload-warning",
-      "date": "2026-11-10T15:56:37.000Z"
     },
     {
       "lead": false,
@@ -164,14 +172,6 @@
     },
     {
       "lead": false,
-      "src": "IGN",
-      "title": "GTA 6 'Preload Now' Trailer Includes Nearly 30 Seconds of New Footage — SWAT Team, Nightclub Dancing, and More",
-      "summary": "Rockstar has released a new GTA 6 trailer announcing the launch of preloads, and it includes nearly 30 seconds of new footage.",
-      "url": "https://www.ign.com/articles/gta-6-preload-now-trailer-includes-nearly-30-seconds-of-new-footage-swat-team-nightclub-dancing-and-more",
-      "date": "2026-11-10T15:15:41.000Z"
-    },
-    {
-      "lead": false,
       "src": "GameSpot",
       "title": "Here’s How Your Xbox One Can Play GTA 6",
       "summary": "Grand Theft Auto 6 is out next week, and the game is launching on both Xbox Series X|S and PS5. If you don't have an expensive current-generation system , it previously appeared you would be out of luck to play GTA 6, but that's not the case. Rockstar officially confirmed on November 10 that Grand Theft Auto 6 will…",
@@ -188,11 +188,11 @@
     },
     {
       "lead": false,
-      "src": "GamesRadar",
-      "title": "GTA 6 won't run at 60fps on PS5 Pro, but Sony's console still has an exclusive: ray-traced shadows",
-      "summary": "Rockstar says GTA 6 will push consoles \"to their absolute limits\"",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-wont-run-at-60fps-even-on-ps5-pro-but-sonys-console-does-have-an-exclusive-ray-traced-shadows-and-pssr/",
-      "date": "2026-11-10T14:43:07.000Z"
+      "src": "Eurogamer",
+      "title": "Rockstar kills any hopes of streaming GTA 6 from Xbox to PC, but you can stream it to your old Xbox One if you like",
+      "summary": "Rockstar Games has today clarified a few remaining details about Grand Theft Auto 6's framerate target and visual settings on PlayStation 5, PS5 Pro and Xbox Series X/S . And as part of the same announcement , the developer revealed a key detail about the game's cloud streaming options. Read more",
+      "url": "https://www.eurogamer.net/gta-6-xbox-cloud-streaming-pc-xbox-one",
+      "date": "2026-11-10T14:40:10.000Z"
     }
   ]
 }
