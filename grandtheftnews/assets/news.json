@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T01:10:09.829Z",
+  "updated": "2026-11-11T10:39:37.233Z",
   "count": 24,
   "items": [
     {
@@ -118,7 +118,7 @@
       "lead": false,
       "src": "Eurogamer",
       "title": "Grand Theft Auto 6 becomes the most pre-ordered game in PlayStation Store history",
-      "summary": "Sony has just announced that Grand Theft Auto 6 has become \"the most pre-ordered game in the history of PlayStation Store\". Note, it's not the most pre-ordered game in PlayStation history, just on its digital PlayStation Store. Read more",
+      "summary": "UPDATE 11TH NOVEMBER: Grand Theft Auto 6 has also become the most pre-ordered game \"of all time\" on the Xbox Store, Microsoft has announced. And on that platform, again, the advice is to pre-load because of \"unprecedented demand\" for the game, a post on Xbox Wire said . Read more",
       "url": "https://www.eurogamer.net/gta-6-most-preordered-game-playstation-store-history",
       "date": "2026-11-10T16:31:30.000Z"
     },
@@ -172,14 +172,6 @@
     },
     {
       "lead": false,
-      "src": "IGN",
-      "title": "You Don't Need a Current-Gen Console if You're Happy to Play GTA 6 at Xbox Series S Settings",
-      "summary": "After months of speculation, Rockstar finally revealed that GTA 6 would be targeting 30fps on all of the current-generation consoles, including the Xbox Series S. But, thanks to a cloud streaming deal with Xbox, you can technically play the game on the Xbox One.",
-      "url": "https://www.ign.com/articles/you-dont-need-a-current-gen-console-if-youre-happy-to-play-gta-6-at-xbox-series-s-settings",
-      "date": "2026-11-10T15:11:25.000Z"
-    },
-    {
-      "lead": false,
       "src": "GameSpot",
       "title": "Here’s How Your Xbox One Can Play GTA 6",
       "summary": "Grand Theft Auto 6 is out next week, and the game is launching on both Xbox Series X|S and PS5. If you don't have an expensive current-generation system , it previously appeared you would be out of luck to play GTA 6, but that's not the case. Rockstar officially confirmed on November 10 that Grand Theft Auto 6 will…",
@@ -193,6 +185,14 @@
       "summary": "As Grand Theft Auto 6 preloads go live, developer Rockstar has detailed the enhancements coming to the PS5 Pro version of the game, confirming these won't include framerates above the 30 FPS its targeting for consoles. Read more",
       "url": "https://www.eurogamer.net/gta-6-30-fps-platforms-absolute-limit",
       "date": "2026-11-10T15:01:10.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "GTA 6 won't run at 60fps on PS5 Pro, but Sony's console still has an exclusive: ray-traced shadows",
+      "summary": "Rockstar says GTA 6 will push consoles \"to their absolute limits\"",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-wont-run-at-60fps-even-on-ps5-pro-but-sonys-console-does-have-an-exclusive-ray-traced-shadows-and-pssr/",
+      "date": "2026-11-10T14:43:07.000Z"
     }
   ]
 }
