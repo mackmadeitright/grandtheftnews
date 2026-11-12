@@ -1,9 +1,57 @@
 {
-  "updated": "2026-11-11T19:29:15.246Z",
+  "updated": "2026-11-12T02:11:41.803Z",
   "count": 24,
   "items": [
     {
       "lead": true,
+      "src": "Kotaku",
+      "title": "This Isn’t A Video From Miami, It’s A GTA 6 Gameplay Clip",
+      "summary": "The video fooled many online who thought it was real life",
+      "url": "https://kotaku.com/this-isnt-a-video-from-miami-its-a-gta-6-gameplay-clip-2000756038",
+      "date": "2026-11-11T23:30:19.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Polygon",
+      "title": "New 'GTA 6' Gameplay Leaves Fans Stunned",
+      "summary": "GTA 6 fans are doing a double-take on a new gameplay clip shared by Rockstar that almost looks too good to be true",
+      "url": "https://www.polygon.com/gta-6-new-gameplay-onlyindade-ai-real-fake-rockstar-instagram/",
+      "date": "2026-11-11T22:39:52.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Kotaku",
+      "title": "One Company Is Giving All Of Its 7,000 Employees The Day Off To Play GTA 6",
+      "summary": "Everybody will get to clock-out on November 19th",
+      "url": "https://kotaku.com/logitech-gta-6-release-day-off-logi-game-day-2000755995",
+      "date": "2026-11-11T21:30:08.000Z"
+    },
+    {
+      "lead": false,
+      "src": "IGN",
+      "title": "New GTA 6 Surprise Gameplay Seemingly Released in Yet Another Viral Marketing Stunt",
+      "summary": "Rockstar Games appears to have released new footage from GTA 6, which also recreates the studio's real-life viral marketing in-game.",
+      "url": "https://www.ign.com/articles/new-gta-6-surprise-gameplay-seemingly-released-in-yet-another-viral-marketing-stunt",
+      "date": "2026-11-11T20:49:53.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "Why wasn't GTA 6 at the Golden Joystick Awards?",
+      "summary": "You'll have to wait a little while for Leonidas",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/why-wasnt-gta-6-at-the-golden-joystick-awards/",
+      "date": "2026-11-11T20:18:30.000Z"
+    },
+    {
+      "lead": false,
+      "src": "IGN",
+      "title": "GTA 6 Fans Think a Beloved Legacy Character from a Previous Game Is Hiding in the Latest Trailer",
+      "summary": "The most recent GTA 6 trailer has many people wondering if an iconic character from a previous game in the franchise is making a return.",
+      "url": "https://www.ign.com/articles/gta-6-fans-think-a-beloved-legacy-character-from-a-previous-game-is-hiding-in-the-latest-trailer",
+      "date": "2026-11-11T19:51:28.000Z"
+    },
+    {
+      "lead": false,
       "src": "Eurogamer",
       "title": "GTA 6 might be censored in Japan, if the game's smaller install size and lack of \"strong sexual content\" warning is anything to go by",
       "summary": "GTA 6 is finally coming out worldwide next week, putting an end to a 13-year wait and at least one popular meme format, but the highly-anticipated game might look a bit different in Japan. Read more",
@@ -33,14 +81,6 @@
       "summary": "GTA 6 is fast approaching, so if you're in the market for a new controller, these are the ones I'd recommend to PS5 and Xbox players.",
       "url": "https://www.gamesradar.com/hardware/gaming-controllers/the-best-controllers-for-gta-6-the-gamepads-id-recommend-for-ps5-and-xbox-players-jumping-into-vice-city/",
       "date": "2026-11-11T17:04:09.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Polygon",
-      "title": "Sony Officially Confirms Major PS5 Hardware Sales Milestone",
-      "summary": "The impressive PS5 milestone has been reached before GTA 6, poising the console to outdo the PS4 in the near future",
-      "url": "https://www.polygon.com/sony-ps5-sales-numbers-november-2026/",
-      "date": "2026-11-11T17:01:41.000Z"
     },
     {
       "lead": false,
@@ -76,14 +116,6 @@
     },
     {
       "lead": false,
-      "src": "Kotaku",
-      "title": "You Can Play GTA 6 On A 13-Year-Old Xbox And It’ll Run At The Same Framerate As PS5 Pro",
-      "summary": "A cloud gaming deal with Rockstar yields a nice bonus for people still playing on Xbox One",
-      "url": "https://kotaku.com/you-can-play-gta-6-on-a-13-year-old-xbox-and-itll-run-at-the-same-framerate-as-ps5-pro-2000755587",
-      "date": "2026-11-10T21:30:53.000Z"
-    },
-    {
-      "lead": false,
       "src": "GameSpot",
       "title": "GTA 6: What Will Review Scores Be? You Can Win A $500 Gift Card For Getting It Right",
       "summary": "Rockstar's long-awaited open-world action game Grand Theft Auto 6 finally releases on November 19, and among the many things people are excited to find out is how the game will score with reviewers. Nintendo's The Legend of Zelda: Ocarina of Time remake is currently the No. 1 most highly rated game of 2026 on GameSp…",
@@ -105,22 +137,6 @@
       "summary": "It's no secret that life is expensive. Gas and grocery prices are up, in particular, and against that backdrop, Take-Two CEO Strauss Zelnick believes GTA 6 at $80 is a \"bargain\" due to how many hours people can play it. \"I think the consumer is under pressure. these are challenging times. Inflation has hit average c…",
       "url": "https://www.gamespot.com/articles/amid-higher-gas-and-grocery-prices-gta-6-is-a-bargain-at-80-take-two-ceo-says/",
       "date": "2026-11-10T20:14:55.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "I want an uglier GTA 6 that runs at 60 FPS – 30 FPS on console is more reason to wait for PC",
-      "summary": "Opinion | Please, Rockstar, join us in the light of 60 FPS",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/i-want-an-uglier-gta-6-that-runs-at-60-fps-30-fps-on-ps5-and-xbox-series-x-is-more-reason-to-wait-for-pc/",
-      "date": "2026-11-10T19:14:37.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "A week before GTA 6, Take-Two CEO is already teasing \"what comes next\" from Rockstar",
-      "summary": "\"They'll announce that in the fullness of time\"",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/a-week-before-gta-6-take-two-ceo-is-already-teasing-what-comes-next-from-rockstar/",
-      "date": "2026-11-10T18:15:11.000Z"
     },
     {
       "lead": false,
@@ -177,22 +193,6 @@
       "summary": "Grand Theft Auto 6 is out next week, and the game is launching on both Xbox Series X|S and PS5. If you don't have an expensive current-generation system , it previously appeared you would be out of luck to play GTA 6, but that's not the case. Rockstar officially confirmed on November 10 that Grand Theft Auto 6 will…",
       "url": "https://www.gamespot.com/articles/heres-how-your-xbox-one-can-play-gta-6/",
       "date": "2026-11-10T15:02:58.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Eurogamer",
-      "title": "Rockstar details Grand Theft Auto 6 PS5 Pro enhancements, but it'll still only run at 30FPS",
-      "summary": "As Grand Theft Auto 6 preloads go live, developer Rockstar has detailed the enhancements coming to the PS5 Pro version of the game, confirming these won't include framerates above the 30 FPS its targeting for consoles. Read more",
-      "url": "https://www.eurogamer.net/gta-6-30-fps-platforms-absolute-limit",
-      "date": "2026-11-10T15:01:10.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Eurogamer",
-      "title": "Rockstar kills any hopes of streaming GTA 6 from Xbox to PC, but you can stream it to your old Xbox One if you like",
-      "summary": "Rockstar Games has today clarified a few remaining details about Grand Theft Auto 6's framerate target and visual settings on PlayStation 5, PS5 Pro and Xbox Series X/S . And as part of the same announcement , the developer revealed a key detail about the game's cloud streaming options. Read more",
-      "url": "https://www.eurogamer.net/gta-6-xbox-cloud-streaming-pc-xbox-one",
-      "date": "2026-11-10T14:40:10.000Z"
     }
   ]
 }
