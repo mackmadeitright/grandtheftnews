@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12T02:11:41.803Z",
+  "updated": "2026-11-12T10:51:59.414Z",
   "count": 24,
   "items": [
     {
@@ -92,27 +92,11 @@
     },
     {
       "lead": false,
-      "src": "Kotaku",
-      "title": "Some Players Are Crashing Out About GTA 6 Only Being 30 FPS: ‘Starfield Got Assaulted For Being Locked To 30 FPS’",
-      "summary": "Others are showing some grace to what could be the most detailed open-world game ever",
-      "url": "https://kotaku.com/some-players-are-crashing-out-about-gta-6-only-being-30-fps-starfield-got-assaulted-for-being-locked-to-30-fps-2000755892",
-      "date": "2026-11-11T14:20:46.000Z"
-    },
-    {
-      "lead": false,
       "src": "GamesRadar",
       "title": "Despite GTA 6 being pitted against Zelda: Ocarina of Time, Take-Two boss has nothing but praise",
       "summary": "\"In the entertainment business, you compete against everything and nothing\"",
       "url": "https://www.gamesradar.com/games/the-legend-of-zelda/despite-gta-6-being-pitted-against-zelda-ocarina-of-time-take-two-boss-has-nothing-but-praise-nintendo-should-be-proud-as-the-game-is-terrific/",
       "date": "2026-11-11T13:14:06.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Kotaku",
-      "title": "GTA 6′s File Size Is Smaller In Australia And Japan, Sparking Censorship Concerns",
-      "summary": "Grand Theft Auto VI's preload file size is slightly lighter in Australia and over 1GB smaller in Japan",
-      "url": "https://kotaku.com/gta-6-smaller-in-australia-japan-censorship-concerns-rockstar-2000755882",
-      "date": "2026-11-11T12:00:12.000Z"
     },
     {
       "lead": false,
@@ -193,6 +177,22 @@
       "summary": "Grand Theft Auto 6 is out next week, and the game is launching on both Xbox Series X|S and PS5. If you don't have an expensive current-generation system , it previously appeared you would be out of luck to play GTA 6, but that's not the case. Rockstar officially confirmed on November 10 that Grand Theft Auto 6 will…",
       "url": "https://www.gamespot.com/articles/heres-how-your-xbox-one-can-play-gta-6/",
       "date": "2026-11-10T15:02:58.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Eurogamer",
+      "title": "Rockstar details Grand Theft Auto 6 PS5 Pro enhancements, but it'll still only run at 30FPS",
+      "summary": "As Grand Theft Auto 6 preloads go live, developer Rockstar has detailed the enhancements coming to the PS5 Pro version of the game, confirming these won't include framerates above the 30 FPS its targeting for consoles. Read more",
+      "url": "https://www.eurogamer.net/gta-6-30-fps-platforms-absolute-limit",
+      "date": "2026-11-10T15:01:10.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Eurogamer",
+      "title": "Rockstar kills any hopes of streaming GTA 6 from Xbox to PC, but you can stream it to your old Xbox One if you like",
+      "summary": "Rockstar Games has today clarified a few remaining details about Grand Theft Auto 6's framerate target and visual settings on PlayStation 5, PS5 Pro and Xbox Series X/S . And as part of the same announcement , the developer revealed a key detail about the game's cloud streaming options. Read more",
+      "url": "https://www.eurogamer.net/gta-6-xbox-cloud-streaming-pc-xbox-one",
+      "date": "2026-11-10T14:40:10.000Z"
     }
   ]
 }
