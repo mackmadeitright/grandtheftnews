@@ -1,30 +1,158 @@
 {
-  "updated": "2026-11-12T10:51:59.414Z",
+  "updated": "2026-11-12T19:47:57.732Z",
   "count": 24,
   "items": [
     {
       "lead": true,
+      "src": "PC Gamer",
+      "title": "South Korean game rating board almost blocked GTA 6's release, fearing its 'out-of-context genital nudity' would 'disrupt social order'",
+      "summary": "GTA 6 required a total of three ratings reviews by South Korea's GCRB—and Cyberleek might have had something to do with it.",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/south-korean-game-rating-board-almost-blocked-gta-6s-release-fearing-its-out-of-context-genital-nudity-would-disrupt-social-order/",
+      "date": "2026-11-12T19:06:41.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "Physical GTA 6 map leaks, and I need to know if it's teasing another UFO Easter egg",
+      "summary": "Another map leak is teasing locations across Leonida",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/physical-gta-6-map-leaks-and-i-need-to-know-if-its-teasing-another-ufo-easter-egg/",
+      "date": "2026-11-12T18:19:00.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "Palworld devs get 5 days off to play GTA 6",
+      "summary": "\"We believe that such a historic occasion deserves our full attention\"",
+      "url": "https://www.gamesradar.com/games/survival/palworld-devs-get-5-days-off-to-play-gta-6-and-after-pocketpairs-ceo-vanished-to-play-slay-the-spire-2-id-say-thats-probably-wise/",
+      "date": "2026-11-12T17:34:31.000Z"
+    },
+    {
+      "lead": false,
+      "src": "IGN",
+      "title": "New GTA 6 In-Game Footage Continues to Highlight the Game's Unbelievable Graphics",
+      "summary": "Rockstar has released yet another in-game clip from GTA 6, and like yesterday's footage, fans can't quite believe it's real.",
+      "url": "https://www.ign.com/articles/new-gta-6-in-game-footage-continues-to-highlight-the-games-unbelievable-graphics",
+      "date": "2026-11-12T17:31:56.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Polygon",
+      "title": "GTA 6 Map Seemingly Leaks at Merch Drop Event",
+      "summary": "Grand Theft Auto 6's map appears to have leaked early due to a Selfridges event.",
+      "url": "https://www.polygon.com/gta-6-map-leonidas-leak-merch-drop/",
+      "date": "2026-11-12T17:14:54.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "GTA 6 was almost refused classification in South Korea due to the sheer amount of genitals shown",
+      "summary": "Also, the naked Jason seen in leaks seemingly isn't part of the final game",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-was-almost-refused-classification-in-south-korea-due-to-the-sheer-amount-of-genitals-shown/",
+      "date": "2026-11-12T16:47:39.000Z"
+    },
+    {
+      "lead": false,
+      "src": "IGN",
+      "title": "GTA 4’s Three Leaf Clover Heist Showed How Not to Rob a Bank – Art of the Level",
+      "summary": "This is how Michael Mann’s Heat inspired GTA 4’s legendary Three Leaf Clover mission, shaping Rockstar’s realistic sound design and the future of videogame heists.",
+      "url": "https://www.ign.com/articles/gta-4-michael-mann-heat-heist",
+      "date": "2026-11-12T16:30:00.000Z"
+    },
+    {
+      "lead": false,
+      "src": "IGN",
+      "title": "Asda Is Now Offering The Best Deal on Grand Theft Auto for PS5 in the UK",
+      "summary": "Asda is offering gamers a discount on Grand Theft Auto 6 for PS5 in a new limited-time preorder deal. Here's how you can claim the promo coupon before launch day and save over £10 on your purchase.",
+      "url": "https://www.ign.com/articles/grand-theft-auto-6-ps5-best-preorder-deals-uk",
+      "date": "2026-11-12T16:12:50.000Z"
+    },
+    {
+      "lead": false,
+      "src": "IGN",
+      "title": "Palworld Developer Pocketpair Gives Employees 5 Days Off to Play GTA 6",
+      "summary": "Palworld developer Pocketpair is giving its staff five days off to make their way through GTA 6.",
+      "url": "https://www.ign.com/articles/pocketpair-gives-employees-five-days-leave-to-play-gta-6",
+      "date": "2026-11-12T15:44:34.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Kotaku",
+      "title": "GTA 6 Was Almost Refused Classification In South Korea For Featuring Too Many ‘Out-Of-Context’ Penises",
+      "summary": "Unfortunately, South Korea's GCRB may have just indirectly confirmed that GTA 6 's protagonists cannot get naked in the retail version of the game",
+      "url": "https://kotaku.com/gta-6-south-korea-for-featuring-too-many-out-of-context-penises-rockstar-2000756253",
+      "date": "2026-11-12T15:30:38.000Z"
+    },
+    {
+      "lead": false,
+      "src": "IGN",
+      "title": "GTA’s Strangest Myths: A Full History",
+      "summary": "From bigfoot to the Mount Chilliad mystery, GTA has a long history of urban myths. Before GTA 6 adds more to the list, we investigate the series' most talked-about legends.",
+      "url": "https://www.ign.com/articles/gtas-strangest-myths-a-full-history",
+      "date": "2026-11-12T14:30:00.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GameSpot",
+      "title": "GTA 6’s Jason Can Live His Best Life By Drinking A Beer And Eating A Donut Simultaneously",
+      "summary": "Rockstar's Grand Theft Auto 6 looks like it will have an impressive attention to detail, and that includes how one of the main characters, Jason, can drink a beer and eat a donut at the same time. Now that's living. Rockstar boss Rob Nelson geeked out to The Guardian about GTA 6's finer details, including this one.…",
+      "url": "https://www.gamespot.com/articles/gta-6s-jason-can-live-his-best-life-by-drinking-a-beer-and-eating-a-donut-simultaneously/",
+      "date": "2026-11-12T14:20:40.000Z"
+    },
+    {
+      "lead": false,
+      "src": "IGN",
+      "title": "Popeyes Is Riding the GTA 6 Hype With a New 'Spice City' Chicken Sandwich",
+      "summary": "Popeyes has unveiled its new \"Spice City\" chicken sandwich, which is the restaurant's attempt to ride the hype wave for GTA 6.",
+      "url": "https://www.ign.com/articles/popeyes-is-riding-the-gta-6-hype-with-a-new-spice-city-chicken-sandwich",
+      "date": "2026-11-12T14:00:00.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "Elgato, Corsair, and Twitch team up with a bundle to help you stream GTA 6 console gameplay",
+      "summary": "Elgato and Twitch have launched the Elgato X Twitch Streaming Kit, but it's extortionate and not what most creators will even need.",
+      "url": "https://www.gamesradar.com/hardware/peripherals/elgato-corsair-and-twitch-team-up-with-a-bundle-to-help-you-stream-gta-6-console-gameplay-but-the-cheapest-option-costs-almost-as-much-as-a-ps5/",
+      "date": "2026-11-12T13:37:22.000Z"
+    },
+    {
+      "lead": false,
+      "src": "IGN",
+      "title": "GTA 6 Was Almost Refused a Rating in South Korea Due to 'Genital Nudity'",
+      "summary": "GTA 6 was almost too much for South Korean ratings board GCRB, who struggled to agree whether the game should be approved or not. The board cited “out of context genital nudity” as the sticking point.",
+      "url": "https://www.ign.com/articles/gta-6-was-almost-refused-rating-in-south-korea",
+      "date": "2026-11-12T12:44:19.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Eurogamer",
+      "title": "Will a Grand Theft Auto game ever be set outside of America? Rockstar offers a small glimmer of hope",
+      "summary": "The Grand Theft Auto games have always been synonymous with America; Americana is baked into the crime series' very being. Across its history, there's only ever been one GTA game set outside America: the London-based expansion of the original game. Read more",
+      "url": "https://www.eurogamer.net/grand-theft-auto-gta-non-american-setting-rockstar",
+      "date": "2026-11-12T12:39:20.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "The best headsets for GTA 6: Dolby Atmos and Tempest 3D heavy-hitters from across the price range",
+      "summary": "The best headsets for GTA 6 combine PS5 and Xbox Series X-specific features with the right price tag - we've been hands-on to find your go-to cups for Rockstar's blockbuster.",
+      "url": "https://www.gamesradar.com/hardware/headsets-headphones/the-best-headsets-for-gta-6/",
+      "date": "2026-11-12T12:29:18.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "GTA 6 boss says \"never say never\" when it comes to a new Grand Theft Auto game set outside America",
+      "summary": "A new GTA London probably isn't happening anytime soon",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-boss-says-never-say-never-when-it-comes-to-a-new-grand-theft-auto-game-set-outside-america-but-theres-still-so-much-to-do-with-the-us/",
+      "date": "2026-11-12T11:40:24.000Z"
+    },
+    {
+      "lead": false,
       "src": "Kotaku",
       "title": "This Isn’t A Video From Miami, It’s A GTA 6 Gameplay Clip",
       "summary": "The video fooled many online who thought it was real life",
       "url": "https://kotaku.com/this-isnt-a-video-from-miami-its-a-gta-6-gameplay-clip-2000756038",
       "date": "2026-11-11T23:30:19.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Polygon",
-      "title": "New 'GTA 6' Gameplay Leaves Fans Stunned",
-      "summary": "GTA 6 fans are doing a double-take on a new gameplay clip shared by Rockstar that almost looks too good to be true",
-      "url": "https://www.polygon.com/gta-6-new-gameplay-onlyindade-ai-real-fake-rockstar-instagram/",
-      "date": "2026-11-11T22:39:52.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Kotaku",
-      "title": "One Company Is Giving All Of Its 7,000 Employees The Day Off To Play GTA 6",
-      "summary": "Everybody will get to clock-out on November 19th",
-      "url": "https://kotaku.com/logitech-gta-6-release-day-off-logi-game-day-2000755995",
-      "date": "2026-11-11T21:30:08.000Z"
     },
     {
       "lead": false,
@@ -36,67 +164,11 @@
     },
     {
       "lead": false,
-      "src": "GamesRadar",
-      "title": "Why wasn't GTA 6 at the Golden Joystick Awards?",
-      "summary": "You'll have to wait a little while for Leonidas",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/why-wasnt-gta-6-at-the-golden-joystick-awards/",
-      "date": "2026-11-11T20:18:30.000Z"
-    },
-    {
-      "lead": false,
-      "src": "IGN",
-      "title": "GTA 6 Fans Think a Beloved Legacy Character from a Previous Game Is Hiding in the Latest Trailer",
-      "summary": "The most recent GTA 6 trailer has many people wondering if an iconic character from a previous game in the franchise is making a return.",
-      "url": "https://www.ign.com/articles/gta-6-fans-think-a-beloved-legacy-character-from-a-previous-game-is-hiding-in-the-latest-trailer",
-      "date": "2026-11-11T19:51:28.000Z"
-    },
-    {
-      "lead": false,
       "src": "Eurogamer",
       "title": "GTA 6 might be censored in Japan, if the game's smaller install size and lack of \"strong sexual content\" warning is anything to go by",
       "summary": "GTA 6 is finally coming out worldwide next week, putting an end to a 13-year wait and at least one popular meme format, but the highly-anticipated game might look a bit different in Japan. Read more",
       "url": "https://www.eurogamer.net/gta-6-censored-japan-smaller-install-size",
       "date": "2026-11-11T18:17:10.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "Quote of the day by former GTA 6 and Red Dead Redemption 2 artist: Sony and Microsoft can’t compete with Rockstar because “they do not care about making game products”",
-      "summary": "And Rockstar's institutional knowledge is \"absolutely priceless\"",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/quote-of-the-day-by-former-gta-6-and-red-dead-redemption-2-artist-sony-and-microsoft-cant-compete-with-rockstar-because-they-do-not-care-about-making-game-products/",
-      "date": "2026-11-11T18:00:00.000Z"
-    },
-    {
-      "lead": false,
-      "src": "IGN",
-      "title": "How About a GTA Set Outside the United States? 'Never Say Never,' Rockstar Boss Teases, but Don't Hold Your Breath",
-      "summary": "Rockstar isn't ruling out a GTA set outside the United States, but don't hold your breath: the studio says there are plenty more stories to tell in America.",
-      "url": "https://www.ign.com/articles/how-about-a-gta-set-outside-the-united-states-never-say-never-rockstar-boss-teases-but-dont-hold-your-breath",
-      "date": "2026-11-11T17:42:02.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "The best controllers for GTA 6: The gamepads I'd recommend for PS5 and Xbox players jumping into Vice City",
-      "summary": "GTA 6 is fast approaching, so if you're in the market for a new controller, these are the ones I'd recommend to PS5 and Xbox players.",
-      "url": "https://www.gamesradar.com/hardware/gaming-controllers/the-best-controllers-for-gta-6-the-gamepads-id-recommend-for-ps5-and-xbox-players-jumping-into-vice-city/",
-      "date": "2026-11-11T17:04:09.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "GTA 6 censorship worries bubble up in Japan: the install size is different and the age rating drops sex and drugs",
-      "summary": "Neither Rockstar or Take-Two have mentioned regional differences",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-censorship-worries-bubble-up-in-japan-the-install-size-is-different-to-everywhere-else-and-the-age-rating-drops-sex-and-drugs/",
-      "date": "2026-11-11T16:24:11.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "Despite GTA 6 being pitted against Zelda: Ocarina of Time, Take-Two boss has nothing but praise",
-      "summary": "\"In the entertainment business, you compete against everything and nothing\"",
-      "url": "https://www.gamesradar.com/games/the-legend-of-zelda/despite-gta-6-being-pitted-against-zelda-ocarina-of-time-take-two-boss-has-nothing-but-praise-nintendo-should-be-proud-as-the-game-is-terrific/",
-      "date": "2026-11-11T13:14:06.000Z"
     },
     {
       "lead": false,
@@ -121,78 +193,6 @@
       "summary": "It's no secret that life is expensive. Gas and grocery prices are up, in particular, and against that backdrop, Take-Two CEO Strauss Zelnick believes GTA 6 at $80 is a \"bargain\" due to how many hours people can play it. \"I think the consumer is under pressure. these are challenging times. Inflation has hit average c…",
       "url": "https://www.gamespot.com/articles/amid-higher-gas-and-grocery-prices-gta-6-is-a-bargain-at-80-take-two-ceo-says/",
       "date": "2026-11-10T20:14:55.000Z"
-    },
-    {
-      "lead": false,
-      "src": "PC Gamer",
-      "title": "Grand Theft Auto 6 is 'the most pre-ordered' game of all time on both Xbox and PlayStation",
-      "summary": "On PC, however, GTA 6 remains among the least pre-ordered games of all time because, well, you know.",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/grand-theft-auto-6-is-the-most-pre-ordered-game-of-all-time-on-both-xbox-and-playstation/",
-      "date": "2026-11-10T17:34:18.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GameSpot",
-      "title": "Take-Two Boss Says Ocarina Of Time Is “Terrific,” But Is It Competing With GTA 6?",
-      "summary": "Take-Two boss Strauss Zelnick has reacted to the release of Nintendo's recent Switch 2 remake of The Legend of Zelda: Ocarina of Time . He said the game is \"terrific\" and that Nintendo should be \"very proud of the title.\" But is it a competitor to GTA 6 , which hails from Take-Two's Rockstar Games? Zelnick told Game…",
-      "url": "https://www.gamespot.com/articles/take-two-boss-says-ocarina-of-time-is-terrific-but-is-it-competing-with-gta-6/",
-      "date": "2026-11-10T16:49:21.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Eurogamer",
-      "title": "Grand Theft Auto 6 becomes the most pre-ordered game in PlayStation Store history",
-      "summary": "UPDATE 11TH NOVEMBER: Grand Theft Auto 6 has also become the most pre-ordered game \"of all time\" on the Xbox Store, Microsoft has announced. And on that platform, again, the advice is to pre-load because of \"unprecedented demand\" for the game, a post on Xbox Wire said . Read more",
-      "url": "https://www.eurogamer.net/gta-6-most-preordered-game-playstation-store-history",
-      "date": "2026-11-10T16:31:30.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GameSpot",
-      "title": "GTA 6 Is The Most Preordered Game Of All Time For PlayStation And Xbox",
-      "summary": "Rockstar's Grand Theft Auto 6 releases on November 19 for PlayStation 5 and Xbox Series X|S, and the game is breaking records before it even releases. Sony announced today that GTA 6 is now the most preordered game in PlayStation Store history. Exactly which game it beat to claim the record is unknown, however. In S…",
-      "url": "https://www.gamespot.com/articles/gta-6-is-the-most-preordered-game-of-all-time-for-playstation-and-xbox/",
-      "date": "2026-11-10T16:15:37.000Z"
-    },
-    {
-      "lead": false,
-      "src": "PC Gamer",
-      "title": "I feel better than ever waiting for GTA 6 on PC now Rockstar confirms it's targeting 30 fps on PlayStation and Xbox",
-      "summary": "This is NOT copium. Do not put on website that it is copium.",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/i-feel-better-than-ever-waiting-for-gta-6-on-pc-now-rockstar-confirms-its-targeting-30-fps-on-playstation-and-xbox/",
-      "date": "2026-11-10T15:41:26.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GameSpot",
-      "title": "GTA Releases Could Speed Up, Take-Two Boss Says",
-      "summary": "According to Take-Two boss Strauss Zelnick, the \"nature and velocity\" of the company's content releases in its major franchises, including GTA, will look \"dramatically different over the next decade.\" He told this to IGN , and many are interpreting the quote to mean that Take-Two's big franchises are going to be rel…",
-      "url": "https://www.gamespot.com/articles/gta-releases-could-speed-up-take-two-boss-says/",
-      "date": "2026-11-10T15:39:51.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GameSpot",
-      "title": "Here’s How Your Xbox One Can Play GTA 6",
-      "summary": "Grand Theft Auto 6 is out next week, and the game is launching on both Xbox Series X|S and PS5. If you don't have an expensive current-generation system , it previously appeared you would be out of luck to play GTA 6, but that's not the case. Rockstar officially confirmed on November 10 that Grand Theft Auto 6 will…",
-      "url": "https://www.gamespot.com/articles/heres-how-your-xbox-one-can-play-gta-6/",
-      "date": "2026-11-10T15:02:58.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Eurogamer",
-      "title": "Rockstar details Grand Theft Auto 6 PS5 Pro enhancements, but it'll still only run at 30FPS",
-      "summary": "As Grand Theft Auto 6 preloads go live, developer Rockstar has detailed the enhancements coming to the PS5 Pro version of the game, confirming these won't include framerates above the 30 FPS its targeting for consoles. Read more",
-      "url": "https://www.eurogamer.net/gta-6-30-fps-platforms-absolute-limit",
-      "date": "2026-11-10T15:01:10.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Eurogamer",
-      "title": "Rockstar kills any hopes of streaming GTA 6 from Xbox to PC, but you can stream it to your old Xbox One if you like",
-      "summary": "Rockstar Games has today clarified a few remaining details about Grand Theft Auto 6's framerate target and visual settings on PlayStation 5, PS5 Pro and Xbox Series X/S . And as part of the same announcement , the developer revealed a key detail about the game's cloud streaming options. Read more",
-      "url": "https://www.eurogamer.net/gta-6-xbox-cloud-streaming-pc-xbox-one",
-      "date": "2026-11-10T14:40:10.000Z"
     }
   ]
 }
