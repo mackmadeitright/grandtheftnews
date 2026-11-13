@@ -1,9 +1,17 @@
 {
-  "updated": "2026-11-13T01:44:56.093Z",
+  "updated": "2026-11-13T10:47:48.980Z",
   "count": 24,
   "items": [
     {
       "lead": true,
+      "src": "Eurogamer",
+      "title": "Will GTA 6 break the internet? UK broadband operator braces for impact, saying \"GTA 6 has been on our radar for a long time\"",
+      "summary": "As Grand Theft Auto 6 breaks pre-order records on the PlayStation and Xbox stores , and looks poised to break many more sales records once it launches next week, questions of whether it will also break the internet arise. Collective network load will undoubtedly spike around its release - will regional infrastructur…",
+      "url": "https://www.eurogamer.net/gta-6-internet-uk-broadband-ofcom-openreach",
+      "date": "2026-11-13T09:42:40.000Z"
+    },
+    {
+      "lead": false,
       "src": "IGN",
       "title": "GTA 6's Burger Shot Restaurant Is Expanding Across Florida With Real Meals Inspired by the Game",
       "summary": "GTA 6's fast-food hamburger chain, Burger Shot, is expanding with new locations across Florida starting this weekend thanks to a collaboration with Skinny Louie.",
@@ -185,14 +193,6 @@
       "summary": "It's no secret that life is expensive. Gas and grocery prices are up, in particular, and against that backdrop, Take-Two CEO Strauss Zelnick believes GTA 6 at $80 is a \"bargain\" due to how many hours people can play it. \"I think the consumer is under pressure. these are challenging times. Inflation has hit average c…",
       "url": "https://www.gamespot.com/articles/amid-higher-gas-and-grocery-prices-gta-6-is-a-bargain-at-80-take-two-ceo-says/",
       "date": "2026-11-10T20:14:55.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GameSpot",
-      "title": "Take-Two Boss Says Ocarina Of Time Is “Terrific,” But Is It Competing With GTA 6?",
-      "summary": "Take-Two boss Strauss Zelnick has reacted to the release of Nintendo's recent Switch 2 remake of The Legend of Zelda: Ocarina of Time . He said the game is \"terrific\" and that Nintendo should be \"very proud of the title.\" But is it a competitor to GTA 6 , which hails from Take-Two's Rockstar Games? Zelnick told Game…",
-      "url": "https://www.gamespot.com/articles/take-two-boss-says-ocarina-of-time-is-terrific-but-is-it-competing-with-gta-6/",
-      "date": "2026-11-10T16:49:21.000Z"
     }
   ]
 }
