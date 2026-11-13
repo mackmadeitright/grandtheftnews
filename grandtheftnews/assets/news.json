@@ -1,9 +1,25 @@
 {
-  "updated": "2026-11-12T19:47:57.732Z",
+  "updated": "2026-11-13T01:44:56.093Z",
   "count": 24,
   "items": [
     {
       "lead": true,
+      "src": "IGN",
+      "title": "GTA 6's Burger Shot Restaurant Is Expanding Across Florida With Real Meals Inspired by the Game",
+      "summary": "GTA 6's fast-food hamburger chain, Burger Shot, is expanding with new locations across Florida starting this weekend thanks to a collaboration with Skinny Louie.",
+      "url": "https://www.ign.com/articles/gta-6s-burger-shot-restaurant-is-expanding-across-florida-with-real-meals-inspired-by-the-game",
+      "date": "2026-11-13T00:44:45.000Z"
+    },
+    {
+      "lead": false,
+      "src": "PC Gamer",
+      "title": "Palworld developer Pocketpair gives employees time off for 'a 5-day business trip in Vice City when GTA 6 launches'",
+      "summary": "Must be nice.",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/palworld-developer-pocketpair-gives-employees-time-off-for-a-5-day-business-trip-in-vice-city-when-gta-6-launches/",
+      "date": "2026-11-12T22:08:48.000Z"
+    },
+    {
+      "lead": false,
       "src": "PC Gamer",
       "title": "South Korean game rating board almost blocked GTA 6's release, fearing its 'out-of-context genital nudity' would 'disrupt social order'",
       "summary": "GTA 6 required a total of three ratings reviews by South Korea's GCRB—and Cyberleek might have had something to do with it.",
@@ -33,14 +49,6 @@
       "summary": "Rockstar has released yet another in-game clip from GTA 6, and like yesterday's footage, fans can't quite believe it's real.",
       "url": "https://www.ign.com/articles/new-gta-6-in-game-footage-continues-to-highlight-the-games-unbelievable-graphics",
       "date": "2026-11-12T17:31:56.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Polygon",
-      "title": "GTA 6 Map Seemingly Leaks at Merch Drop Event",
-      "summary": "Grand Theft Auto 6's map appears to have leaked early due to a Selfridges event.",
-      "url": "https://www.polygon.com/gta-6-map-leonidas-leak-merch-drop/",
-      "date": "2026-11-12T17:14:54.000Z"
     },
     {
       "lead": false,
@@ -148,22 +156,6 @@
     },
     {
       "lead": false,
-      "src": "Kotaku",
-      "title": "This Isn’t A Video From Miami, It’s A GTA 6 Gameplay Clip",
-      "summary": "The video fooled many online who thought it was real life",
-      "url": "https://kotaku.com/this-isnt-a-video-from-miami-its-a-gta-6-gameplay-clip-2000756038",
-      "date": "2026-11-11T23:30:19.000Z"
-    },
-    {
-      "lead": false,
-      "src": "IGN",
-      "title": "New GTA 6 Surprise Gameplay Seemingly Released in Yet Another Viral Marketing Stunt",
-      "summary": "Rockstar Games appears to have released new footage from GTA 6, which also recreates the studio's real-life viral marketing in-game.",
-      "url": "https://www.ign.com/articles/new-gta-6-surprise-gameplay-seemingly-released-in-yet-another-viral-marketing-stunt",
-      "date": "2026-11-11T20:49:53.000Z"
-    },
-    {
-      "lead": false,
       "src": "Eurogamer",
       "title": "GTA 6 might be censored in Japan, if the game's smaller install size and lack of \"strong sexual content\" warning is anything to go by",
       "summary": "GTA 6 is finally coming out worldwide next week, putting an end to a 13-year wait and at least one popular meme format, but the highly-anticipated game might look a bit different in Japan. Read more",
@@ -193,6 +185,14 @@
       "summary": "It's no secret that life is expensive. Gas and grocery prices are up, in particular, and against that backdrop, Take-Two CEO Strauss Zelnick believes GTA 6 at $80 is a \"bargain\" due to how many hours people can play it. \"I think the consumer is under pressure. these are challenging times. Inflation has hit average c…",
       "url": "https://www.gamespot.com/articles/amid-higher-gas-and-grocery-prices-gta-6-is-a-bargain-at-80-take-two-ceo-says/",
       "date": "2026-11-10T20:14:55.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GameSpot",
+      "title": "Take-Two Boss Says Ocarina Of Time Is “Terrific,” But Is It Competing With GTA 6?",
+      "summary": "Take-Two boss Strauss Zelnick has reacted to the release of Nintendo's recent Switch 2 remake of The Legend of Zelda: Ocarina of Time . He said the game is \"terrific\" and that Nintendo should be \"very proud of the title.\" But is it a competitor to GTA 6 , which hails from Take-Two's Rockstar Games? Zelnick told Game…",
+      "url": "https://www.gamespot.com/articles/take-two-boss-says-ocarina-of-time-is-terrific-but-is-it-competing-with-gta-6/",
+      "date": "2026-11-10T16:49:21.000Z"
     }
   ]
 }
