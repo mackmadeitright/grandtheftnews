@@ -1,9 +1,25 @@
 {
-  "updated": "2026-11-14T17:53:35.259Z",
+  "updated": "2026-11-14T22:14:21.059Z",
   "count": 24,
   "items": [
     {
       "lead": true,
+      "src": "GamesRadar",
+      "title": "GTA 6 will \"provide mechanisms that encourage\" empathy \"for the first time in a GTA\"",
+      "summary": "Shoot and smooch",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/rockstar-knows-people-want-to-play-gta-6-for-the-chaos-but-the-studio-will-also-provide-mechanisms-that-encourage-empathy-for-the-first-time-in-a-gta/",
+      "date": "2026-11-14T18:24:35.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "As the 13-year wait for GTA 6 ends, it’s time to remember the first 10 games released in 12 years",
+      "summary": "The wait for GTA 6 is even more astounding when you remember how things used to be",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/with-the-13-year-wait-for-gta-6-finally-ending-its-time-to-remember-that-rockstar-released-the-first-10-grand-theft-auto-games-in-just-12-years/",
+      "date": "2026-11-14T18:00:00.000Z"
+    },
+    {
+      "lead": false,
       "src": "GamesRadar",
       "title": "GTA 6: The Album seemingly leaks with Dua Lipa and Lana Del Rey as part of the 34-song tracklist",
       "summary": "Starting from zero",
@@ -12,11 +28,11 @@
     },
     {
       "lead": false,
-      "src": "Polygon",
-      "title": "GTA 6 Players Report Issues with Physical Version Pre-Order Codes",
-      "summary": "Reports indicate that physical GTA 6 pre-orders are arriving without codes, making it impossible to claim the game.",
-      "url": "https://www.polygon.com/gta-6-grand-theft-auto-no-code-physical-edition/",
-      "date": "2026-11-14T16:43:28.000Z"
+      "src": "IGN",
+      "title": "GTA 6 Will Do Something the Franchise Has Never Done Before: Encourage Empathy",
+      "summary": "Rockstar has confirmed GTA 6 features something the franchise has never had before: mechanisms that encourage empathy.",
+      "url": "https://www.ign.com/articles/gta-6-will-do-something-the-franchise-has-never-done-before-encourage-empathy",
+      "date": "2026-11-14T17:19:13.000Z"
     },
     {
       "lead": false,
@@ -161,22 +177,6 @@
       "summary": "With less than a week to go before GTA 6's hugely anticipated release , the game's final map - or at least a stylised poster version of it, depicting the state of Leonida's key landmarks - has surfaced online. It was reportedly snapped during Selfridge's sizable GTA 6 's takeover, and is seemingly the physical map i…",
       "url": "https://www.eurogamer.net/gta-6-map-leak-online-collectors-edition",
       "date": "2026-11-13T15:13:40.000Z"
-    },
-    {
-      "lead": false,
-      "src": "IGN",
-      "title": "GTA 6 Has a Whole Animated TV Series You Can Watch In-Game",
-      "summary": "In yet further evidence of the lengths Rockstar has gone to in order to pack GTA 6 to the brim with content, we have our first look at an animated TV series you can watch in-game.",
-      "url": "https://www.ign.com/articles/gta-6-has-a-whole-animated-tv-series-you-can-watch-in-game",
-      "date": "2026-11-13T15:11:15.000Z"
-    },
-    {
-      "lead": false,
-      "src": "IGN",
-      "title": "Thousands of UK Gamers Face Downloading GTA 6's Pre-load For Over a Week Due to Poor Internet Speeds",
-      "summary": "Experts have warned that over 870,000 UK gamers could wait up to a week or more to download GTA 6’s 212GB preload, with some households still averaging download speeds of just 2.8Mbps.",
-      "url": "https://www.ign.com/articles/gta-6-preload-download-times-uk-broadband-genie-deals",
-      "date": "2026-11-13T15:05:08.000Z"
     },
     {
       "lead": false,
