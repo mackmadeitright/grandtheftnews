@@ -1,9 +1,65 @@
 {
-  "updated": "2026-11-13T19:30:27.161Z",
+  "updated": "2026-11-14T01:22:41.216Z",
   "count": 24,
   "items": [
     {
       "lead": true,
+      "src": "GamesRadar",
+      "title": "We tried stealing our own GTA 6 physical edition codes, and you probably shouldn't worry",
+      "summary": "Grand Theft Game Code",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/we-tried-stealing-our-own-gta-6-physical-edition-codes-and-you-probably-shouldnt-worry-about-someone-getting-to-yours-first/",
+      "date": "2026-11-13T22:48:31.000Z"
+    },
+    {
+      "lead": false,
+      "src": "PC Gamer",
+      "title": "Yes, some brave games are still launching on Steam during GTA 6 week",
+      "summary": "Roundabouts, merchant republics, and dark fantasy roguelikes aren't budging their release plans.",
+      "url": "https://www.pcgamer.com/games/yes-some-brave-games-are-still-launching-on-steam-during-gta-6-launch-week/",
+      "date": "2026-11-13T22:28:10.000Z"
+    },
+    {
+      "lead": false,
+      "src": "IGN",
+      "title": "Some of These GTA 6 Clips Look So Good That I Don't Care if It's Running at 30fps",
+      "summary": "Earlier this week, Rockstar confirmed that GTA 6 would be running at 30fps on all of the consoles, including the PS5 Pro. And while I wasn't surprised, I've been watching some of the clips that have been trickling out this week, and I can't say I'm not excited to play it, even at 30fps.",
+      "url": "https://www.ign.com/articles/some-of-these-gta-6-clips-look-so-good-that-i-dont-care-if-its-running-at-30-fps",
+      "date": "2026-11-13T22:10:22.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GameSpot",
+      "title": "“Physical” GTA 6 Copies Might Be Vulnerable To A Very Stupid But Serious Trick",
+      "summary": "Grand Theft Auto 6 ditched traditional discs for its \"physical\" launch, with Rockstar's game being sold as a digital code-in-box at retailers beginning this week. However, it appears a packaging choice may have accidentally left the game vulnerable to thieves--assuming they have a flashlight. As shared on the forum…",
+      "url": "https://www.gamespot.com/articles/physical-gta-6-copies-might-be-vulnerable-to-a-very-stupid-but-serious-trick/",
+      "date": "2026-11-13T21:03:51.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GameSpot",
+      "title": "GTA 6 Owner Take-Two Is Not Interested In Selling Itself After EA Goes Private For $55 Billion",
+      "summary": "Recently, the gaming giant Electronic Arts was taken private in a $55 billion sale to an investor consortium led by Saudi Arabia's Public Investment Fund. Could GTA 6 owner Take-Two be the next big company that gets acquired? Don't bet on it, CEO Strauss Zelnick says. Speaking to David Rubenstein , Zelnick said Take…",
+      "url": "https://www.gamespot.com/articles/gta-6-owner-take-two-is-not-interested-in-selling-itself-after-ea-goes-private-for-55-billion/",
+      "date": "2026-11-13T21:02:34.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GameSpot",
+      "title": "GTA 6 Could Sell 55 Million Copies By Early Next Year, Report Says, And Average Selling Price Could Be $90",
+      "summary": "Rockstar's Grand Theft Auto 6 launches on November 19, and it's expected to be a gigantic commercial success, but just how big will the launch be? Investor's Business Daily compiled data from a series of analyst reports about the game and its owner, Take-Two, and the consensus is that it's going to be a juggernaut.…",
+      "url": "https://www.gamespot.com/articles/gta-6-could-sell-55-million-copies-by-early-next-year-report-says-and-average-selling-price-could-be-90/",
+      "date": "2026-11-13T19:36:04.000Z"
+    },
+    {
+      "lead": false,
+      "src": "PC Gamer",
+      "title": "New Grand Theft Auto 6 trailer is for a TV show that exists within Grand Theft Auto 6",
+      "summary": "Macca and Friends is coming to Weazel TV on November 19.",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/new-grand-theft-auto-6-trailer-is-for-a-tv-show-that-exists-within-grand-theft-auto-6/",
+      "date": "2026-11-13T19:30:31.000Z"
+    },
+    {
+      "lead": false,
       "src": "GamesRadar",
       "title": "Quote of the Day by GTA 6 CEO: \"Grand Theft Auto franchise is probably the most valuable IP\"",
       "summary": "Just don't tell Pikachu",
@@ -116,14 +172,6 @@
     },
     {
       "lead": false,
-      "src": "IGN",
-      "title": "GTA 6's Burger Shot Restaurant Is Expanding Across Florida With Real Meals Inspired by the Game",
-      "summary": "GTA 6's fast-food hamburger chain, Burger Shot, is expanding with new locations across Florida starting this weekend thanks to a collaboration with Skinny Louie.",
-      "url": "https://www.ign.com/articles/gta-6s-burger-shot-restaurant-is-expanding-across-florida-with-real-meals-inspired-by-the-game",
-      "date": "2026-11-13T00:44:45.000Z"
-    },
-    {
-      "lead": false,
       "src": "PC Gamer",
       "title": "Palworld developer Pocketpair gives employees time off for 'a 5-day business trip in Vice City when GTA 6 launches'",
       "summary": "Must be nice.",
@@ -145,54 +193,6 @@
       "summary": "Another map leak is teasing locations across Leonida",
       "url": "https://www.gamesradar.com/games/grand-theft-auto/physical-gta-6-map-leaks-and-i-need-to-know-if-its-teasing-another-ufo-easter-egg/",
       "date": "2026-11-12T18:19:00.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "Palworld devs get 5 days off to play GTA 6",
-      "summary": "\"We believe that such a historic occasion deserves our full attention\"",
-      "url": "https://www.gamesradar.com/games/survival/palworld-devs-get-5-days-off-to-play-gta-6-and-after-pocketpairs-ceo-vanished-to-play-slay-the-spire-2-id-say-thats-probably-wise/",
-      "date": "2026-11-12T17:34:31.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GameSpot",
-      "title": "GTA 6’s Jason Can Live His Best Life By Drinking A Beer And Eating A Donut Simultaneously",
-      "summary": "Rockstar's Grand Theft Auto 6 looks like it will have an impressive attention to detail, and that includes how one of the main characters, Jason, can drink a beer and eat a donut at the same time. Now that's living. Rockstar boss Rob Nelson geeked out to The Guardian about GTA 6's finer details, including this one.…",
-      "url": "https://www.gamespot.com/articles/gta-6s-jason-can-live-his-best-life-by-drinking-a-beer-and-eating-a-donut-simultaneously/",
-      "date": "2026-11-12T14:20:40.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Eurogamer",
-      "title": "Will a Grand Theft Auto game ever be set outside of America? Rockstar offers a small glimmer of hope",
-      "summary": "The Grand Theft Auto games have always been synonymous with America; Americana is baked into the crime series' very being. Across its history, there's only ever been one GTA game set outside America: the London-based expansion of the original game. Read more",
-      "url": "https://www.eurogamer.net/grand-theft-auto-gta-non-american-setting-rockstar",
-      "date": "2026-11-12T12:39:20.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Eurogamer",
-      "title": "GTA 6 might be censored in Japan, if the game's smaller install size and lack of \"strong sexual content\" warning is anything to go by",
-      "summary": "GTA 6 is finally coming out worldwide next week, putting an end to a 13-year wait and at least one popular meme format, but the highly-anticipated game might look a bit different in Japan. Read more",
-      "url": "https://www.eurogamer.net/gta-6-censored-japan-smaller-install-size",
-      "date": "2026-11-11T18:17:10.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Eurogamer",
-      "title": "Grand Theft Auto 6 becomes the most pre-ordered game in PlayStation Store history",
-      "summary": "UPDATE 11TH NOVEMBER: Grand Theft Auto 6 has also become the most pre-ordered game \"of all time\" on the Xbox Store, Microsoft has announced. And on that platform, again, the advice is to pre-load because of \"unprecedented demand\" for the game, a post on Xbox Wire said . Read more",
-      "url": "https://www.eurogamer.net/gta-6-most-preordered-game-playstation-store-history",
-      "date": "2026-11-10T16:31:30.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Eurogamer",
-      "title": "Rockstar details Grand Theft Auto 6 PS5 Pro enhancements, but it'll still only run at 30FPS",
-      "summary": "As Grand Theft Auto 6 preloads go live, developer Rockstar has detailed the enhancements coming to the PS5 Pro version of the game, confirming these won't include framerates above the 30 FPS its targeting for consoles. Read more",
-      "url": "https://www.eurogamer.net/gta-6-30-fps-platforms-absolute-limit",
-      "date": "2026-11-10T15:01:10.000Z"
     }
   ]
 }
