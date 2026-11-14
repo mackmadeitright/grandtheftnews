@@ -1,9 +1,17 @@
 {
-  "updated": "2026-11-14T01:22:41.216Z",
+  "updated": "2026-11-14T10:03:05.708Z",
   "count": 24,
   "items": [
     {
       "lead": true,
+      "src": "Eurogamer",
+      "title": "Vice City was the GTA that established Rockstar's killer formula - and 24 years on, it's still one of the best games ever made",
+      "summary": "\"Get the limey out of here,\" Burt Reynolds tells the producers of GTA: Vice City during a recording session for the game, as Rockstar co-founder Dan Houser enters the studio. \"I'm not going to work if this limey Brit is in here!\" Houser refuses to leave, so the story goes - he just came down to meet one of his heroe…",
+      "url": "https://www.eurogamer.net/gta-vice-city-retrospective",
+      "date": "2026-11-14T10:00:00.000Z"
+    },
+    {
+      "lead": false,
       "src": "GamesRadar",
       "title": "We tried stealing our own GTA 6 physical edition codes, and you probably shouldn't worry",
       "summary": "Grand Theft Game Code",
@@ -185,14 +193,6 @@
       "summary": "GTA 6 required a total of three ratings reviews by South Korea's GCRB—and Cyberleek might have had something to do with it.",
       "url": "https://www.pcgamer.com/games/grand-theft-auto/south-korean-game-rating-board-almost-blocked-gta-6s-release-fearing-its-out-of-context-genital-nudity-would-disrupt-social-order/",
       "date": "2026-11-12T19:06:41.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "Physical GTA 6 map leaks, and I need to know if it's teasing another UFO Easter egg",
-      "summary": "Another map leak is teasing locations across Leonida",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/physical-gta-6-map-leaks-and-i-need-to-know-if-its-teasing-another-ufo-easter-egg/",
-      "date": "2026-11-12T18:19:00.000Z"
     }
   ]
 }
