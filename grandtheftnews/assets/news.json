@@ -1,9 +1,41 @@
 {
-  "updated": "2026-11-14T10:03:05.708Z",
+  "updated": "2026-11-14T17:53:35.259Z",
   "count": 24,
   "items": [
     {
       "lead": true,
+      "src": "GamesRadar",
+      "title": "GTA 6: The Album seemingly leaks with Dua Lipa and Lana Del Rey as part of the 34-song tracklist",
+      "summary": "Starting from zero",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-the-album-seemingly-leaks-with-dua-lipa-and-lana-del-rey-as-part-of-the-full-34-song-tracklist/",
+      "date": "2026-11-14T17:47:21.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Polygon",
+      "title": "GTA 6 Players Report Issues with Physical Version Pre-Order Codes",
+      "summary": "Reports indicate that physical GTA 6 pre-orders are arriving without codes, making it impossible to claim the game.",
+      "url": "https://www.polygon.com/gta-6-grand-theft-auto-no-code-physical-edition/",
+      "date": "2026-11-14T16:43:28.000Z"
+    },
+    {
+      "lead": false,
+      "src": "IGN",
+      "title": "When GTA 5 Took On Zuckerberg and Hit Peak Satire",
+      "summary": "This is how Rockstar brought together bad fashion, a miserable gangster, an exploding phone, and fake Zuckerberg getting his just deserts to create GTA 5's memorable takedown of Silicon Valley.",
+      "url": "https://www.ign.com/articles/when-gta-5-took-on-zuckerberg-and-hit-peak-satire",
+      "date": "2026-11-14T16:30:00.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "Ahead of GTA 6, Take-Two CEO calls out Anthropic and OpenAI over AI game clones",
+      "summary": "After Claude blocked users from \"recreating someone else's specific game\"",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/ahead-of-gta-6-take-two-ceo-calls-out-anthropic-and-openai-over-ai-game-clones-as-its-ironic-to-stomp-on-someone-elses-ip/",
+      "date": "2026-11-14T13:10:08.000Z"
+    },
+    {
+      "lead": false,
       "src": "Eurogamer",
       "title": "Vice City was the GTA that established Rockstar's killer formula - and 24 years on, it's still one of the best games ever made",
       "summary": "\"Get the limey out of here,\" Burt Reynolds tells the producers of GTA: Vice City during a recording session for the game, as Rockstar co-founder Dan Houser enters the studio. \"I'm not going to work if this limey Brit is in here!\" Houser refuses to leave, so the story goes - he just came down to meet one of his heroe…",
@@ -161,38 +193,6 @@
       "summary": "\"We are not in a place where we need to be part of a bigger organization to be competitive,\" says Strauss Zelnick",
       "url": "https://www.gamesradar.com/games/grand-theft-auto/as-gta-6-breaks-records-take-two-ceo-says-he-isnt-interested-in-an-ea-style-usd55-billion-buyout-additional-scale-doesnt-seem-to-help/",
       "date": "2026-11-13T11:45:52.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "Take-Two boss isn't ruling out a GTA movie or TV show, but says they're \"very, very selective\" about who they work with",
-      "summary": "A Grand Theft Auto movie could still happen one day",
-      "url": "https://www.gamesradar.com/entertainment/crime-movies/take-two-boss-isnt-ruling-out-a-gta-movie-or-tv-show-but-says-theyre-very-very-selective-about-who-they-work-with/",
-      "date": "2026-11-13T11:24:25.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Eurogamer",
-      "title": "Will GTA 6 break the internet? UK broadband operator braces for impact, saying \"GTA 6 has been on our radar for a long time\"",
-      "summary": "As Grand Theft Auto 6 breaks pre-order records on the PlayStation and Xbox stores , and looks poised to break many more sales records once it launches next week, questions of whether it will also break the internet arise. Collective network load will undoubtedly spike around its release - will regional infrastructur…",
-      "url": "https://www.eurogamer.net/gta-6-internet-uk-broadband-ofcom-openreach",
-      "date": "2026-11-13T09:42:40.000Z"
-    },
-    {
-      "lead": false,
-      "src": "PC Gamer",
-      "title": "Palworld developer Pocketpair gives employees time off for 'a 5-day business trip in Vice City when GTA 6 launches'",
-      "summary": "Must be nice.",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/palworld-developer-pocketpair-gives-employees-time-off-for-a-5-day-business-trip-in-vice-city-when-gta-6-launches/",
-      "date": "2026-11-12T22:08:48.000Z"
-    },
-    {
-      "lead": false,
-      "src": "PC Gamer",
-      "title": "South Korean game rating board almost blocked GTA 6's release, fearing its 'out-of-context genital nudity' would 'disrupt social order'",
-      "summary": "GTA 6 required a total of three ratings reviews by South Korea's GCRB—and Cyberleek might have had something to do with it.",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/south-korean-game-rating-board-almost-blocked-gta-6s-release-fearing-its-out-of-context-genital-nudity-would-disrupt-social-order/",
-      "date": "2026-11-12T19:06:41.000Z"
     }
   ]
 }
