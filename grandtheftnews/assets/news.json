@@ -1,9 +1,33 @@
 {
-  "updated": "2026-11-15T16:13:09.226Z",
+  "updated": "2026-11-15T22:42:16.700Z",
   "count": 24,
   "items": [
     {
       "lead": true,
+      "src": "IGN",
+      "title": "GTA 6's Jason and Lucia Will Start as Small-Time Criminals Who Have to Work Up to High-Value Jobs",
+      "summary": "GTA 6 will let Jason and Lucia pull off high-value jobs, but Rockstar Games asks players to work up from being small-time criminals first.",
+      "url": "https://www.ign.com/articles/gta-6s-jason-and-lucia-will-start-as-small-time-criminals-who-have-to-work-up-to-high-value-jobs",
+      "date": "2026-11-15T19:41:28.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Polygon",
+      "title": "GTA 6 Trophy Count and Full Completion Time Leaks in New Reports",
+      "summary": "Thanks to animal studies and RNG-based achievements, completionists will have to spend hundreds of hours in Grand Theft Auto 6 to 100% the game.",
+      "url": "https://www.polygon.com/gta-6-platinum-trophy-mythic-achievement-time-to-get/",
+      "date": "2026-11-15T18:41:30.000Z"
+    },
+    {
+      "lead": false,
+      "src": "IGN",
+      "title": "EA Adds 'Don't Delete' Message to Madden NFL 27 in Bid to Keep Players From Making Room Ahead of GTA 6",
+      "summary": "EA has added a \"don't delete\" pop-up message to Madden NFL 27, and players can't help but feel the company is begging them not to make room for Grand Theft Auto 6.",
+      "url": "https://www.ign.com/articles/ea-adds-dont-delete-message-to-madden-nfl-27-in-bid-to-keep-players-from-making-room-ahead-of-gta-6",
+      "date": "2026-11-15T17:22:20.000Z"
+    },
+    {
+      "lead": false,
       "src": "Eurogamer",
       "title": "The latest GTA 6 leak comes in the form of a 34-song tracklist for GTA 6: The Album, featuring Dua Lipa, Lana Del Rey, Rina Sawayama, and more",
       "summary": "We are now just four days away from the release of GTA 6 on Xbox Series X/S and PS5, but the proximity to the much-anticipated launch date isn't stemming the tide of leaks that has been plaguing the game for much of the past year. Yesterday, a new video - seemingly from a record store that received vinyl records of…",
@@ -169,30 +193,6 @@
       "summary": "Just don't tell Pikachu",
       "url": "https://www.gamesradar.com/games/grand-theft-auto/quote-of-the-day-by-gta-6-ceo-strauss-zelnick-we-believe-the-grand-theft-auto-franchise-is-probably-the-most-valuable-intellectual-property-in-the-entertainment-business/",
       "date": "2026-11-13T18:00:00.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "Best Buy launches its Black Friday doorbuster sale, but this is the only deal we’d recommend the weekend before GTA 6",
-      "summary": "We've looked through Best Buy's early Black Friday deals, and there's only one discount we think gamers should know about before GTA 6 launches.",
-      "url": "https://www.gamesradar.com/hardware/gaming-controllers/best-buy-launches-its-black-friday-doorbuster-sale-but-this-is-the-only-deal-wed-recommend-the-weekend-before-gta-6/",
-      "date": "2026-11-13T17:40:21.000Z"
-    },
-    {
-      "lead": false,
-      "src": "PC Gamer",
-      "title": "22 years after the Hot Coffee controversy, UK politician says Grand Theft Auto 6 is 'something that we can be really proud of'",
-      "summary": "My, how times have changed.",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/22-years-after-the-hot-coffee-controversy-uk-politician-says-grand-theft-auto-6-is-something-that-we-can-be-really-proud-of/",
-      "date": "2026-11-13T17:12:56.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GameSpot",
-      "title": "GTA 6 And These Other Games Can Justify An $80 Price, Expert Says",
-      "summary": "Rockstar's Grand Theft Auto 6 finally releases on November 19, and you'll have to pay at least $80 for it. That's a full $20 more than what GTA 5 cost in 2013 and $10 more than many other big AAA games today. Is $80 going to become the \"new normal\" for AAA games, or is it, along with Nintendo's Mario Kart World and…",
-      "url": "https://www.gamespot.com/articles/gta-6-and-these-other-games-can-justify-an-80-price-expert-says/",
-      "date": "2026-11-13T16:37:29.000Z"
     }
   ]
 }
