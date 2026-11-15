@@ -1,9 +1,25 @@
 {
-  "updated": "2026-11-15T06:05:09.444Z",
+  "updated": "2026-11-15T16:13:09.226Z",
   "count": 24,
   "items": [
     {
       "lead": true,
+      "src": "Eurogamer",
+      "title": "The latest GTA 6 leak comes in the form of a 34-song tracklist for GTA 6: The Album, featuring Dua Lipa, Lana Del Rey, Rina Sawayama, and more",
+      "summary": "We are now just four days away from the release of GTA 6 on Xbox Series X/S and PS5, but the proximity to the much-anticipated launch date isn't stemming the tide of leaks that has been plaguing the game for much of the past year. Yesterday, a new video - seemingly from a record store that received vinyl records of…",
+      "url": "https://www.eurogamer.net/gta-6-tracklist-leak",
+      "date": "2026-11-15T14:03:50.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Eurogamer",
+      "title": "What's the best GTA?",
+      "summary": "As we teeter on the brink of gaming's biggest launch of 2026 - perhaps even decade - so many questions swirl: which GTA 6 cars will make the best vrrrrm? Is it possible for me to be any more obsessed with that Justice theme song ? On a scale of one to ten, how many dongs ? Answers will inevitably come, but for now -…",
+      "url": "https://www.eurogamer.net/the-big-question-whats-the-best-gta",
+      "date": "2026-11-15T10:00:00.000Z"
+    },
+    {
+      "lead": false,
       "src": "PC Gamer",
       "title": "GTA 6 soundtrack leak confirmed accurate with new songs from Lana Del Rey, Playboi Carti, and Keith Richards",
       "summary": "What, no Sideways Hank O'Mally?",
@@ -177,22 +193,6 @@
       "summary": "Rockstar's Grand Theft Auto 6 finally releases on November 19, and you'll have to pay at least $80 for it. That's a full $20 more than what GTA 5 cost in 2013 and $10 more than many other big AAA games today. Is $80 going to become the \"new normal\" for AAA games, or is it, along with Nintendo's Mario Kart World and…",
       "url": "https://www.gamespot.com/articles/gta-6-and-these-other-games-can-justify-an-80-price-expert-says/",
       "date": "2026-11-13T16:37:29.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Eurogamer",
-      "title": "Tell us your favourite Grand Theft Auto gaming memory and win a copy of GTA 6",
-      "summary": "Hello! This piece is part of our GTA Week coverage here on Eurogamer, as we explore all things Grand Theft Auto across the launch period of the wildly anticipated Grand Theft Auto 6 . For more like this, see our GTA Week hub - or for the exact opposite, look out for our Not-GTA week of counterprogramming, running fr…",
-      "url": "https://www.eurogamer.net/grand-theft-auto-gaming-memory-competition-gta-6-win",
-      "date": "2026-11-13T15:54:30.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Eurogamer",
-      "title": "Introducing three weeks of specialist GTA - and not-GTA! - programming on Eurogamer",
-      "summary": "Hello! This idea started as a single theme week, which we thought we might run in the lead up to Grand Theft Auto 6 's launch. Then it turned into a pair of theme weeks. Then we realised we had so much stuff - and that, frankly, GTA 6 would be so dominating it'll be around for far more than a week itself - that we c…",
-      "url": "https://www.eurogamer.net/introducing-gta-and-not-gta-theme-weeks",
-      "date": "2026-11-13T15:51:40.000Z"
     }
   ]
 }
