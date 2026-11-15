@@ -1,9 +1,41 @@
 {
-  "updated": "2026-11-14T22:14:21.059Z",
+  "updated": "2026-11-15T06:05:09.444Z",
   "count": 24,
   "items": [
     {
       "lead": true,
+      "src": "PC Gamer",
+      "title": "GTA 6 soundtrack leak confirmed accurate with new songs from Lana Del Rey, Playboi Carti, and Keith Richards",
+      "summary": "What, no Sideways Hank O'Mally?",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-soundtrack-leak-confirmed-accurate-with-new-songs-from-lana-del-rey-playboi-carti-and-keith-richards/",
+      "date": "2026-11-15T04:52:26.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GameSpot",
+      "title": "GTA 6 Is Like The Olympics – “A Rare Cultural Moment” With Massive Ripple Effects",
+      "summary": "After years of development, multiple delays, and what can only be assumed to be one of the biggest production budgets ever, Rockstar's Grand Theft Auto 6 launches on November 19. The game is poised to \"blot out the sun,\" some experts believe, and its release looms so large that other gaming companies are shifting da…",
+      "url": "https://www.gamespot.com/articles/gta-6-is-like-the-olympics-a-rare-cultural-moment-with-massive-ripple-effects/",
+      "date": "2026-11-15T03:00:00.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Kotaku",
+      "title": "Some GTA 6 Box Copies Reported To Have Download Code Issues With No Disc To Fall Back On",
+      "summary": "Shipped with no disc inside, fans who purchased a physical copy of Grand Theft Auto in advance are claiming their codes have already been used, or are missing entirely",
+      "url": "https://kotaku.com/some-gta-6-box-copies-reported-to-have-download-code-issues-2000756883",
+      "date": "2026-11-14T23:24:45.000Z"
+    },
+    {
+      "lead": false,
+      "src": "IGN",
+      "title": "GTA 6 Leak Seemingly Reveals Official Album's Full Track List Days Before Launch",
+      "summary": "The full track list for Grand Theft Auto VI: The Album seems to have leaked online just days before GTA 6's launch.",
+      "url": "https://www.ign.com/articles/gta-6-leak-seemingly-reveals-full-track-list-days-before-launch",
+      "date": "2026-11-14T23:00:09.000Z"
+    },
+    {
+      "lead": false,
       "src": "GamesRadar",
       "title": "GTA 6 will \"provide mechanisms that encourage\" empathy \"for the first time in a GTA\"",
       "summary": "Shoot and smooch",
@@ -161,38 +193,6 @@
       "summary": "Hello! This idea started as a single theme week, which we thought we might run in the lead up to Grand Theft Auto 6 's launch. Then it turned into a pair of theme weeks. Then we realised we had so much stuff - and that, frankly, GTA 6 would be so dominating it'll be around for far more than a week itself - that we c…",
       "url": "https://www.eurogamer.net/introducing-gta-and-not-gta-theme-weeks",
       "date": "2026-11-13T15:51:40.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GameSpot",
-      "title": "GTA 6 In-Game TV Show Macca & Friends Looks Ridiculous In The Best Way",
-      "summary": "Rockstar Games has released the first footage of an in-game GTA 6 TV show called \"Macca & Friends,\" which is about a sunglass-wearing pink alligator and his wetland friends in Leonida (the stand-in for Florida). One of Macca's friends is Pinchie the crab, who is Macca's landlord. Macca is also friends with a hat-wea…",
-      "url": "https://www.gamespot.com/articles/gta-6-in-game-tv-show-macca-friends-looks-ridiculous-in-the-best-way/",
-      "date": "2026-11-13T15:13:57.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Eurogamer",
-      "title": "One week from launch, GTA 6's physical map reportedly leaks online thanks to the £350 collector's edition on show in a UK department store",
-      "summary": "With less than a week to go before GTA 6's hugely anticipated release , the game's final map - or at least a stylised poster version of it, depicting the state of Leonida's key landmarks - has surfaced online. It was reportedly snapped during Selfridge's sizable GTA 6 's takeover, and is seemingly the physical map i…",
-      "url": "https://www.eurogamer.net/gta-6-map-leak-online-collectors-edition",
-      "date": "2026-11-13T15:13:40.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "PS5 jailbreak dev says \"just buy\" GTA 6, because \"things aren't looking good\" for a game dump",
-      "summary": "The dev suggests fans have waited long enough already",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/ps5-jailbreak-dev-says-just-buy-gta-6-because-things-arent-looking-good-for-a-game-dump-dont-say-i-didnt-warn-you/",
-      "date": "2026-11-13T12:24:11.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "As GTA 6 breaks records, Take-Two CEO says he isn't interested in an EA-style $55 billion buyout",
-      "summary": "\"We are not in a place where we need to be part of a bigger organization to be competitive,\" says Strauss Zelnick",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/as-gta-6-breaks-records-take-two-ceo-says-he-isnt-interested-in-an-ea-style-usd55-billion-buyout-additional-scale-doesnt-seem-to-help/",
-      "date": "2026-11-13T11:45:52.000Z"
     }
   ]
 }
