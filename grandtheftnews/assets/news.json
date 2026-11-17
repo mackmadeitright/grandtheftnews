@@ -1,9 +1,185 @@
 {
-  "updated": "2026-11-17T03:39:10.054Z",
+  "updated": "2026-11-17T15:51:13.391Z",
   "count": 24,
   "items": [
     {
       "lead": true,
+      "src": "GameSpot",
+      "title": "GTA 6 Has A Lot Of Different Bird Species, Here’s How Many",
+      "summary": "Rockstar's Grand Theft Auto 6 has a lot of details and depth, including dozens of different bird species for people to find. If you're a birder, you're in for a good time. According to The Guardian , Rockstar confirmed that there are 62 types of birds that players can spot. Players can whip out binoculars to \"study\"…",
+      "url": "https://www.gamespot.com/articles/gta-6-has-a-lot-of-different-bird-species-heres-how-many/",
+      "date": "2026-11-17T15:33:56.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "How to play GTA 6 early with the New Zealand trick",
+      "summary": "If you're on Xbox then it's possible to use the New Zealand time zone trick to play GTA 6 early, and here's how to do it",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-play-early-new-zealand-trick/",
+      "date": "2026-11-17T15:30:36.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "GTA 6 release time in your region explained",
+      "summary": "Officially the release time for GTA 6 is midnight locally, though there are potentially some regional variations",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-release-time/",
+      "date": "2026-11-17T15:30:24.000Z"
+    },
+    {
+      "lead": false,
+      "src": "PC Gamer",
+      "title": "Twitchers rejoice: GTA 6 will have 62 different species of birds, though that falls a bit short of the over 500 native species found in Florida",
+      "summary": "They better have a Snowy Plover.",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/twitchers-rejoice-gta-6-will-have-62-different-species-of-birds-though-that-falls-a-bit-short-of-the-over-500-native-species-found-in-florida/",
+      "date": "2026-11-17T14:35:57.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GameSpot",
+      "title": "Ocarina Of Time Is 2026’s Best-Selling Physical Game In The US, But GTA 6 Is Coming",
+      "summary": "Nintendo's The Legend of Zelda: Ocarina of Time remake for Switch 2 is the best-selling physical game of 2026, according to Circana, but GTA 6 is coming out soon and could topple that record. Circana's Mat Piscatella said the Ocarina of Time remake for Switch 2 was the first game to surpass 1 million physical units…",
+      "url": "https://www.gamespot.com/articles/ocarina-of-time-is-2026s-best-selling-physical-game-in-the-us-but-gta-6-is-coming/",
+      "date": "2026-11-17T14:22:55.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Kotaku",
+      "title": "How To Play GTA 6 A Day Early",
+      "summary": "Welcome to New Zealand",
+      "url": "https://kotaku.com/how-to-play-gta-6-a-day-early-2000757655",
+      "date": "2026-11-17T14:00:05.000Z"
+    },
+    {
+      "lead": false,
+      "src": "IGN",
+      "title": "Warnings, Encouragement, and Gift Cards: How Schools Are Preparing for Mass Absences on GTA 6 Launch Day",
+      "summary": "As GTA 6 launch day nears, schools are preparing for mass absences among pupils by issuing warnings to parents — and offering children the chance to win gift cards just for turning up.",
+      "url": "https://www.ign.com/articles/warnings-encouragement-and-gift-cards-how-schools-are-preparing-for-mass-absences-on-gta-6-launch-day",
+      "date": "2026-11-17T13:32:25.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GameSpot",
+      "title": "Sony Is Updating The PS5 Again, And It Might Have GTA 6 Pirates In Mind",
+      "summary": "A new PS5 firmware update has dropped, but even at a chunky 1.2GB download, version 26.07-14.23.00 doesn't include a comprehensive list of notes. \"We've made some security fixes to the system software,\" the very short update notes read . Notably, this is the fourth PS5 firmware update since October 1 , and typically…",
+      "url": "https://www.gamespot.com/articles/sony-is-updating-the-ps5-again-and-it-might-have-gta-6-pirates-in-mind/",
+      "date": "2026-11-17T13:01:53.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "GTA 6 could have released sooner, Rockstar leads admit, but there's no point rushing out \"GTA 5.5\"",
+      "summary": "\"They would never stop working on this game if they had the choice\"",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-could-have-released-sooner-rockstar-leads-admit-but-theres-no-point-rushing-out-gta-5-5-because-you-have-to-take-big-swings/",
+      "date": "2026-11-17T12:59:18.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "As GTA 6 finally nears release, analysts estimate Rockstar has already made $1.45 billion",
+      "summary": "It's estimated that almost 15 million copies of GTA 6 have been sold",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/as-gta-6-finally-nears-release-analysts-estimate-rockstar-has-already-made-usd1-45-billion-helped-by-nearly-90-percent-of-fans-buying-the-controversial-usd100-ultimate-edition/",
+      "date": "2026-11-17T12:59:12.000Z"
+    },
+    {
+      "lead": false,
+      "src": "IGN",
+      "title": "The Impossible Mission of Getting GTA 5's Seamless Character Switching Working on PS3 and Xbox 360",
+      "summary": "How a former Rockstar developer made GTA 5's seamless character switching work on PS3 and Xbox 360.",
+      "url": "https://www.ign.com/articles/gta-5s-seamless-character-switching-working-ps3-xbox-360",
+      "date": "2026-11-17T12:14:00.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Eurogamer",
+      "title": "As blockbuster game releases run scared from GTA 6, meet the brave devs tackling Rockstar's behemoth head-on",
+      "summary": "Grand Theft Auto 6 . It's got cool cars, crime, a big new city to explore, and the potential to hoover up so much player time that many developers have chosen to give it the widest berth possible. It's led to an October uncommonly packed with big-hitters, and a November - ordinarily one of gaming's biggest months -…",
+      "url": "https://www.eurogamer.net/grand-theft-auto-6-meet-the-developers-tackling-it-head-on",
+      "date": "2026-11-17T12:01:20.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "Palworld 1.1 and Palfarm updates are on hold because competing with GTA 6 is \"not the best idea\"",
+      "summary": "When half the waking world is playing something else, you have to take a hint",
+      "url": "https://www.gamesradar.com/games/survival/palworld-1-1-and-palfarm-updates-are-on-hold-and-gta-6-is-to-blame-because-pocketpair-knows-saying-anything-around-the-launch-of-rockstars-new-epic-is-not-the-best-idea/",
+      "date": "2026-11-17T11:53:59.000Z"
+    },
+    {
+      "lead": false,
+      "src": "PC Gamer",
+      "title": "'They would never stop working on this game': GTA 6's development could've gone on for longer just because 'it's really hard to close it down'",
+      "summary": "There's always room for a bit more polish.",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/they-would-never-stop-working-on-this-game-gta-6s-development-couldve-gone-on-for-longer-just-because-its-really-hard-to-close-it-down/",
+      "date": "2026-11-17T11:47:29.000Z"
+    },
+    {
+      "lead": false,
+      "src": "PC Gamer",
+      "title": "GTA 6 release times: How far behind the first launch will GTA 6 unlock in your time zone?",
+      "summary": "Grand Theft Auto 6 is on a rolling launch, which means everyone's getting access at different times.",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-release-time-date/",
+      "date": "2026-11-17T11:00:00.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Eurogamer",
+      "title": "After GTA 6's original soundtrack, Justice probably won't work on any other video game ever again",
+      "summary": "You've probably heard at least a little bit of the Grand Theft Auto 6 soundtrack from French electronic duo, Justice: a single taken from the act's original soundtrack has been released as a standalone track, and was the accompaniment to GTA 6's launch trailer . Featuring Tame Impala, SZA, and the fantastic King Giz…",
+      "url": "https://www.eurogamer.net/gta-6-justice-ost-only-game",
+      "date": "2026-11-17T10:57:50.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Eurogamer",
+      "title": "Sony squeezes out a PlayStation 5 firmware update before the release of GTA 6",
+      "summary": "Sony has managed to squeeze out another PlayStation 5 firmware update before the highly-anticipated release of Grand Theft Auto 6 . Read more",
+      "url": "https://www.eurogamer.net/ps5-firmware-update-gta-6",
+      "date": "2026-11-17T10:51:50.000Z"
+    },
+    {
+      "lead": false,
+      "src": "IGN",
+      "title": "Sony Squeezes in Last-Minute PS5 Firmware Security Update Ahead of GTA 6 Release Date, Amid Fresh Hacker Claim",
+      "summary": "Sony has released a new PS5 firmware security update just a day before the release of GTA 6, and hot on the heels of a new claim from a prominent hacker around the console.",
+      "url": "https://www.ign.com/articles/sony-squeezes-in-last-minute-ps5-firmware-security-update-ahead-of-gta-6-release-date-amid-fresh-hacker-claim",
+      "date": "2026-11-17T10:26:26.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GameSpot",
+      "title": "GTA 6 Has Teamed Up With The Weather Channel To Show How Dynamic Leonida Can Be",
+      "summary": "Rockstar Games has found an unexpected partner to show off one of GTA 6' s most impressive features: The Weather Channel. The US broadcaster has shared an exclusive look at Leonida's weather system via six new screenshots and forecasts that make the fictional destination sound like somewhere you'd need to check the…",
+      "url": "https://www.gamespot.com/articles/gta-6-has-teamed-up-with-the-weather-channel-to-show-how-dynamic-leonida-can-be/",
+      "date": "2026-11-17T10:15:33.000Z"
+    },
+    {
+      "lead": false,
+      "src": "IGN",
+      "title": "GTA 6 Global Release Times Confirmed: Here's How to Play Early Via the New Zealand Trick",
+      "summary": "GTA 6 will have a regional release, which means certain people can actually play it early thanks to what's called the New Zealand trick. Here's how it works.",
+      "url": "https://www.ign.com/articles/gta-6-new-zealand-trick-xbox-ps5-early-release-time",
+      "date": "2026-11-17T09:47:08.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GameSpot",
+      "title": "How To Play GTA 6 Early On Xbox Using This Trick",
+      "summary": "Due to GTA 6's non-simultaneous release , people in New Zealand will be the first in the world to play the highly anticipated open-world crime game when it releases at midnight local time there. If you want to become a Kiwi for a day and you plan to play on Xbox, you can trick your console into thinking it's in New…",
+      "url": "https://www.gamespot.com/articles/how-to-play-gta-6-early-on-xbox-using-this-trick/",
+      "date": "2026-11-17T09:19:03.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Eurogamer",
+      "title": "EA really doesn't want you to delete Madden NFL 27 to make room for GTA 6",
+      "summary": "Assuming you didn't just buy a PlayStation 5 or Xbox Series X/S to play Grand Theft Auto 6 , your console's limited storage space is likely already strained, meaning tough choices may have to be made to make room for Rockstar's chonky 212GB crime game . Read more",
+      "url": "https://www.eurogamer.net/ea-madden-nfl-27-dont-delete-gta-6",
+      "date": "2026-11-17T09:17:20.000Z"
+    },
+    {
+      "lead": false,
       "src": "IGN",
       "title": "Subway Is Releasing a GTA 6-Themed Sandwich, but There's a Catch",
       "summary": "Subway is getting on the GTA 6 hype train with a sandwich themed after the highly anticipated game.",
@@ -17,182 +193,6 @@
       "summary": "The UK’s National Health Service is giving players advice to help them avoid straining their hands once GTA 6 finally releases on November 19.",
       "url": "https://www.ign.com/articles/uks-national-health-service-is-urging-gamers-to-protect-their-hands-ahead-of-gta-6-launch",
       "date": "2026-11-16T22:55:25.000Z"
-    },
-    {
-      "lead": false,
-      "src": "IGN",
-      "title": "GTA 6 Gets New Screenshots Highlighting Leonida's Dynamic Weather",
-      "summary": "Rockstar has revealed a new batch of GTA 6 screenshots – and even a Weather Channel forecast – showcasing Leonida's dynamic weather.",
-      "url": "https://www.ign.com/articles/gta-6-gets-new-screenshots-highlighting-leonidas-dynamic-weather",
-      "date": "2026-11-16T22:26:10.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "Rockstar is so confident in GTA 6's weather it has The Weather Channel itself sharing screenshots",
-      "summary": "Grand Theft Auto weather has never looked so good",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/rockstar-is-so-confident-in-gta-6s-weather-system-that-it-has-the-weather-channel-itself-sharing-new-screenshots/",
-      "date": "2026-11-16T22:04:48.000Z"
-    },
-    {
-      "lead": false,
-      "src": "PC Gamer",
-      "title": "GTA 6 online rumors: When might the inevitable multiplayer launch happen?",
-      "summary": "Despite no official word on the subject, we aren't buying that there's no GTA 6 online.",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-online-multiplayer/",
-      "date": "2026-11-16T20:57:03.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GameSpot",
-      "title": "Delete GTA 6 For A Chance To Win Another Game",
-      "summary": "Rockstar's Grand Theft Auto 6 finally releases this week. The game looms so large that other companies are using it to market their own games, including Devolver Digital. The publisher has announced that people can enter for a chance to win their upcoming game, Volvy's Adventure: Reslimed, by reposting the message b…",
-      "url": "https://www.gamespot.com/articles/delete-gta-6-for-a-chance-to-win-another-game/",
-      "date": "2026-11-16T20:27:02.000Z"
-    },
-    {
-      "lead": false,
-      "src": "PC Gamer",
-      "title": "Grand Theft Auto 6 hacker pleads guilty to all charges",
-      "summary": "Arion Kurtaj released dozens of GTA 6 videos to the public more than a year before the game was formally revealed.",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/grand-theft-auto-6-hacker-pleads-guilty-to-all-charges/",
-      "date": "2026-11-16T19:40:15.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GameSpot",
-      "title": "The Head Of GTA 6’s Parent Company Helped Make One Of The Best Christmas Movies Of All Time",
-      "summary": "One of the most memorable and beloved Christmas movies is 1990's Home Alone, but it almost didn't happen, and the head of GTA 6 's parent company played a role in bringing the movie to market. Strauss Zelnick, the current CEO of Rockstar Games owner Take-Two, was the president and COO of 20th Century Fox at the time…",
-      "url": "https://www.gamespot.com/articles/the-head-of-gta-6s-parent-company-helped-make-one-of-the-best-christmas-movies-of-all-time/",
-      "date": "2026-11-16T19:35:04.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Eurogamer",
-      "title": "Original GTA 6 leaker pleads guilty to hacking Rockstar Games, years after first revealing Lucia",
-      "summary": "The 21-year-old responsible for hacking Rockstar Games and leaking in-development GTA 6 footage in 2022 has pleaded guilty to a number of offenses. Read more",
-      "url": "https://www.eurogamer.net/gta-6-leaker-pleads-guilty",
-      "date": "2026-11-16T18:51:40.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Kotaku",
-      "title": "GTA 6 Hacker Pleads Guilty To Cybercrimes After Infamous 2022 Leak",
-      "summary": "The leak in 2022 was the first time the game was seen by the public before it was officially unveiled the following year",
-      "url": "https://kotaku.com/grand-theft-auto-6-leak-gta6-hacker-pleads-guilty-2000757500",
-      "date": "2026-11-16T18:30:14.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "GTA 6 studio head: \"I'd never want to rebuild a city, I think that would be a lot less satisfying\"",
-      "summary": "Aaron Garbutt explains how GTA 5 bought LA to life",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/quote-of-the-day-by-gta-6-studio-head-id-never-want-to-rebuild-a-city-i-think-that-would-be-a-lot-less-satisfying/",
-      "date": "2026-11-16T18:00:00.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Eurogamer",
-      "title": "UK Conservative leader Kemi Badenoch is more worried \"about the amount of time\" people will spend on GTA 6 than the game's violent content",
-      "summary": "Leader of the UK Conservative Party (and former Mortal Kombat player) Kemi Badenoch is more worried about the amount of time people will spend playing GTA 6 rather than the game itself. Read more",
-      "url": "https://www.eurogamer.net/uk-conservative-kemi-badenoch-gta-6",
-      "date": "2026-11-16T17:48:40.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GameSpot",
-      "title": "GTA 6 Should Help Boost PS5 And Xbox Sales, But Their Astronomical Prices Could Hurt",
-      "summary": "Rockstar's Grand Theft Auto 6 launches on November 19, and it's expected to help boost console sales for PS5 and Xbox Series X|S. But the uptick in hardware sales might not be as dramatic as you might think--and there is a good reason why. According to Circana's Mat Piscatella , there will be \"probably\" be a boost t…",
-      "url": "https://www.gamespot.com/articles/gta-6-should-help-boost-ps5-and-xbox-sales-but-their-astronomical-prices-could-hurt/",
-      "date": "2026-11-16T17:23:51.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "The DualSense Edge is taking a very rare discount as GTA 6 downloads onto your console",
-      "summary": "The DualSense Edge is probably going to be the best controller to experience GTA 6 with when it launches, and it's taken a very rare discount.",
-      "url": "https://www.gamesradar.com/hardware/gaming-controllers/the-dualsense-edge-is-taking-a-very-rare-discount-as-gta-6-downloads-onto-your-console/",
-      "date": "2026-11-16T17:20:38.000Z"
-    },
-    {
-      "lead": false,
-      "src": "IGN",
-      "title": "NBA 2K27 Is Adding Vice City, GTA 6-Themed Cosmetics, and Much More as Part of Massive Rockstar Games Collaboration",
-      "summary": "Vice City is coming to NBA 2K27 as part of a massive crossover with GTA 6.",
-      "url": "https://www.ign.com/articles/nba-2k27-is-adding-vice-city-gta-6-themed-cosmetics-and-much-more-as-part-of-massive-rockstar-games-collaboration",
-      "date": "2026-11-16T16:45:15.000Z"
-    },
-    {
-      "lead": false,
-      "src": "IGN",
-      "title": "'This Is Akin to a Moon Landing': How Gaming's Top Content Creators Are Preparing for GTA 6's Launch and Beyond",
-      "summary": "GTA 6 is finally almost here, and the world's biggest content creators are trying to figure out how to handle this behemoth.",
-      "url": "https://www.ign.com/articles/this-is-akin-to-a-moon-landing-how-gamings-top-content-creators-are-preparing-for-gta-6s-launch-and-beyond",
-      "date": "2026-11-16T16:44:23.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GameSpot",
-      "title": "EA Begs You To Not Delete Madden 27 For GTA 6",
-      "summary": "We all know what's coming: Grand Theft Auto 6 . Whether you're ready for it or not, the most anticipated game of the decade is preparing to launch on November 19, and ahead of its release, EA is begging you to please not ditch footballs for guns. According to Push Square , EA added a \"don't delete\" pop-up message to…",
-      "url": "https://www.gamespot.com/articles/ea-begs-you-to-not-delete-madden-27-for-gta-6/",
-      "date": "2026-11-16T16:42:23.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "The ultimate GTA 6 kit list, top tech to help Leonida shine",
-      "summary": "We're rounding up everything you need to get GTA 6 looking and feeling its best.",
-      "url": "https://www.gamesradar.com/hardware/the-ultimate-gta-6-kit-list-top-tech-to-help-leonida-shine/",
-      "date": "2026-11-16T16:32:05.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GameSpot",
-      "title": "Rockstar Could Have Released GTA 6 Sooner As GTA 5.5, But “You Have To Take Big Swings”",
-      "summary": "After years of development, multiple delays, and loads of hype, Rockstar Games is finally releasing Grand Theft Auto 6 on November 19. What took so long? According to Rockstar publishing executive Jennifer Kolbe, the team at Rockstar \"could have made GTA 5.5, and done it faster.\" However, \"Ultimately, that's not wha…",
-      "url": "https://www.gamespot.com/articles/rockstar-could-have-released-gta-6-sooner-as-gta-5-5-but-you-have-to-take-big-swings/",
-      "date": "2026-11-16T16:29:14.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "GTA 6 hacker who reportedly cost Rockstar $5 million pleads guilty to everything",
-      "summary": "Arion Kurtaj, the hacker behind the 2022 leaks, hasn't been sentenced yet",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-hacker-who-reportedly-cost-rockstar-usd5-million-pleads-guilty-to-everything/",
-      "date": "2026-11-16T16:15:55.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GameSpot",
-      "title": "NBA 2K27’s GTA 6 Crossover Includes A Whole GTA-Inspired Limited Edition Of The Game",
-      "summary": "Ahead of the GTA 6 release this week, publisher Take-Two Interactive and 2K Sports have announced an NBA 2K27 crossover with the game. Starting November 27, Vice City will take over the digital basketball courts, and a special-edition NBA 2K27 Vice City Edition will also be released to promote GTA 6. The $80 digital…",
-      "url": "https://www.gamespot.com/articles/nba-2k27-gta-6-crossover-includes-a-whole-gta-inspired-limited-edition-of-the-game/",
-      "date": "2026-11-16T16:00:00.000Z"
-    },
-    {
-      "lead": false,
-      "src": "IGN",
-      "title": "Xbox Offers Doctor’s Note for Undefined Gaming Session Definitely Not Linked to GTA 6",
-      "summary": "Xbox has kicked off its marketing for the game it’s not allowed to mention in its marketing. Like the weird alligator-shaped Xbox recently announced, Microsoft is doing its best to get Xbox players excited about GTA 6 without saying the game’s name.",
-      "url": "https://www.ign.com/articles/xbox-offers-doctors-note-for-not-gta-6",
-      "date": "2026-11-16T15:54:18.000Z"
-    },
-    {
-      "lead": false,
-      "src": "IGN",
-      "title": "Fox News Talked About GTA 6, and It Went as Well as You'd Expect",
-      "summary": "Fox & Friends discusses GTA 6 ahead of launch, saying it won't be a good thing for \"our culture and society.\"",
-      "url": "https://www.ign.com/articles/fox-news-talked-about-gta-6-and-it-went-as-well-as-youd-expect",
-      "date": "2026-11-16T15:40:13.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "13-year wait for GTA 6 ends with a community-run event in GTA 5's Los Santos",
-      "summary": "Rockstar's follow-up is a true changing of the times",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/13-year-wait-for-gta-6-ends-with-players-planning-one-last-drive-through-gta-5s-los-santos-for-a-lot-of-us-this-game-wasnt-just-a-game-it-was-years-of-memories/",
-      "date": "2026-11-16T15:28:41.000Z"
     }
   ]
 }
