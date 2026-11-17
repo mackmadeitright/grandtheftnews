@@ -1,9 +1,73 @@
 {
-  "updated": "2026-11-16T19:28:57.493Z",
+  "updated": "2026-11-17T03:39:10.054Z",
   "count": 24,
   "items": [
     {
       "lead": true,
+      "src": "IGN",
+      "title": "Subway Is Releasing a GTA 6-Themed Sandwich, but There's a Catch",
+      "summary": "Subway is getting on the GTA 6 hype train with a sandwich themed after the highly anticipated game.",
+      "url": "https://www.ign.com/articles/subway-is-releasing-a-gta-6-themed-sandwich-but-theres-a-catch",
+      "date": "2026-11-16T23:30:01.000Z"
+    },
+    {
+      "lead": false,
+      "src": "IGN",
+      "title": "UK’s National Health Service Is Urging Gamers to Protect Their Hands Ahead of GTA 6 Launch",
+      "summary": "The UK’s National Health Service is giving players advice to help them avoid straining their hands once GTA 6 finally releases on November 19.",
+      "url": "https://www.ign.com/articles/uks-national-health-service-is-urging-gamers-to-protect-their-hands-ahead-of-gta-6-launch",
+      "date": "2026-11-16T22:55:25.000Z"
+    },
+    {
+      "lead": false,
+      "src": "IGN",
+      "title": "GTA 6 Gets New Screenshots Highlighting Leonida's Dynamic Weather",
+      "summary": "Rockstar has revealed a new batch of GTA 6 screenshots – and even a Weather Channel forecast – showcasing Leonida's dynamic weather.",
+      "url": "https://www.ign.com/articles/gta-6-gets-new-screenshots-highlighting-leonidas-dynamic-weather",
+      "date": "2026-11-16T22:26:10.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "Rockstar is so confident in GTA 6's weather it has The Weather Channel itself sharing screenshots",
+      "summary": "Grand Theft Auto weather has never looked so good",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/rockstar-is-so-confident-in-gta-6s-weather-system-that-it-has-the-weather-channel-itself-sharing-new-screenshots/",
+      "date": "2026-11-16T22:04:48.000Z"
+    },
+    {
+      "lead": false,
+      "src": "PC Gamer",
+      "title": "GTA 6 online rumors: When might the inevitable multiplayer launch happen?",
+      "summary": "Despite no official word on the subject, we aren't buying that there's no GTA 6 online.",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-online-multiplayer/",
+      "date": "2026-11-16T20:57:03.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GameSpot",
+      "title": "Delete GTA 6 For A Chance To Win Another Game",
+      "summary": "Rockstar's Grand Theft Auto 6 finally releases this week. The game looms so large that other companies are using it to market their own games, including Devolver Digital. The publisher has announced that people can enter for a chance to win their upcoming game, Volvy's Adventure: Reslimed, by reposting the message b…",
+      "url": "https://www.gamespot.com/articles/delete-gta-6-for-a-chance-to-win-another-game/",
+      "date": "2026-11-16T20:27:02.000Z"
+    },
+    {
+      "lead": false,
+      "src": "PC Gamer",
+      "title": "Grand Theft Auto 6 hacker pleads guilty to all charges",
+      "summary": "Arion Kurtaj released dozens of GTA 6 videos to the public more than a year before the game was formally revealed.",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/grand-theft-auto-6-hacker-pleads-guilty-to-all-charges/",
+      "date": "2026-11-16T19:40:15.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GameSpot",
+      "title": "The Head Of GTA 6’s Parent Company Helped Make One Of The Best Christmas Movies Of All Time",
+      "summary": "One of the most memorable and beloved Christmas movies is 1990's Home Alone, but it almost didn't happen, and the head of GTA 6 's parent company played a role in bringing the movie to market. Strauss Zelnick, the current CEO of Rockstar Games owner Take-Two, was the president and COO of 20th Century Fox at the time…",
+      "url": "https://www.gamespot.com/articles/the-head-of-gta-6s-parent-company-helped-make-one-of-the-best-christmas-movies-of-all-time/",
+      "date": "2026-11-16T19:35:04.000Z"
+    },
+    {
+      "lead": false,
       "src": "Eurogamer",
       "title": "Original GTA 6 leaker pleads guilty to hacking Rockstar Games, years after first revealing Lucia",
       "summary": "The 21-year-old responsible for hacking Rockstar Games and leaking in-development GTA 6 footage in 2022 has pleaded guilty to a number of offenses. Read more",
@@ -17,14 +81,6 @@
       "summary": "The leak in 2022 was the first time the game was seen by the public before it was officially unveiled the following year",
       "url": "https://kotaku.com/grand-theft-auto-6-leak-gta6-hacker-pleads-guilty-2000757500",
       "date": "2026-11-16T18:30:14.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Polygon",
-      "title": "Goodbye Zelda: Ocarina of Time, Hello GTA VI Release!",
-      "summary": "GTA VI's launch eclipses all, including Zelda: Ocarina remake.",
-      "url": "https://www.polygon.com/grand-theft-auto-6-zelda-comparison/",
-      "date": "2026-11-16T18:13:03.000Z"
     },
     {
       "lead": false,
@@ -137,62 +193,6 @@
       "summary": "Rockstar's follow-up is a true changing of the times",
       "url": "https://www.gamesradar.com/games/grand-theft-auto/13-year-wait-for-gta-6-ends-with-players-planning-one-last-drive-through-gta-5s-los-santos-for-a-lot-of-us-this-game-wasnt-just-a-game-it-was-years-of-memories/",
       "date": "2026-11-16T15:28:41.000Z"
-    },
-    {
-      "lead": false,
-      "src": "IGN",
-      "title": "UK Politician Downplays Fears Around GTA 6 Content for Kids, Says She's More Concerned About the Amount of Time They'll Likely Play It",
-      "summary": "Prominent U.K. politician Kemi Badenoch has downplayed parents' fears over the violent content found in GTA 6, and said she's more concerned by how long many kids will likely spend in their bedrooms playing it.",
-      "url": "https://www.ign.com/articles/uk-politician-downplays-fears-around-gta-6-content-for-kids-says-shes-more-concerned-about-the-amount-of-time-theyll-likely-play-it",
-      "date": "2026-11-16T14:59:11.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "GTA 6 won't make kids violent, UK Conservative Party leader says",
-      "summary": "Tory leader Kemi Badenoch is more worried about screen time",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-wont-make-kids-violent-uk-conservative-party-leader-thinks-mortal-kombat-and-street-fighter-i-didnt-hit-anybody-after-playing-those/",
-      "date": "2026-11-16T14:57:03.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GameSpot",
-      "title": "We Got A Grand Theft At Disney World Before GTA 6",
-      "summary": "The \"We got X before GTA 6\" meme continues as a Grand Theft has been reported at Walt Disney World's Epcot theme park just days before Rockstar's open-world crime game releases, and the meme comes to an end. The Walt Disney World: Active Calls account, which tracks police reports in the Disney World area, said a Gra…",
-      "url": "https://www.gamespot.com/articles/we-got-a-grand-theft-at-disney-world-before-gta-6/",
-      "date": "2026-11-16T14:32:07.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GameSpot",
-      "title": "GTA 6 Promo At KFC Is A Fake Funeral So You Can Take The Day Off To Play",
-      "summary": "The popular fried chicken chain KFC has announced a frankly absurd GTA 6 promotion: a fake funeral so people have a “legitimate” excuse to take the day off to play Rockstar’s latest. The fake funeral for a woman, \"Ann Alibi,\" will take place Thursday, November 19 at 11 AM at KFC Robina in Queensland . People can att…",
-      "url": "https://www.gamespot.com/articles/gta-6-promo-at-kfc-is-a-fake-funeral-so-you-can-take-the-day-off-to-play/",
-      "date": "2026-11-16T13:42:12.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Eurogamer",
-      "title": "Can GTA 6 make $2 billion in its opening weekend? One industry analyst has run the numbers, and seems to think so",
-      "summary": "We all know the story of GTA 5 making more than $1 billion in the first three days it was on sale , right? At the time, Take-Two believed this to be the fastest any entertainment property had achieved the impressive milestone - music and films included. It made history, and with ease. And it looks like GTA 6 is goin…",
-      "url": "https://www.eurogamer.net/can-gta-6-make-2-billion-in-its-opening-weekend-one-industry-analyst-has-run-the-numbers-and-seems-to-think-so",
-      "date": "2026-11-16T13:20:30.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "GTA 6 streaming restrictions in China apparently don't allow any grand theft auto",
-      "summary": "Or violence, or most forms of debauchery, really",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-streaming-restrictions-in-china-apparently-dont-allow-any-grand-theft-auto/",
-      "date": "2026-11-16T13:01:57.000Z"
-    },
-    {
-      "lead": false,
-      "src": "IGN",
-      "title": "GTA 6 Gets Another Day One Patch, and It's 1GB Bigger on Xbox",
-      "summary": "GTA 6 is finally almost here. With the November 19 launch date just around the corner, Rockstar is preparing the game for its public showing.",
-      "url": "https://www.ign.com/articles/gta-6-gets-another-day-one-patch-bigger-on-xbox",
-      "date": "2026-11-16T12:26:44.000Z"
     }
   ]
 }
