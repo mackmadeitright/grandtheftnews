@@ -1,9 +1,25 @@
 {
-  "updated": "2026-11-21T02:04:05.347Z",
+  "updated": "2026-11-21T10:51:37.899Z",
   "count": 24,
   "items": [
     {
       "lead": true,
+      "src": "Eurogamer",
+      "title": "What we've been playing - \"It's slow, it's awkward, it's weird, and it's hard\"",
+      "summary": "Did anything notable happen this week? Not that I can remember. The weather was quite rainy - will that do? I'm just being silly, of course. We've had - and I suppose are still having - an historic week in video games, as Grand Theft Auto 6 arrives. It's dominated everything and I fear it's going to dominate this ar…",
+      "url": "https://www.eurogamer.net/what-weve-been-playing-its-slow-its-awkward-its-weird-and-its-hard",
+      "date": "2026-11-21T08:00:00.000Z"
+    },
+    {
+      "lead": false,
+      "src": "IGN",
+      "title": "How a $6 Beer in GTA 6 Sent Me Into a Spiral of Crime and Anxiety",
+      "summary": "Read the full story at the source.",
+      "url": "https://www.ign.com/articles/how-a-6-beer-in-gta-6-sent-me-into-a-spiral-of-crime-and-anxiety",
+      "date": "2026-11-21T06:00:00.000Z"
+    },
+    {
+      "lead": false,
       "src": "PC Gamer",
       "title": "GTA 6 has secret playlists, and all you have to do is scan a few posters to unlock them",
       "summary": "Kodak Black and The Vault nightclub each have their own unique playlist.",
@@ -100,14 +116,6 @@
     },
     {
       "lead": false,
-      "src": "Polygon",
-      "title": "Who is Johannes Zuch supposed to be in GTA 6?",
-      "summary": "Grand Theft Auto 6 includes an arthouse game parody called Tenebrae Lux that lampoons The Witness creator Jonathan Blow.",
-      "url": "https://www.polygon.com/gta-6-tenebrae-lux-jonathan-blow/",
-      "date": "2026-11-20T22:00:17.000Z"
-    },
-    {
-      "lead": false,
       "src": "GamesRadar",
       "title": "GTA 6 guides and walkthroughs",
       "summary": "Everything you need for discovering everything there is to see in GTA 6",
@@ -137,14 +145,6 @@
       "summary": "‘Cause you make me feel like I could be drivin’ you all night’",
       "url": "https://kotaku.com/grand-theft-auto-gta-6-run-away-with-me-carly-rae-jepsen-soundtrack-song-2000758993",
       "date": "2026-11-20T21:30:27.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Polygon",
-      "title": "GTA 6 Players Are Officially Spending an ‘Absolutely Bonkers’ Amount of Time with the Game",
-      "summary": "Grand Theft Auto 6 players enjoyed GTA 6 for an average of eight hours on its launch day, an \"absolutely bonkers\" number.",
-      "url": "https://www.polygon.com/gta-6-playtime-stats-launch-day-ps5-xbox-series-x/",
-      "date": "2026-11-20T21:28:55.000Z"
     },
     {
       "lead": false,
