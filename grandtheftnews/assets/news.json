@@ -1,9 +1,25 @@
 {
-  "updated": "2026-11-22T01:07:13.465Z",
+  "updated": "2026-11-22T11:00:05.851Z",
   "count": 24,
   "items": [
     {
       "lead": true,
+      "src": "Eurogamer",
+      "title": "\"It stayed alive for so long\" - Behind the wheel with the Last Riders saying goodbye to GTA Online, amidst GTA 6's world-changing launch",
+      "summary": "In the decade or so since Grand Theft Auto Online 's arrival, its roads have become a kind of home; well-loved by its racers, its gear heads, and speed freaks. It's a game that allows players to lose themselves in the roleplay, the heists, and the crime sprees. But for me, an occasional dipper into its major updates…",
+      "url": "https://www.eurogamer.net/gta-6-grand-theft-auto-online-last-ride",
+      "date": "2026-11-22T10:00:10.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Eurogamer",
+      "title": "I've never known a moment like this in video games",
+      "summary": "It was hard not to spend the first hour or so of Grand Theft Auto 6 's launch day in a kind of stun-lock. As far as video games editorial goes - which is not that far, in fairness; prepare for an over-flattering analogy - the effect was roughly the equivalent of Tom Hanks' experience, as his John H. Miller first set…",
+      "url": "https://www.eurogamer.net/gta-6-video-games-biggest-moment",
+      "date": "2026-11-22T09:00:00.000Z"
+    },
+    {
+      "lead": false,
       "src": "Kotaku",
       "title": "Binding Of Isaac Update Review-Bombed Over AI-Generated Music In GTA 6 Mode: ‘Woke Up To A Sh*t Show, Obviously I Had No Idea’",
       "summary": "A Vice City mode was using music made by AI",
@@ -17,22 +33,6 @@
       "summary": "If you were curious how accurate the utility towers in Grand Theft Auto 6 the answer appears to be: Very",
       "url": "https://kotaku.com/radio-tower-expert-cant-believe-how-realistic-gta-6s-towers-are-oh-my-god-boys-earthed-tower-legs-with-saddles-2000759186",
       "date": "2026-11-21T22:00:32.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Polygon",
-      "title": "GTA 6 Players Are Obsessed With Finding IRL Florida in Vice City",
-      "summary": "GTA 6 fans have spent time tracking down remarkably faithful recreations of Miami locations beyond just the popular landmarks.",
-      "url": "https://www.polygon.com/gta-6-players-irl-vice-city-locations/",
-      "date": "2026-11-21T22:00:17.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Polygon",
-      "title": "Where to find the giant crab safe code and Crabshack VF5 SMG in GTA 6",
-      "summary": "GTA 6's giant crab event takes you through Pelican Valley Outpost and rewards you with the Crabshack VF5 SMG standout weapon.",
-      "url": "https://www.polygon.com/gta-6-giant-crab-safe-code-crabshack-vf5-smg-how-to-get-pelican-valley-outpost/",
-      "date": "2026-11-21T21:48:35.000Z"
     },
     {
       "lead": false,
@@ -52,25 +52,9 @@
     },
     {
       "lead": false,
-      "src": "Polygon",
-      "title": "All Cheat Codes in GTA 6",
-      "summary": "Grand Theft Auto 6 features a huge list of cheats. Here's how to unlock them all, and what each one does.",
-      "url": "https://www.polygon.com/gta-6-cheat-codes-list-unlock/",
-      "date": "2026-11-21T21:02:19.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Polygon",
-      "title": "Declasse Vamos code location in GTA 6",
-      "summary": "The Declasse Vamos is inside a locked garage in GTA 6. Here's where to find the keypad code and what it is.",
-      "url": "https://www.polygon.com/gta-6-declasse-vamos-code-car-location/",
-      "date": "2026-11-21T20:54:45.000Z"
-    },
-    {
-      "lead": false,
       "src": "PC Gamer",
-      "title": "Should you proceed or postpone when you meet Abe in the Protective Custody mission in GTA 6?",
-      "summary": "In the Chapter 5 mission, should you meet with your lawyer now or wait and do it later?",
+      "title": "GTA 6 Protective Custody: Should you choose proceed or postpone when you go to meet Abe?",
+      "summary": "Meet with your lawyer or wait and do it later?",
       "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-protective-custody-choice-proceed-or-postpone-meet-abe/",
       "date": "2026-11-21T20:32:43.000Z"
     },
@@ -81,14 +65,6 @@
       "summary": "The best way to play is just to experience the game, even if most of us are too internet-pilled to do that",
       "url": "https://kotaku.com/rockstar-dev-tells-gta-6-players-to-stop-thinking-in-tasks-completion-percentages-online-guides-2000759151",
       "date": "2026-11-21T19:15:01.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Polygon",
-      "title": "It’s Official, GTA 6’s Graphics Have Broken My Brain",
-      "summary": "Grand Theft Auto's 6 realistic visuals and world are changing how I play in the crime sandbox.",
-      "url": "https://www.polygon.com/gta-6-graphics-realism/",
-      "date": "2026-11-21T19:00:17.000Z"
     },
     {
       "lead": false,
@@ -193,6 +169,30 @@
       "summary": "Here's how you can clone keys in GTA 6 and finally make some real money",
       "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-key-cloner-how-to-get/",
       "date": "2026-11-21T16:25:00.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "How to get a Snap Gun in GTA 6 to quietly lockpick doors",
+      "summary": "The GTA 6 Snap Tool is an essential item which lets you get into locked doors without setting off alarms",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-snap-gun-how-to-get-use/",
+      "date": "2026-11-21T16:20:00.000Z"
+    },
+    {
+      "lead": false,
+      "src": "PC Gamer",
+      "title": "The most unforgivable crime in GTA 6 is that TV placement",
+      "summary": "Jason and Cal do their best to redecorate the bach' pad but c'mon boys, a TV in front of a giant glass door? We can do better.",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/the-most-unforgivable-crime-in-gta-6-is-that-tv-placement/",
+      "date": "2026-11-21T16:16:37.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "GTA 6 Pawn Shop safe code",
+      "summary": "You won't find the GTA 6 pawn shop safe code by looking around, so here's how to get it",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-pawn-shop-safe-code/",
+      "date": "2026-11-21T15:58:32.000Z"
     }
   ]
 }
