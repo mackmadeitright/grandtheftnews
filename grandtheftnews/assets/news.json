@@ -1,9 +1,73 @@
 {
-  "updated": "2026-11-23T01:30:11.394Z",
+  "updated": "2026-11-23T12:09:53.901Z",
   "count": 24,
   "items": [
     {
       "lead": true,
+      "src": "PC Gamer",
+      "title": "GTA 6 Kit Car locations: How to restore the fourth car for Wyman",
+      "summary": "Repair the Reynolds Kit Car by finding some wrecks.",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-kit-car-locations/",
+      "date": "2026-11-23T11:25:34.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "GTA 6 \"girlfriend simulator\" complaints \"are real\" at first, ex-Rockstar lead says",
+      "summary": "Obbe Vermeij says he's \"having loads of fun now\" he's further into the game",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-girlfriend-simulator-complaints-are-real-at-first-ex-rockstar-lead-says-but-chapter-2-is-where-the-grand-theft-auto-magic-kicks-in/",
+      "date": "2026-11-23T11:10:18.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "GTA 6 review bomb somehow sees Zelda: Ocarina of Time catch strays",
+      "summary": "\"GTA 6 best\"",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-review-bomb-somehow-sees-zelda-ocarina-of-time-catch-strays/",
+      "date": "2026-11-23T11:07:23.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Polygon",
+      "title": "GTA 6 Streams Hit With Indiscriminate Copyright Claims by Reggaeton Artist",
+      "summary": "Colombian reggaeton artist Frank El Santo took down GTA 6 livestreams on YouTube through a barrage of 'automated' copyright claims.",
+      "url": "https://www.polygon.com/gta-6-streamers-copyright-claim-frank-el-santo/",
+      "date": "2026-11-23T11:01:11.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "We got GTA 6 before Winds of Winter, and now the game features two shoutouts to Game of Thrones creator George RR Martin",
+      "summary": "Maybe Leonida got Winds of Winter before us",
+      "url": "https://www.gamesradar.com/entertainment/fantasy-shows/we-got-gta-6-before-winds-of-winter-and-now-the-game-features-two-shoutouts-to-game-of-thrones-creator-george-r-r-martin/",
+      "date": "2026-11-23T10:24:12.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Eurogamer",
+      "title": "Why can't you play darts in GTA 6 when you could in previous games? Because Rockstar \"didn't have the resources\" to do it to a standard it'd be happy with",
+      "summary": "If you've been a fan of Grand Theft Auto for a while, you might have noticed a strange absence in GTA 6 . While the game is packed full of different activities, the recurring pastime of darts is missing, having been present in GTA 5 , GTA Online , and GTA 4. Read more",
+      "url": "https://www.eurogamer.net/grand-theft-auto-6-no-darts-didnt-have-resources",
+      "date": "2026-11-23T09:50:30.000Z"
+    },
+    {
+      "lead": false,
+      "src": "IGN",
+      "title": "Naughty Dog Dev: GTA 6 Appears to Him ‘as a Bugatti Veyron Would to a Nervous Victorian Child’",
+      "summary": "Developers are stunned at how dramatically advanced GTA 6 is.",
+      "url": "https://www.ign.com/articles/naughty-dog-dev-gta-6-appears-to-him-as-as-a-bugatti-veyron-would-to-a-nervous-victorian-child",
+      "date": "2026-11-23T07:58:42.000Z"
+    },
+    {
+      "lead": false,
+      "src": "IGN",
+      "title": "Robbing Banks is a Blast, But I Wish There Were More Houses to Repair in GTA 6",
+      "summary": "Forget sticking things up with a shotgun, I want to fix things up with a nailgun.",
+      "url": "https://www.ign.com/articles/robbing-banks-is-a-blast-but-i-wish-there-were-more-houses-to-repair-in-gta-6",
+      "date": "2026-11-23T06:50:14.000Z"
+    },
+    {
+      "lead": false,
       "src": "PC Gamer",
       "title": "Binding of Isaac DLC adds AI music in GTA 6-parodying update despite not having an AI disclosure, Steam reviews drop to Overwhelmingly Negative, music gets pulled",
       "summary": "\"Woke up to a shit show,\" Edmund McMillen wrote.",
@@ -36,14 +100,6 @@
     },
     {
       "lead": false,
-      "src": "Polygon",
-      "title": "Sorry, Vice City, but You’re the Most Boring Part of GTA 6",
-      "summary": "Grand Theft Auto 6's map is so well-designed that Vice City just might be the least exciting thing about Leonida.",
-      "url": "https://www.polygon.com/gta-6-vice-city-boring/",
-      "date": "2026-11-22T21:00:17.000Z"
-    },
-    {
-      "lead": false,
       "src": "IGN",
       "title": "Rockstar Says Darts Were Cut From GTA 6 Because It Didn't Have 'Unlimited Money or Time' to Make It 'Feel Proper'",
       "summary": "Rockstar Games crammed a lot of content into GTA 6, but fan-favorite mini-games like darts and bowling didn't make the cut because the team didn't have \"unlimited money or unlimited time\" to do those activities justice.",
@@ -52,27 +108,11 @@
     },
     {
       "lead": false,
-      "src": "Polygon",
-      "title": "GTA 6's T-shirts Are True Works of Art",
-      "summary": "Fashion can help you evade police in GTA 6, and Rockstar's design team has crafted some seriously covetable threads for the game.",
-      "url": "https://www.polygon.com/gta-6-t-shirts/",
-      "date": "2026-11-22T20:30:17.000Z"
-    },
-    {
-      "lead": false,
       "src": "PC Gamer",
       "title": "GTA 6 needed a dedicated team to make sure all its different body types could share animations: 'It was a huge team effort'",
       "summary": "Making sure your animations don't break while you're cultivating mass.",
       "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-needed-a-dedicated-team-to-make-sure-all-its-different-body-types-could-share-animations-it-was-a-huge-team-effort/",
       "date": "2026-11-22T20:16:21.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Polygon",
-      "title": "'GTA 6' Bombshell: Husband Melts Down After Wife Hid Her Role In Game For Years",
-      "summary": "A long-kept GTA 6 secret low-key almost destroyed comedian Amber Wallin's marriage.",
-      "url": "https://www.polygon.com/gta-6-amber-wallin-comedian-instagram-npc-voice-actor-husband-secret/",
-      "date": "2026-11-22T19:32:30.000Z"
     },
     {
       "lead": false,
@@ -92,27 +132,11 @@
     },
     {
       "lead": false,
-      "src": "Polygon",
-      "title": "The Best GTA 6 Easter Eggs We’ve Seen So Far",
-      "summary": "Grand Theft Auto 6 features tons of celebrity cameos, pop-culture references, and nods to past Rockstar games. Here are a few of our faves.",
-      "url": "https://www.polygon.com/gta-6-easter-eggs/",
-      "date": "2026-11-22T18:42:14.000Z"
-    },
-    {
-      "lead": false,
       "src": "IGN",
       "title": "Rockstar Says Jason's Viral Personality in GTA 6 Comes From Steve McQueen and Real-Life Veterans",
       "summary": "Rockstar Games has opened up about GTA 6 protagonist Jason's viral personality and the two specific inspirations that helped bring him to life.",
       "url": "https://www.ign.com/articles/rockstar-says-jasons-viral-personality-in-gta-6-comes-from-steve-mcqueen-and-real-life-veterans",
       "date": "2026-11-22T18:15:04.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Polygon",
-      "title": "Go on a trip with Dave and Beezlebub for a sick boss fight in GTA 6",
-      "summary": "In this guide, you learn all you need to start the Hell event in GTA 6 and go fight demons in Doom style to earn a unique weapon.",
-      "url": "https://www.polygon.com/gta-6-hell-event-port-hellhorn-circles-of-hell-hellspawn-comshot/",
-      "date": "2026-11-22T18:05:11.000Z"
     },
     {
       "lead": false,
@@ -169,30 +193,6 @@
       "summary": "Grab the code to unlock the garage and steal the car for Moses.",
       "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-declasse-vamos-code/",
       "date": "2026-11-22T17:04:39.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "GTA 6 Riata locations: How to restore the second car in Wyman's Classic Car Collection",
-      "summary": "The second car in Wyman's Classic Car Collection is a lush '70s Riata and it can be yours if you can head to these three locations",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-riata-locations-wyman/",
-      "date": "2026-11-22T17:01:30.000Z"
-    },
-    {
-      "lead": false,
-      "src": "PC Gamer",
-      "title": "Former Rockstar environment artist breaks silence: GTA 6 is 'generally stunning,' but Red Dead 2 might have had better rivers",
-      "summary": "\"I want to celebrate this world that I spent literal years working on.\"",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/former-rockstar-environment-artist-breaks-silence-gta-6-is-generally-stunning-but-red-dead-2-might-have-had-better-rivers/",
-      "date": "2026-11-22T16:55:10.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "GTA 6 Transgressor Locations: How to restore the first car in Wyman's Classic Car Collection",
-      "summary": "Wyman's Classic Car Collection lets you access some classic rides, but you need to find them all first",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-transgressor-locations-wyman/",
-      "date": "2026-11-22T16:52:27.000Z"
     }
   ]
 }
