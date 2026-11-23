@@ -1,9 +1,81 @@
 {
-  "updated": "2026-11-22T19:25:43.667Z",
+  "updated": "2026-11-23T01:30:11.394Z",
   "count": 24,
   "items": [
     {
       "lead": true,
+      "src": "PC Gamer",
+      "title": "Binding of Isaac DLC adds AI music in GTA 6-parodying update despite not having an AI disclosure, Steam reviews drop to Overwhelmingly Negative, music gets pulled",
+      "summary": "\"Woke up to a shit show,\" Edmund McMillen wrote.",
+      "url": "https://www.pcgamer.com/games/roguelike/binding-of-isaac-dlc-adds-ai-music-in-gta-6-parodying-update-despite-not-having-an-ai-disclosure-steam-reviews-drop-to-overwhelmingly-negative-music-gets-pulled/",
+      "date": "2026-11-23T01:11:23.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Polygon",
+      "title": "GTA 6 Is Getting Review Bombed in Zelda vs. GTA Troll War",
+      "summary": "Grand Theft Auto 6 and The Legend of Zelda: Ocarina of Time fans are fighting over Metacritic scores as part of a larger anti-woke culture war.",
+      "url": "https://www.polygon.com/gta-6-review-bombed-legend-of-zelda/",
+      "date": "2026-11-23T00:45:43.000Z"
+    },
+    {
+      "lead": false,
+      "src": "IGN",
+      "title": "GTA 6 Dev Honors Late Mother With In-Game Memorial That Players Can Visit",
+      "summary": "A GTA 6 developer has paid tribute to his late mother with an in-game memorial in Leonida that players can find and visit for themselves.",
+      "url": "https://www.ign.com/articles/gta-6-dev-honors-late-mother-with-in-game-memorial-that-players-can-visit",
+      "date": "2026-11-22T23:23:53.000Z"
+    },
+    {
+      "lead": false,
+      "src": "PC Gamer",
+      "title": "GTA 6 The End of the Road: Should you swim for it, or choose no surrender?",
+      "summary": "A choice (or two!) can lead to drastically different endings.",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-endings-end-of-the-road-swim-for-it-no-surrender/",
+      "date": "2026-11-22T21:58:17.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Polygon",
+      "title": "Sorry, Vice City, but You’re the Most Boring Part of GTA 6",
+      "summary": "Grand Theft Auto 6's map is so well-designed that Vice City just might be the least exciting thing about Leonida.",
+      "url": "https://www.polygon.com/gta-6-vice-city-boring/",
+      "date": "2026-11-22T21:00:17.000Z"
+    },
+    {
+      "lead": false,
+      "src": "IGN",
+      "title": "Rockstar Says Darts Were Cut From GTA 6 Because It Didn't Have 'Unlimited Money or Time' to Make It 'Feel Proper'",
+      "summary": "Rockstar Games crammed a lot of content into GTA 6, but fan-favorite mini-games like darts and bowling didn't make the cut because the team didn't have \"unlimited money or unlimited time\" to do those activities justice.",
+      "url": "https://www.ign.com/articles/rockstar-says-darts-were-cut-from-gta-6-because-it-didnt-have-unlimited-money-or-time-to-make-it-feel-proper",
+      "date": "2026-11-22T20:37:59.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Polygon",
+      "title": "GTA 6's T-shirts Are True Works of Art",
+      "summary": "Fashion can help you evade police in GTA 6, and Rockstar's design team has crafted some seriously covetable threads for the game.",
+      "url": "https://www.polygon.com/gta-6-t-shirts/",
+      "date": "2026-11-22T20:30:17.000Z"
+    },
+    {
+      "lead": false,
+      "src": "PC Gamer",
+      "title": "GTA 6 needed a dedicated team to make sure all its different body types could share animations: 'It was a huge team effort'",
+      "summary": "Making sure your animations don't break while you're cultivating mass.",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-needed-a-dedicated-team-to-make-sure-all-its-different-body-types-could-share-animations-it-was-a-huge-team-effort/",
+      "date": "2026-11-22T20:16:21.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Polygon",
+      "title": "'GTA 6' Bombshell: Husband Melts Down After Wife Hid Her Role In Game For Years",
+      "summary": "A long-kept GTA 6 secret low-key almost destroyed comedian Amber Wallin's marriage.",
+      "url": "https://www.polygon.com/gta-6-amber-wallin-comedian-instagram-npc-voice-actor-husband-secret/",
+      "date": "2026-11-22T19:32:30.000Z"
+    },
+    {
+      "lead": false,
       "src": "Kotaku",
       "title": "Godfather Of Cyberpunk Says He’s Never Played A Video Game, But Finds GTA 6 ‘Intriguing’",
       "summary": "Arcade addicts of the 1980s inspired the cyberspace of William Gibson’s influential Neuromancer, now the author is transfixed on viral footage of Rockstar’s ultra-hit",
@@ -41,14 +113,6 @@
       "summary": "In this guide, you learn all you need to start the Hell event in GTA 6 and go fight demons in Doom style to earn a unique weapon.",
       "url": "https://www.polygon.com/gta-6-hell-event-port-hellhorn-circles-of-hell-hellspawn-comshot/",
       "date": "2026-11-22T18:05:11.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Polygon",
-      "title": "Six Years Too Late, Next-Gen Finally Arrives with GTA 6",
-      "summary": "Grand Theft Auto 6 is the best reason to buy a PS5 or Xbox Series X, but it might be the last time a game makes us feel this way",
-      "url": "https://www.polygon.com/patch-notes-gta-6-next-gen/",
-      "date": "2026-11-22T18:00:18.000Z"
     },
     {
       "lead": false,
@@ -129,70 +193,6 @@
       "summary": "Wyman's Classic Car Collection lets you access some classic rides, but you need to find them all first",
       "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-transgressor-locations-wyman/",
       "date": "2026-11-22T16:52:27.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Polygon",
-      "title": "GTA 6’s Worst Feature Needs to Be Patched ASAP",
-      "summary": "Depositing and withdrawing money from your stash box and ATMs is shockingly fiddly and counterintuitive in GTA 6.",
-      "url": "https://www.polygon.com/gta-6-stash-box-atm-money/",
-      "date": "2026-11-22T16:30:17.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Eurogamer",
-      "title": "GTA 6's strong and silent Jason was inspired by Steve McQueen and former Army Rangers, says Rockstar",
-      "summary": "If you've noticed that Grand Theft Auto 6 's Jason Duval isn't much of a talker, that's by design, as his quiet nature was inspired by Steve McQueen and the studio's research into former Army Rangers. Read more",
-      "url": "https://www.eurogamer.net/gta-6-jason-steve-mcqueen-army-rangers",
-      "date": "2026-11-22T16:11:00.000Z"
-    },
-    {
-      "lead": false,
-      "src": "PC Gamer",
-      "title": "The GTAs that are still worth playing while you wait for GTA 6 on PC",
-      "summary": "I bet GTA 6 doesn't even have a jetpack.",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/the-gtas-that-are-still-worth-playing-while-you-wait-for-gta-6-on-pc/",
-      "date": "2026-11-22T15:00:00.000Z"
-    },
-    {
-      "lead": false,
-      "src": "PC Gamer",
-      "title": "GTA 6 Mamba GT locations: How to restore the third car for Wyman",
-      "summary": "Repair the '64 Mamba GT by finding some cars.",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-mamba-gt-locations/",
-      "date": "2026-11-22T14:53:59.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "How to get Arthur Morgan's Hat in GTA 6",
-      "summary": "Arthur Morgan's genuine cowboy hat is found in a yard sale.",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-arthur-morgans-hat/",
-      "date": "2026-11-22T14:44:15.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "Can you free-roam after beating GTA 6?",
-      "summary": "You can keep playing GTA 6 after the credits, but there's some things you may want to know first",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-play-after-credits-beating-the-game/",
-      "date": "2026-11-22T13:57:14.000Z"
-    },
-    {
-      "lead": false,
-      "src": "PC Gamer",
-      "title": "GTA 6 Riata locations: How to restore the second car for Wyman",
-      "summary": "Fix the '70 Riata by tracking down some wrecked cars.",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-riata-locations/",
-      "date": "2026-11-22T13:48:06.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "GTA 6 at 60fps is actually possible thanks to an Xbox Series X glitch",
-      "summary": "Give and take",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-at-60fps-is-actually-possible-thanks-to-an-xbox-series-x-glitch-but-you-might-need-to-stomach-double-speed-animations-too/",
-      "date": "2026-11-22T13:32:23.000Z"
     }
   ]
 }
