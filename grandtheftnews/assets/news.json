@@ -1,9 +1,137 @@
 {
-  "updated": "2026-11-24T02:05:42.214Z",
+  "updated": "2026-11-24T13:29:53.020Z",
   "count": 24,
   "items": [
     {
       "lead": true,
+      "src": "GameSpot",
+      "title": "GTA 6: How To Go To Hell And Fight Satan",
+      "summary": "Grand Theft Auto 6 gets downright weird when you go off the beaten track, and one secret mission will see you travel to the bowels of hell to fight Beezleboss himself, Satan. This detour is worth it because you'll get cool cosmetics and a powerful shotgun, plus a nice little bump to your health. Here's how you can s…",
+      "url": "https://www.gamespot.com/articles/gta-6-how-to-go-to-hell-and-fight-satan/",
+      "date": "2026-11-24T12:59:41.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Polygon",
+      "title": "GTA 6 Is Bigger Than Taylor Swift, Analysts Say",
+      "summary": "GTA 6's launch smashed the revenue record of Taylor Swift's Eras Tour, while leaving Spider-Man: Brand New Day and The Odyssey in the dust, too",
+      "url": "https://www.polygon.com/gta-6-grand-theft-auto-first-weekend-sales/",
+      "date": "2026-11-24T12:30:50.000Z"
+    },
+    {
+      "lead": false,
+      "src": "IGN",
+      "title": "GTA 6 Mandy Actor Calls Viral Fame 'Bittersweet' Because People Keep Pretending to Be Her on Social Media",
+      "summary": "GTA 6 actor Lexie Shoaibi has spoken out about her \"bittersweet\" newfound fame after her character, Mandy, went viral online.",
+      "url": "https://www.ign.com/articles/gta-6-mandy-actor-calls-viral-fame-bittersweet",
+      "date": "2026-11-24T12:01:15.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "All GTA 6 first update patch notes",
+      "summary": "Here are the patch notes for GTA 6's first update",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-update-patch-notes/",
+      "date": "2026-11-24T11:58:25.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Eurogamer",
+      "title": "GTA 6 players are already starting to get very good at heists, despite all the new challenges Rockstar has added to the game",
+      "summary": "Grand Theft Auto 6 has been out for a little while now, and already players are showing off their skills when it comes to the game's many heists. Despite the challenges in getting away clean, some are proving it's possible. Read more",
+      "url": "https://www.eurogamer.net/gta-6-players-getting-very-good-at-heists-despite-challenges",
+      "date": "2026-11-24T11:47:40.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "How to get the GTA 6 BF Bandito",
+      "summary": "You won't find the BF Bandito in a lock up in GTA 6, as this vehicle heist is a little tricker to pull off",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-bf-bandito/",
+      "date": "2026-11-24T11:45:55.000Z"
+    },
+    {
+      "lead": false,
+      "src": "IGN",
+      "title": "Why is GTA 6 Getting Review Bombed?",
+      "summary": "Why GTA 6 user reviews are so low: Metacritic review-bombing explained.",
+      "url": "https://www.ign.com/articles/why-is-gta-6-getting-review-bombed",
+      "date": "2026-11-24T11:44:34.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "GTA 6 \"hit Call of Duty HARD,\" analyst reports, with a 42% drop in daily players",
+      "summary": "\"Fortnite also took a hit,\" though not quite as hard",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-hit-call-of-duty-hard-analyst-reports-with-a-42-percent-drop-in-daily-players-and-when-rockstar-releases-online-its-going-to-be-rough-times-for-activision/",
+      "date": "2026-11-24T11:34:54.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GameSpot",
+      "title": "GTA 6 Hacker Releases Full Xbox Build, And PC Modders Are Already Trying To Get It Running",
+      "summary": "Infamous GTA 6 Leaker Cyberleek resurfaced last week , threatening to release a crucial file for the Xbox build of GTA 6 that could be used to create an unofficial PC port of the game. The hacker originally promised to publicly drop the .exe file for this version of the game depending on whether their memecoin hit a…",
+      "url": "https://www.gamespot.com/articles/gta-6-hacker-releases-full-xbox-build-and-pc-modders-are-already-trying-to-get-it-running/",
+      "date": "2026-11-24T11:23:42.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "Unofficial GTA 6 PC port scrapped as Rockstar allegedly takes down Discord server",
+      "summary": "But there are others waiting to take its place",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/unofficial-gta-6-pc-port-scrapped-as-rockstar-allegedly-takes-down-discord-server-hours-after-devs-managed-to-get-the-game-booting/",
+      "date": "2026-11-24T11:15:25.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "GTA 6 is \"biggest launch in PlayStation history,\" with Sony reporting over 39 million players on PS5",
+      "summary": "Grand Theft Auto 6 is the \"first game played on 70% of new PS5 consoles\"",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-is-the-biggest-launch-in-playstation-history-with-sony-reporting-more-than-39-million-unique-players-playing-rockstars-new-game-on-ps5/",
+      "date": "2026-11-24T10:56:24.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Eurogamer",
+      "title": "More than 39 million people have played GTA 6 on PlayStation alone, Sony says, as the game breaks all-time player numbers on the platform",
+      "summary": "Sony's revealed staggering statistics relating to the popularity of Grand Theft Auto on PlayStation 5, not least that more than 39 million unique people have played the game there. That's more than the official GTA 6 day-one sales tally of 32.5m copies across all platforms. Read more",
+      "url": "https://www.eurogamer.net/more-than-39-million-people-have-played-gta-6-on-playstation-alone-sony-says-as-the-game-breaks-all-time-player-numbers-on-the-platform",
+      "date": "2026-11-24T10:08:20.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Polygon",
+      "title": "GTA 6 is Officially the Biggest Launch in PlayStation History",
+      "summary": "Sony just shared some mind-boggling stats about GTA 6 launch, making it the most impressive in PlayStation history.",
+      "url": "https://www.polygon.com/gta-6-biggest-launch-in-ps-history/",
+      "date": "2026-11-24T10:04:01.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Eurogamer",
+      "title": "Rockstar Games reveals 23 extra tracks in GTA 6's deluxe edition soundtrack, featuring Denzel Curry, HEALTH, and more",
+      "summary": "For those of you out there in love with Grand Theft Auto 6 's soundtrack, you'll be happy to know that Rockstar Games have revealed an additional 23 tracks as part of the game's deluxe edition album. Read more",
+      "url": "https://www.eurogamer.net/gta-6-deluxe-edition-soundtrack-23-extra-tracks",
+      "date": "2026-11-24T10:03:50.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Eurogamer",
+      "title": "Modders already have GTA 6 running on PC, after CyberLeek released a full Xbox build of the game",
+      "summary": "A PC version of Grand Theft Auto 6 - one from unofficial sources, at least - may be closer than we thought. After suddenly returning last week with a near-full build of the Xbox version , notorious leaker CyberLeek has now posted the missing piece they intentionally held back: the game's executable (.exe) file. Read…",
+      "url": "https://www.eurogamer.net/gta-6-cyberleek-leaked-xbox-build-ported-pc",
+      "date": "2026-11-24T09:09:20.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Polygon",
+      "title": "GTA 6's Best Easter Egg Is a Classic Tom Cruise Crime-Thriller You Can Stream For Free",
+      "summary": "A GTA 6 taxi encounter echoes Michael Mann’s Collateral, starring Tom Cruise and Jamie Foxx. Watch it free on Pluto TV or stream it on Paramount Plus.",
+      "url": "https://www.polygon.com/gta-6-collateral-easter-egg-streaming-for-free/",
+      "date": "2026-11-24T02:30:17.000Z"
+    },
+    {
+      "lead": false,
       "src": "Polygon",
       "title": "25 Years Later, GTA 3 Is Still the Most Fascinating Open-World Experiment",
       "summary": "Rockstar's 2001 GTA 3 changed the open-world game forever with its urban playground of Liberty City.",
@@ -60,139 +188,11 @@
     },
     {
       "lead": false,
-      "src": "Polygon",
-      "title": "The 6 Most Outrageous GTA 6 Myths, Debunked",
-      "summary": "Grand Theft Auto 6 has sparked a flurry of misinformation, as players keep sharing false details about Rockstar's new game.",
-      "url": "https://www.polygon.com/gta-6-myths-debunked/",
-      "date": "2026-11-23T23:01:27.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Polygon",
-      "title": "Where to find the Port Gellhorn serial killer in GTA 6",
-      "summary": "Finding Gelhorn's missing tourists in GTA 6 takes requires some careful sleuthing, but if you need help, here's where to look for the missing tourists",
-      "url": "https://www.polygon.com/gta-6-port-gellhorn-missing-tourists-where-to-find-serial-killer/",
-      "date": "2026-11-23T22:48:22.000Z"
-    },
-    {
-      "lead": false,
       "src": "PC Gamer",
       "title": "GTA 6 players found a '60 fps glitch', but it’s too unstable to stop me from wishing it was on PC already",
       "summary": "Spoiler: It doesn't actually run at 60 fps.",
       "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-players-found-a-60-fps-glitch-but-its-too-unstable-to-stop-me-from-wishing-it-was-on-pc-already/",
       "date": "2026-11-23T22:47:08.000Z"
-    },
-    {
-      "lead": false,
-      "src": "IGN",
-      "title": "GTA 6 Looks So Good That Real Photos and Videos Are Being Mistaken as Screenshots From the Game",
-      "summary": "The graphics in GTA 6 are so realistic that actual photos and videos are being mistaken as screenshots or clips from the game.",
-      "url": "https://www.ign.com/articles/gta-6-looks-so-good-that-real-photos-and-videos-are-being-mistaken-as-screenshots-from-the-game",
-      "date": "2026-11-23T22:43:02.000Z"
-    },
-    {
-      "lead": false,
-      "src": "IGN",
-      "title": "GTA 6 Praised for Its Accurate Portrayal of Felon Rehabilitation",
-      "summary": "GTA 6 is receiving praise for its commentary on how hard it is for felons to start a life and the system that breeds crime.",
-      "url": "https://www.ign.com/articles/gta-6-praised-for-its-accurate-portrayal-of-felon-rehabilitation",
-      "date": "2026-11-23T22:25:46.000Z"
-    },
-    {
-      "lead": false,
-      "src": "IGN",
-      "title": "GTA 6 Players Are Upset Its New Train Can Actually Be Stopped After Spending 13 Years With the Unstoppable GTA 5 Train",
-      "summary": "GTA 5's unstoppable train has been a meme for a decade, so naturally, players wasted no time trying to stop GTA 6's train – but they were sad to find out that it wasn't all that hard to do.",
-      "url": "https://www.ign.com/articles/gta-6-players-are-upset-its-new-train-can-actually-be-stopped-after-spending-13-years-with-the-unstoppable-gta-5-train",
-      "date": "2026-11-23T22:10:23.000Z"
-    },
-    {
-      "lead": false,
-      "src": "IGN",
-      "title": "GTA 6's Waink App Can Unlock New Hairstyles and Makeup",
-      "summary": "You can use GTA 6's Waink app to scan specific magazines to unlock new hairstyles for Jason, as well as hair and makeup looks for Lucia.",
-      "url": "https://www.ign.com/articles/gta-6-waink-app-unlock-hairstyles-makeup",
-      "date": "2026-11-23T22:06:48.000Z"
-    },
-    {
-      "lead": false,
-      "src": "PC Gamer",
-      "title": "Every GTA 6 ending and how to get them",
-      "summary": "All the endings (and a couple variations) for GTA 6 we've seen so far.",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-endings/",
-      "date": "2026-11-23T21:33:58.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Polygon",
-      "title": "Goodbye, Mandy: GTA 6 Players Are Already Obsessed With Someone Else",
-      "summary": "Grand Theft Auto 6 fans were obsessed with Mandy in Chapter 1, and have now moved on to obsessing over Vicki in Chapter 2.",
-      "url": "https://www.polygon.com/gta-6-vicki-chapter-2-girls-trip/",
-      "date": "2026-11-23T21:29:19.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GameSpot",
-      "title": "This GTA 6 Glitch (Almost) Ruined The Game’s Most Iconic Scene",
-      "summary": "Note: This story will discuss a pivotal mission in Chapter 2 of Grand Theft Auto 6. A powerful sequence in Grand Theft Auto 6 is quickly becoming a favorite among the game's many players, but a technical mishap made my experience of this scene very different--hilariously different. Chapter 2 of GTA 6 begins with Jas…",
-      "url": "https://www.gamespot.com/articles/this-gta-6-glitch-almost-ruined-the-games-most-iconic-scene/",
-      "date": "2026-11-23T21:23:41.000Z"
-    },
-    {
-      "lead": false,
-      "src": "PC Gamer",
-      "title": "The Grand Theft Auto 6 hacker who was hospitalized in 2023 has been released on parole with a warning not to do it again",
-      "summary": "Following his guilty plea, Arion Kurtaj was given a seven-year sentence but released \"on license\" with a warning and restrictions to his online activity..",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/the-grand-theft-auto-6-hacker-who-was-hospitalized-in-2023-has-been-released-on-parole-with-a-warning-not-to-do-it-again/",
-      "date": "2026-11-23T21:16:03.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Polygon",
-      "title": "Every Playable Video Game in GTA 6, Ranked Worst to Best",
-      "summary": "Grand Theft Auto 6 features four playable video games within the game. Here's how they stack up.",
-      "url": "https://www.polygon.com/gta-6-playable-video-games-ranked/",
-      "date": "2026-11-23T21:04:57.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Polygon",
-      "title": "'Dealer's Choice' mission choices and outcomes in GTA 6",
-      "summary": "'Dealer's Choice' is a mission in GTA 6 that makes you choose between pure or cut substances. Here are the 'Dealer's Choice' outcomes explained.",
-      "url": "https://www.polygon.com/gta-6-dealers-choice-pure-cut-explained/",
-      "date": "2026-11-23T20:57:33.000Z"
-    },
-    {
-      "lead": false,
-      "src": "PC Gamer",
-      "title": "Cyberpunk 2 creative director says he's suffering from 'GTA 6-induced-open-world-game-dev-depression,' jokes that 'Cyberpunk 2 is cancelled'",
-      "summary": "Tough act to follow.",
-      "url": "https://www.pcgamer.com/games/cyberpunk-2-creative-director-says-hes-suffering-from-gta-6-induced-open-world-game-dev-depression-jokes-that-cyberpunk-2-is-cancelled/",
-      "date": "2026-11-23T20:55:56.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GameSpot",
-      "title": "GTA 6 Online Could Be Bigger Than Fortnite, Bank Of America Stock Analyst Says",
-      "summary": "Rockstar Games and parent company Take-Two are riding high currently from the success of Grand Theft Auto 6 with a reported 45 million copies sold and $4 billion in revenue already , but this could just the beginning of how much money GTA 6 could bring in. According to Bank of America stock analyst Omar Dessouky, th…",
-      "url": "https://www.gamespot.com/articles/gta-6-online-could-be-bigger-than-fortnite-bank-of-america-stock-analyst-says/",
-      "date": "2026-11-23T20:28:38.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Polygon",
-      "title": "Where to find the Silent Hill hotel in GTA 6",
-      "summary": "Here's where to find the Silent Hill hotel in GTA 6, and how to open the safe inside the haunted Marbelle Hotel",
-      "url": "https://www.polygon.com/gta-6-silent-hill-hotel-easter-egg-location-marbelle-hotel-safe/",
-      "date": "2026-11-23T20:26:31.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "The Last of Us 2 dev says \"GTA 6 is the great pyramids of game development\"",
-      "summary": "\"The sheer size of the script must be mind boggling\"",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/the-last-of-us-2-dev-says-gta-6-is-the-great-pyramids-of-game-development-in-that-people-will-be-asking-for-centuries-how-it-was-possible/",
-      "date": "2026-11-23T19:58:13.000Z"
     }
   ]
 }
