@@ -1,9 +1,57 @@
 {
-  "updated": "2026-11-24T23:49:39.490Z",
+  "updated": "2026-11-25T08:09:53.896Z",
   "count": 24,
   "items": [
     {
       "lead": true,
+      "src": "IGN",
+      "title": "Yes, There Was One Thing Cut from GTA 6 for Australia, NZ",
+      "summary": "Rockstar chopped out a temporary stat buff from GTA 6, although players down under may not ever really notice it.",
+      "url": "https://www.ign.com/articles/yes-there-was-one-thing-cut-from-gta-6-for-australia-nz",
+      "date": "2026-11-25T06:55:24.000Z"
+    },
+    {
+      "lead": false,
+      "src": "PC Gamer",
+      "title": "Analyst estimates Call of Duty lost 44% of its players when GTA 6 came out, and unlike fans of its live-service competitors they've been slow to come back",
+      "summary": "Turns out Fortnite players are more loyal.",
+      "url": "https://www.pcgamer.com/gaming-industry/analyst-says-call-of-duty-lost-an-estimated-44-percent-of-its-players-when-gta-6-came-out-and-unlike-fans-of-its-live-service-competitors-theyve-been-slow-to-come-back/",
+      "date": "2026-11-25T03:34:01.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "GTA 6's coolest Easter egg so far is so intricate that only real Vice City sickos would ever find it",
+      "summary": "And people who read this article",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6s-coolest-easter-egg-so-far-is-so-intricate-that-only-real-vice-city-sickos-would-ever-find-it/",
+      "date": "2026-11-25T01:12:38.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Kotaku",
+      "title": "The Actor Behind GTA 6′s Viral NPC Mandy Reacts To All Of The Attention: ‘It’s Sort Of Bittersweet’",
+      "summary": "Lexie Shoaibi recently guested on Hasan Piker's Twitch channel",
+      "url": "https://kotaku.com/the-actor-behind-gta-6s-viral-npc-mandy-reacts-to-all-of-the-attention-its-sort-of-bittersweet-2001000149",
+      "date": "2026-11-25T00:30:53.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Polygon",
+      "title": "GTA 6's Most Heartbreaking Scene Is Exactly Why You Had To Do All Those Chores",
+      "summary": "Grand Theft Auto 6 features an exhilarating and heartbreaking sequence to end its first chapter as Lucia and Jason start a life on the run.",
+      "url": "https://www.polygon.com/gta-6-chapter-1-tragic-ending-home-sweet-home/",
+      "date": "2026-11-25T00:00:17.000Z"
+    },
+    {
+      "lead": false,
+      "src": "IGN",
+      "title": "Max Verstappen Spent 40 Hours Playing GTA 6 and Still Won the Las Vegas Grand Prix",
+      "summary": "Famous Dutch-Belgian race driver Max Verstappen revealed that he’d spent the weekend of the Las Vegas Grand Prix locked in to GTA 6, saying he played over 40 hours of the game.",
+      "url": "https://www.ign.com/articles/max-verstappen-spent-40-hours-playing-gta-6-and-still-won-the-las-vegas-grand-prix",
+      "date": "2026-11-24T23:49:50.000Z"
+    },
+    {
+      "lead": false,
       "src": "Kotaku",
       "title": "Fursuit Bans, Furry Hunters, And A Chaotic Rescue: What’s Actually Going On With Furries In GTA 6",
       "summary": "‘All this for the crime of being cute and huggable’",
@@ -145,54 +193,6 @@
       "summary": "The Witcher 4 will be a generational leap forward, a la Grand Theft Auto 6, CD Projekt Red boss says.",
       "url": "https://www.polygon.com/the-witcher-4-vs-gta-6-cyberpunk-2-cd-projekt-red/",
       "date": "2026-11-24T20:10:45.000Z"
-    },
-    {
-      "lead": false,
-      "src": "IGN",
-      "title": "Over Half of GTA 6 Watch Time Came From Viewers Under 25 Years Old",
-      "summary": "The bulk of fans watching streams of GTA 6 are under 25 years old, according to recent stats compiled by StreamsCharts.",
-      "url": "https://www.ign.com/articles/over-half-of-gta-6-watch-time-came-from-viewers-under-25-years-old",
-      "date": "2026-11-24T19:51:54.000Z"
-    },
-    {
-      "lead": false,
-      "src": "PC Gamer",
-      "title": "How to steal the Ocelot Bloodless Jugular in GTA 6",
-      "summary": "Where to find the car wanted by Randy.",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-ocelot-bloodless-jugular-location/",
-      "date": "2026-11-24T19:50:49.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Polygon",
-      "title": "The One Thing to Know About Jason and Lucia Before You Play Too Much GTA 6",
-      "summary": "Grand Theft Auto 6 hides some key character details behind moments you'll only see when Jason and Lucia are together.",
-      "url": "https://www.polygon.com/gta-6-jason-lucia-dialogue/",
-      "date": "2026-11-24T19:40:05.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Kotaku",
-      "title": "The GTA 6 NPCs Who Crash Out When You Steal From Them Are Some Of The Funniest In The Game",
-      "summary": "Not every potential grand theft auto victim will go quietly into the night",
-      "url": "https://kotaku.com/grand-theft-auto-6-gta6-npc-fight-back-car-hijack-2001000086",
-      "date": "2026-11-24T19:30:39.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "The leap from The Witcher 3 to The Witcher 4 will be \"comparable\" to GTA 5 and GTA 6, says CDPR",
-      "summary": "That's quite a leap",
-      "url": "https://www.gamesradar.com/games/the-witcher/the-leap-from-the-witcher-3-to-the-witcher-4-will-be-comparable-to-gta-5-and-gta-6-says-cdpr/",
-      "date": "2026-11-24T19:27:06.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Polygon",
-      "title": "GTA 6 Data Reveals Only 40% of Players Have Cleared Chapter 2",
-      "summary": "Grand Theft Auto 6 achievement data shows that only 40% of players have reached Chapter 3.",
-      "url": "https://www.polygon.com/gta-6-player-data-taking-it-slow-progress/",
-      "date": "2026-11-24T19:08:18.000Z"
     }
   ]
 }
