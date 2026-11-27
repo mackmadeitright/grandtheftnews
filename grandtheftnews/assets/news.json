@@ -1,9 +1,33 @@
 {
-  "updated": "2026-11-27T01:38:34.462Z",
+  "updated": "2026-11-27T11:58:40.406Z",
   "count": 24,
   "items": [
     {
       "lead": true,
+      "src": "Eurogamer",
+      "title": "Rockstar boss \"so grateful\" to have kept GTA 6's big prologue twist a secret - and reveals Tomás' story could have been very different",
+      "summary": "If you've played the first 20 minutes or so of Grand Theft Auto 6 , you'll know there's a hugely significant plot revelation there - one Rockstar somehow managed to keep entirely secret until the game's launch. Read more",
+      "url": "https://www.eurogamer.net/gta-6-rockstar-debated-changing-jason-lucias-big-secret",
+      "date": "2026-11-27T11:31:00.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "All the GTA 6 stat boost missions we've found",
+      "summary": "All the GTA 6 stat boost missions we've found",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-increase-stats-missions/",
+      "date": "2026-11-27T10:55:53.000Z"
+    },
+    {
+      "lead": false,
+      "src": "IGN",
+      "title": "Rockstar North Boss Knew Some GTA 6 Players Would 'Reject' New Systems Like Criminal Profiles, but Insists 'You Can Still Do Whatever You Wanted to Do Before'",
+      "summary": "Rockstar North co-studio head Rob Nelson knew some GTA 6 players would \"reject\" new systems like criminal profiles, but insisted \"you can still do whatever you wanted to do before.\"",
+      "url": "https://www.ign.com/articles/rockstar-north-boss-knew-some-gta-6-players-would-reject-new-systems-like-criminal-profiles-but-insists-you-can-still-do-whatever-you-wanted-to-do-before",
+      "date": "2026-11-27T10:22:56.000Z"
+    },
+    {
+      "lead": false,
       "src": "PC Gamer",
       "title": "Microsoft's Github posts message celebrating efforts to port PlayStation 5 version of Grand Theft Auto 6 to PC, then quickly deletes it",
       "summary": "Guess who just got yelled at?",
@@ -52,14 +76,6 @@
     },
     {
       "lead": false,
-      "src": "Polygon",
-      "title": "Sorry Jason And Lucia, These 5 GTA 6 Side Characters Steal Every Scene They're In",
-      "summary": "Jason and Lucia aren’t GTA 6's only great characters, as these 5 have really endeared themselves to Polygon’s writers",
-      "url": "https://www.polygon.com/gta-6-best-side-characters/",
-      "date": "2026-11-26T18:00:18.000Z"
-    },
-    {
-      "lead": false,
       "src": "GamesRadar",
       "title": "Rockstar boss knew some GTA 6 players would \"reject\" the criminal profile system",
       "summary": "Grand Theft Auto 6 \"opens a new range of choices and decisions\"",
@@ -81,14 +97,6 @@
       "summary": "Grand Theft Auto 6 has had a huge effect on physical game sales in the UK, despite not actually containing a disc in the box. Read more",
       "url": "https://www.eurogamer.net/gta-6-boxed-physical-sales-uk",
       "date": "2026-11-26T17:30:30.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Polygon",
-      "title": "GTA 6 Developers Have Voted Against Unionization by 75% to 25%",
-      "summary": "Rockstar Games workers have rejected a union deal with the IWGB as Grand Theft Auto 6 breaks records",
-      "url": "https://www.polygon.com/rockstar-game-workers-union-vote-gta-6/",
-      "date": "2026-11-26T17:16:26.000Z"
     },
     {
       "lead": false,
@@ -185,14 +193,6 @@
       "summary": "The GTA 6 studio will not formally recognize union members",
       "url": "https://kotaku.com/rockstar-games-union-vote-fails-as-75-percent-of-devs-vote-no-2001000621",
       "date": "2026-11-26T15:15:14.000Z"
-    },
-    {
-      "lead": false,
-      "src": "GamesRadar",
-      "title": "I spent 20 hours playing GTA 6 like Stardew Valley and turned Jason into an animal rights activist",
-      "summary": "My daily GTA 6 routines turned Jason into a birdwatcher and then a barely effective ecoterrorist",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/i-spent-20-hours-playing-gta-6-like-stardew-valley-and-accidentally-turned-jason-into-leonidas-worst-animal-rights-activist/",
-      "date": "2026-11-26T15:00:00.000Z"
     }
   ]
 }
