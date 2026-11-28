@@ -1,17 +1,9 @@
 {
-  "updated": "2026-11-27T21:04:48.581Z",
+  "updated": "2026-11-28T07:28:58.372Z",
   "count": 24,
   "items": [
     {
       "lead": true,
-      "src": "Polygon",
-      "title": "Brainwashing Easter egg walkthrough in GTA 6",
-      "summary": "Here's how to start the brainwashing Easter egg mission in GTA 6 and learn the secrets behind President Russo.",
-      "url": "https://www.polygon.com/gta-6-brainwashing-president-easter-egg-walkthrough/",
-      "date": "2026-11-27T20:02:54.000Z"
-    },
-    {
-      "lead": false,
       "src": "PC Gamer",
       "title": "After falling in love with PS5 haptic feedback in GTA 6, I'm eyeing these Black Friday deals on DualSense controllers",
       "summary": "Adaptive triggers are my new best friends.",
@@ -25,30 +17,6 @@
       "summary": "Worth it for Grand Theft Auto 6.",
       "url": "https://www.ign.com/articles/sony-playstation-dualsense-edge-controller-deal-black-friday-sale-2026",
       "date": "2026-11-27T19:30:00.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Polygon",
-      "title": "GTA 6 Officially Passes a Massive Sales Milestone Just 1 Week In",
-      "summary": "Grand Theft Auto 6's week-one sales estimated at 53 million copies, with PS5 taking the lion’s share thanks to marketing deal with Rockstar",
-      "url": "https://www.polygon.com/gta-6-how-much-sold-week-one-rockstar-games/",
-      "date": "2026-11-27T18:56:45.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Polygon",
-      "title": "GTA 6 Players Are Not, In Fact, Eating Good",
-      "summary": "GTA 6's Jason and Lucia don't get much chance to savor Leonida's finest foods, and that's a shame",
-      "url": "https://www.polygon.com/gta-6-food-restaurants/",
-      "date": "2026-11-27T18:35:30.000Z"
-    },
-    {
-      "lead": false,
-      "src": "Polygon",
-      "title": "'GTA 6' Fans Are Pulling Off Perfect Robberies With Only A Six Pack of Beer",
-      "summary": "These GTA 6 fans only need liquid courage to pull off professional heists with no casualties in Rockstar's open-world game",
-      "url": "https://www.polygon.com/gta-6-bank-robbery-beer-weapon-how-to-facebook-youtube-videos/",
-      "date": "2026-11-27T18:27:39.000Z"
     },
     {
       "lead": false,
@@ -193,6 +161,38 @@
       "summary": "A former Gran Turismo World Series competitor helped Rockstar tune GTA 6's car physics.",
       "url": "https://www.ign.com/articles/former-gran-turismo-world-series-competitor-helped-tune-gta-6-car-physics",
       "date": "2026-11-27T12:34:14.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "Should you participate or not as the pool boy in GTA 6?",
+      "summary": "Should you participate as the pool boy in GTA 6?",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/all-pool-boy-choices-in-the-gta-6-safe-word-mission/",
+      "date": "2026-11-27T12:27:14.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "GTA 6 multiplayer reportedly running on PC as unofficial ports near completion",
+      "summary": "There are apparently mods now, too",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-multiplayer-reportedly-running-on-pc-as-unofficial-ports-near-completion-but-its-certainly-no-grand-theft-auto-online/",
+      "date": "2026-11-27T11:53:08.000Z"
+    },
+    {
+      "lead": false,
+      "src": "Eurogamer",
+      "title": "Rockstar boss \"so grateful\" to have kept GTA 6's big prologue twist a secret - and reveals Tomás' story could have been very different",
+      "summary": "If you've played the first 20 minutes or so of Grand Theft Auto 6 , you'll know there's a hugely significant plot revelation there - one Rockstar somehow managed to keep entirely secret until the game's launch. Read more",
+      "url": "https://www.eurogamer.net/gta-6-rockstar-debated-changing-jason-lucias-big-secret",
+      "date": "2026-11-27T11:31:00.000Z"
+    },
+    {
+      "lead": false,
+      "src": "GamesRadar",
+      "title": "All the GTA 6 stat boost missions we've found",
+      "summary": "All the GTA 6 stat boost missions we've found",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-increase-stats-missions/",
+      "date": "2026-11-27T10:55:53.000Z"
     }
   ]
 }
